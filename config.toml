@@ -1,3 +1,9 @@
+DefaultContentLanguage = "en"
 baseURL = "https://privacybadger.eff.org/"
-languageCode = "en-us"
 title = "Privacy Badger"
+
+[languages]
+  [languages.en]
+    weight = 1
+  [languages.fr]
+    weight = 2

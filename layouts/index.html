@@ -4,6 +4,9 @@
   <body>
     {{ partial "header" . }}
     <div class="main-content home-page">
+      {{ partial "secondary_nav" . }}
+      <div class="summary">{{ i18n "privacyBadgerLearns" }}</div>
+      <div class="download-button">{{ i18n "installPrivacyBadger" | safeHTML }}</div>
     </div>
     {{ partial "footer" . }}
   </body>

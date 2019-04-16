@@ -1,0 +1,11 @@
+[donate]
+other = "Faire Un Don"
+
+[installPrivacyBadger]
+other = "Installer Privacy Badger <span>et activer Do Not Track</span>"
+
+[privacyBadgerLearns]
+other = "Privacy Badger apprend automatiquement à bloquer les traqueurs invisibles."
+
+[installForBrowser]
+other = "Installer pour {{.Browser}}"
