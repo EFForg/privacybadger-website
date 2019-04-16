@@ -23,7 +23,6 @@
     "onchange": "^3.2.1",
     "parallelshell": "^3.0.1",
     "postcss-cli": "^6.1.2",
-    "sass-lint": "^1.12.1",
-    "susy": "^2.2.12"
+    "sass-lint": "^1.12.1"
   }
 }
