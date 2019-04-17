@@ -1,0 +1,26 @@
+header {
+  width: 100%;
+  background-color: $tangerine;
+  position: relative;
+  height: 13rem;
+
+  h1 {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 2.2rem;
+    line-height: 1.1;
+    text-align: center;
+
+    position: absolute;
+    bottom: 10%;
+    margin-bottom: 0;
+    padding: 0 1.5rem;
+    width: 100%;
+
+    @media screen and (min-width: $narrow) {
+      font-size: 4rem;
+      line-height: 4rem;
+      padding: 0 2.5rem;
+    }
+  }
+}

@@ -1,0 +1,47 @@
+#badger-description {
+  font-size: 1.3rem;
+  max-width: 700px;
+  color: $charcoal;
+  font-family: 'Open Sans Light';
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#badger-download {
+  margin: 20px auto 10px;
+  display: block;
+  text-align: center;
+  max-width: 400px;
+  border: 2px solid $orange;
+  background-color: $orange;
+  border-radius: 5px;
+  font-family: 'Open Sans Condensed Bold';
+  letter-spacing: 0.1em;
+  padding: 1.1em 0.8em;
+  text-transform: uppercase;
+  clear: both;
+
+  a {
+    text-decoration: none;
+    font-size: 1.9rem;
+    color: #FFF;
+
+    span {
+      color: #000;
+      font-size: 0.75em;
+      font-family: 'Open Sans Condensed';
+    }
+  }
+
+  &:hover {
+    background-color: #FFF;
+    cursor: pointer;
+
+    a {
+      color: $orange;
+      color: #FFF;
+      background-color: transparent;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+footer {
+  padding: 1rem 0 1rem .5rem;
+  background: $slate;
+  color: $dark-blue;
+  font-family: $sans-serif;
+
+  @media screen and (min-width: $narrow) {
+    padding: 1.8rem 8rem 1rem;
+  }
+
+  a {
+    color: $medium-blue;
+    position: relative;
+    text-decoration: none;
+  }
+
+  ul {
+    margin: 0;
+    columns: 4 auto;
+
+    li {
+      list-style-type: none;
+      list-style-image: none;
+
+      a {
+        color: $dark-blue;
+        font-size: 1rem;
+        font-weight: 400;
+        margin-bottom: .9rem;
+        text-align: left;
+        text-transform: uppercase;
+      }
+    }
+  }
+}
+
