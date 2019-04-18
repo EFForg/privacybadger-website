@@ -17,19 +17,13 @@ footer {
   ul {
     margin: 0;
     columns: 4 auto;
-
-    li {
-      list-style-type: none;
-      list-style-image: none;
-
-      a {
-        color: $dark-blue;
-        font-size: 1rem;
-        font-weight: 400;
-        margin-bottom: .9rem;
-        text-align: left;
-        text-transform: uppercase;
-      }
+    a {
+      color: $dark-blue;
+      font-size: 1rem;
+      font-weight: 400;
+      margin-bottom: .9rem;
+      text-align: left;
+      text-transform: uppercase;
     }
   }
 }

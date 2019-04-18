@@ -38,6 +38,11 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+li {
+  list-style-type: none;
+  list-style-image: none;
+}
+
 %clearfix {
   &:after {
     content: "";

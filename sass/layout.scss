@@ -17,10 +17,14 @@ footer {
 }
 
 /* Content container */
+nav,
 .main-content {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 2.8%;
+}
+
+.main-content {
   padding-bottom: 120px;
 }

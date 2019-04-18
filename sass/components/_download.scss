@@ -21,6 +21,7 @@
   padding: 1.1em 0.8em;
   text-transform: uppercase;
   clear: both;
+  transition: background-color 0.3s ease;
 
   a {
     text-decoration: none;
@@ -35,7 +36,7 @@
   }
 
   &:hover {
-    background-color: lighten($orange, 10%);
+    background-color: $tangerine;
     cursor: pointer;
 
     a {
