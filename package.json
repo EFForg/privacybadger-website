@@ -4,13 +4,11 @@
   "description": "Privacy Badger documentation site",
   "scripts": {
     "clean": "rm -f static/*.js static/*.css",
-    "sass:build": "node-sass sass/application.scss --stdout | postcss --use autoprefixer -o static/application.css",
-    "sass:watch": "onchange 'sass/*/*.scss*' -- npm run sass:build",
     "js:install": "mkdir -p static/vendor && cp node_modules/jquery/dist/jquery.min.js static/vendor/",
-    "build:assets": "npm run clean && npm run sass:build && npm run js:install",
+    "build:assets": "npm run clean && npm run js:install",
     "build": "npm run build:assets && hugo --config config.toml",
     "build:prod": "npm run build:assets && hugo --config config.prod.toml",
-    "start": "npm run build:assets && parallelshell 'npm run sass:watch' 'hugo serve --renderToDisk'",
+    "start": "npm run build:assets && hugo serve --renderToDisk",
     "lint": "./node_modules/.bin/sass-lint -vq && ./node_modules/.bin/eslint static/js"
   },
   "author": "Electronic Frontier Foundation",
@@ -19,9 +17,6 @@
     "autoprefixer": "^9.4.9",
     "eslint": "^5.12.0",
     "jquery": "^3.3.1",
-    "node-sass": "^4.5.3",
-    "onchange": "^3.2.1",
-    "parallelshell": "^3.0.1",
     "postcss-cli": "^6.1.2",
     "sass-lint": "^1.12.1"
   }
