@@ -1,11 +1,19 @@
 footer {
-  padding: 1rem 0 1rem .5rem;
   background: $slate;
   color: $dark-blue;
   font-family: $sans-serif;
+  padding-top: 4rem;
+  padding-bottom: 1.5rem;
 
-  @media screen and (min-width: $narrow) {
-    padding: 1.8rem 8rem 1rem;
+  .logo {
+    display: block;
+    background: url("/images/eff-logo-blue.svg") no-repeat;
+    background-size: contain;
+    height: 60px;
+    margin-bottom: 2rem;
+    span {
+      @extend .visually-hidden;
+    }
   }
 
   a {
@@ -15,8 +23,10 @@ footer {
   }
 
   ul {
-    margin: 0;
-    columns: 4 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+
     a {
       color: $dark-blue;
       font-size: 1rem;
@@ -24,6 +34,20 @@ footer {
       margin-bottom: .9rem;
       text-align: left;
       text-transform: uppercase;
+    }
+  }
+
+  @media screen and (max-width: $narrow) {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+
+    .logo {
+      height: 40px;
+      margin-bottom: 1rem;
+    }
+
+    ul a {
+      font-size: 0.8rem;
     }
   }
 }

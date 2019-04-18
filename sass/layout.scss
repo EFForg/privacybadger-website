@@ -17,8 +17,9 @@ footer {
 }
 
 /* Content container */
-nav,
-.main-content {
+#primary-nav,
+.main-content,
+.footer-inner, {
   max-width: 760px;
   margin-left: auto;
   margin-right: auto;
