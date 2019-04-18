@@ -3,13 +3,8 @@
   "version": "0.0.0",
   "description": "Privacy Badger documentation site",
   "scripts": {
-    "clean": "rm -f static/*.js static/*.css",
-    "js:install": "mkdir -p static/vendor && cp node_modules/jquery/dist/jquery.min.js static/vendor/",
-    "build:assets": "npm run clean && npm run js:install",
-    "build": "npm run build:assets && hugo --config config.toml",
-    "build:prod": "npm run build:assets && hugo --config config.prod.toml",
-    "start": "npm run build:assets && hugo serve --renderToDisk",
-    "lint": "./node_modules/.bin/sass-lint -vq && ./node_modules/.bin/eslint static/js"
+    "start": "hugo serve --renderToDisk",
+    "lint": "./node_modules/.bin/sass-lint -vq && ./node_modules/.bin/eslint assets/js"
   },
   "author": "Electronic Frontier Foundation",
   "repository": "https://github.com/EFForg/privacybadger-website",
