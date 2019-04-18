@@ -6,9 +6,7 @@
       {{ partial "header" . }}
       <div class="main-content home-page">
         <div id="badger-description">{{ i18n "privacyBadgerLearns" }}</div>
-        <div id="badger-download">
-          <a href="/">{{ i18n "installPrivacyBadger" | safeHTML }}</a>
-        </div>
+        {{ partial "download" . }}
         {{ partial "faq" . }}
       </div>
     </div>

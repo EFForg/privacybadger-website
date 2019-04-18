@@ -5,8 +5,13 @@
     {{ .Site.Title }}
   </title>
 
-  {{ $style := resources.Get "sass/application.scss" | toCSS | postCSS (dict "config" "postcss.config.js") }}
-  <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" />
+  {{ $styles := resources.Get "sass/application.scss" | toCSS | postCSS (dict "config" "postcss.config.js") }}
+  <link rel="stylesheet" type="text/css" href="{{ $styles.Permalink }}" />
+
+  {{ $jQuery := resources.Get "js/vendor/jquery.min.js" }}
+  {{ $download := resources.Get "js/download.js" }}
+  {{ $js := slice $jQuery $download | resources.Concat "application.js" }}
+  <script src="{{ $js.Permalink }}"></script>
 
   <!-- TODO: Open graph !-->
 </head>
