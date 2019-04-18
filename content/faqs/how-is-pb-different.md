@@ -1,0 +1,6 @@
+---
+question: How is Privacy Badger different from Disconnect, Adblock Plus, Ghostery, and other blocking extensions?
+weight: 10
+---
+
+Privacy Badger was born out of our desire to be able to recommend a single extension that would automatically analyze and block any tracker or ad that violated the principle of user consent; which could function well without any settings, knowledge, or configuration by the user; which is produced by an organization that is unambiguously working for its users rather than for advertisers; and which uses algorithmic methods to decide what is and isn't tracking. Although we like Disconnect, Adblock Plus, Ghostery and similar products, none of them are exactly what we were looking for. In our testing, all of them required some custom configuration to block non-consensual trackers. Several of these extensions have business models that we weren't entirely comfortable with. And EFF hopes that by developing rigorous algorithmic and policy methods for detecting and preventing non-consensual tracking, we'll produce a codebase that could in fact be adopted by those other extensions, or by mainstream browsers, to give users maximal control over who does and doesn't get to know what they do online.

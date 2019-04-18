@@ -14,6 +14,10 @@ a {
   }
 }
 
+.main-content a:hover {
+  background-color: $lightest-blue;
+}
+
 sup {
   vertical-align: super;
   font-size: smaller;
@@ -36,6 +40,11 @@ h6 {
 
   a {
     text-decoration: none;
+
+    &:hover {
+      background-color: transparent !important;
+    }
+
   }
 }
 
@@ -57,7 +66,7 @@ h2 {
 h3 {
   font-size: 1.4rem;
   line-height: 1.8rem;
-  margin-bottom: .7rem;
+  margin-bottom: 1.1rem;
 }
 
 h4 {

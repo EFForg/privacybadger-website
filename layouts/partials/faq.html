@@ -1,0 +1,21 @@
+<div id="faq">
+  <h2>Frequently Asked Questions</h2>
+  <div class="anchors">
+    <ul>
+      {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
+        <li>
+          <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </div>
+
+  <div id="faq">
+    {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
+      <h3 id="{{ .File.TranslationBaseName }}" >
+        <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+      </h3>
+      {{ .Content | markdownify }}
+    {{ end }}
+  </div>
+</div>

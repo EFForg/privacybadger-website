@@ -1,13 +1,26 @@
+/* Sticky footer */
 body {
   height: 100%;
 }
+
 body {
   display: flex;
   flex-direction: column;
 }
+
 .content {
   flex: 1 0 auto;
 }
+
 footer {
   flex-shrink: 0;
+}
+
+/* Content container */
+.main-content {
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2.8%;
+  padding-bottom: 120px;
 }
