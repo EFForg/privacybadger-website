@@ -21,7 +21,7 @@ $(document).ready(function() {
   }
 
   // Update DOM.
-  var $badgerDownload = $('#badger-download');
+  var $badgerDownload = $('#badger-download').show();
   if (browser == 'iphone' || browser == 'other') {
     $badgerDownload.addClass('not-supported');
     $('#browser-not-supported').show();

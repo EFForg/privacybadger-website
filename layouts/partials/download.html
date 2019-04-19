@@ -1,4 +1,4 @@
-<div id="badger-download"
+<div id="badger-download" class="hidden"
   {{ range $browser, $url := $.Site.Data.browsers }}
     data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
   {{ end }}>
@@ -25,9 +25,15 @@
   Privacy Badger for Firefox on Android is in BETA.
 </div>
 
-{{ range $browser, $url := $.Site.Data.browsers }}
-  <div class="other-browser {{ urlize $browser }}">
-    <!-- @TODO i18n -->
-    <a href={{$url}}>Install for {{ $browser }}</a>
-  </div>
-{{ end }}
+<div class="other-browsers">
+  {{ range $browser, $url := $.Site.Data.browsers }}
+    <div class="other-browser {{ urlize $browser }}">
+      <!-- @TODO i18n -->
+      <a href={{$url}}>
+        <img src="/images/{{ urlize $browser }}.svg">
+        <br>
+        Install for {{ $browser }}
+      </a>
+    </div>
+  {{ end }}
+</div>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 48 48">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.116" y1="-0.097" x2="-0.104" y2="-0.097" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff1b2d"/>
+      <stop offset="0.3" stop-color="#ff1b2d"/>
+      <stop offset="0.61" stop-color="#ff1b2d"/>
+      <stop offset="1" stop-color="#a70014"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.651" y1="-0.188" x2="-0.636" y2="-0.188" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9c0000"/>
+      <stop offset="0.7" stop-color="#ff4b4b"/>
+      <stop offset="1" stop-color="#ff4b4b"/>
+    </linearGradient>
+  </defs>
+  <g id="Opera_2015_icon" transform="translate(-9.75 -9.75)">
+    <path id="Path_119" data-name="Path 119" class="cls-1" d="M33.75,9.75a24,24,0,0,0-24,24h0A24,24,0,0,0,32.609,57.721h0c.382.019.759.029,1.141.029h0a23.912,23.912,0,0,0,16-6.109h0a17.306,17.306,0,0,1-9.619,2.937h0A18.035,18.035,0,0,1,25.85,47.271h0a20.91,20.91,0,0,1-4.49-12.958h0V33.182h0a20.9,20.9,0,0,1,4.49-12.958h0a18.042,18.042,0,0,1,14.276-7.307h0a17.311,17.311,0,0,1,9.619,2.942h0a23.919,23.919,0,0,0-15.9-6.109H33.75Z"/>
+    <path id="Path_120" data-name="Path 120" class="cls-2" d="M43.46,23.693a10.762,10.762,0,0,1,8.153-4.17h0c6.987,0,12.652,7.924,12.652,17.691h0c0,9.772-5.664,17.691-12.652,17.691h0A10.749,10.749,0,0,1,43.46,50.74h0a18.035,18.035,0,0,0,14.276,7.307h0a17.345,17.345,0,0,0,9.619-2.937h0a23.927,23.927,0,0,0,8-17.891h0a23.934,23.934,0,0,0-8-17.891h0a17.306,17.306,0,0,0-9.619-2.937h0A18.035,18.035,0,0,0,43.46,23.7" transform="translate(-17.61 -3.469)"/>
+  </g>
+</svg>

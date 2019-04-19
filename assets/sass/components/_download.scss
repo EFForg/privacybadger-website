@@ -10,7 +10,6 @@
 
 #badger-download {
   margin: 20px auto 10px;
-  display: block;
   text-align: center;
   max-width: 400px;
   border: 2px solid $orange;
@@ -44,5 +43,32 @@
       color: #FFF;
       background-color: transparent;
     }
+  }
+}
+
+.other-browsers {
+  padding-top: 2rem;
+  text-align: center;
+  columns: 3;
+  width: 70%;
+  max-width: 600px;
+  margin: auto;
+
+  a {
+    display: block;
+    text-decoration: none;
+    line-height: 1.6rem;
+    opacity: 0.75;
+
+    &:hover {
+      background-color: transparent;
+      opacity: 1;
+    }
+  }
+
+  img {
+    height: 40px;
+    margin-bottom: 10px;
+    opacity: 0.8;
   }
 }
