@@ -15,5 +15,21 @@
   {{ $js := slice $jQuery $download | resources.Concat "application.js" }}
   <script src="{{ $js.Permalink }}"></script>
 
-  <!-- TODO: Open graph !-->
+  {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" }}
+  <meta property="og:site_name" content="Electronic Frontier Foundation" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Privacy Badger" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ $ogImage}} " />
+  <meta property="og:image:url" content="{{ $ogImage }}" />
+  <meta property="og:image:secure_url" content="{{ $ogImage }}" />
+  <meta property="og:image:type" content="image/png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="600" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@eff" />
+  <meta name="twitter:title" content="Privacy Badger" />
+  <meta name="twitter:image" content="{{ $ogImage }}" />
+  <meta name="twitter:image:width" content="1200" />
+  <meta name="twitter:image:height" content="600" />
 </head>

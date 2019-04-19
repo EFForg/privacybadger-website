@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://privacybadger.eff.org/"
+baseURL = "https://privacybadger.eff.org"
 title = "Privacy Badger"
 
 [params]
