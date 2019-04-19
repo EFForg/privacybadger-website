@@ -44,12 +44,45 @@
       background-color: transparent;
     }
   }
+
+  &.not-supported {
+    border-color: #A5A5A5;
+    background-color: $light-gray;
+    cursor: default;
+    a, span {
+      color: #A5A5A5;
+    }
+  }
+}
+
+#browser-not-supported {
+  margin-top: 1rem;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+
+  p {
+    margin-bottom: 1.6rem;
+  }
+
+  .small {
+    font-size: 0.8rem;
+    line-height: 1.6rem;
+    max-width: 400px;
+    margin: auto;
+  }
+}
+
+#android-beta-warning {
+  text-align: center;
+  font-style: italic;
 }
 
 .other-browsers {
   padding-top: 2rem;
   text-align: center;
-  columns: 3;
+  display: flex;
+  justify-content: space-between;
   width: 70%;
   max-width: 600px;
   margin: auto;
@@ -59,6 +92,7 @@
     text-decoration: none;
     line-height: 1.6rem;
     opacity: 0.75;
+    transition: opacity 0.3s ease;
 
     &:hover {
       background-color: transparent;
@@ -69,6 +103,6 @@
   img {
     height: 40px;
     margin-bottom: 10px;
-    opacity: 0.8;
+    opacity: 0.85;
   }
 }

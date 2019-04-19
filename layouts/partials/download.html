@@ -2,22 +2,22 @@
   {{ range $browser, $url := $.Site.Data.browsers }}
     data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
   {{ end }}>
-  <a href="">{{ i18n "installPrivacyBadger" | safeHTML }}</a>
+  <a>{{ i18n "installPrivacyBadger" | safeHTML }}</a>
 </div>
 
 <div id="browser-not-supported" class="hidden">
-  <div>{{ i18n "browserNotSupported" }}</div>
+  <h3>{{ i18n "browserNotSupported" }}</h3>
   <p>
-    Privacy Badger is not supported in this browser. <a href="https://www.eff.org/privacybadger/faq#Will-you-be-supporting-any-other-browsers-besides-Chrome-/-Firefox-/-Opera">(More info)</a>
+    Privacy Badger is not supported in this browser (<a href="https://www.eff.org/privacybadger/faq#Will-you-be-supporting-any-other-browsers-besides-Chrome-/-Firefox-/-Opera">more info</a>).
   </p>
 
   <div class="iphone hidden">
-    <span>
+    <p>
       We don't yet have a version of Privacy Badger for iOS. You can <a href="https://itunes.apple.com/us/app/brave-web-browser/id1052879175">Install Brave</a>, which is a great browser with built in tracker blocking, or <a href="https://itunes.apple.com/us/app/disconnect-pro-privacy-and-performance/id1057771839">Install Disconnect Pro</a>, an app that does OS-wide tracker blocking.
-    <span>
-    <span class="badger-download-mobile-tiny">
-      These apps are made by third parties, not EFF. You can read <a href="https://www.brave.com/ios_privacy.html" target="_blank">Brave's privacy policy</a> and <a href="https://disconnect.me/privacy" target="_blank">Disconnect\'s privacy policy</a>.
-    </span>
+    </p>
+    <p class="small">
+      These apps are made by third parties, not EFF. You can read <a href="https://www.brave.com/ios_privacy.html" target="_blank">Brave's privacy policy</a> and <a href="https://disconnect.me/privacy" target="_blank">Disconnect's privacy policy</a>.
+    </p>
   </div>
 </div>
 
