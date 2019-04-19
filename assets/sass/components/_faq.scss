@@ -3,3 +3,35 @@
     margin-top: 45px;
   }
 }
+
+#faq-top {
+  padding-top: 1px;
+}
+
+#back-to-faq-top {
+  position: fixed;
+  bottom: 0;
+  right: 10px;
+  z-index: 10;
+  border: 2px solid $orange;
+  background-color: $orange;
+  border-radius: 5px 5px 0 0;
+  font-family: $sans-serif;
+  font-size: 12.5px;
+  letter-spacing: 0.8px;
+  padding: 0 18px;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: $tangerine;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  a:hover {
+    background-color: transparent;
+  }
+}

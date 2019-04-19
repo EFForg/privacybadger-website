@@ -12,7 +12,8 @@
 
   {{ $jQuery := resources.Get "js/vendor/jquery.min.js" }}
   {{ $download := resources.Get "js/download.js" }}
-  {{ $js := slice $jQuery $download | resources.Concat "application.js" }}
+  {{ $faq := resources.Get "js/faq.js" }}
+  {{ $js := slice $jQuery $download $faq | resources.Concat "application.js" }}
   <script src="{{ $js.Permalink }}"></script>
 
   {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" }}
