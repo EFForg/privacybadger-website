@@ -73,6 +73,15 @@
   }
 }
 
+.version {
+  text-align: center;
+  color: $charcoal;
+  font-size: 1em;
+  font-family: 'Open Sans Condensed';
+  text-transform: none;
+  margin-top: 4px;
+}
+
 #android-beta-warning {
   text-align: center;
   font-style: italic;

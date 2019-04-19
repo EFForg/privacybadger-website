@@ -2,6 +2,9 @@ DefaultContentLanguage = "en"
 baseURL = "https://privacybadger.eff.org/"
 title = "Privacy Badger"
 
+[params]
+  badgerVersion = "2019.2.19"
+
 [languages]
   [languages.en]
     weight = 1
