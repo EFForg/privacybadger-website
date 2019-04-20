@@ -4,6 +4,7 @@ title = "Privacy Badger"
 
 [params]
   badgerVersion = "2019.2.19"
+  matomoID = 36
 
 [languages]
   [languages.en]

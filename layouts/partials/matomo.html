@@ -1,0 +1,10 @@
+<div id="anon-stats">
+  <noscript>
+    <img src="https://anon-stats.eff.org/js/?action_name={{ .Title }}&idsite={{ .Site.Params.matomoID }}&rec=1&url={{ .Permalink }}" style="border:0" alt="" />
+  </noscript>
+  <script>
+    //<![CDATA[
+    document.getElementById('anon-stats').innerHTML = '<img src="https://anon-stats.eff.org/js/?action_name={{ .Title }}&idsite={{ .Site.Params.matomoID }}&rec=1&{{querify "url" .Permalink }}"&urlref=' + encodeURIComponent(document.referrer) + 'style="border:0" alt="" />';
+    //]]>
+  </script>
+</div>
