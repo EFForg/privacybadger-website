@@ -7,7 +7,8 @@ $(document).ready(function() {
     var y = $(this).scrollTop();
     if (y > start && y < end) {
       $topBtn.fadeIn();
-    } else {
+    }
+    else {
       $topBtn.fadeOut();
     }
   });
