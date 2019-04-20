@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+    - "node"
+
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.37.1/hugo_0.37.1_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - npm install
+
+cache:
+  directories:
+    - "node_modules"
+
+script: npm run lint && hugo
