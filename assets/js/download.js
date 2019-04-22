@@ -22,19 +22,20 @@ $(document).ready(function() {
 
   // Update DOM.
   var $badgerDownload = $('#badger-download').show();
-  if (browser == 'iphone' || browser == 'other') {
+  if (browser === 'iphone' || browser === 'other') {
     $badgerDownload.addClass('not-supported');
     $('#browser-not-supported').show();
 
-    if (browser == 'iphone') {
+    if (browser === 'iphone') {
       $('#browser-not-supported .iphone').show();
     }
-  } else {
-    var url = $badgerDownload.data(browser + "-url");
+  }
+  else {
+    var url = $badgerDownload.data(browser + '-url');
     $badgerDownload.find('a').attr('href', url);
     $('.other-browser.' + browser).hide();
 
-    if (browser == 'firefox-on-android') {
+    if (browser === 'firefox-on-android') {
       $('#android-beta-warning').show();
     }
   }

@@ -1,0 +1,15 @@
+language: node_js
+dist: xenial
+node_js:
+    - "node"
+
+install:
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.55.3/hugo_extended_0.55.3_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - npm install
+
+cache:
+  directories:
+    - "node_modules"
+
+script: npm run lint && hugo
