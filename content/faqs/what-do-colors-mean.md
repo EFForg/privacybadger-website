@@ -1,6 +1,6 @@
 ---
 question: What do the red, yellow and green sliders in the Privacy Badger menu mean?
-weight: 50
+weight: 4
 ---
 
 The colors mean the following:
