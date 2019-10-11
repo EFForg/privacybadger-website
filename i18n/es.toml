@@ -1,0 +1,32 @@
+[installPrivacyBadger]
+other = "Instale Privacy Badger <span>y habilite No rastrear</span>."
+
+[privacyBadgerLearns]
+other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
+
+[installForBrowser]
+other = "Instalar para {{.Browser}}."
+
+[browserNotSupported]
+other = "Browser no soportado"
+
+[about]
+other = "Sobre"
+
+[issues]
+other = "Temas"
+
+[ourWork]
+other = "Nuestro trabajo"
+
+[takeAction]
+other = "Póngase en acción"
+
+[tools]
+other = "Herramientas"
+
+[donate]
+other = "Donar"
+
+[faq]
+other = "FAQ"
