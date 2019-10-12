@@ -4,3 +4,4 @@ static/application.css
 static/application.js
 static/vendor
 resources
+.DS_Store
