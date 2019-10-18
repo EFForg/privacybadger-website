@@ -67,6 +67,7 @@ $header-font-color: rgba(0, 0, 0, 0.69);
 
     ul {
       justify-content: flex-end;
+      min-width: unset;
     }
 
     li {
