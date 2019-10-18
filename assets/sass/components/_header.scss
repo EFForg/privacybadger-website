@@ -96,7 +96,7 @@ header {
   background-color: $tangerine;
   background-size: contain;
   position: relative;
-  margin-bottom: 50px;
+  margin-bottom: 5px;
   height: 240px;
   @media screen and (min-width: $narrow) {
     height: 320px;
@@ -104,5 +104,19 @@ header {
 
   h1 {
     @extend .visually-hidden;
+  }
+}
+
+.language-switcher {
+  text-align: center;
+  margin-bottom: 1em;
+
+  li {
+    display: inline-block;
+    margin-right: 1em;
+  }
+
+  li a {
+    text-decoration: none;
   }
 }
