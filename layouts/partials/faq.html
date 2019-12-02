@@ -4,9 +4,11 @@
   <div class="anchors">
     <ul>
       {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
-        <li>
-          <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
-        </li>
+        {{ if (eq .Lang .Page.Language.Lang) }}
+          <li>
+            <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+          </li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>

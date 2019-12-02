@@ -8,8 +8,8 @@ title = "Privacy Badger"
 
 [languages]
   [languages.en]
+    LanguageName = "English"
     weight = 1
-  [languages.fr]
-    weight = 2
   [languages.es]
-    weight = 3
+    LanguageName = "Español"
+    weight = 2
