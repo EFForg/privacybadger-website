@@ -3,11 +3,11 @@ $(document).ready(function() {
   // Detect browser.
   var browser = 'other';
   if (navigator && navigator.userAgent) {
-    if (navigator.userAgent.match(/Android/i)) {
-      browser = 'android';
-    }
-    else if (navigator.userAgent.match(/firefox/i)) {
+    if (navigator.userAgent.match(/Android.+Firefox/i)) {
       browser = 'firefox-on-android';
+    }
+    else if (navigator.userAgent.match(/Firefox/i)) {
+      browser = 'firefox';
     }
     else if (navigator.userAgent.match(/OPR|opera/i)) {
       browser = 'opera';
