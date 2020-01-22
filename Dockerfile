@@ -7,7 +7,8 @@ RUN apk add --no-cache \
     findutils \
     libstdc++ \
     nodejs \
-    nodejs-npm
+    nodejs-npm \
+    curl
 
 WORKDIR /go/src/github.com/gohugoio/hugo
 RUN apk add --no-cache git build-base
@@ -19,6 +20,7 @@ COPY package.json .
 RUN npm install
 
 COPY . .
+RUN bin/update-pb-config && echo '== config.toml ==' && cat config.toml
 RUN hugo
 
 # Multi-stage build, starting new clean stage.

@@ -3,7 +3,7 @@ baseURL = "https://privacybadger.eff.org"
 title = "Privacy Badger"
 
 [params]
-  badgerVersion = "2019.2.19"
+  badgerVersion = "2019.11.18"
   matomoID = 36
 
 [languages]
