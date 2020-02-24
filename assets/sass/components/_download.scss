@@ -12,7 +12,7 @@
 #badger-download {
   margin: 20px auto 10px;
   text-align: center;
-  max-width: 400px;
+  max-width: 500px;
   border: 2px solid $orange;
   background-color: $orange;
   border-radius: 5px;
@@ -53,6 +53,26 @@
     a, span {
       color: #A5A5A5;
     }
+  }
+}
+
+#install-group {
+  display: flex;
+
+  img {
+    display: none;
+    width: 80px;
+    height: 80px;
+  }
+
+  a {
+    display: block;
+    flex: 1;
+    align-self: center;
+  }
+
+  a span {
+    display: block;
   }
 }
 
