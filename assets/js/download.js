@@ -41,5 +41,5 @@ $(document).ready(function() {
   }
 
   $('#install-group img').hide()
-    .filter('[data-browser=' + browser +']').show()
+    .filter('[data-browser=' + browser + ']').show();
 });
