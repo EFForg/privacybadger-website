@@ -1,4 +1,4 @@
-Chrome = "/chrome"
-Firefox = "/firefox"
-"Firefox on Android" = "/firefox"
-Opera = "/opera"
+Chrome = "https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp"
+Firefox = "https://www.eff.org/files/privacy-badger-latest.xpi"
+"Firefox on Android" = "https://www.eff.org/files/privacy-badger-latest.xpi"
+Opera = "https://addons.opera.com/en/extensions/details/privacy-badger"
