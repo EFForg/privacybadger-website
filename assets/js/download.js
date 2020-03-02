@@ -39,4 +39,7 @@ $(document).ready(function() {
       $('#android-beta-warning').show();
     }
   }
+
+  $('#install-group img').hide()
+    .filter('[data-browser=' + browser + ']').show();
 });

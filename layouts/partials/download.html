@@ -2,7 +2,12 @@
   {{ range $browser, $url := $.Site.Data.browsers }}
     data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
   {{ end }}>
-  <a>{{ i18n "installPrivacyBadger" | safeHTML }}</a>
+  <div id="install-group">
+    {{ range $browser, $url := $.Site.Data.browsers }}
+    <img src="/images/{{ urlize $browser }}.svg" data-browser="{{ urlize $browser }}" />
+    {{ end }}
+    <a>{{ i18n "installPrivacyBadger" | safeHTML }}</a>
+  </div>
 </div>
 
 <div class="version">
