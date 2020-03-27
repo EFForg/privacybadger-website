@@ -1,0 +1,77 @@
+"#faq-What-is-Privacy-Badger?":
+  "#What-is-Privacy-Badger"
+
+"#faq-How-is-Privacy-Badger-different-from-Disconnect%2C-Adblock-Plus%2C-Ghostery%2C-and-other-blocking-extensions?":
+  "#How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions"
+
+"#faq-How-does-Privacy-Badger-work?":
+  "#How-does-Privacy-Badger-work"
+
+"#faq-What-is-a-third-party-tracker?":
+  "#What-is-a-third-party-tracker"
+
+"#faq-What-do-the-red%2C-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean?":
+  "#What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean"
+
+"#faq-Why-does-Privacy-Badger-block-ads?":
+  "#Why-does-Privacy-Badger-block-ads"
+
+"#faq-Why-doesn't-Privacy-Badger-block-all-ads?":
+  "#Why-doesn't-Privacy-Badger-block-all-ads"
+
+"#faq-What-about-tracking-by-the-sites-I-actively-visit%2C-like-NYTimes.com-or-Facebook.com?":
+  "#What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com"
+
+"#faq-Does-Privacy-Badger-contain-a-%22black-list%22-of-blocked-sites?":
+  '#Does-Privacy-Badger-contain-a-"black-list"-of-blocked-sites'
+
+"#faq-How-was-the-cookie-blocking-yellowlist-created?":
+  "#How-was-the-cookie-blocking-yellowlist-created"
+
+"#faq-Does-Privacy-Badger-prevent-fingerprinting?":
+  "#Does-Privacy-Badger-prevent-fingerprinting"
+
+"#faq-Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie?":
+  "#Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie"
+
+"#faq-Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it?":
+  "#Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it"
+
+"#faq-Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser?":
+  "#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser"
+
+"#faq-Will-you-be-supporting-any-other-browsers-besides-Chrome-%2F-Firefox-%2F-Opera?":
+  "#Will-you-be-supporting-any-other-browsers-besides-Chrome-/-Firefox-/-Opera"
+
+"#faq-Can-I-download-Privacy-Badger-outside-of-the-Chrome-Web-Store?":
+  "#Can-I-download-Privacy-Badger-outside-of-the-Chrome-Web-Store"
+
+"#faq--I-am-an-online-advertising-%2F-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me?":
+  "#-I-am-an-online-advertising-/-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me"
+
+"#faq-What-is-the-Privacy-Badger-license?--Where-is-the-Privacy-Badger-source-code?":
+  "#What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code"
+
+"#faq-I-found-a-bug!-What-do-I-do-now?":
+  "#I-found-a-bug!-What-do-I-do-now"
+
+"#faq-How-can-I-support-Privacy-Badger?":
+  "#How-can-I-support-Privacy-Badger"
+
+"#faq-How-does-Privacy-Badger-handle-social-media-widgets?":
+  "#How-does-Privacy-Badger-handle-social-media-widgets"
+
+"#faq-How-do-I-uninstall%2Fremove-Privacy-Badger?":
+  "#How-do-I-uninstall/remove-Privacy-Badger"
+
+"#faq-Is-Privacy-Badger-compatible-with-other-extensions%2C-including-other-adblockers?":
+  "#Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers"
+
+"#faq-Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger?":
+  "#Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger"
+
+"#faq-Why-am-I-getting-a-%22This-extension-failed-to-redirect-a-network-request-to-...%22-warning-in-Chrome?":
+  '#Why-am-I-getting-a-"This-extension-failed-to-redirect-a-network-request-to-..."-warning-in-Chrome'
+
+"#faq-Why-isn't-my-Badger-learning-to-block-anything?":
+  "#Why-isn't-my-Badger-learning-to-block-anything"
