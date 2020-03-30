@@ -1,5 +1,5 @@
 ---
-question: ¿Previene Privacy Badger la recolección de datos de huellas dactilares??
+question: ¿Previene Privacy Badger la recolección de datos de huellas dactilares?
 weight: 10
 ---
 
