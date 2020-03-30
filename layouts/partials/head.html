@@ -13,7 +13,9 @@
   {{ $jQuery := resources.Get "js/vendor/jquery.min.js" }}
   {{ $download := resources.Get "js/download.js" }}
   {{ $faq := resources.Get "js/faq.js" }}
-  {{ $js := slice $jQuery $download $faq | resources.Concat "application.js" }}
+  {{ $links := resources.Get "js/hash-remap.js" }}
+  {{ $processedLinks := $links | resources.ExecuteAsTemplate "/js/hash-remap.js" . }}
+  {{ $js := slice $jQuery $download $faq $processedLinks | resources.Concat "application.js" }}
   <script src="{{ $js.RelPermalink }}"></script>
 
   {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" }}
