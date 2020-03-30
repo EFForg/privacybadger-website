@@ -12,4 +12,5 @@ Además del aprendizaje automático, Privacy Badger ofrece otras ventajas como e
 Algunas notas específicas de las extensiones:
 
 Adblock Plus no bloquea los rastreadores invisibles por defecto.
+
 uBlock Origin es una excelente herramienta de privacidad. uBlock Origin y Privacy Badger deberían funcionar bien juntos. Similar a los adblockers, uBlock Origin protege usando listas negras. Privacy Badger protege al aprender automáticamente sobre los rastreadores a medida que usted navega, lo que significa que Privacy Badger puede detectar cosas que uBlock Origin no conoce. Privacy Badger aprenderá sobre muchos menos rastreadores cuando se usa junto con uBlock Origin, pero eso está bien.
