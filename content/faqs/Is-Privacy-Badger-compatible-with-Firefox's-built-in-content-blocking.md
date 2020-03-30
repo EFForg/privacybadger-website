@@ -9,6 +9,6 @@ While there is overlap between Firefox's tracker lists and Privacy Badger's prot
 
 See also the following FAQ entries:
 
-[Is Privacy Badger compatible with other extensions, including other adblockers?](https://www.eff.org/privacybadger/#Is-PB-compat-with-other-extensions)
+[Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)
 
-[Does Privacy Badger still work when blocking third-party cookies in the browser?](https://www.eff.org/privacybadger/#Does-PB-still-work-when-block-thirdparty)
+[Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)

@@ -10,6 +10,6 @@ Aunque existe una superposición entre las listas de rastreadores de Firefox y l
 
 Consulte también las siguientes preguntas frecuentes:
 
-[¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?](https://www.eff.org/privacybadger/#Is-PB-compat-with-other-extensions)
+[¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)
 
-[Does Privacy Badger still work when blocking third-party cookies in the browser?](https://www.eff.org/privacybadger/#Does-PB-still-work-when-block-thirdparty)
+[¿Funciona Privacy Badger cuando se bloquean las cookies de terceros en el navegador?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)
