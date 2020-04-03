@@ -4,7 +4,7 @@ Code for <https://eff.org/privacybadger>.
 
 ## Development
 
-1. Install the extended version of [Hugo](https://gohugo.io/getting-started/installing/), eg `snap install hugo --channel=extended` on Linux.
+1. Install the extended version of [Hugo](https://gohugo.io/getting-started/installing/) v0.55.3, eg `snap install hugo --channel=extended` on Linux. Installing the most recent version of Hugo will result in some unexpected behavior when mounting a development build of the site.
 2. Install node and npm. Run `npm install` to get the node dependencies.
 3. Run `hugo serve`.
 
