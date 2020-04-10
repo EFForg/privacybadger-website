@@ -1,0 +1,17 @@
+#!/usr/bin/env ruby
+
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "minitest"
+  gem "nokogiri", "~> 1.10.9"
+end
+
+require "minitest/autorun"
+
+require "./#{File.dirname(__FILE__)}/../tests/support"
+
+Dir[File.dirname(__FILE__) + "/../tests/**/*.rb"].each do |test|
+  require "./#{test}"
+end
