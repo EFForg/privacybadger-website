@@ -3,8 +3,8 @@
   <h2>Frequently Asked Questions</h2>
   <div class="anchors">
     <ul>
-      {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
-        {{ if (eq .Lang .Page.Language.Lang) }}
+      {{ range sort $.Site.RegularPages ".Params.weight" (where $.Site.RegularPages "Section" "faqs") }}
+        {{ if (eq .Type "faqs") }}
           <li>
             <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
           </li>
@@ -14,11 +14,13 @@
   </div>
 
   <div id="faq-body">
-    {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
-      <h3 id="{{ .File.TranslationBaseName }}" >
-        <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
-      </h3>
-      {{ .Content | markdownify }}
+    {{ range sort $.Site.RegularPages ".Params.weight" (where $.Site.RegularPages "Section" "faqs") }}
+      {{ if (eq .Type "faqs") }}
+        <h3 id="{{ .File.TranslationBaseName }}" >
+          <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+        </h3>
+        {{ .Content | markdownify }}
+      {{ end }}
     {{ end }}
   </div>
 

@@ -13,3 +13,6 @@ title = "Privacy Badger"
   [languages.es]
     LanguageName = "Español"
     weight = 2
+
+[markup.goldmark.renderer]
+  unsafe= true
