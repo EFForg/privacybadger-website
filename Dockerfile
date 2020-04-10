@@ -1,27 +1,36 @@
 FROM golang:alpine as builder
 
-ENV HUGO_VERSION=0.68.3
-ENV GO111MODULE on
+ARG CGO=1
+ENV CGO_ENABLED=${CGO}
+ENV GOOS=linux
 
-RUN apk add --no-cache \
-    findutils \
-    libstdc++ \
-    nodejs \
-    nodejs-npm \
-    curl
-
-WORKDIR /go/src/github.com/gohugoio/hugo
-RUN apk add --no-cache git build-base
-RUN wget -O- https://github.com/gohugoio/hugo/archive/v$HUGO_VERSION.tar.gz|tar -xz --strip=1
-RUN go install -v -ldflags '-s -w' -tags extended
+RUN echo "@edge http://nl.alpinelinux.org/alpine/edge/main" >>/etc/apk/repositories \
+  && apk upgrade --update-cache \
+  && apk add --no-cache \
+       findutils \
+       libstdc++ \
+       nodejs \
+       nodejs-npm \
+       curl \
+       build-base \
+       gcc \
+       g++ \
+       musl-dev \
+       libc6-compat \
+       ruby-dev \
+       ruby-bundler \
+       zlib-dev
 
 WORKDIR /build
+COPY bin/hugo-install .
+RUN ./hugo-install
+
 COPY package.json .
 RUN npm install
 
 COPY . .
 RUN bin/update-pb-config && echo '== config.toml ==' && cat config.toml
-RUN hugo
+RUN /go/bin/hugo
 
 # Multi-stage build, starting new clean stage.
 FROM conex.eff.org/techops/nginx-base
