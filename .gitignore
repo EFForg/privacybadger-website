@@ -5,3 +5,5 @@ static/application.js
 static/vendor
 resources
 .DS_Store
+bin/hugo
+docker-compose.yml
