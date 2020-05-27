@@ -1,12 +1,14 @@
 # Privacy Badger - Website
 
-Code for <https://eff.org/privacybadger>.
+Code for <https://privacybadger.org>.
 
 ## Development
 
-1. Install the extended version of [Hugo](https://gohugo.io/getting-started/installing/), eg `snap install hugo --channel=extended` on Linux.
+1. Install the **extended** version of [Hugo](https://gohugo.io/getting-started/installing/) version [0.55.3](https://github.com/gohugoio/hugo/releases/tag/v0.55.3).
 2. Install node and npm. Run `npm install` to get the node dependencies.
 3. Run `hugo serve`.
+
+See also our [Dockerfile](/Dockerfile) and [Travis config](/.travis.yml) for how we get set up on Docker and Travis.
 
 ## Content authoring
 
