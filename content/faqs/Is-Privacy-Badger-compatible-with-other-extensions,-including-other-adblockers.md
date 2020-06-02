@@ -7,7 +7,7 @@ Privacy Badger should be compatible with other extensions.
 
 While there is likely to be overlap between the various advertising/tracker lists and Privacy Badger, Privacy Badger can automatically discover new trackers that list-based blockers don't know about.
 
-Besides automatic learning, Privacy Badger comes with other advantages like cookie blocking, widget replacement, and Facebook/Google/Twitter link cleaning.
+Besides automatic learning, Privacy Badger comes with other advantages like cookie blocking, widget replacement, and Facebook/Google link cleaning.
 
 Some extension-specific notes:
 

@@ -3,4 +3,4 @@ question: ¿Privacy Badger considera una cookie que se uso para rastrearme inclu
 weight: 12
 ---
 
-Sí.  Privacy Badger realiza un seguimiento de las cookies que se pueden utilizar para rastrearlo a usted y de dónde provienen, incluso si usted borra las cookies de su navegador con frecuencia.
+Sí. Privacy Badger realiza un seguimiento de las cookies que se pueden utilizar para rastrearlo a usted y de dónde provienen, incluso si usted borra las cookies de su navegador con frecuencia.
