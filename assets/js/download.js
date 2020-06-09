@@ -12,13 +12,16 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/OPR|opera/i)) {
       browser = 'opera';
     }
+    else if (navigator.userAgent.match(/android/i)) {
+      browser = 'other';
+    }
     else if (navigator.userAgent.match(/chrome\/.+edge?\//i)) {
       browser = 'edge';
     }
     else if (navigator.userAgent.match(/chrome/i)) {
       browser = 'chrome';
     }
-    else if (navigator.userAgent.match(/iPhone/i)) {
+    else if (navigator.userAgent.match(/iPhone|iPad/i)) {
       browser = 'iphone';
     }
   }
