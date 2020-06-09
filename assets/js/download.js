@@ -16,7 +16,7 @@ $(document).ready(function() {
       browser = 'other';
     }
     else if (navigator.userAgent.match(/chrome\/.+edge?\//i)) {
-      browser = 'edge';
+      browser = 'microsoft-edge';
     }
     else if (navigator.userAgent.match(/chrome/i)) {
       browser = 'chrome';
