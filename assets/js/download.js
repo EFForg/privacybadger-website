@@ -21,7 +21,7 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/chrome/i)) {
       browser = 'chrome';
     }
-    else if (navigator.userAgent.match(/iPhone/i)) {
+    else if (navigator.userAgent.match(/iPhone|iPad/i)) {
       browser = 'iphone';
     }
   }
