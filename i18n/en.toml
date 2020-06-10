@@ -7,8 +7,20 @@ other = "Privacy Badger automatically learns to block invisible trackers."
 [installForBrowser]
 other = "Install for {{.Browser}}"
 
+[installfor]
+other = "Install for "
+
 [browserNotSupported]
 other = "Browser Not Supported"
+
+[firefoxAndroidBeta]
+other = "Privacy Badger for Firefox on Android is in BETA."
+
+[notSupportedInThisBrowser]
+other = "Privacy Badger is not supported in this browser "
+
+[moreInfo]
+other = "more info"
 
 [about]
 other = "About"
@@ -30,3 +42,10 @@ other = "Donate"
 
 [faq]
 other = "FAQ"
+
+[FrequentlyAskedQuestions]
+other = "Frequently Asked Questions"
+
+[backToQuestions]
+other = "Back to questions ▲"
+

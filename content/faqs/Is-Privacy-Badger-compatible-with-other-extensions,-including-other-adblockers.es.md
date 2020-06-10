@@ -7,7 +7,7 @@ Privacy Badger debería ser compatible con otras extensiones.
 
 Si bien es probable que se produzca una superposición entre las distintas listas de anuncios/rastreadores y Privacy Badger, Privacy Badger puede descubrir automáticamente nuevos rastreadores que los bloqueadores basados en listas no conocen.
 
-Además del aprendizaje automático, Privacy Badger ofrece otras ventajas como el bloqueo de cookies, la sustitución de widgets y la limpieza de enlaces de Facebook/Google/Twitter.
+Además del aprendizaje automático, Privacy Badger ofrece otras ventajas como el bloqueo de cookies, la sustitución de widgets y la limpieza de enlaces de Facebook/Google.
 
 Algunas notas específicas de las extensiones:
 

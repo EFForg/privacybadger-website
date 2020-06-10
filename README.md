@@ -1,6 +1,6 @@
 # Privacy Badger - Website
 
-Code for <https://eff.org/privacybadger>.
+Code for <https://privacybadger.org>.
 
 ## Development
 
@@ -8,6 +8,8 @@ Code for <https://eff.org/privacybadger>.
 2. Install Hugo by running `bin/hugo-install`. This simply ensures that you are building with the same version of Hugo that we use -- if you want to get Hugo another way (e.g. from one of the [pre-built releases](https://github.com/gohugoio/hugo/tags), or using snap), you can find the right version to install [here](https://github.com/EFForg/privacybadger-website/blob/master/bin/hugo-install#L3).
 3. Install node and npm. Run `npm install` to get the node dependencies.
 4. Run `bin/hugo` to build the site.
+
+See also our [Dockerfile](/Dockerfile) and [Travis config](/.travis.yml) for how we get set up on Docker and Travis.
 
 ## Content authoring
 
