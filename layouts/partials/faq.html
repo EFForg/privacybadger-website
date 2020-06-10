@@ -1,6 +1,6 @@
 <div id="faq">
   <div id="faq-top"></div>
-  <h2>Frequently Asked Questions</h2>
+  <h2>{{ i18n "FrequentlyAskedQuestions" }}</h2>
   <div class="anchors">
     <ul>
       {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
@@ -23,6 +23,6 @@
   </div>
 
   <div id="back-to-faq-top" class="hidden">
-    <a href="#faq-top">Back to questions ▲</a>
+    <a href="#faq-top">{{ i18n "backToQuestions" }}</a>
   </div>
 </div>

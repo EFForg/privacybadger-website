@@ -19,7 +19,7 @@
 <div id="browser-not-supported" class="hidden">
   <h3>{{ i18n "browserNotSupported" }}</h3>
   <p>
-    Privacy Badger is not supported in this browser (<a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">more info</a>).
+    {{ i18n "notSupportedInThisBrowser" }} (<a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">{{ i18n "moreInfo" }}</a>).
   </p>
 
   <div class="iphone hidden">
@@ -33,7 +33,7 @@
 </div>
 
 <div id="android-beta-warning" class="hidden">
-  Privacy Badger for Firefox on Android is in BETA.
+  {{ i18n "firefoxAndroidBeta" }}
 </div>
 
 <div class="other-browsers">
@@ -43,7 +43,7 @@
       <a href={{$url}}>
         <img src="/images/{{ urlize $browser }}.svg">
         <br>
-        Install for {{ $browser }}
+        {{ i18n "installfor" }}{{ $browser }}
       </a>
     </div>
   {{ end }}
