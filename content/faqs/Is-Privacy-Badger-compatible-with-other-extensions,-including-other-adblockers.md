@@ -13,4 +13,4 @@ Some extension-specific notes:
 
 Adblock Plus does not block invisible trackers by default.
 
-uBlock Origin is an excellent privacy tool. uBlock Origin and Privacy Badger should work well together. Similar to adblockers, uBlock Origin protects using blacklists. Privacy Badger protects by automatically learning about trackers as you browse, which means Privacy Badger might catch things that uBlock Origin doesn't know about. Privacy Badger will learn about far fewer trackers when used together with uBlock Origin, but that's OK.
+uBlock Origin is an excellent privacy tool. uBlock Origin and Privacy Badger should work well together. Similarly to adblockers, uBlock Origin protects using manually curated blocklists. Privacy Badger protects by automatically learning about trackers as you browse. This means Privacy Badger might catch things that uBlock Origin doesn't know about. (Privacy Badger will learn about far fewer trackers when used together with uBlock Origin, but that's OK.)
