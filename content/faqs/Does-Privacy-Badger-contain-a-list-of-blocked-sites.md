@@ -1,5 +1,5 @@
 ---
-question: Does Privacy Badger contain a "black list" of blocked sites?
+question: Does Privacy Badger contain a list of blocked sites?
 weight: 8
 ---
 
