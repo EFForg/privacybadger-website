@@ -1,7 +1,7 @@
 "#faq-What-is-Privacy-Badger?":
   "#What-is-Privacy-Badger"
 
-"#faq-How-is-Privacy-Badger-different-from-Disconnect%2C-Adblock-Plus%2C-Ghostery%2C-and-other-blocking-extensions?":
+"#faq-How-is-Privacy-Badger-different-from-Disconnect-Adblock-Plus-Ghostery-and-other-blocking-extensions?":
   "#How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions"
 
 "#faq-How-does-Privacy-Badger-work?":
@@ -10,7 +10,7 @@
 "#faq-What-is-a-third-party-tracker?":
   "#What-is-a-third-party-tracker"
 
-"#faq-What-do-the-red%2C-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean?":
+"#faq-What-do-the-red-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean?":
   "#What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean"
 
 "#faq-Why-does-Privacy-Badger-block-ads?":
@@ -19,10 +19,10 @@
 "#faq-Why-doesn't-Privacy-Badger-block-all-ads?":
   "#Why-doesn't-Privacy-Badger-block-all-ads"
 
-"#faq-What-about-tracking-by-the-sites-I-actively-visit%2C-like-NYTimes.com-or-Facebook.com?":
+"#faq-What-about-tracking-by-the-sites-I-actively-visit-like-NYTimes.com-or-Facebook.com?":
   "#What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com"
 
-"#faq-Does-Privacy-Badger-contain-a-%22black-list%22-of-blocked-sites?":
+"#faq-Does-Privacy-Badger-contain-a-black-list-of-blocked-sites?":
   '#Does-Privacy-Badger-contain-a-list-of-blocked-sites'
 
 "#faq-How-was-the-cookie-blocking-yellowlist-created?":
@@ -64,14 +64,11 @@
 "#faq-How-do-I-uninstall":
   "#How-do-I-uninstall-remove-Privacy-Badger"
 
-"#faq-Is-Privacy-Badger-compatible-with-other-extensions%2C-including-other-adblockers?":
+"#faq-Is-Privacy-Badger-compatible-with-other-extensions-including-other-adblockers?":
   "#Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers"
 
 "#faq-Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger?":
   "#Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger"
-
-"#faq-Why-am-I-getting-a-%22This-extension-failed-to-redirect-a-network-request-to-...%22-warning-in-Chrome?":
-  '#Why-am-I-getting-a-"This-extension-failed-to-redirect-a-network-request-to-..."-warning-in-Chrome'
 
 "#faq-Why-isn't-my-Badger-learning-to-block-anything?":
   "#Why-isn't-my-Badger-learning-to-block-anything"
