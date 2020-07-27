@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
   // Detect browser.
-  var browser = 'other';
+  var m, browser = 'other';
   if (navigator && navigator.userAgent) {
     if (navigator.userAgent.match(/Android.+Firefox/i)) {
       browser = 'firefox-on-android';
@@ -15,8 +15,9 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/android/i)) {
       browser = 'other';
     }
-    else if (navigator.userAgent.match(/chrome\/.+edge?\//i)) {
-      browser = 'microsoft-edge';
+    else if (m = navigator.userAgent.match(/chrome\/.+edge?\/(\d+)/i)) {
+      if (parseInt(m[1]) >= 79)
+        browser = 'microsoft-edge';
     }
     else if (navigator.userAgent.match(/chrome/i)) {
       browser = 'chrome';
