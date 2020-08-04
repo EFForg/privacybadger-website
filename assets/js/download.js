@@ -15,7 +15,7 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/android/i)) {
       browser = 'other';
     }
-    else if (navigator.userAgent.match(/chrome\/.+edg\//)) {
+    else if (navigator.userAgent.match(/chrome\/.+edg\/i/)) {
       browser = 'microsoft-edge';
     }
     else if (navigator.userAgent.match(/chrome/i)) {
