@@ -43,10 +43,6 @@ $(document).ready(function() {
     var url = $badgerDownload.data(browser + '-url');
     $badgerDownload.find('a').attr('href', url);
     $('.other-browser.' + browser).hide();
-
-    if (browser === 'firefox-on-android') {
-      $('#android-beta-warning').show();
-    }
   }
 
   $('#install-group img').hide()

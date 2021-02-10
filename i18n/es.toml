@@ -13,9 +13,6 @@ other = "Instalar para "
 [browserNotSupported]
 other = "Browser no soportado"
 
-[firefoxAndroidBeta]
-other = "Privacy Badger para Firefox en Android está en BETA."
-
 [notSupportedInThisBrowser]
 other = "Privacy Badger is not supported in this browser "
 
