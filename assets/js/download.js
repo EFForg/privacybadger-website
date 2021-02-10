@@ -15,8 +15,11 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/android/i)) {
       browser = 'other';
     }
-    else if (navigator.userAgent.match(/chrome\/.+edge?\//i)) {
+    else if (navigator.userAgent.match(/chrome\/.+edg\//i)) {
       browser = 'microsoft-edge';
+    }
+    else if (navigator.userAgent.match(/chrome\/.+edge\//i)) {
+      browser = 'other';
     }
     else if (navigator.userAgent.match(/chrome/i)) {
       browser = 'chrome';
@@ -40,10 +43,6 @@ $(document).ready(function() {
     var url = $badgerDownload.data(browser + '-url');
     $badgerDownload.find('a').attr('href', url);
     $('.other-browser.' + browser).hide();
-
-    if (browser === 'firefox-on-android') {
-      $('#android-beta-warning').show();
-    }
   }
 
   $('#install-group img').hide()
