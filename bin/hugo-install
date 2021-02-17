@@ -1,0 +1,15 @@
+#!/bin/sh
+
+HUGO_VERSION="0.68.3"
+
+set -e -x
+
+export GO111MODULE=on
+
+mkdir -p "hugo-$HUGO_VERSION" && cd "hugo-$HUGO_VERSION"
+wget -O- "https://github.com/gohugoio/hugo/archive/v$HUGO_VERSION.tar.gz" | tar -xz --strip=1
+
+go get -v -tags extended
+go build -v -tags extended -o ../bin/hugo main.go
+
+cd .. && rm -r "hugo-$HUGO_VERSION"
