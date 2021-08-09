@@ -7,7 +7,7 @@ RUN apk add --no-cache \
     findutils \
     libstdc++ \
     nodejs \
-    nodejs-npm \
+    npm \
     curl
 
 WORKDIR /go/src/github.com/gohugoio/hugo
