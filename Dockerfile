@@ -16,10 +16,9 @@ RUN wget -O- https://github.com/gohugoio/hugo/archive/v$HUGO_VERSION.tar.gz|tar 
 RUN go install -v -ldflags '-s -w' -tags extended
 
 WORKDIR /build
-COPY package.json .
+COPY . .
 RUN npm install
 
-COPY . .
 RUN bin/update-pb-config && echo '== config.toml ==' && cat config.toml
 RUN hugo
 
