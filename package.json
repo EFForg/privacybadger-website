@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Privacy Badger documentation site",
   "scripts": {
-    "install": "cp node_modules/jquery/dist/jquery.min.js assets/js/vendor/",
+    "jquery": "cp node_modules/jquery/dist/jquery.min.js assets/js/vendor/",
     "start": "hugo serve --renderToDisk",
     "lint": "./node_modules/.bin/sass-lint -vq && ./node_modules/.bin/eslint assets/js"
   },
