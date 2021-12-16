@@ -3,4 +3,4 @@ question: Does Privacy Badger account for a cookie that was used to track me eve
 weight: 12
 ---
 
-Yes. Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.
+Yes. When [learning is enabled](#How-does-Privacy-Badger-work), Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.
