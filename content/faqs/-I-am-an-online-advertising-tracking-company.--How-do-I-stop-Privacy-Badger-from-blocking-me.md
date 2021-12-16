@@ -1,5 +1,5 @@
 ---
-question: I am an online advertising / tracking company. How do I stop Privacy Badger from blocking me?
+question: I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?
 weight: 16
 ---
 
