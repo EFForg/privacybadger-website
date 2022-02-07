@@ -14,5 +14,9 @@
     "eslint": "^5.16.0",
     "jquery": "^3.4.0",
     "postcss-cli": "^6.1.2"
-  }
+  },
+  "browserlist": [
+    "last 2 versions",
+    "Explorer >= 8"
+  ]
 }
