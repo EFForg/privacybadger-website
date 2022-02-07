@@ -5,7 +5,7 @@
   "scripts": {
     "jquery": "cp node_modules/jquery/dist/jquery.min.js assets/js/vendor/",
     "start": "hugo serve --renderToDisk",
-    "lint": "./node_modules/.bin/sass-lint -vq && ./node_modules/.bin/eslint assets/js"
+    "lint": "./node_modules/.bin/eslint assets/js"
   },
   "author": "Electronic Frontier Foundation",
   "repository": "https://github.com/EFForg/privacybadger-website",
@@ -13,7 +13,6 @@
     "autoprefixer": "^9.5.1",
     "eslint": "^5.16.0",
     "jquery": "^3.4.0",
-    "postcss-cli": "^6.1.2",
-    "sass-lint": "^1.12.1"
+    "postcss-cli": "^6.1.2"
   }
 }
