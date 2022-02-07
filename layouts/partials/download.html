@@ -33,11 +33,10 @@
 <div class="other-browsers">
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="other-browser {{ urlize $browser }}">
-      <!-- @TODO i18n -->
       <a href={{$url}}>
         <img src="/images/{{ urlize $browser }}.svg">
         <br>
-        {{ i18n "installfor" }}{{ $browser }}
+        {{ i18n "installForBrowser" (dict "Browser" $browser) }}
       </a>
     </div>
   {{ end }}

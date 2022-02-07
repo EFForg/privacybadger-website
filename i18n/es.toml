@@ -5,10 +5,7 @@ other = "Instale Privacy Badger <span>y habilite No rastrear.</span>"
 other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
 
 [installForBrowser]
-other = "Instalar para {{.Browser}}."
-
-[installfor]
-other = "Instalar para "
+other = "Instalar para {{.Browser}}"
 
 [browserNotSupported]
 other = "Browser no soportado"
