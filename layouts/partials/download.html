@@ -11,7 +11,7 @@
 </div>
 
 <div class="version">
-  <a href="https://github.com/EFForg/privacybadger/releases">Read the release notes for v{{ .Site.Params.badgerVersion }}</a>
+  <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
 </div>
 
 <div id="browser-not-supported" class="hidden">
@@ -36,7 +36,7 @@
       <a href={{$url}}>
         <img src="/images/{{ urlize $browser }}.svg">
         <br>
-        {{ i18n "installForBrowser" (dict "Browser" $browser) }}
+        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
       </a>
     </div>
   {{ end }}
