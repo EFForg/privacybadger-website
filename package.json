@@ -18,5 +18,6 @@
   "browserlist": [
     "last 2 versions",
     "Explorer >= 8"
-  ]
+  ],
+  "private": true
 }
