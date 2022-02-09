@@ -34,7 +34,7 @@
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="other-browser {{ urlize $browser }}">
       <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg">
+        <img src="/images/{{ urlize $browser }}.svg" alt="">
         <br>
         {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
       </a>
