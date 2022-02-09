@@ -7,18 +7,18 @@
     {{ .Site.Title }}
   </title>
 
-  {{ $styles := resources.Get "sass/application.scss" | toCSS | postCSS (dict "config" "postcss.config.js") }}
+  {{ $styles := resources.Get "sass/application.scss" | toCSS | postCSS (dict "config" "postcss.config.js") -}}
   <link rel="stylesheet" type="text/css" href="{{ $styles.RelPermalink }}" />
 
-  {{ $jQuery := resources.Get "js/vendor/jquery.min.js" }}
-  {{ $download := resources.Get "js/download.js" }}
-  {{ $faq := resources.Get "js/faq.js" }}
-  {{ $links := resources.Get "js/hash-remap.js" }}
-  {{ $processedLinks := $links | resources.ExecuteAsTemplate "/js/hash-remap.js" . }}
-  {{ $js := slice $jQuery $download $faq $processedLinks | resources.Concat "application.js" }}
-  <script src="{{ $js.RelPermalink }}"></script>
+  {{ $jQuery := resources.Get "js/vendor/jquery.min.js" -}}
+  {{- $download := resources.Get "js/download.js" -}}
+  {{- $faq := resources.Get "js/faq.js" -}}
+  {{- $links := resources.Get "js/hash-remap.js" -}}
+  {{- $processedLinks := $links | resources.ExecuteAsTemplate "/js/hash-remap.js" . -}}
+  {{- $js := slice $jQuery $download $faq $processedLinks | resources.Concat "application.js" -}}
+  <script src="{{ $js.RelPermalink }}" defer="defer"></script>
 
-  {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" }}
+  {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" -}}
   <meta property="og:site_name" content="Electronic Frontier Foundation" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Privacy Badger" />
