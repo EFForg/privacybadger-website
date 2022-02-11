@@ -5,13 +5,13 @@ other = "Privacy Badger aprende automáticamente a bloquear los rastreadores inv
 other = "Agregar a {{.Browser}}"
 
 [browserNotSupported]
-other = "Browser no soportado"
+other = "Navegador no soportado"
 
 [notSupportedInThisBrowser]
-other = "Privacy Badger is not supported in this browser "
+other = "Privacy Badger no es compatible con este navegador"
 
 [moreInfo]
-other = "more info"
+other = "más información"
 
 [browserNameChrome]
 other = "Chrome"
