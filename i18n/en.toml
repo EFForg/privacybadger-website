@@ -1,9 +1,6 @@
 [privacyBadgerLearns]
 other = "Privacy Badger automatically learns to block invisible trackers."
 
-[enableDoNotTrack]
-other = "Install Privacy Badger and enable <a href='https://globalprivacycontrol.org/'>Global Privacy Control</a> and <a href='https://www.eff.org/issues/do-not-track'>Do Not Track</a>."
-
 [installForBrowser]
 other = "Add to {{.Browser}}"
 

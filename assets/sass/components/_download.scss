@@ -1,20 +1,12 @@
-#badger-description, #dnt-gpc {
+#badger-description {
   font-size: 1.2rem;
   line-height: 1.4em;
+  max-width: 700px;
   font-family: $sans-serif;
   font-weight: 300;
   text-align: center;
-  margin: 0 auto;
-  max-width: 600px;
-}
-
-#dnt-gpc {
-  margin: 5px auto;
-  max-width: 500px;
-
-  a {
-    text-decoration: none;
-  }
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #browser-not-supported {
