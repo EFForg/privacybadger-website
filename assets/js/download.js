@@ -34,10 +34,6 @@ $(document).ready(function() {
   if (browser === 'iphone' || browser === 'other') {
     $badgerDownload.addClass('not-supported');
     $('#browser-not-supported').show();
-
-    if (browser === 'iphone') {
-      $('#browser-not-supported .iphone').show();
-    }
   }
   else {
     var url = $badgerDownload.data(browser + '-url');
