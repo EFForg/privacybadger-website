@@ -2,7 +2,7 @@
 other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
 
 [installForBrowser]
-other = "Instalar para {{.Browser}}"
+other = "Agregar a {{.Browser}}"
 
 [browserNotSupported]
 other = "Browser no soportado"

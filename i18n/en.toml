@@ -2,7 +2,7 @@
 other = "Privacy Badger automatically learns to block invisible trackers."
 
 [installForBrowser]
-other = "Install for {{.Browser}}"
+other = "Add to {{.Browser}}"
 
 [browserNotSupported]
 other = "Browser Not Supported"
