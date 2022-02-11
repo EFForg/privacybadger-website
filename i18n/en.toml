@@ -26,7 +26,7 @@ other = "Firefox"
 other = "Firefox on Android"
 
 [browserNameMicrosoftEdge]
-other = "Edge"
+other = "Microsoft Edge"
 
 [browserNameOpera]
 other = "Opera"
