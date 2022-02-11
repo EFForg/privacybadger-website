@@ -31,13 +31,28 @@
   }
 }
 
-#version {
+#other-links {
   text-align: center;
   font-size: 0.85rem;
   font-family: $sans-serif;
 
   a {
     text-decoration: none;
+  }
+
+  li {
+    display: inline;
+    margin-inline-end: 5px;
+    white-space: nowrap;
+  }
+
+  li:after {
+    margin-inline-start: 5px;
+    content: "\2022";
+  }
+
+  li:last-child:after {
+    content: none;
   }
 }
 

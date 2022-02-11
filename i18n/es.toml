@@ -28,6 +28,12 @@ other = "Edge"
 [browserNameOpera]
 other = "Opera"
 
+[otherBrowsers]
+other = "Otros navegadores"
+
+[altInstall]
+other = "Opciones alternativas de instalación"
+
 [releaseNotes]
 other = "Notas de la versión para v{{.Version}}"
 

@@ -17,6 +17,14 @@
   {{ end }}
 </div>
 
-<div id="version">
+<div id="other-links">
+  <ul>
+    <li>
+      <a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">{{ i18n "otherBrowsers" }}</a>
+    </li>
+    <li>
+      <a href="#Can-I-download-Privacy-Badger-directly-from-eff.org">{{ i18n "altInstall" }}</a>
+    </li>
+  </ul>
   <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
 </div>

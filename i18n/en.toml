@@ -31,6 +31,12 @@ other = "Opera"
 [releaseNotes]
 other = "Release notes for v{{.Version}}"
 
+[otherBrowsers]
+other = "Other browsers"
+
+[altInstall]
+other = "Alternative installation options"
+
 [about]
 other = "About"
 
