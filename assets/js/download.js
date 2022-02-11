@@ -30,7 +30,7 @@ $(document).ready(function() {
   }
 
   // Update DOM.
-  var $badgerDownload = $('#badger-download').show();
+  var $badgerDownload = $('#badger-download');
   if (browser === 'iphone' || browser === 'other') {
     $badgerDownload.addClass('not-supported');
     $('#browser-not-supported').show();

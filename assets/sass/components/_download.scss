@@ -9,23 +9,27 @@
   margin-right: auto;
 }
 
+#badger-download-wrapper {
+  text-align: center;
+}
+
 #badger-download {
   margin: 20px auto 10px;
   text-align: center;
-  max-width: 500px;
+  display: inline-block;
   border: 2px solid $orange;
   background-color: $orange;
   border-radius: 5px;
   font-family: 'Open Sans Condensed Bold';
   letter-spacing: 0.1em;
-  padding: 1.1em 0.8em;
+  padding: 15px 20px;
   text-transform: uppercase;
   clear: both;
   transition: background-color 0.3s ease;
 
   a {
     text-decoration: none;
-    font-size: 1.9rem;
+    font-size: 1.7rem;
     color: #FFF;
 
     span {
@@ -61,8 +65,10 @@
 
   img {
     display: none;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
+    margin-inline-end: 20px;
+    align-self: center;
   }
 
   a {

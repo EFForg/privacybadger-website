@@ -1,4 +1,5 @@
-<div id="badger-download" class="hidden"
+<div id="badger-download-wrapper">
+<div id="badger-download"
   {{ range $browser, $url := $.Site.Data.browsers }}
     data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
   {{ end }}>
