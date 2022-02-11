@@ -30,17 +30,10 @@ $(document).ready(function() {
   }
 
   // Update DOM.
-  var $badgerDownload = $('#badger-download');
   if (browser === 'iphone' || browser === 'other') {
-    $badgerDownload.addClass('not-supported');
     $('#browser-not-supported').show();
   }
   else {
-    var url = $badgerDownload.data(browser + '-url');
-    $badgerDownload.find('a').attr('href', url);
-    $('.other-browser.' + browser).hide();
+    $('.other-browser.' + browser).addClass('active');
   }
-
-  $('#install-group img').hide()
-    .filter('[data-browser=' + browser + ']').show();
 });

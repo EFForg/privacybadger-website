@@ -1,6 +1,3 @@
-[installPrivacyBadger]
-other = "Instale Privacy Badger <span>y habilite No rastrear</span>"
-
 [privacyBadgerLearns]
 other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
 
@@ -26,7 +23,7 @@ other = "Firefox"
 other = "Firefox para Android"
 
 [browserNameMicrosoftEdge]
-other = "Microsoft Edge"
+other = "Edge"
 
 [browserNameOpera]
 other = "Opera"

@@ -1,20 +1,3 @@
-<div id="badger-download-wrapper">
-<div id="badger-download"
-  {{ range $browser, $url := $.Site.Data.browsers }}
-    data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
-  {{ end }}>
-  <div id="install-group">
-    {{ range $browser, $url := $.Site.Data.browsers }}
-    <img src="/images/{{ urlize $browser }}.svg" data-browser="{{ urlize $browser }}" />
-    {{ end }}
-    <a>{{ i18n "installPrivacyBadger" | safeHTML }}</a>
-  </div>
-</div>
-
-<div class="version">
-  <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
-</div>
-
 <div id="browser-not-supported" class="hidden">
   <h3>{{ i18n "browserNotSupported" }}</h3>
   <p>
@@ -22,7 +5,7 @@
   </p>
 </div>
 
-<div class="other-browsers">
+<div class="supported-browsers">
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="other-browser {{ urlize $browser }}">
       <a href={{$url}}>
@@ -32,4 +15,8 @@
       </a>
     </div>
   {{ end }}
+</div>
+
+<div id="version">
+  <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
 </div>

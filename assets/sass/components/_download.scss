@@ -9,87 +9,17 @@
   margin-right: auto;
 }
 
-#badger-download-wrapper {
-  text-align: center;
-}
-
-#badger-download {
-  margin: 20px auto 10px;
-  text-align: center;
-  display: inline-block;
-  border: 2px solid $orange;
-  background-color: $orange;
-  border-radius: 5px;
-  font-family: 'Open Sans Condensed Bold';
-  letter-spacing: 0.1em;
-  padding: 15px 20px;
-  text-transform: uppercase;
-  clear: both;
-  transition: background-color 0.3s ease;
-
-  a {
-    text-decoration: none;
-    font-size: 1.7rem;
-    color: #FFF;
-
-    span {
-      color: #000;
-      font-size: 0.75em;
-      font-family: 'Open Sans Condensed';
-    }
-  }
-
-  &:hover {
-    background-color: $tangerine;
-    cursor: pointer;
-
-    a {
-      color: $orange;
-      color: #FFF;
-      background-color: transparent;
-    }
-  }
-
-  &.not-supported {
-    border-color: #A5A5A5;
-    background-color: $light-gray;
-    cursor: default;
-    a, span {
-      color: #A5A5A5;
-    }
-  }
-}
-
-#install-group {
-  display: flex;
-
-  img {
-    display: none;
-    width: 60px;
-    height: 60px;
-    margin-inline-end: 20px;
-    align-self: center;
-  }
-
-  a {
-    display: block;
-    flex: 1;
-    align-self: center;
-  }
-
-  a span {
-    display: block;
-  }
-}
-
 #browser-not-supported {
-  margin-top: 1rem;
+  margin: 30px auto;
   text-align: center;
   max-width: 600px;
-  margin: auto;
+
+  h3 {
+    margin: 1.1rem 0;
+  }
 
   p {
-    margin-bottom: 1.6rem;
+    margin-bottom: 1.1rem;
   }
 
   .small {
@@ -97,10 +27,11 @@
     line-height: 1.6rem;
     max-width: 400px;
     margin: auto;
+    margin-bottom: 1.1rem;
   }
 }
 
-.version {
+#version {
   text-align: center;
   font-size: 0.85rem;
   font-family: $sans-serif;
@@ -110,21 +41,34 @@
   }
 }
 
-.other-browsers {
+.supported-browsers {
   font-family: $sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.3em;
-  padding-top: 2rem;
   text-align: center;
   display: flex;
-  justify-content: space-between;
-  max-width: 420px;
-  margin: auto;
+  justify-content: center;
+  max-width: 600px;
+  margin: 35px auto 0;
+
+  div {
+    margin: 0 10px;
+    padding: 5px 0 25px;
+    width: 120px;
+  }
+
+  @media screen and (max-width: 550px) {
+    flex-wrap: wrap;
+
+    div {
+      min-width: 120px;
+    }
+  }
 
   a {
     display: block;
     text-decoration: none;
-    opacity: 0.75;
+    opacity: 0.65;
     transition: opacity 0.3s ease;
 
     &:hover {
@@ -134,8 +78,18 @@
   }
 
   img {
-    height: 40px;
+    height: 45px;
     margin-bottom: 10px;
-    opacity: 0.85;
+    opacity: 0.75;
+  }
+
+  div.active {
+    a, img {
+      opacity: 1;
+    }
+
+    a {
+      font-weight: bold;
+    }
   }
 }

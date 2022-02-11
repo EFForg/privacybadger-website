@@ -1,6 +1,3 @@
-[installPrivacyBadger]
-other = "Install Privacy Badger <span>and enable Do Not Track</span>"
-
 [privacyBadgerLearns]
 other = "Privacy Badger automatically learns to block invisible trackers."
 
@@ -26,7 +23,7 @@ other = "Firefox"
 other = "Firefox on Android"
 
 [browserNameMicrosoftEdge]
-other = "Microsoft Edge"
+other = "Edge"
 
 [browserNameOpera]
 other = "Opera"
