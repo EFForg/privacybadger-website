@@ -1,4 +1,4 @@
-<div id="browser-not-supported" class="hidden">
+<div id="browser-not-supported" style="display:none">
   <h3>{{ i18n "browserNotSupported" }}</h3>
   <p>
     {{ i18n "notSupportedInThisBrowser" }} (<a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">{{ i18n "moreInfo" }}</a>).
@@ -9,7 +9,7 @@
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="active-browser {{ urlize $browser }}" style="display:none">
       <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg" alt="">
+        <img src="/images/{{ urlize $browser }}.svg" height=45 alt="">
         <br>
         {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
       </a>
@@ -21,7 +21,7 @@
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="other-browser {{ urlize $browser }}">
       <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg" alt="">
+        <img src="/images/{{ urlize $browser }}.svg" height=35 alt="">
         <br>
         {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
       </a>
