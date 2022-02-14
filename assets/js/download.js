@@ -34,6 +34,7 @@ $(document).ready(function() {
     $('#browser-not-supported').show();
   }
   else {
-    $('.other-browser.' + browser).addClass('active');
+    $('.other-browser.' + browser).hide();
+    $('.active-browser.' + browser).show();
   }
 });

@@ -55,15 +55,15 @@
   }
 }
 
-.supported-browsers {
+#supported-browsers, #active-browser {
   font-family: $sans-serif;
-  font-size: 1rem;
+  font-size: 0.85rem;
   line-height: 1.3em;
   text-align: center;
   display: flex;
   justify-content: center;
   max-width: 600px;
-  margin: 35px auto 0;
+  margin: auto;
 
   div {
     margin: 0 10px;
@@ -71,7 +71,7 @@
     width: 120px;
   }
 
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 450px) {
     flex-wrap: wrap;
 
     div {
@@ -92,18 +92,29 @@
   }
 
   img {
-    height: 45px;
+    height: 35px;
     margin-bottom: 10px;
     opacity: 0.75;
   }
+}
 
-  div.active {
-    a, img {
-      opacity: 1;
-    }
+#active-browser {
+  font-size: 1rem;
+  margin: 25px auto 5px;
 
-    a {
-      font-weight: bold;
-    }
+  div {
+    width: auto;
+  }
+
+  a, img {
+    opacity: 1;
+  }
+
+  a {
+    font-weight: bold;
+  }
+
+  img {
+    height: 45px;
   }
 }

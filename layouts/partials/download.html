@@ -5,7 +5,19 @@
   </p>
 </div>
 
-<div class="supported-browsers">
+<div id="active-browser">
+  {{ range $browser, $url := $.Site.Data.browsers }}
+    <div class="active-browser {{ urlize $browser }}" style="display:none">
+      <a href={{$url}}>
+        <img src="/images/{{ urlize $browser }}.svg" alt="">
+        <br>
+        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
+      </a>
+    </div>
+  {{ end }}
+</div>
+
+<div id="supported-browsers">
   {{ range $browser, $url := $.Site.Data.browsers }}
     <div class="other-browser {{ urlize $browser }}">
       <a href={{$url}}>
