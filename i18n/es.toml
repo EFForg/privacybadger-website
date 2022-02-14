@@ -1,5 +1,5 @@
 [privacyBadgerLearns]
-other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
+other = "Privacy Badger es una extensión de navegador que aprende automáticamente a bloquear rastreadores invisibles."
 
 [installForBrowser]
 other = "Agregar a {{.Browser}}"

@@ -1,5 +1,5 @@
 [privacyBadgerLearns]
-other = "Privacy Badger automatically learns to block invisible trackers."
+other = "Privacy Badger is a browser extension that automatically learns to block invisible trackers."
 
 [installForBrowser]
 other = "Add to {{.Browser}}"
