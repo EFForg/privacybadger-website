@@ -1,6 +1,6 @@
 #faq {
   h3 {
-    margin-top: 45px;
+    margin-top: 50px;
 
     a {
       color: $black;
@@ -60,5 +60,19 @@
 
   a:hover {
     background-color: transparent;
+  }
+}
+
+#faq-body {
+  p {
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    margin: 0 2rem 1.5rem;
+  }
+
+  li {
+    list-style-type: disc;
   }
 }
