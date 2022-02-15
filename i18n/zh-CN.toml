@@ -1,0 +1,68 @@
+[installPrivacyBadger]
+other = "安装隐私獾<span>和 启用“请勿跟踪”</span>"
+
+[privacyBadgerLearns]
+other = "隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。"
+
+[installForBrowser]
+other = "安装到 {{.Browser}}"
+
+[browserNotSupported]
+other = "浏览器未支持"
+
+[notSupportedInThisBrowser]
+other = "隐私獾未支持这个浏览器"
+
+[moreInfo]
+other = "更多信息"
+
+[browserNameChrome]
+other = "Chrome"
+
+[browserNameFirefox]
+other = "Firefox"
+
+[browserNameFirefoxonAndroid]
+other = "Firefox on Android"
+
+[browserNameMicrosoftEdge]
+other = "Microsoft Edge"
+
+[browserNameOpera]
+other = "Opera"
+
+[releaseNotes]
+other = "v{{.Version}}版本发行说明"
+
+[otherBrowsers]
+other = "其它浏览器"
+
+[altInstall]
+other = "备选安装方案"
+
+[about]
+other = "关于"
+
+[issues]
+other = "问题"
+
+[ourWork]
+other = "我们的工作"
+
+[takeAction]
+other = "采取行动"
+
+[tools]
+other = "工具"
+
+[donate]
+other = "捐款"
+
+[faq]
+other = "FAQ"
+
+[FrequentlyAskedQuestions]
+other = "常见问题"
+
+[backToQuestions]
+other = "返回到问题 ▲"
