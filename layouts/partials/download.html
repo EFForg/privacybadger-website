@@ -1,43 +1,42 @@
-<div id="badger-download" class="hidden"
-  {{ range $browser, $url := $.Site.Data.browsers }}
-    data-{{ $browser | urlize | safeHTMLAttr }}-url="{{ $url }}"
-  {{ end }}>
-  <div id="install-group">
-    {{ range $browser, $url := $.Site.Data.browsers }}
-    <img src="/images/{{ urlize $browser }}.svg" data-browser="{{ urlize $browser }}" />
-    {{ end }}
-    <a>{{ i18n "installPrivacyBadger" | safeHTML }}</a>
-  </div>
-</div>
-
-<div class="version">
-  <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
-</div>
-
-<div id="browser-not-supported" class="hidden">
+<div id="browser-not-supported" style="display:none">
   <h3>{{ i18n "browserNotSupported" }}</h3>
   <p>
     {{ i18n "notSupportedInThisBrowser" }} (<a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">{{ i18n "moreInfo" }}</a>).
   </p>
-
-  <div class="iphone hidden">
-    <p>
-      We don't yet have a version of Privacy Badger for iOS. You can <a href="https://itunes.apple.com/us/app/brave-web-browser/id1052879175">Install Brave</a>, which is a great browser with built in tracker blocking, or <a href="https://itunes.apple.com/us/app/disconnect-pro-privacy-and-performance/id1057771839">Install Disconnect Pro</a>, an app that does OS-wide tracker blocking.
-    </p>
-    <p class="small">
-      These apps are made by third parties, not EFF. You can read <a href="https://www.brave.com/ios_privacy.html" target="_blank">Brave's privacy policy</a> and <a href="https://disconnect.me/privacy" target="_blank">Disconnect's privacy policy</a>.
-    </p>
-  </div>
 </div>
 
-<div class="other-browsers">
+<div id="active-browser">
   {{ range $browser, $url := $.Site.Data.browsers }}
-    <div class="other-browser {{ urlize $browser }}">
+    <div class="active-browser {{ urlize $browser }}" style="display:none">
       <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg" alt="">
+        <img src="/images/{{ urlize $browser }}.svg" height=45 alt="">
         <br>
         {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
       </a>
     </div>
   {{ end }}
+</div>
+
+<div id="supported-browsers">
+  {{ range $browser, $url := $.Site.Data.browsers }}
+    <div class="other-browser {{ urlize $browser }}">
+      <a href={{$url}}>
+        <img src="/images/{{ urlize $browser }}.svg" height=35 alt="">
+        <br>
+        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
+      </a>
+    </div>
+  {{ end }}
+</div>
+
+<div id="other-links">
+  <ul>
+    <li>
+      <a href="#Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera">{{ i18n "otherBrowsers" }}</a>
+    </li>
+    <li>
+      <a href="#Can-I-download-Privacy-Badger-directly-from-eff.org">{{ i18n "altInstall" }}</a>
+    </li>
+  </ul>
+  <a href="https://github.com/EFForg/privacybadger/releases">{{ i18n "releaseNotes" (dict "Version" .Site.Params.badgerVersion) }}</a>
 </div>

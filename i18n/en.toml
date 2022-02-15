@@ -1,11 +1,8 @@
-[installPrivacyBadger]
-other = "Install Privacy Badger <span>and enable Do Not Track</span>"
-
 [privacyBadgerLearns]
-other = "Privacy Badger automatically learns to block invisible trackers."
+other = "Privacy Badger is a browser extension that automatically learns to block invisible trackers."
 
 [installForBrowser]
-other = "Install for {{.Browser}}"
+other = "Add to {{.Browser}}"
 
 [browserNotSupported]
 other = "Browser Not Supported"
@@ -26,13 +23,19 @@ other = "Firefox"
 other = "Firefox on Android"
 
 [browserNameMicrosoftEdge]
-other = "Microsoft Edge"
+other = "Edge"
 
 [browserNameOpera]
 other = "Opera"
 
 [releaseNotes]
 other = "Release notes for v{{.Version}}"
+
+[otherBrowsers]
+other = "Other browsers"
+
+[altInstall]
+other = "Alternative installation options"
 
 [about]
 other = "About"

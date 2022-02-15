@@ -1,20 +1,17 @@
-[installPrivacyBadger]
-other = "Instale Privacy Badger <span>y habilite No rastrear</span>"
-
 [privacyBadgerLearns]
-other = "Privacy Badger aprende automáticamente a bloquear los rastreadores invisibles."
+other = "Privacy Badger es una extensión de navegador que aprende automáticamente a bloquear rastreadores invisibles."
 
 [installForBrowser]
-other = "Instalar para {{.Browser}}"
+other = "Agregar a {{.Browser}}"
 
 [browserNotSupported]
-other = "Browser no soportado"
+other = "Navegador no soportado"
 
 [notSupportedInThisBrowser]
-other = "Privacy Badger is not supported in this browser "
+other = "Privacy Badger no es compatible con este navegador"
 
 [moreInfo]
-other = "more info"
+other = "más información"
 
 [browserNameChrome]
 other = "Chrome"
@@ -26,10 +23,16 @@ other = "Firefox"
 other = "Firefox para Android"
 
 [browserNameMicrosoftEdge]
-other = "Microsoft Edge"
+other = "Edge"
 
 [browserNameOpera]
 other = "Opera"
+
+[otherBrowsers]
+other = "Otros navegadores"
+
+[altInstall]
+other = "Opciones alternativas de instalación"
 
 [releaseNotes]
 other = "Notas de la versión para v{{.Version}}"
