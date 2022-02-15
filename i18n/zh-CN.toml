@@ -32,7 +32,7 @@ other = "Microsoft Edge"
 other = "Opera"
 
 [releaseNotes]
-other = "Release notes for v{{.Version}}"
+other = "v{{.Version}}版本发行说明"
 
 [otherBrowsers]
 other = "其它浏览器"
@@ -62,7 +62,7 @@ other = "捐款"
 other = "FAQ"
 
 [FrequentlyAskedQuestions]
-other = "常问的问题"
+other = "常见问题"
 
 [backToQuestions]
 other = "返回到问题 ▲"
