@@ -2,7 +2,7 @@
 other = "安装隐私獾<span>和 启用“请勿跟踪”</span>"
 
 [privacyBadgerLearns]
-other = "隐私獾会自动学习阻止不可见的跟踪器。"
+other = "隐私獾是一个会自动学习阻止不可见的跟踪器的浏览器扩展程序。"
 
 [installForBrowser]
 other = "安装到 {{.Browser}}"
@@ -33,6 +33,12 @@ other = "Opera"
 
 [releaseNotes]
 other = "Release notes for v{{.Version}}"
+
+[otherBrowsers]
+other = "其它浏览器"
+
+[altInstall]
+other = "备选安装方案"
 
 [about]
 other = "关于"
