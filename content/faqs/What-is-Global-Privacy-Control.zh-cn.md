@@ -12,6 +12,6 @@ weight: 6.5
 
 GPC是指在有适用隐私法的地方向所有公司提出具有法律约束力的要求。例如，[加州消费者隐私法](https://theccpa.org)赋予加州居民选择不出售其数据的权利。通过发送GPC信号，隐私獾告诉各公司，您希望行使您的权利。虽然隐私獾只对第三方域名执行DNT合规性，但GPC适用于所有人--您访问的第一方网站，以及他们可能邀请的任何第三方跟踪器。
 
-CCPA和其他法律[并不完美](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/)，这就是为什么隐私獾采用两种方法。它要求网站尊重您的隐私，并从根本上阻止已知跟踪器的加载。
+CCPA和其他法律[并不完美](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/)，这就是隐私獾为什么采用两种方法。它要求网站尊重您的隐私，并从根本上阻止已知跟踪器的加载。
 
 您可以了解更多关于GPC和您的权利[这里](https://globalprivacycontrol.org/)。
