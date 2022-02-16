@@ -64,6 +64,10 @@
 }
 
 #faq-body {
+  a {
+    word-wrap: break-word;
+  }
+
   p {
     margin-bottom: 1.5rem;
   }
