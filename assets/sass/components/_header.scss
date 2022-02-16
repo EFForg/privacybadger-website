@@ -123,6 +123,10 @@ header {
 
   li a {
     text-decoration: none;
+
+    &:visited {
+      color: $medium-blue;
+    }
   }
 
   li:after {
