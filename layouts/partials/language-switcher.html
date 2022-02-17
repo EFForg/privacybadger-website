@@ -1,8 +1,12 @@
 {{ if .Site.IsMultiLingual }}
-  <ul class="language-switcher">
+  <ul id="language-switcher">
     {{ range .Site.Home.AllTranslations }}
       <li>
+        {{ if (eq .Language $.Site.Language) }}
+        {{ .Language.LanguageName }}
+        {{ else }}
         <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+        {{ end }}
       </li>
     {{ end }}
   </ul>

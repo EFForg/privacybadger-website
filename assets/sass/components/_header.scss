@@ -111,7 +111,7 @@ header {
   }
 }
 
-.language-switcher {
+#language-switcher {
   font-size: 0.85rem;
   text-align: center;
   margin-bottom: 1em;
@@ -119,22 +119,22 @@ header {
   li {
     display: inline-block;
     margin-inline-end: 0.5em;
-  }
 
-  li a {
-    text-decoration: none;
-
-    &:visited {
-      color: $medium-blue;
+    &:after {
+      margin-inline-start: 0.5em;
+      content: "\2022";
     }
-  }
 
-  li:after {
-    margin-inline-start: 0.5em;
-    content: "\2022";
-  }
+    &:last-child:after {
+      content: none;
+    }
 
-  li:last-child:after {
-    content: none;
+    a {
+      text-decoration: none;
+
+      &:visited {
+        color: $medium-blue;
+      }
+    }
   }
 }
