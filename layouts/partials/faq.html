@@ -1,21 +1,25 @@
 <div id="faq">
+
   <div id="faq-top"></div>
+
   <h2>{{ i18n "FrequentlyAskedQuestions" }}</h2>
+
+  {{- $pages := (where .Pages "Section" "faqs") }}
+  {{- $pages = $pages | lang.Merge (where .Sites.First.Pages "Section" "faqs") }}
+
   <div class="anchors">
     <ul>
-      {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
-        {{ if (eq .Lang .Page.Language.Lang) }}
-          <li>
-            <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
-          </li>
-        {{ end }}
+      {{ range sort $pages ".Params.weight" }}
+        <li>
+          <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+        </li>
       {{ end }}
     </ul>
   </div>
 
   <div id="faq-body">
-    {{ range sort .Pages ".Params.weight" (where .Pages "Section" "faqs") }}
-      <h3 id="{{ .File.TranslationBaseName }}" >
+    {{ range sort $pages ".Params.weight" }}
+      <h3 id="{{ .File.TranslationBaseName }}">
         <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
       </h3>
       {{ .Content | markdownify }}
@@ -25,4 +29,5 @@
   <div id="back-to-faq-top" class="hidden">
     <a href="#faq-top">{{ i18n "backToQuestions" }}</a>
   </div>
+
 </div>
