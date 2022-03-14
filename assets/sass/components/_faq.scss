@@ -72,11 +72,15 @@
     margin-bottom: 1.5rem;
   }
 
-  ul {
+  ol, ul {
     margin: 0 2rem 1.5rem;
   }
 
-  li {
+  ol li {
+    list-style-type: decimal;
+  }
+
+  ul li {
     list-style-type: disc;
   }
 }
