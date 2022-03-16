@@ -1,6 +1,3 @@
-[installPrivacyBadger]
-other = "安装隐私獾<span>和 启用“请勿跟踪”</span>"
-
 [privacyBadgerLearns]
 other = "隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。"
 
@@ -20,19 +17,19 @@ other = "更多信息"
 other = "Chrome"
 
 [browserNameFirefox]
-other = "Firefox"
+other = "火狐"
 
 [browserNameFirefoxonAndroid]
-other = "Firefox on Android"
+other = "火狐安卓版"
 
 [browserNameMicrosoftEdge]
-other = "Microsoft Edge"
+other = "Edge"
 
 [browserNameOpera]
 other = "Opera"
 
 [releaseNotes]
-other = "v{{.Version}}版本发行说明"
+other = "v{{.Version}}发行说明"
 
 [otherBrowsers]
 other = "其它浏览器"
