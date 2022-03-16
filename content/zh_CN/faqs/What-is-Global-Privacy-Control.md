@@ -6,7 +6,7 @@ weight: 6.5
 
 [全局隐私控制（GPC）](https://globalprivacycontrol.org/)是一种新的规范，允许用户告诉公司他们愿意选择不分享或出售他们的数据。默认情况下，隐私獾会将GPC信号与拒绝追踪（DNT）信号一起发送给与您互动的每家公司。
 
-这有什么区别？拒绝追踪的目的是告诉公司您不希望被以任何方式追踪（了解更多关于 “追踪”的含义[这里](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)）。隐私獾通过采用[我们的DNT政策](https://www.eff.org/dnt-policy/)给第三方公司一个遵守DNT的机会，并阻止那些看起来正在跟踪您的公司。
+这有什么区别？拒绝追踪的目的是告诉公司您不希望被以任何方式追踪（了解更多关于 “追踪”的含义[这里](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)）。隐私獾通过采用[我们的DNT政策](https://www.eff.org/dnt-policy/)给第三方公司一个遵守DNT的机会，并阻止似乎无论如何都在跟踪您的公司。
 
 在开发DNT时，许多网站根本无视用户不被追踪的请求。这就是为什么隐私獾要充当执行者的原因：不想遵守您的意愿的追踪者会被阻止。今天，许多司法管辖区的用户都有法律权利选择不接受某些类型的跟踪。这就是GPC的作用。
 
