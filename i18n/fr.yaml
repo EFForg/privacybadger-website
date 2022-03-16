@@ -1,0 +1,8 @@
+donate:
+  other: "Faire Un Don"
+
+privacyBadgerLearns:
+  other: "Privacy Badger est une extension pour navigateurs qui apprend automatiquement à bloquer les traqueurs invisibles."
+
+installForBrowser:
+  other: "Installer pour {{.Browser}}"
