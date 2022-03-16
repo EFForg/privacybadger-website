@@ -4,7 +4,7 @@ weight: 21
 ---
 
 
-FireFox浏览器：请参阅[卸载附加组件](https://support.mozilla.org/zh-CN/kb/%E5%8D%B8%E8%BD%BD%E9%99%84%E5%8A%A0%E7%BB%84%E4%BB%B6#w_jin-yong-he-shan-chu-kuo-zhan) Mozilla帮助页面。
+火狐浏览器：请参阅[卸载附加组件](https://support.mozilla.org/zh-CN/kb/%E5%8D%B8%E8%BD%BD%E9%99%84%E5%8A%A0%E7%BB%84%E4%BB%B6#w_jin-yong-he-shan-chu-kuo-zhan) Mozilla帮助页面。
 
 Chrome浏览器：请参阅[安装和管理扩展程序](https://support.google.com/chrome_webstore/answer/2664769?hl=zh-Hans) Chrome网上应用店帮助页面。
 
