@@ -15,9 +15,9 @@ cat << EOF
 
 [po4a_paths] po/faqs.pot \$lang:po/faqs.\$lang.po
 
-[options] opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--master-language=en" opt:"--msgmerge-opt='--no-wrap'" opt:"--porefs=full" opt:"--wrap-po=no"
+[options] opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--master-language=en" opt:"--msgmerge-opt='--no-wrap'" opt:"--porefs=file" opt:"--wrap-po=no"
 
-[po4a_alias:markdown] text opt:"--option markdown" opt:"--option yfm_keys=question" opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--keep=100"
+[po4a_alias:markdown] text opt:"--option markdown" opt:"--option yfm_keys=question" opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--keep=100" opt:"--option neverwrap"
 
 EOF
 
