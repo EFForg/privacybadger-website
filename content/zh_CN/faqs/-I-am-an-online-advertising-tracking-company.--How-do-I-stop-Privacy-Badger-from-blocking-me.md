@@ -2,6 +2,7 @@
 question: 我经营的域名使用cookie或其他追踪功能，我该如何阻止隐私獾对我的封锁？
 weight: 16
 ---
+
 一种方法是停止跟踪已开启不跟踪信号的用户（即停止收集他们的cookies、supercookies或指纹）。这将对新安装的隐私獾起作用。
 
 您也可以通过承诺有意义地尊重“不跟踪”信号来解禁自己。要做到这一点，请将[EFF的Do Not Track政策](https://www.eff.org/dnt-policy)的逐字拷贝发布到URL https://example.com/.well-known/dnt-policy.txt ，其中 "example.com "由您的域名代替。在一个域名上张贴EFF的DNT政策是该域名对遵守EFF的DNT政策的承诺。

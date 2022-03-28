@@ -1,5 +1,5 @@
 ---
-question: ¿Qué es Privacy Badger?
+question: '¿Qué es Privacy Badger?'
 weight: 0
 ---
 

@@ -1,5 +1,5 @@
 ---
-question: ¿Considera Privacy Badger que cada cookie es una cookie de rastreo?
+question: '¿Considera Privacy Badger que cada cookie es una cookie de rastreo?'
 weight: 11
 ---
 
