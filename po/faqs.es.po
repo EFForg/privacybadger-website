@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-28 15:51-0400\nPO-Revision-Date: 2022-03-28 20:57+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.12-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-28 15:51-0400\nPO-Revision-Date: 2022-03-28 21:02+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.12-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -52,7 +52,7 @@ msgstr "Al ver una página web, esa página a menudo estará compuesta de conten
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, no-wrap
 msgid "At a more technical level, Privacy Badger keeps note of the \"third party\" domains that embed images, scripts and advertising in the pages you visit. Privacy Badger looks for tracking techniques like uniquely identifying cookies, local storage \"supercookies,\" and canvas fingerprinting. If it observes a single third-party host tracking you on three separate sites, Privacy Badger will automatically disallow content from that third-party tracker.\n"
-msgstr "A un nivel más técnico, Privacy Badger toma nota de los dominios de \\\"terceros\\\" que insertan imágenes, scripts y publicidad en las páginas que usted visita. Privacy Badger busca técnicas de rastreo como cookies de identificación única, \\\"supercookies\\\" de almacenamiento local, y el rastreo de las impresiones dactilares por parte de su navegador. Si observa que un único host de terceros le realiza un seguimiento en tres sitios distintos, Privacy Badger rechazará automáticamente el contenido de dicho tracker de terceros.\n"
+msgstr "A un nivel más técnico, Privacy Badger toma nota de los dominios de \"terceros\" que insertan imágenes, scripts y publicidad en las páginas que usted visita. Privacy Badger busca técnicas de rastreo como cookies de identificación única, \"supercookies\" de almacenamiento local, y el rastreo de las impresiones dactilares por parte de su navegador. Si observa que un único host de terceros le realiza un seguimiento en tres sitios distintos, Privacy Badger rechazará automáticamente el contenido de dicho tracker de terceros.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
@@ -106,7 +106,7 @@ msgstr "¿Por qué el Privacy Badger bloquea la publicidad?"
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
 #, no-wrap
 msgid "Actually, nothing in the Privacy Badger code is specifically written to block ads. Rather, it focuses on disallowing any visible or invisible \"third party\" scripts or images that appear to be tracking you even though you specifically denied consent by sending [Do Not Track](https://www.eff.org/issues/do-not-track) and [Global Privacy Control](https://globalprivacycontrol.org/) signals. It just so happens that most (but not all) of these third party trackers are advertisements. When you see an ad, the ad sees you, and can track you. Privacy Badger is here to stop that.\n"
-msgstr "En realidad, nada en el código del Tejón de la privacidad está específicamente escrito para bloquear los anuncios. Más bien, se enfoca en no permitir que ningún script o imagen visible o invisible de \\\"terceros\\\" parezca estar siguiéndole a pesar de que usted ha negado específicamente su consentimiento enviando las señales «[No rastrear](https://www.eff.org/issues/do-not-track)» y «[Control de privacidad global](https://globalprivacycontrol.org/)». Sucede que la mayoría (pero no todos) esos rastreadores de terceros son anuncios. Cuando un anuncio es visible, el anuncio lo ve a usted y puede rastrearlo. Privacy Badger está aquí para detener eso.\n"
+msgstr "En realidad, nada en el código del Tejón de la privacidad está específicamente escrito para bloquear los anuncios. Más bien, se enfoca en no permitir que ningún script o imagen visible o invisible de \"terceros\" parezca estar siguiéndole a pesar de que usted ha negado específicamente su consentimiento enviando las señales «[No rastrear](https://www.eff.org/issues/do-not-track)» y «[Control de privacidad global](https://globalprivacycontrol.org/)». Sucede que la mayoría (pero no todos) esos rastreadores de terceros son anuncios. Cuando un anuncio es visible, el anuncio lo ve a usted y puede rastrearlo. Privacy Badger está aquí para detener eso.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
