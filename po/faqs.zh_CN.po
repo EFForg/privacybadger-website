@@ -4,7 +4,18 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-28 15:51-0400\nPO-Revision-Date: 2022-03-28 20:34+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 4.12-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-03-29 09:54-0400\n"
+"PO-Revision-Date: 2022-03-28 20:34+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -369,8 +380,8 @@ msgstr "隐私獾的许可证是什么？隐私獾的源代码在哪里？"
 #. type: Plain text
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
-msgid "Privacy Badger is GPLv3 code. You can find Privacy Badger [on GitHub](https://github.com/EFForg/privacybadger). There is a [development mailing list](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger is governed by EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy).\n"
-msgstr "隐私獾是GPLv3代码，您可以[在GitHub上](https://github.com/EFForg/privacybadger)找到隐私獾。有一个[开发邮件列表](https://lists.eff.org/mailman/listinfo/privacybadger)。隐私獾受EFF的[软件隐私政策](https://www.eff.org/code/privacy)管辖。\n"
+msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
+msgstr ""
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
@@ -581,3 +592,6 @@ msgstr ""
 #, no-wrap
 msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
 msgstr "要获得帮助或报告bug，请发邮件给[extension-devs@eff.org](mailto:extension-devs@eff.org)。如果您有GitHub帐号，您可以使用我们的[GitHub问题跟踪器](https://github.com/EFForg/privacybadger/issues)。\n"
+
+#~ msgid "Privacy Badger is GPLv3 code. You can find Privacy Badger [on GitHub](https://github.com/EFForg/privacybadger). There is a [development mailing list](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger is governed by EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy).\n"
+#~ msgstr "隐私獾是GPLv3代码，您可以[在GitHub上](https://github.com/EFForg/privacybadger)找到隐私獾。有一个[开发邮件列表](https://lists.eff.org/mailman/listinfo/privacybadger)。隐私獾受EFF的[软件隐私政策](https://www.eff.org/code/privacy)管辖。\n"

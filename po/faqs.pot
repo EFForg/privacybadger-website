@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-03-28 17:21-0400\n"
+"POT-Creation-Date: 2022-03-29 09:54-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -379,7 +379,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, markdown-text, no-wrap
-msgid "Privacy Badger is GPLv3 code. You can find Privacy Badger [on GitHub](https://github.com/EFForg/privacybadger). There is a [development mailing list](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger is governed by EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy).\n"
+msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
