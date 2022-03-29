@@ -10,6 +10,4 @@ weight: 23
 另请参见以下常见问题条目。
 
 * [隐私獾是否与其他扩展兼容，包括广告拦截器？](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)
-
 * [隐私獾在浏览器中阻止第三方cookie时仍然有效吗？](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)
-
