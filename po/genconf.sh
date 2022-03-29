@@ -17,7 +17,7 @@ cat << EOF
 
 [options] opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--master-language=en" opt:"--msgmerge-opt='--no-wrap'" opt:"--porefs=file" opt:"--wrap-po=newlines"
 
-[po4a_alias:markdown] text opt:"--option markdown" opt:"--option yfm_keys=question" opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--keep=100" opt:"--option neverwrap"
+[po4a_alias:markdown] text opt:"--option markdown" opt:"--option yfm_keys=question" opt:"--addendum-charset=UTF-8" opt:"--localized-charset=UTF-8" opt:"--master-charset=UTF-8" opt:"--keep=100" opt:"--option neverwrap" opt:"--option nobullets"
 
 EOF
 

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-03-29 13:25-0400\n"
+"POT-Creation-Date: 2022-03-29 15:09-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -310,16 +310,12 @@ msgstr ""
 msgid "Otherwise, you can use the following links to get the latest version of Privacy Badger directly from eff.org:\n"
 msgstr ""
 
-#. type: Bullet: '* '
+#. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, markdown-text, no-wrap
-msgid "Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
-msgstr ""
-
-#. type: Bullet: '* '
-#: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
-#, markdown-text, no-wrap
-msgid "Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
+msgid ""
+"* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
+"* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
@@ -502,16 +498,12 @@ msgstr ""
 msgid "See also the following FAQ entries:\n"
 msgstr ""
 
-#. type: Bullet: '* '
+#. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, markdown-text, no-wrap
-msgid "[Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-msgstr ""
-
-#. type: Bullet: '* '
-#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, markdown-text, no-wrap
-msgid "[Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+msgid ""
+"* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
+"* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
@@ -526,16 +518,12 @@ msgstr ""
 msgid "EFF uses Fastly to host EFF's Web resources: Fastly is EFF's CDN. Privacy Badger pings the CDN for the following resources to ensure that the information in them is fresh even if there hasn't been a new Privacy Badger release in a while:\n"
 msgstr ""
 
-#. type: Bullet: '* '
+#. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, markdown-text, no-wrap
-msgid "https://www.eff.org/files/dnt-policies.json\n"
-msgstr ""
-
-#. type: Bullet: '* '
-#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
-#, markdown-text, no-wrap
-msgid "https://www.eff.org/files/cookieblocklist_new.txt\n"
+msgid ""
+"* https://www.eff.org/files/dnt-policies.json\n"
+"* https://www.eff.org/files/cookieblocklist_new.txt\n"
 msgstr ""
 
 #. type: Plain text
@@ -574,16 +562,16 @@ msgstr ""
 msgid "I need help! I found a bug! What do I do now?"
 msgstr ""
 
-#. type: Bullet: '* '
+#. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
-msgid "If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
+msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
 msgstr ""
 
-#. type: Bullet: '* '
+#. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
-msgid "Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
+msgid "* Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
 msgstr ""
 
 #. type: Plain text
