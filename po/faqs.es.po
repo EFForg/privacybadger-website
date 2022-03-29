@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2022-03-29 09:54-0400\n"
+"POT-Creation-Date: 2022-03-29 13:21-0400\n"
 "PO-Revision-Date: 2022-03-28 21:54+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\n"
@@ -321,6 +321,18 @@ msgstr ""
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
+msgstr ""
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/new-faq-entry-test.md
+#, no-wrap
+msgid "Does adding a new FAQ entry work OK?"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/new-faq-entry-test.md
+#, no-wrap
+msgid "Let's verify.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
