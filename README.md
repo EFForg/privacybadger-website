@@ -1,6 +1,13 @@
 # Privacy Badger - Website
 
-Code for <https://privacybadger.org>.
+Code and content of <https://privacybadger.org>.
+
+## Translating
+
+Thank you for your interest in translating the Privacy Badger website! Translations are handled in [Weblate](https://weblate.org/en/).
+
+- To translate FAQ questions and answers, visit the [FAQs component on Weblate](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/).
+- To translate everything else, visit the [general strings component](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-strings/).
 
 ## Development
 
