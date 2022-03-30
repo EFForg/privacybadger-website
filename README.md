@@ -2,13 +2,6 @@
 
 Code and content of <https://privacybadger.org>.
 
-## Translating
-
-Thank you for your interest in translating the Privacy Badger website! Translations are handled in [Weblate](https://weblate.org/en/).
-
-- To translate [FAQ questions and answers](https://privacybadger.org/#faq), visit the [FAQs component on Weblate](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/).
-- To translate everything else, visit the [general strings component](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-strings/).
-
 ## Development
 
 1. Install the **extended** version of [Hugo](https://gohugo.io/getting-started/installing/) version [0.55.3](https://github.com/gohugoio/hugo/releases/tag/v0.55.3).
