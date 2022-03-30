@@ -4,8 +4,9 @@
   "description": "Privacy Badger documentation site",
   "scripts": {
     "jquery": "cp node_modules/jquery/dist/jquery.min.js assets/js/vendor/",
-    "start": "hugo serve --renderToDisk",
-    "lint": "./node_modules/.bin/eslint assets/js"
+    "lint": "./node_modules/.bin/eslint assets/js",
+    "po4a": "po4a po/po4a.conf && po/remove_obsolete.sh",
+    "start": "hugo serve --renderToDisk"
   },
   "author": "Electronic Frontier Foundation",
   "repository": "https://github.com/EFForg/privacybadger-website",

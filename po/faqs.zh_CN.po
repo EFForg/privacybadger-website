@@ -569,15 +569,3 @@ msgstr ""
 #, no-wrap
 msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
 msgstr "要获得帮助或报告bug，请发邮件给[extension-devs@eff.org](mailto:extension-devs@eff.org)。如果您有GitHub帐号，您可以使用我们的[GitHub问题跟踪器](https://github.com/EFForg/privacybadger/issues)。\n"
-
-#~ msgid "Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
-#~ msgstr "火狐: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
-
-#~ msgid "[Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-#~ msgstr "[隐私獾是否与其他扩展兼容，包括广告拦截器？](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-
-#~ msgid "https://www.eff.org/files/dnt-policies.json\n"
-#~ msgstr "https://www.eff.org/files/dnt-policies.json\n"
-
-#~ msgid "Privacy Badger is GPLv3 code. You can find Privacy Badger [on GitHub](https://github.com/EFForg/privacybadger). There is a [development mailing list](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger is governed by EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy).\n"
-#~ msgstr "隐私獾是GPLv3代码，您可以[在GitHub上](https://github.com/EFForg/privacybadger)找到隐私獾。有一个[开发邮件列表](https://lists.eff.org/mailman/listinfo/privacybadger)。隐私獾受EFF的[软件隐私政策](https://www.eff.org/code/privacy)管辖。\n"

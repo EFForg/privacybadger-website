@@ -569,12 +569,3 @@ msgstr ""
 #, no-wrap
 msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
 msgstr ""
-
-#~ msgid "[Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-#~ msgstr "[¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-
-#~ msgid "https://www.eff.org/files/dnt-policies.json\n"
-#~ msgstr "https://www.eff.org/files/dnt-policies.json\n"
-
-#~ msgid "Privacy Badger is GPLv3 code. You can find Privacy Badger [on GitHub](https://github.com/EFForg/privacybadger). There is a [development mailing list](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger is governed by EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy).\n"
-#~ msgstr "Privacy Badger es código GPLv3. Puede encontrar Privacy Badger [en GitHub](https://github.com/EFForg/privacybadger). Hay una [lista de correo de desarrollo](https://lists.eff.org/mailman/listinfo/privacybadger). Privacy Badger se rige por la [Política de privacidad del software de EFF](https://www.eff.org/code/privacy).\n"
