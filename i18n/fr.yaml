@@ -2,8 +2,45 @@ donate:
   other: "Faire Un Don"
 
 privacyBadgerLearns:
-  other: "Privacy Badger est une extension pour navigateurs qui apprend automatiquement\
-    \ à bloquer les traqueurs invisibles."
+  other: "Privacy Badger est une extension pour navigateurs qui apprend automatiquement à bloquer les traqueurs invisibles."
 
 installForBrowser:
-  other: "Installer pour {{.Browser}}"
+  other: "Ajouter à {{.Browser}}"
+notSupportedInThisBrowser:
+  other: Privacy Badger n'est pas pris en charge sur ce navigateur
+releaseNotes:
+  other: Notes de version pour la version {{.Version}}
+takeAction:
+  other: Participer
+browserNotSupported:
+  other: Navigateur non pris en charge
+moreInfo:
+  other: En savoir plus
+browserNameChrome:
+  other: Chrome
+browserNameFirefox:
+  other: Firefox
+browserNameFirefoxonAndroid:
+  other: Firefox sur Android
+browserNameMicrosoftEdge:
+  other: Edge
+browserNameOpera:
+  other: Opera
+otherBrowsers:
+  other: Autres navigateurs
+altInstall:
+  other: Options d'installation alternatives
+about:
+  other: À propos
+issues:
+  other: Problèmes
+ourWork:
+  other: Notre travail
+tools:
+  other: Outils
+faq:
+  other: FAQ
+FrequentlyAskedQuestions:
+  other: Foire Aux Questions
+backToQuestions:
+  other: Revenir aux questions ▲
