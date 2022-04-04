@@ -37,6 +37,9 @@ otherBrowsers:
 altInstall:
   other: "Alternative installation options"
 
+language:
+  other: "Language"
+
 about:
   other: "About"
 

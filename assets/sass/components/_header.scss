@@ -116,25 +116,8 @@ header {
   text-align: center;
   margin-bottom: 1em;
 
-  li {
-    display: inline-block;
-    margin-inline-end: 0.5em;
-
-    &:after {
-      margin-inline-start: 0.5em;
-      content: "\2022";
-    }
-
-    &:last-child:after {
-      content: none;
-    }
-
-    a {
-      text-decoration: none;
-
-      &:visited {
-        color: $medium-blue;
-      }
-    }
+  select {
+    margin-inline-start: 0.5em;
+    padding: 2px 4px;
   }
 }

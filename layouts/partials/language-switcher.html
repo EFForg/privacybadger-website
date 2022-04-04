@@ -1,13 +1,10 @@
 {{ if .Site.IsMultiLingual }}
-  <ul id="language-switcher">
-    {{ range .Site.Home.AllTranslations }}
-      <li>
-        {{ if (eq .Language $.Site.Language) }}
-        {{ .Language.LanguageName }}
-        {{ else }}
-        <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
-        {{ end }}
-      </li>
-    {{ end }}
-  </ul>
+<div id="language-switcher">
+  {{ i18n "language" }}
+  <select onchange="window.location.href = '/' + this.value + '/';">
+    {{- range .Site.Home.AllTranslations }}
+    <option value="{{ .Language.Lang }}"{{ if (eq .Language $.Site.Language) }} selected{{ end }}>{{ .Language.LanguageName }}</option>
+    {{- end }}
+  </select>
+</div>
 {{ end }}
