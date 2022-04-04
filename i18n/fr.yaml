@@ -5,13 +5,13 @@ installForBrowser:
   other: "Ajouter à {{.Browser}}"
 
 browserNotSupported:
-  other: Navigateur non pris en charge
+  other: Ce navigateur n’est pas pris en charge
 
 notSupportedInThisBrowser:
-  other: Privacy Badger n'est pas pris en charge sur ce navigateur
+  other: Privacy Badger n’est pas prise en charge dans ce navigateur
 
 moreInfo:
-  other: En savoir plus
+  other: plus de précisions
 
 browserNameChrome:
   other: Chrome
@@ -29,37 +29,37 @@ browserNameOpera:
   other: Opera
 
 releaseNotes:
-  other: Notes de version pour la version {{.Version}}
+  other: Notes de mise à jour pour la version {{.Version}}
 
 otherBrowsers:
   other: Autres navigateurs
 
 altInstall:
-  other: Options d'installation alternatives
+  other: Autres options d’installation
 
 about:
   other: À propos
 
 issues:
-  other: Problèmes
+  other: Enjeux
 
 ourWork:
   other: Notre travail
 
 takeAction:
-  other: Participer
+  other: Intervenir
 
 tools:
   other: Outils
 
 donate:
-  other: "Faire Un Don"
+  other: "Faire un don"
 
 faq:
   other: FAQ
 
 FrequentlyAskedQuestions:
-  other: Foire Aux Questions
+  other: Foire aux questions
 
 backToQuestions:
-  other: Revenir aux questions ▲
+  other: Retourner aux questions ▲
