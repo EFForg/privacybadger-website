@@ -4,31 +4,31 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-04-04 14:59+0000\nLast-Translator: Nathan <bonnemainsnathan@gmail.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.12-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
 #, no-wrap
 msgid "What is Privacy Badger?"
-msgstr ""
+msgstr "Qu'est-ce que Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Privacy-Badger.md
 #, markdown-text, no-wrap
 msgid "Privacy Badger is a browser extension that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.\n"
-msgstr ""
+msgstr "Privacy Badger est une extension de navigateur qui empêche les annonceurs et autres traceurs tiers de suivre clandestinement vos allées et venues et les pages que vous consultez sur le Web.  Si un annonceur semble vous suivre sur plusieurs sites Web sans votre permission, Privacy Badger bloque automatiquement cet annonceur et l'empêche de charger davantage de contenu dans votre navigateur.  Pour l'annonceur, c'est comme si vous aviez soudainement disparu.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "How is Privacy Badger different from other blocking extensions?"
-msgstr ""
+msgstr "En quoi Privacy Badger est-il différent des autres extensions de blocage ?"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, markdown-text, no-wrap
 msgid "Privacy Badger was born out of our desire to be able to recommend a single extension that would automatically analyze and block any tracker or ad that violated the principle of user consent; which could function well without any settings, knowledge, or configuration by the user; which is produced by an organization that is unambiguously working for its users rather than for advertisers; and which uses algorithmic methods to decide what is and isn't tracking.\n"
-msgstr ""
+msgstr "Privacy Badger est né de notre désir de pouvoir recommander une seule extension qui analyserait et bloquerait automatiquement tout traceur ou publicité qui violerait le principe du consentement de l'utilisateur ; qui pourrait fonctionner sans aucun réglage, connaissance ou configuration de la part de l'utilisateur ; qui est produite par une organisation qui travaille sans ambiguïté pour ses utilisateurs plutôt que pour les annonceurs ; et qui utilise des méthodes algorithmiques pour décider ce qui est et ce qui n'est pas du pistage.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
