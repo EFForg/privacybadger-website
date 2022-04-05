@@ -7,4 +7,23 @@
     {{- end }}
   </select></label>
 </div>
+
+<noscript>
+  <style>
+#language-switcher {
+  display: none;
+}
+  </style>
+  <ul id="language-switcher-noscript">
+    {{- range .Site.Home.AllTranslations }}
+    <li>
+      {{- if (eq .Language $.Site.Language) }}
+      {{ .Language.LanguageName }}
+      {{- else }}
+      <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+      {{- end }}
+    </li>
+    {{- end }}
+  </ul>
+</noscript>
 {{ end }}
