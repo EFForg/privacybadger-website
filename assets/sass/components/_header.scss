@@ -82,8 +82,9 @@ $header-font-color: rgba(0, 0, 0, 0.69);
       font-weight: 400;
       line-height: 1.3rem;
       text-transform: uppercase;
-      width: 7rem;
+      min-width: 7rem;
       height: 1.7rem;
+      padding: 0 20px;
       text-align: center;
 
       a {
@@ -111,10 +112,37 @@ header {
   }
 }
 
-#language-switcher {
+#language-switcher, #language-switcher-noscript {
   font-size: 0.85rem;
   text-align: center;
   margin-bottom: 1em;
+
+  select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-inline-start: 0.5em;
+    padding: 5px 25px 5px 10px;
+  }
+
+  label {
+    position: relative;
+
+    &:after {
+      position: absolute;
+      right: 10px;
+      top: 4px;
+      content: ' ';
+      height: 0.5em;
+      width: 0.5em;
+      border-bottom: 2px solid #555;
+      border-right: 2px solid #555;
+      transform: rotate(45deg);
+      pointer-events: none;
+    }
+  }
 
   li {
     display: inline-block;
