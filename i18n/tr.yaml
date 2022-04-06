@@ -24,6 +24,8 @@ otherBrowsers:
   other: Diğer tarayıcılar
 altInstall:
   other: Alternatif kurulum seçenekleri
+language:
+  other: Dil
 about:
   other: Hakkında
 issues:
@@ -40,5 +42,3 @@ FrequentlyAskedQuestions:
   other: Sık Sorulan Sorular
 backToQuestions:
   other: Sorulara geri dön ▲
-language:
-  other: Dil

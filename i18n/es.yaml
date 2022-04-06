@@ -37,6 +37,9 @@ otherBrowsers:
 altInstall:
   other: "Opciones alternativas de instalación"
 
+language:
+  other: Idioma
+
 about:
   other: "Sobre"
 
@@ -60,5 +63,3 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Volver a las preguntas ▲"
-language:
-  other: Idioma

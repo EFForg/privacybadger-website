@@ -37,6 +37,9 @@ otherBrowsers:
 altInstall:
   other: ""
 
+language:
+  other: Språk
+
 about:
   other: ""
 
@@ -60,5 +63,3 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: ""
-language:
-  other: Språk
