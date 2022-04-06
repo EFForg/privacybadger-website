@@ -1,6 +1,5 @@
 privacyBadgerLearns:
-  other: Privacy Badger, görünmez izleyicileri engellemeyi otomatik olarak öğrenen
-    bir tarayıcı uzantısıdır.
+  other: Privacy Badger, görünmez izleyicileri engellemeyi otomatik olarak öğrenen bir tarayıcı uzantısıdır.
 installForBrowser:
   other: "{{.Browser}}'a Ekle"
 browserNotSupported:
@@ -41,3 +40,5 @@ FrequentlyAskedQuestions:
   other: Sık Sorulan Sorular
 backToQuestions:
   other: Sorulara geri dön ▲
+language:
+  other: Dil
