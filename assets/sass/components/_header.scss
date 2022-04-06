@@ -82,8 +82,9 @@ $header-font-color: rgba(0, 0, 0, 0.69);
       font-weight: 400;
       line-height: 1.3rem;
       text-transform: uppercase;
-      width: 7rem;
+      min-width: 7rem;
       height: 1.7rem;
+      padding: 0 20px;
       text-align: center;
 
       a {
