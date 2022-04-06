@@ -131,12 +131,12 @@ header {
     &:after {
       position: absolute;
       right: 10px;
-      top: 3px;
+      top: 4px;
       content: ' ';
       height: 0.5em;
       width: 0.5em;
-      border-bottom: 2px solid;
-      border-right: 2px solid;
+      border-bottom: 2px solid #555;
+      border-right: 2px solid #555;
       transform: rotate(45deg);
       pointer-events: none;
     }
