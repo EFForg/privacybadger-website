@@ -60,3 +60,5 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Volver a las preguntas ▲"
+language:
+  other: Idioma
