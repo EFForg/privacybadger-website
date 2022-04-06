@@ -5,8 +5,10 @@ echo
 
 # generate the locales line
 echo -n "[po4a_langs]"
-for f in content/*; do
-  [ -d "$f" ] && [ "$f" != "content/en" ] && echo -n " $(basename "$f")"
+for po_file in po/faqs.*.po; do
+  locale_code="${po_file#po/faqs.}" # strip prefix
+  locale_code="${locale_code%.po}" # strip suffix
+  echo -n " $locale_code"
 done
 echo
 
