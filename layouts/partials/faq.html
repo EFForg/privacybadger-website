@@ -6,7 +6,7 @@
 
   {{- $pages := (where .Pages "Section" "faqs") }}
   {{- $pages = $pages | lang.Merge (where .Sites.First.Pages "Section" "faqs") }}
-  {{- $pages := $pages | intersect (where .Pages "Params.question" "!=" nil) }}
+  {{- $pages := $pages | intersect (where $pages "Params.question" "!=" nil) }}
 
   <div class="anchors">
     <ul>
