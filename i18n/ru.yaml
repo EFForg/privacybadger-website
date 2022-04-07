@@ -1,65 +1,65 @@
 privacyBadgerLearns:
-  other: ""
+  other: "Privacy Badger — это расширение для браузера, которое автоматически учится блокировать невидимые трекеры."
 
 installForBrowser:
-  other: ""
+  other: "Добавить в {{.Browser}}"
 
 browserNotSupported:
-  other: ""
+  other: "Браузер не поддерживается"
 
 notSupportedInThisBrowser:
-  other: ""
+  other: "Privacy Badger не поддерживается в этом браузере"
 
 moreInfo:
-  other: ""
+  other: "дополнительная информация"
 
 browserNameChrome:
-  other: ""
+  other: "Chrome"
 
 browserNameFirefox:
-  other: ""
+  other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: ""
+  other: "Firefox для Android"
 
 browserNameMicrosoftEdge:
-  other: ""
+  other: "Edge"
 
 browserNameOpera:
-  other: ""
+  other: "Opera"
 
 releaseNotes:
-  other: ""
+  other: "Примечания к выпуску {{.Version}}"
 
 otherBrowsers:
-  other: ""
+  other: "Другие браузеры"
 
 altInstall:
-  other: ""
+  other: "Альтернативные варианты установки"
 
 language:
-  other: ""
+  other: "Язык"
 
 about:
-  other: ""
+  other: "Об организации EFF"
 
 issues:
-  other: ""
+  other: "Задачи"
 
 ourWork:
-  other: ""
+  other: "Наша работа"
 
 takeAction:
-  other: ""
+  other: "Действовать"
 
 tools:
-  other: ""
+  other: "Инструменты"
 
 donate:
-  other: ""
+  other: "Пожертвовать"
 
 FrequentlyAskedQuestions:
-  other: ""
+  other: "Часто задаваемые вопросы"
 
 backToQuestions:
-  other: ""
+  other: "Вернуться к вопросам ▲"
