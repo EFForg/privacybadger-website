@@ -50,13 +50,13 @@ ourWork:
   other: "Наше дело"
 
 takeAction:
-  other: "Действовать"
+  other: "Действуйте"
 
 tools:
   other: "Инструменты"
 
 donate:
-  other: "Пожертвовать"
+  other: "Пожертвуйте"
 
 FrequentlyAskedQuestions:
   other: "Часто задаваемые вопросы"
