@@ -19,11 +19,15 @@ title = "Privacy Badger"
     contentDir = "content/fr"
     languageName = "Français"
     weight = 3
+  [languages.ru]
+    contentDir = "content/ru"
+    languageName = "Русский"
+    weight = 4
   [languages.tr]
     contentDir = "content/tr"
     languageName = "Türkçe"
-    weight = 4
+    weight = 5
   [languages.zh-CN]
     contentDir = "content/zh_CN"
     languageName = "中文（中国）"
-    weight = 5
+    weight = 6
