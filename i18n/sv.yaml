@@ -1,65 +1,65 @@
 privacyBadgerLearns:
-  other: ""
+  other: "Privacy Badger är ett webbläsartillägg som automatiskt lär sig att blockera osynliga spårare."
 
 installForBrowser:
-  other: ""
+  other: "Addera till {{.Browser}}"
 
 browserNotSupported:
-  other: ""
+  other: "Browser stödjs ej"
 
 notSupportedInThisBrowser:
-  other: ""
+  other: "Privacy Badger stöds inte i den här webbläsaren"
 
 moreInfo:
-  other: ""
+  other: "Mer information"
 
 browserNameChrome:
-  other: ""
+  other: "Chrome"
 
 browserNameFirefox:
-  other: ""
+  other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: ""
+  other: "Firefox på android"
 
 browserNameMicrosoftEdge:
-  other: ""
+  other: "Edge"
 
 browserNameOpera:
-  other: ""
+  other: "Opera"
 
 releaseNotes:
-  other: ""
+  other: "Utgivningsnotiser för v{{{.Version}}"
 
 otherBrowsers:
-  other: ""
+  other: "Andra webbläsare"
 
 altInstall:
-  other: ""
+  other: "Alternativa installationsalternativ"
 
 language:
   other: Språk
 
 about:
-  other: ""
+  other: "Om"
 
 issues:
   other: ""
 
 ourWork:
-  other: ""
+  other: "Vårat jobb"
 
 takeAction:
-  other: ""
+  other: "Agera"
 
 tools:
-  other: ""
+  other: "Verktyg"
 
 donate:
-  other: ""
+  other: "Donera"
 
 FrequentlyAskedQuestions:
-  other: ""
+  other: "Vanliga frågor"
 
 backToQuestions:
-  other: ""
+  other: "Tillbaka till frågor ▲"
