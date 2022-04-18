@@ -11,7 +11,7 @@ notSupportedInThisBrowser:
   other: "Privacy Badger stöds inte i den här webbläsaren"
 
 moreInfo:
-  other: "Mer information"
+  other: "mer information"
 
 browserNameChrome:
   other: "Chrome"
@@ -20,7 +20,7 @@ browserNameFirefox:
   other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: "Firefox på android"
+  other: "Firefox på Android"
 
 browserNameMicrosoftEdge:
   other: "Edge"
@@ -29,7 +29,7 @@ browserNameOpera:
   other: "Opera"
 
 releaseNotes:
-  other: "Utgivningsnotiser för v{{{.Version}}"
+  other: "Utgivningsnotiser för v{{.Version}}"
 
 otherBrowsers:
   other: "Andra webbläsare"
