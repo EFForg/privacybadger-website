@@ -1,17 +1,17 @@
 privacyBadgerLearns:
-  other: "Privacy Badger is a browser extension that automatically learns to block invisible trackers."
+  other: "Privacy Badger ist eine Browsererweiterung welche automatisch lernt, unsichtbare Tracker zu blockieren."
 
 installForBrowser:
-  other: "Add to {{.Browser}}"
+  other: "Hinzufügen zu {{.Browser}}"
 
 browserNotSupported:
-  other: "Browser Not Supported"
+  other: "Browser nicht unterstützt"
 
 notSupportedInThisBrowser:
-  other: "Privacy Badger is not supported in this browser"
+  other: "Privacy Badger wird in diesem Browser nicht unterstützt"
 
 moreInfo:
-  other: "more info"
+  other: "mehr Infos"
 
 browserNameChrome:
   other: "Chrome"
@@ -20,7 +20,7 @@ browserNameFirefox:
   other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: "Firefox on Android"
+  other: "Firefox für Android"
 
 browserNameMicrosoftEdge:
   other: "Edge"
@@ -29,37 +29,37 @@ browserNameOpera:
   other: "Opera"
 
 releaseNotes:
-  other: "Release notes for v{{.Version}}"
+  other: "Versionshinweise für v{{.Version}}"
 
 otherBrowsers:
-  other: "Other browsers"
+  other: "andere Browser"
 
 altInstall:
-  other: "Alternative installation options"
+  other: "Alternative Installationsoptionen"
 
 language:
-  other: "Language"
+  other: "Sprache"
 
 about:
-  other: "About"
+  other: "Über"
 
 issues:
-  other: "Issues"
+  other: "Themen"
 
 ourWork:
-  other: "Our Work"
+  other: "Unsere Arbeit"
 
 takeAction:
-  other: "Take Action"
+  other: "Mach mit"
 
 tools:
   other: "Tools"
 
 donate:
-  other: "Donate"
+  other: "Spenden"
 
 FrequentlyAskedQuestions:
   other: "Frequently Asked Questions"
 
 backToQuestions:
-  other: "Back to questions ▲"
+  other: "Zurück zu den Fragen ▲"
