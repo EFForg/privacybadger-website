@@ -32,7 +32,7 @@ releaseNotes:
   other: "Versionshinweise für {{.Version}}"
 
 otherBrowsers:
-  other: "andere Browser"
+  other: "Andere Browser"
 
 altInstall:
   other: "Alternative Installationsoptionen"
