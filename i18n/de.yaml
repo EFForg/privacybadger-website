@@ -1,65 +1,65 @@
 privacyBadgerLearns:
-  other: ""
+  other: "Privacy Badger ist eine Browsererweiterung welche automatisch lernt, unsichtbare Tracker zu blockieren."
 
 installForBrowser:
-  other: ""
+  other: "Hinzufügen zu"
 
 browserNotSupported:
-  other: ""
+  other: "Browser wird nicht unterstützt"
 
 notSupportedInThisBrowser:
-  other: ""
+  other: "Privacy Badger wird in diesem Browser nicht unterstützt"
 
 moreInfo:
-  other: ""
+  other: "mehr Infos"
 
 browserNameChrome:
-  other: ""
+  other: "Chrome"
 
 browserNameFirefox:
-  other: ""
+  other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: ""
+  other: "Firefox für Android"
 
 browserNameMicrosoftEdge:
-  other: ""
+  other: "Edge"
 
 browserNameOpera:
-  other: ""
+  other: "Opera"
 
 releaseNotes:
-  other: ""
+  other: "Versionshinweise für"
 
 otherBrowsers:
-  other: ""
+  other: "Andere Browser"
 
 altInstall:
-  other: ""
+  other: "Alternative Installationsoptionen"
 
 language:
-  other: ""
+  other: "Sprache"
 
 about:
-  other: ""
+  other: "Über"
 
 issues:
-  other: ""
+  other: "Themen"
 
 ourWork:
-  other: ""
+  other: "Unsere Arbeit"
 
 takeAction:
-  other: ""
+  other: "Mach mit"
 
 tools:
-  other: ""
+  other: "Tools"
 
 donate:
-  other: ""
+  other: "Spenden"
 
 FrequentlyAskedQuestions:
-  other: ""
+  other: "Häufig gestellte Fragen"
 
 backToQuestions:
-  other: ""
+  other: "Zurück zu den Fragen ▲"
