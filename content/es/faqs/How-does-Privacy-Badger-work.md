@@ -1,0 +1,10 @@
+---
+question: '¿Cómo funciona Privacy Badger?'
+weight: 2
+---
+
+Al ver una página web, esa página a menudo estará compuesta de contenido de muchas fuentes diferentes.  (Por ejemplo, una página web de noticias puede cargar el artículo real de la compañía de noticias, los anuncios de una compañía de anuncios y la sección de comentarios de una compañía diferente que ha sido contratada para proporcionar ese servicio.)  Privacy Badger lleva un registro de todo esto.  Si mientras navega por la web, la misma fuente parece estar rastreando su navegador a través de diferentes sitios web, entonces Privacy Badger entra en acción y le dice a su navegador que no cargue más contenido de esa fuente.  Y cuando su navegador deja de cargar contenido de una fuente, esa fuente ya no puede seguirle la pista.  ¡Voilà!
+
+A un nivel más técnico, Privacy Badger toma nota de los dominios de "terceros" que insertan imágenes, scripts y publicidad en las páginas que usted visita. Privacy Badger busca técnicas de rastreo como cookies de identificación única, "supercookies" de almacenamiento local, y el rastreo de las impresiones dactilares por parte de su navegador. Si observa que un único host de terceros le realiza un seguimiento en tres sitios distintos, Privacy Badger rechazará automáticamente el contenido de dicho tracker de terceros.
+
+Por defecto, Privacy Badger recibe actualizaciones periódicas de aprendizaje de [Badger Sett](https://github.com/EFForg/badger-sett), nuestro proyecto de entrenamiento de Badger. Este "aprendizaje remoto" descubre automáticamente los rastreadores presentes en miles de los sitios más populares de la web. Privacy Badger [ya no aprende de su navegación](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) por defecto, ya que el "aprendizaje local" puede hacer que usted sea más identificable para los sitios web. Es posible que quiera volver a optar por el aprendizaje local si navega regularmente por sitios web menos populares. Para ello, visite la página de opciones de su Badger y marque la casilla de aprendizaje para bloquear nuevos rastreadores de su navegación
