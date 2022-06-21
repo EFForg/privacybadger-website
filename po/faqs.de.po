@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 13:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 13:50+0000\nLast-Translator: Valentin Binotto <valentin.binotto@protonmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -28,7 +28,7 @@ msgstr "Wie unterscheidet sich Privacy Badger von anderen Blocking-Erweiterungen
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, markdown-text, no-wrap
 msgid "Privacy Badger was born out of our desire to be able to recommend a single extension that would automatically analyze and block any tracker or ad that violated the principle of user consent; which could function well without any settings, knowledge, or configuration by the user; which is produced by an organization that is unambiguously working for its users rather than for advertisers; and which uses algorithmic methods to decide what is and isn't tracking.\n"
-msgstr "Die Idee hinter Privacy Badger ist es, eine einzige Erweiterung bereitzustellen, welche automatisch Tracker, die nicht um deine Zustimmung fragen, analysiert und blockiert; welche ohne komplizierte Einstellungen, spezifischem Wissen oder Konfiguration durch den Nutzer, verwendet werden kann; welche Algorithmen verwendet, um zu entscheiden, was Tracking ist und was nicht; und welche bereitgestellt wird von einer Organisation, welche für die Menschen arbeitet, nicht für Werbetreibende.\n"
+msgstr "Die Idee hinter Privacy Badger ist es, eine einzige Erweiterung bereitzustellen, welche automatisch Tracker, die nicht um deine Zustimmung fragen und dich auch ohne dein Einverständnis verfolgen, analysiert und blockiert; welche ohne komplizierte Einstellungen, spezifischem Wissen oder Konfiguration durch den Nutzer, verwendet werden kann; welche Algorithmen verwendet, um zu entscheiden, was Tracking ist und was nicht; und welche bereitgestellt wird von einer Organisation, welche für die Menschen arbeitet, nicht für Werbetreibende.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
