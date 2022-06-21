@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-18 07:18+0000\nLast-Translator: Valentin Binotto <valentin.binotto@protonmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 13:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -556,7 +556,7 @@ msgstr "Ich brauche Unterstützung! Ich habe einen Bug gefunden! Was soll ich tu
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
-msgstr "* Wenn **eine Website nicht funktioniert** wie sie sollte, kannst du Privacy Badger für diese bestimmte Seite deaktivieren, während Privacy Badger dich weiterhin auf allen anderen Websites schützt. Um dies zu tun, besuchst du die betroffene Website, klickst auf das Icon von Privacy Badger in der Browser-Symbolleiste, und klickst auf den \"**Für diese Seite deaktivieren**\" Button in Privacy Badger's Fenster. Du kannst uns auch schnell mit dem \"**Defekte Seite melden**\" Button über Websites informieren, welche nicht mit Privacy Badger funktionieren.\n"
+msgstr "* Wenn **eine Website nicht funktioniert** wie sie sollte, kannst du Privacy Badger für diese bestimmte Seite deaktivieren, während Privacy Badger dich weiterhin auf allen anderen Websites schützt. Um dies zu tun, besuchst du die betroffene Website, klickst auf das Icon von Privacy Badger in der Browser-Symbolleiste, und klickst auf den \"**Für diese Site deaktivieren**\" Button in Privacy Badger's Fenster. Du kannst uns auch schnell mit dem \"**Defekte Site melden**\" Button über Websites informieren, welche nicht mit Privacy Badger funktionieren.\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
