@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 13:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 14:06+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -34,7 +34,7 @@ msgstr "Privacy Badger nació de nuestro deseo de ser capaces de recomendar una 
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "As a result, Privacy Badger differs from traditional ad-blocking extensions in two key ways. First, while most other blocking extensions prioritize blocking ads, Privacy Badger is purely a tracker-blocker. The extension doesn’t block ads unless they happen to be tracking you; in fact, one of our goals is to incentivize advertisers to adopt better privacy practices. Second, most other blockers rely on a human-curated list of domains or URLs to block. Privacy Badger is an algorithmic tracker blocker -- we define what “tracking” looks like, and then Privacy Badger blocks or restricts domains that it observes tracking in the wild. What is and isn’t considered a tracker is entirely based on how a specific domain acts, not on human judgment. ([See also](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).)\n"
-msgstr ""
+msgstr "Por ello, Privacy Badger se diferencia de las extensiones tradicionales de bloqueo de anuncios en dos aspectos fundamentales. En primer lugar, mientras que la mayoría de las extensiones de bloqueo dan prioridad al bloqueo de anuncios, Privacy Badger es estrictamente un bloqueador de rastreadores. La extensión no bloquea los anuncios a menos que te estén rastreando; de hecho, uno de nuestros objetivos es incentivar a los anunciantes para que adopten mejores prácticas de privacidad. En segundo lugar, la mayoría de los otros bloqueadores se basan en una lista de dominios o URLs seleccionadas por el ser humano para ser bloqueadas. Privacy Badger es un bloqueador de rastreadores algorítmico: nosotros definimos qué es el \"rastreo\", y luego Privacy Badger bloquea o restringe los dominios que observa que rastrean en la naturaleza. Lo que se considera y lo que no se considera un rastreador se basa totalmente en cómo actúa un dominio específico, no en el juicio humano. ([Ver también](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-work.md
