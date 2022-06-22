@@ -3,7 +3,7 @@ question: 'Wie unterscheidet sich Privacy Badger von anderen Blocking-Erweiterun
 weight: 1
 ---
 
-Die Idee hinter Privacy Badger ist es, eine einzige Erweiterung bereitzustellen, welche automatisch Tracker, die nicht um deine Zustimmung fragen, analysiert und blockiert; welche ohne komplizierte Einstellungen, spezifischem Wissen oder Konfiguration durch den Nutzer, verwendet werden kann; welche Algorithmen verwendet, um zu entscheiden, was Tracking ist und was nicht; und welche bereitgestellt wird von einer Organisation, welche für die Menschen arbeitet, nicht für Werbetreibende.
+Die Idee hinter Privacy Badger ist es, eine einzige Erweiterung bereitzustellen, welche automatisch Tracker, die dich ohne dein Einverständnis verfolgen, analysiert und blockiert; welche ohne komplizierte Einstellungen, spezifischem Wissen oder Konfiguration durch den Nutzer, verwendet werden kann; welche Algorithmen verwendet, um zu entscheiden, was Tracking ist und was nicht; und welche bereitgestellt wird von einer Organisation, welche für die Menschen arbeitet, nicht für Werbetreibende.
 
 Privacy Badger unterscheidet sich also in zwei wichtigen Punkten von anderen Ad-Blockern:
 Erstens, während die meisten anderen Erweiterungen hauptsächlich Werbung entfernen, ist Privacy Badger ein Tracking-Blocker. Privacy Badger wird keine Werbung blockieren, ausser sie zeichnet dein Verhalten auf; denn eines unserer Ziele ist es, Werbetreibende zu einem besseren Umgang mit deiner Privatsphäre zu bewegen.
