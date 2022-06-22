@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-22 14:06+0000\nLast-Translator: Valentin Binotto <valentin.binotto@protonmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-23 15:18+0000\nLast-Translator: Valentin Binotto <valentin.binotto@protonmail.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -118,7 +118,7 @@ msgstr "Warum blockt Privacy Badger nicht alle Anzeigen?"
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
 #, markdown-text, no-wrap
 msgid "Because Privacy Badger is primarily a privacy tool, not an ad blocker. Our aim is not to block ads, but to prevent non-consensual invasions of people's privacy because we believe they are inherently objectionable. We also want to create incentives for advertising companies to do the right thing. Of course, if you really dislike ads, you can also install a traditional ad blocker.\n"
-msgstr ""
+msgstr "Privacy Badger ist vorallem ein Tool für mehr Privatsphäre, kein Ad-Blocker. Unser Ziel ist es nicht, Anzeigen und Werbung zu blockieren, sondern Eingriffe in die Privatsphäre von Internetnutzern, die diesem Tracking nicht zugestimmt haben, zu verhindern. Denn wir glauben, dass ein solches Verhalten grundsätzlich verwerflich ist. Auch möchten wir Anreize für Werbetreibende schaffen, das Richtige zu tun. Wenn du Werbung und Anzeigen nicht magst, kannst du natürlich auch einen herkömmlichen Ad-blocker installieren.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -532,13 +532,13 @@ msgstr "Warum braucht Privacy Badger Zugriff auf meine Daten für alle Websites?
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, markdown-text, no-wrap
 msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
-msgstr ""
+msgstr "Wenn du Privacy Badger installierst wird dein Browser dich warnen, dass Privacy Badger \"auf deine Daten für alle Websites zugreifen kann\" (in Firefox, oder \"alle deine Daten für besuchte Websites zugreifen kann\" in Chrome). Zu Recht bist du vorsichtig. Du solltest nur Erweiterungen installieren, die von Organisationen stammen, denen du vertraust.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, markdown-text, no-wrap
 msgid "Privacy Badger requires these permissions to do its job of automatically detecting and blocking trackers on all websites you visit. We are not ironically (or unironically) spying on you. For more information, see our [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
-msgstr ""
+msgstr "Privacy Badger benötigt diese Berechtigungen, um automatisch Tracker auf allen besuchten Websites zu erkennen und zu blockieren. Wir spionieren dich nicht aus. Für mehr Informationen besuche unsere [Dokumentation zu den Berechtigungen von Privacy Badger](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
