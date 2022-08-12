@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-12 15:23+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-12 15:32+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -64,7 +64,7 @@ msgstr "Par défaut, Privacy Badger reçoit des mises à jour d'apprentissage p�
 #: content/en/faqs/What-is-a-third-party-tracker.md
 #, no-wrap
 msgid "What is a third party tracker?"
-msgstr "Qu'est-ce qu'un traqueur tiers ?"
+msgstr "Qu'est-ce qu'un traqueur tiers ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-a-third-party-tracker.md
@@ -76,7 +76,7 @@ msgstr "Lorsque vous visitez une page Web, certaines parties de cette page peuve
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, no-wrap
 msgid "What do the red, yellow and green sliders in the Privacy Badger menu mean?"
-msgstr "À quoi correspondent les curseurs rouges, jaunes et bleus dans Privacy Badger ?"
+msgstr "À quoi correspondent les curseurs rouges, jaunes et bleus dans Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
@@ -100,7 +100,7 @@ msgstr "La couleur verte signifie « pas d'action » ; Privacy Badger laisse ce 
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
 #, no-wrap
 msgid "Why does Privacy Badger block ads?"
-msgstr "Pourquoi Privacy Badger bloque les publicités ?"
+msgstr "Pourquoi Privacy Badger bloque les publicités ?"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
@@ -124,7 +124,7 @@ msgstr "Parce que Privacy Badger est avant tout un outil de protection de la vie
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What is Global Privacy Control (GPC)?"
-msgstr "Qu'est-ce le « Contrôle global de la protection des données » (GPC) ?"
+msgstr "Qu'est-ce le « Contrôle global de la protection des données » (GPC) ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -166,7 +166,7 @@ msgstr "Vous pouvez en apprendre d'avantage au sujet du GPC et de vos droits [ic
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
 #, no-wrap
 msgid "What about tracking by the sites I actively visit, like NYTimes.com or Facebook.com?"
-msgstr "Qu'en est-il du suivi de la part des sites que je visite volontairement, comme LeMonde.fr ou Facebook.com ?"
+msgstr "Qu'en est-il du suivi de la part des sites que je visite volontairement, comme LeMonde.fr ou Facebook.com ?"
 
 #. type: Plain text
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
@@ -184,7 +184,7 @@ msgstr "Nous procédons de cette manière parce que la forme la plus scandaleuse
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Does Privacy Badger contain a list of blocked sites?"
-msgstr "Est-ce que Privacy Badger maintient une liste des sites bloqués ?"
+msgstr "Est-ce que Privacy Badger maintient une liste des sites bloqués ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
@@ -202,7 +202,7 @@ msgstr "Privacy Badger _contient_ une « [liste jaune](https://github.com/EFForg
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
 #, no-wrap
 msgid "How was the cookie blocking yellowlist created?"
-msgstr "Comment a été construites cette liste jaune de blocage des cookies ?"
+msgstr "Comment a été construites cette liste jaune de blocage des cookies ?"
 
 #. type: Plain text
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
@@ -214,7 +214,7 @@ msgstr "La liste initiale des domaines qui devraient être bloqués par des cook
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
 #, no-wrap
 msgid "Does Privacy Badger prevent fingerprinting?"
-msgstr "Est-ce que Privacy Badger empêche la reconnaissance par empreinte numérique du navigateur ?"
+msgstr "Est-ce que Privacy Badger empêche la reconnaissance par empreinte numérique du navigateur ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
@@ -226,7 +226,7 @@ msgstr "L'empreinte numérique du navigateur est une méthode de suivi extrêmem
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "Does Privacy Badger consider every cookie to be a tracking cookie?"
-msgstr "Est-ce que Privacy Badger considère chaque cookie comme un cookie traqueur ?"
+msgstr "Est-ce que Privacy Badger considère chaque cookie comme un cookie traqueur ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
@@ -238,7 +238,7 @@ msgstr "Non. Privacy Badger analyse les cookies de chaque site ; les cookies uni
 #: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
 #, no-wrap
 msgid "Does Privacy Badger account for a cookie that was used to track me even if I deleted it?"
-msgstr "Est-ce que Privacy Badger tient compte d'un cookie qui a été utilisé pour me suivre, même si je l'ai supprimé ?"
+msgstr "Est-ce que Privacy Badger tient compte d'un cookie qui a été utilisé pour me suivre, même si je l'ai supprimé ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
@@ -250,7 +250,7 @@ msgstr "Oui. Lorsque [l'apprentissage est activé](#How-does-Privacy-Badger-work
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
 #, no-wrap
 msgid "Does Privacy Badger still learn when I set my browser to block all third-party cookies?"
-msgstr "Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?"
+msgstr "Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
@@ -262,7 +262,7 @@ msgstr "Lorsque [l'apprentissage est activé](#How-does-Privacy-Badger-work) et 
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?"
-msgstr "Est-ce que vous allez supporter d'autres navigateurs en plus de Chrome, Firefox, Edge et Opera ?"
+msgstr "Est-ce que vous allez supporter d'autres navigateurs en plus de Chrome, Firefox, Edge et Opera ?"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -286,7 +286,7 @@ msgstr "Privacy Badger ne fonctionne pas avec [Microsoft Edge Legacy](https://su
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Can I download Privacy Badger directly from eff.org?"
-msgstr "Est-ce que je peux télécharger Privacy Badger directement depuis eff.org ?"
+msgstr "Est-ce que je peux télécharger Privacy Badger directement depuis eff.org ?"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -312,7 +312,7 @@ msgstr "* Pour Firefox : [https://www.eff.org/files/privacy-badger-latest.xpi](h
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
-msgstr "Je gère un domaine qui utilise des cookies ou d'autres moyens de suivi. Comment puis-je empêcher Privacy Badger de me bloquer ?"
+msgstr "Je gère un domaine qui utilise des cookies ou d'autres moyens de suivi. Comment puis-je empêcher Privacy Badger de me bloquer ?"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -336,7 +336,7 @@ msgstr "Il est à noter que le domaine doit prendre en charge le protocole HTTPS
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "En tant qu'administrateur, comment est-ce que je configure Privacy Badger sur les appareils que je gère ?"
+msgstr "En tant qu'administrateur, comment est-ce que je configure Privacy Badger sur les appareils que je gère ?"
 
 #. type: Plain text
 #: content/en/faqs/admin-deployment-and-configuration.md
@@ -348,7 +348,7 @@ msgstr "Veuillez lire notre document [Déployer et configurer au niveau d'une en
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
-msgstr "Où puis-je trouver des informations générales sur Privacy Badger que je peux utiliser pour un article que je suis en train d'écrire ?"
+msgstr "Où puis-je trouver des informations générales sur Privacy Badger que je peux utiliser pour un article que je suis en train d'écrire ?"
 
 #. type: Plain text
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
@@ -360,7 +360,7 @@ msgstr "Content que vous demandiez ! Vous pouvez consulter ce [dossier de presse
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
 msgid "What is the Privacy Badger license? Where is the Privacy Badger source code?"
-msgstr "Quelle est la licence de Privacy Badger ? Où est le code source de Privacy Badger ?"
+msgstr "Quelle est la licence de Privacy Badger ? Où est le code source de Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
@@ -372,7 +372,7 @@ msgstr "Le [code source](https://github.com/EFForg/privacybadger) de Privacy Bad
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "How can I support Privacy Badger?"
-msgstr "Comment puis-je aider Privacy Badger ?"
+msgstr "Comment puis-je aider Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
@@ -390,7 +390,7 @@ msgstr "Si vous voulez aider directement le projet, nous l'apprécions égalemen
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
 msgid "How does Privacy Badger handle social media widgets?"
-msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux ?"
+msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux ?"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
@@ -408,7 +408,7 @@ msgstr "Veuillez noter que Privacy Badger ne remplacera pas les widgets de médi
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "How do I uninstall/remove Privacy Badger?"
-msgstr "Comment puis-je désinstaller/supprimer Privacy Badger ?"
+msgstr "Comment puis-je désinstaller/supprimer Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
@@ -438,7 +438,7 @@ msgstr "Pour Opera : Cliquez sur le bouton de menu en haut à gauche de la fenê
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with other extensions, including adblockers?"
-msgstr "Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?"
+msgstr "Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
@@ -468,7 +468,7 @@ msgstr "Privacy Badger est également un outil politique. Privacy Badger envoie 
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with Firefox's built-in content blocking?"
-msgstr "Est-ce que Privacy Badger est compatible avec le blocage de contenu intégré de Firefox ?"
+msgstr "Est-ce que Privacy Badger est compatible avec le blocage de contenu intégré de Firefox ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
@@ -494,13 +494,13 @@ msgstr "Vous pouvez aussi regarder les entrées suivantes de la FAQ :\n"
 msgid ""
 "* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
 "* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
-msgstr "* [Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+msgstr "* [Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, no-wrap
 msgid "Why does my browser connect to fastly.com IP addresses on startup after installing Privacy Badger?"
-msgstr "Pourquoi est-ce que mon navigateur se connecte aux adresses IP de fastly.com au démarrage après l'installation de Privacy Badger ?"
+msgstr "Pourquoi est-ce que mon navigateur se connecte aux adresses IP de fastly.com au démarrage après l'installation de Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
@@ -526,7 +526,7 @@ msgstr "L'EFF n'utilise pas de cookie et n'enregistre pas d'adresse IP pour ces 
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "Why does Privacy Badger need access to my data for all websites?"
-msgstr "Pourquoi est-ce que Privacy Badger a besoin d'avoir accès à mes données pour tous les sites Web ?"
+msgstr "Pourquoi est-ce que Privacy Badger a besoin d'avoir accès à mes données pour tous les sites Web ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
@@ -550,7 +550,7 @@ msgstr "Veuillez noter que les avertissements relatifs aux autorisations des ext
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "I need help! I found a bug! What do I do now?"
-msgstr "J'ai besoin d'aide ! J'ai trouvé un bogue ! Qu'est-ce que je dois faire ?"
+msgstr "J'ai besoin d'aide ! J'ai trouvé un bogue ! Qu'est-ce que je dois faire ?"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
