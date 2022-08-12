@@ -1,0 +1,8 @@
+---
+question: 'En quoi Privacy Badger est-elle différente des autres extensions de blocage ?'
+weight: 1
+---
+
+Privacy Badger est née de notre désir de pouvoir recommander une seule extension qui analyserait et bloquerait automatiquement tout traqueur ou toute publicité qui aurait enfreint le principe de consentement de l’utilisateur ; qui pourrait bien fonctionner sans paramètre, sans connaissance ni configuration par l’utilisateur ; qui est produite par un organisme qui travaille sans équivoque pour ses utilisateurs et non pour les annonceurs ; et qui utilise des méthodes algorithmiques pour déterminer ce qui est et ce qui n’est pas du suivi.
+
+En conséquence, Privacy Badger diffère des extensions traditionnelles de blocage des publicités de deux points principaux. Tout d'abord, alors que la plupart des autres extensions donnent la priorité au blocage des publicités, Privacy Badger est purement un bloqueur de traqueur. L'extension ne bloque pas les publicités à moins qu'elles ne vous suivent. En fait, l'un de nos objectifs est d'inciter les annonceurs à adopter de meilleures pratiques en matière de confidentialité. Deuxièmement, la plupart des autres bloqueurs s'appuient sur une liste de domaines ou d'adresses à bloquer, établie par un humain. Privacy Badger est un bloqueur de traqueur algorithmique -- nous définissons ce à quoi ressemble du « suivi », et puis Privacy Badger bloque ou restreint à la volée les domaines qu'il croise effectuant du suivi. Ce qui est et ce qui n'est pas considéré comme un traqueur est entièrement basé sur la façon dont un domaine spécifique agit, et non sur un jugement humain. ([Plus d'informations sur ce sujet ici](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)).
