@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-11 18:31+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-12 15:23+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -112,7 +112,7 @@ msgstr "En fait, rien dans le code de Privacy Badger n'est spécifiquement écri
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
 #, no-wrap
 msgid "Why doesn't Privacy Badger block all ads?"
-msgstr "Pourquoi Privacy Badger ne bloque pas toutes les publicités ?"
+msgstr "Pourquoi Privacy Badger ne bloque pas toutes les publicités ?"
 
 #. type: Plain text
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
@@ -494,7 +494,7 @@ msgstr "Vous pouvez aussi regarder les entrées suivantes de la FAQ :\n"
 msgid ""
 "* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
 "* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
-msgstr "* [Est-ce que Privacy Badger est compatible avec d'autres extensions, y compris les bloqueurs de publicité ?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [Est-ce que Privacy Badger fonctionne toujours lors du blocage des cookies tiers dans le navigateur ?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+msgstr "* [Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
