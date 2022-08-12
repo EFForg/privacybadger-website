@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-12 15:32+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-08-12 15:42+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 4.14-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -124,7 +124,7 @@ msgstr "Parce que Privacy Badger est avant tout un outil de protection de la vie
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What is Global Privacy Control (GPC)?"
-msgstr "Qu'est-ce le « Contrôle global de la protection des données » (GPC) ?"
+msgstr "Qu'est-ce le « Contrôle global de la protection des données » (GPC) ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -390,7 +390,7 @@ msgstr "Si vous voulez aider directement le projet, nous l'apprécions égalemen
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
 msgid "How does Privacy Badger handle social media widgets?"
-msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux ?"
+msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux ?"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
@@ -556,13 +556,13 @@ msgstr "J'ai besoin d'aide ! J'ai trouvé un bogue ! Qu'est-ce que je dois faire
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
-msgstr "* Si **un site Web ne fonctionne pas** comme il le devrait, vous pouvez désactiver Privacy Badger juste pour ce site, laissant Privacy Badger activé et vous protégeant partout ailleurs. Pour ce faire, naviguez vers le site qui pose problème, cliquez sur l'icône de Privacy Badger dans la barre d'outils de votre navigateur, puis cliquez sur le bouton « **Désactiver pour ce site** » dans la fenêtre contextuelle de Privacy Badger. Vous pouvez également nous signaler rapidement les sites non fonctionnels en cliquant sur le bouton « **Signaler un site perturbé** ».\n"
+msgstr "* Si **un site Web ne fonctionne pas** comme il le devrait, vous pouvez désactiver Privacy Badger juste pour ce site, laissant Privacy Badger activé et vous protégeant partout ailleurs. Pour ce faire, naviguez vers le site qui pose problème, cliquez sur l'icône de Privacy Badger dans la barre d'outils de votre navigateur, puis cliquez sur le bouton « **Désactiver pour ce site** » dans la fenêtre contextuelle de Privacy Badger. Vous pouvez également nous signaler rapidement les sites non fonctionnels en cliquant sur le bouton « **Signaler un site perturbé** ».\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "* Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
-msgstr "* Vous avez rencontré le message « **An unexpected error occurred** » dans Firefox ? Votre disque est probablement à court d'espace libre. Toutes les extensions connaissent ce problème, mais elles ne vous le signalent pas toutes. Pour y remédier, libérez de l'espace disque, puis redémarrez Firefox. Si cela ne vous a pas aidé, faites-le nous savoir (voir ci-dessous).\n"
+msgstr "* Vous avez rencontré le message « **An unexpected error occurred** » dans Firefox ? Votre disque est probablement à court d'espace libre. Toutes les extensions connaissent ce problème, mais elles ne vous le signalent pas toutes. Pour y remédier, libérez de l'espace disque, puis redémarrez Firefox. Si cela ne vous a pas aidé, faites-le nous savoir (voir ci-dessous).\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
