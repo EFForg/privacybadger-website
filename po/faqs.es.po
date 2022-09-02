@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-06-23 15:18+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.13.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-03 16:20+0000\nLast-Translator: gallegonovato <fran-carro@hotmail.es>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -94,7 +94,7 @@ msgstr "Amarillo significa que el dominio de terceros parece estar tratando de r
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, no-wrap
 msgid "Green means \"no action\"; Privacy Badger will leave the domain alone.\n"
-msgstr ""
+msgstr "El color verde significa \"ninguna acción\"; el Tejón de la Privacidad dejará el dominio en paz.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
@@ -124,43 +124,43 @@ msgstr "Porque Privacy Badger es principalmente una herramienta de privacidad, n
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What is Global Privacy Control (GPC)?"
-msgstr ""
+msgstr "¿Qué es el Control Global de la Privacidad (CGP)?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) is a new specification that allows users to tell companies they'd like to opt out of having their data shared or sold. By default, Privacy Badger sends the GPC signal to every company you interact with alongside the Do Not Track (DNT) signal.\n"
-msgstr ""
+msgstr "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) es una nueva especificación que permite a los usuarios indicar a las empresas que no desean que se compartan o vendan sus datos. Por defecto, Privacy Badger envía la señal GPC a todas las empresas con las que se interactúa junto con la señal Do Not Track (DNT).\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What's the difference? Do Not Track is meant to tell companies that you don't want to be tracked in any way (learn more about what we mean by \"tracking\" [here](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger gives third-party companies a chance to comply with DNT by adopting [our DNT policy](https://www.eff.org/dnt-policy/), and blocks those that look like they're tracking you anyway.\n"
-msgstr ""
+msgstr "¿Cuál es la diferencia? Do Not Track tiene por objeto indicar a las empresas que usted no quiere ser rastreado de ninguna manera (aprenda más sobre lo que entendemos por \"rastreo\" [aquí](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger da a las empresas de terceros la oportunidad de cumplir con DNT adoptando [nuestra política de DNT](https://www.eff.org/dnt-policy/), y bloquea aquellas que parecen rastrearle de todos modos.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "When DNT was developed, many websites simply ignored users’ requests not to be tracked. That's why Privacy Badger has to act as an enforcer: trackers that don't want to comply with your wishes get blocked. Today, users in many jurisdictions have the legal right to opt out of some kinds of tracking. That's where GPC comes in.\n"
-msgstr ""
+msgstr "Cuando se desarrolló DNT, muchos sitios web simplemente ignoraron las peticiones de los usuarios de no ser rastreados. Por eso, Privacy Badger tiene que actuar como ejecutor: los rastreadores que no quieren cumplir con sus deseos son bloqueados. Hoy en día, los usuarios de muchas jurisdicciones tienen el derecho legal de optar por no participar en algunos tipos de rastreo. Ahí es donde entra GPC.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights. And while Privacy Badger only enforces DNT compliance against third-party domains, GPC applies to everyone -- the first-party sites you visit, and any third-party trackers they might invite in.\n"
-msgstr ""
+msgstr "La GPC pretende ser una petición legalmente vinculante para todas las empresas en lugares con leyes de privacidad aplicables. Por ejemplo, [la Ley de Privacidad del Consumidor de California](https://theccpa.org) otorga a los residentes de California el derecho a optar por no vender sus datos. Al enviar la señal GPC, Privacy Badger está diciendo a las empresas que usted desea ejercer sus derechos. Y mientras que Privacy Badger sólo impone el cumplimiento de DNT a los dominios de terceros, GPC se aplica a todos: a los sitios de origen que visitas y a los rastreadores de terceros que puedan invitar.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "The CCPA and other laws are [not perfect](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), which is why Privacy Badger uses both approaches. It asks websites to respect your privacy, and it blocks known trackers from loading at all.\n"
-msgstr ""
+msgstr "La CCPA y otras leyes no son perfectas (https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), por lo que Privacy Badger utiliza ambos enfoques. Pide a los sitios web que respeten su privacidad y bloquea la carga de los rastreadores conocidos.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "You can learn more about GPC and your rights [here](https://globalprivacycontrol.org/).\n"
-msgstr ""
+msgstr "Puede obtener más información sobre la GPC y sus derechos [aquí](https://globalprivacycontrol.org/).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
@@ -190,13 +190,13 @@ msgstr "¿Privacy Badger contiene una \"lista negra\" de sitios bloqueados?"
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Unlike other blocking tools, we have not made decisions about which sites to block, but rather about which behavior is objectionable. Domains will only be blocked if Privacy Badger observes the domain collecting unique identifiers after it was sent Do Not Track and Global Privacy Control signals.\n"
-msgstr ""
+msgstr "A diferencia de otras herramientas de bloqueo, no hemos tomado decisiones sobre qué sitios bloquear, sino sobre qué comportamiento es objetable. Los dominios sólo se bloquearán si Privacy Badger observa que el dominio recoge identificadores únicos después de que se le hayan enviado las señales de Do Not Track y de Control Global de Privacidad.\n"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr ""
+msgstr "Privacy Badger _contiene una \"[lista amarilla](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" de algunos sitios que se sabe que proporcionan recursos esenciales de terceros; esos sitios aparecen en amarillo y tienen sus cookies bloqueadas en lugar de ser bloqueados por completo. Se trata de un compromiso con la practicidad, y a largo plazo esperamos ir eliminando la lista amarilla a medida que estos terceros comiencen a [comprometerse explícitamente a respetar el Do Not Track](https://www.eff.org/dnt-policy). Los criterios para incluir un dominio en la lista amarilla se pueden [encontrar aquí](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
@@ -242,9 +242,9 @@ msgstr "¿Privacy Badger considera una cookie que se uso para rastrearme incluso
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Yes. When [learning is enabled](#How-does-Privacy-Badger-work), Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.\n"
-msgstr "Sí. Privacy Badger realiza un seguimiento de las cookies que se pueden utilizar para rastrearlo a usted y de dónde provienen, incluso si usted borra las cookies de su navegador con frecuencia.\n"
+msgstr "Sí. Cuando [el aprendizaje está habilitado](#Cómo-funciona-Privacy-Badger), Privacy Badger mantiene un registro de las cookies que podrían ser utilizadas para rastrearlo y de dónde provienen, incluso si usted borra frecuentemente las cookies de su navegador.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
@@ -254,9 +254,9 @@ msgstr "¿Funciona Privacy Badger cuando se bloquean las cookies de terceros en 
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "When [learning is enabled](#How-does-Privacy-Badger-work) and you tell your browser to deny third-party cookies, Privacy Badger still gets to learn from third parties trying to set cookies via HTTP headers (as well as from other tracking techniques such as canvas fingerprinting). Privacy Badger no longer gets to learn from cookies or HTML5 local storage being set via JavaScript, however. So, Privacy Badger's learning still works, it'll just learn to block fewer trackers.\n"
-msgstr "Cuando le indica a su navegador que rechace las cookies de terceros, Privacy Badger todavía puede aprender de terceros que intentan establecer cookies a través de encabezados HTTP (así como de otras técnicas de rastreo como canvas fingerprinting). Sin embargo, Privacy Badger ya no aprende de las cookies o del almacenamiento local HTML5 que se configura mediante JavaScript. Por lo tanto, Privacy Badger sigue funcionando, pero sólo aprenderá a bloquear menos rastreadores. La eliminación del historial o de las cookies ya configuradas no debería tener ningún efecto en el Privacy Badger.\n"
+msgstr "Cuando [el aprendizaje está habilitado](#Cómo-funciona-Privacy-Badger) y usted le dice a su navegador que rechace las cookies de terceros, Privacy Badger sigue aprendiendo de los terceros que intentan establecer cookies a través de las cabeceras HTTP (así como de otras técnicas de rastreo como el canvas fingerprinting). Sin embargo, el Guardián de la Privacidad ya no aprende de las cookies o del almacenamiento local de HTML5 que se establece a través de JavaScript. Por lo tanto, el aprendizaje de Privacy Badger sigue funcionando, sólo que aprenderá a bloquear menos rastreadores.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -274,31 +274,31 @@ msgstr "Safari/iOS: [Safari parece carecer de ciertas capacidades de extensión]
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Chrome on Android does not support extensions. To use Privacy Badger on Android, install [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).\n"
-msgstr ""
+msgstr "Chrome en Android no admite extensiones. Para utilizar Privacy Badger en Android, instale [Firefox para Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).\n"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
-msgstr ""
+msgstr "Privacy Badger no funciona con [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Por favor, cambie al nuevo navegador [Microsoft Edge](https://www.microsoft.com/en-us/edge).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Can I download Privacy Badger directly from eff.org?"
-msgstr ""
+msgstr "¿Puedo descargar Privacy Badger directamente de eff.org?"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "If you use Google Chrome, you have to install extensions from Chrome Web Store. To install Privacy Badger in Chrome, visit [Privacy Badger's Chrome Web Store listing](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) and click the \"Add to Chrome\" button there.\n"
-msgstr ""
+msgstr "Si utiliza Google Chrome, tiene que instalar las extensiones de Chrome Web Store. Para instalar Privacy Badger en Chrome, visite [el listado de la Chrome Web Store de Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) y haga clic en el botón \"Añadir a Chrome\".\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Otherwise, you can use the following links to get the latest version of Privacy Badger directly from eff.org:\n"
-msgstr ""
+msgstr "Si no, puedes utilizar los siguientes enlaces para obtener la última versión de Privacy Badger directamente desde eff.org:\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -306,13 +306,13 @@ msgstr ""
 msgid ""
 "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
-msgstr ""
+msgstr "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
-msgstr ""
+msgstr "Dirijo un dominio que utiliza cookies u otro tipo de seguimiento. ¿ Cómo puedo evitar que Privacy Badger me bloquee?"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -324,37 +324,37 @@ msgstr "Una forma es dejar de rastrear a los usuarios de terceros que han activa
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr ""
+msgstr "También puede desbloquearse prometiendo respetar significativamente la señal de Do Not Track. Para ello, publique una copia _verbatim_ de la [Política de No Seguimiento de la EFF](https://www.eff.org/dnt-policy) en la URL https://example.com/.well-known/dnt-policy.txt, donde \"example.com\" se sustituye por su dominio. Publicar la política DNT de la EFF en un dominio es una promesa de cumplimiento de la política DNT de la EFF por parte de ese dominio.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "Note that the domain must support HTTPS, to protect against tampering by network attackers. The path contains \".well-known\" per [RFC 5785](https://tools.ietf.org/html/rfc5785). Also note that you must post a copy of the policy at each compliant subdomain you control. For example, if you wish to declare compliance by both sub1.example.com and sub2.example.com, you must post EFF's DNT policy on each domain.\n"
-msgstr ""
+msgstr "Tenga en cuenta que el dominio debe soportar HTTPS, para protegerlo contra la manipulación por parte de atacantes de la red. La ruta contiene \".well-known\" según [RFC 5785](https://tools.ietf.org/html/rfc5785). Tenga también en cuenta que debe publicar una copia de la política en cada subdominio que controle. Por ejemplo, si desea declarar el cumplimiento por parte de sub1.ejemplo.com y sub2.ejemplo.com, debe publicar la política de DNT de EFF en cada dominio.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr ""
+msgstr "Como administrador, ¿cómo configuro Privacy Badger en mis dispositivos gestionados?"
 
 #. type: Plain text
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr ""
+msgstr "Por favor, consulte nuestro documento [despliegue y configuración de la empresa](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
-msgstr ""
+msgstr "¿Dónde puedo encontrar información general sobre el Tejón de la Intimidad que pueda utilizar para un artículo que estoy escribiendo?"
 
 #. type: Plain text
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
-msgstr ""
+msgstr "Me alegro de que hayas preguntado. Echa un vistazo a este [kit de prensa descargable](/files/pb_journalist_1_pager.pdf) que hemos elaborado.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
@@ -366,7 +366,7 @@ msgstr "¿Qué licencia tiene Privacy Badger? ¿Dónde está el código fuente d
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
 msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
-msgstr ""
+msgstr "El [código fuente](https://github.com/EFForg/privacybadger) de Privacy Badger está licenciado bajo [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). El [código fuente](https://github.com/EFForg/privacybadger-website) de este sitio web está licenciado bajo [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
@@ -450,19 +450,19 @@ msgstr "Privacy Badger debería ser compatible con otras extensiones.\n"
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "While there is likely to be overlap between the various manually-edited advertising/tracker lists and Privacy Badger, unlike adblockers, Privacy Badger automatically learns to block trackers based on their behavior. This means that Privacy Badger may learn to block trackers your adblocker doesn't know about.\n"
-msgstr ""
+msgstr "Aunque es probable que haya un solapamiento entre las diversas listas de publicidad/rastreadores editadas manualmente y Privacy Badger, a diferencia de los bloqueadores de anuncios, Privacy Badger aprende automáticamente a bloquear los rastreadores en función de su comportamiento. Esto significa que Privacy Badger puede aprender a bloquear rastreadores que su adblocker no conoce.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "Besides automatic learning, Privacy Badger comes with other advantages like cookie blocking, [click-to-activate placeholders](#How-does-Privacy-Badger-handle-social-media-widgets) for potentially useful tracker widgets (video players, comments widgets, etc.), and outgoing link click tracking removal on [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) and [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking).\n"
-msgstr "Además del aprendizaje automático, Privacy Badger ofrece otras ventajas como el bloqueo de cookies, la sustitución de widgets y la limpieza de enlaces de Facebook y [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking).\n"
+msgstr "Además del aprendizaje automático, Privacy Badger viene con otras ventajas como el bloqueo de cookies, [marcadores de posición de clics](#How-does-Privacy-Badger-handle-social-media-widgets) para widgets de seguimiento potencialmente útiles (reproductores de vídeo, widgets de comentarios, etc.), y la eliminación del seguimiento de clics de enlaces salientes en [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) y [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking).\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore your wishes, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
-msgstr ""
+msgstr "Privacy Badger es también una herramienta política. Privacy Badger envía la señal de [Control Global de la Privacidad](https://globalprivacycontrol.org/) para que no se compartan ni vendan datos, y la señal de [No Rastrear](https://www.eff.org/issues/do-not-track) para indicar a las empresas que no le rastreen. Si los rastreadores ignoran sus deseos, Privacy Badger aprenderá a bloquearlos. Al utilizar Privacy Badger, apoyas a la [Electronic Frontier Foundation](https://www.eff.org/) y ayudas a luchar por una Web mejor para todos.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
@@ -480,7 +480,7 @@ msgstr "Está bien usar el bloqueo de contenido nativo de Firefox y Privacy Badg
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
 msgid "While there is overlap between Firefox's tracker lists and Privacy Badger's protections, unlike list-based blockers, Privacy Badger automatically discovers trackers. This means that Privacy Badger's automatically-generated and regularly-updated blocklist may learn to block trackers that blockers with human-generated lists don't know about. And if you enable [local learning](#How-does-Privacy-Badger-work), your Badger will learn about the trackers you encounter as you browse as well.\n"
-msgstr ""
+msgstr "Aunque las listas de rastreadores de Firefox y las protecciones de Privacy Badger se solapan, a diferencia de los bloqueadores basados en listas, Privacy Badger descubre automáticamente los rastreadores. Esto significa que la lista de bloqueo generada automáticamente y actualizada con regularidad de Privacy Badger puede aprender a bloquear rastreadores que los bloqueadores con listas generadas por humanos no conocen. Y si activa el [aprendizaje local] (#Cómo funciona Privacy Badger), su Badger también aprenderá sobre los rastreadores que encuentre mientras navega.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
@@ -526,46 +526,46 @@ msgstr "EFF no instala cookies ni conserva direcciones IP para estas consultas.\
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "Why does Privacy Badger need access to my data for all websites?"
-msgstr ""
+msgstr "¿Por qué Privacy Badger necesita acceder a mis datos para todos los sitios web?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
-msgstr ""
+msgstr "Cuando instalas Privacy Badger, tu navegador te advierte de que puede \"acceder a tus datos para todos los sitios web\" (en Firefox, o \"leer y cambiar todos tus datos en los sitios web que visitas\" en Chrome). Hace bien en alarmarse. Sólo deberías instalar extensiones hechas por organizaciones en las que confíes.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "Privacy Badger requires these permissions to do its job of automatically detecting and blocking trackers on all websites you visit. We are not ironically (or unironically) spying on you. For more information, see our [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
-msgstr ""
+msgstr "Privacy Badger requiere estos permisos para hacer su trabajo de detectar y bloquear automáticamente los rastreadores en todos los sitios web que usted visita. No estamos espiando irónicamente (o no). Para obtener más información, consulte nuestra [explicación de los permisos de la extensión Privacy Badger](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "Note that the extension permissions warnings only cover what the extension has access to, not what the extension actually does with what it has access to (such as whether the extension secretly uploads your browsing data to its servers). Privacy Badger will never share data about your browsing unless you choose to share it (by filing a broken site report). For more information, see EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy/policy).\n"
-msgstr ""
+msgstr "Tenga en cuenta que las advertencias sobre los permisos de la extensión sólo cubren aquello a lo que la extensión tiene acceso, no lo que la extensión realmente hace con lo que tiene acceso (como por ejemplo si la extensión sube secretamente sus datos de navegación a sus servidores). Privacy Badger nunca compartirá datos sobre su navegación a menos que usted decida compartirlos (presentando un informe de sitio roto). Para obtener más información, consulte la [Política de privacidad del software] de la EFF (https://www.eff.org/code/privacy/policy).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, fuzzy, no-wrap
+#, no-wrap
 msgid "I need help! I found a bug! What do I do now?"
-msgstr "¡Encontré un bug! ¿Qué hago ahora?"
+msgstr "¡Necesito ayuda! He encontrado un error. ¿Qué hago ahora?"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
-msgstr ""
+msgstr "* Si **un sitio web no funciona** como debería, puede desactivar el Protector de Privacidad sólo para ese sitio, dejando el Protector de Privacidad activado y protegiéndole en todos los demás sitios. Para ello, vaya al sitio con el problema, haga clic en el icono de Privacy Badger en la barra de herramientas de su navegador y haga clic en el botón \"**Desactivar para este sitio**\" en la ventana emergente de Privacy Badger. También puede informarnos rápidamente sobre los sitios rotos haciendo clic en el botón \"**Informar sobre un sitio roto**\".\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "* Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
-msgstr ""
+msgstr "* ¿Te has encontrado con \"**Se ha producido un error inesperado**\" en Firefox? Es probable que tu disco tenga poco espacio. Todas las extensiones tienen este problema, pero no todas te lo dicen. Para solucionarlo, libera algo de espacio en el disco y luego reinicia Firefox. Si eso no ayuda, por favor infórmanos (ver abajo).\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
-msgstr ""
+msgstr "Para obtener ayuda o informar de errores, envíe un correo electrónico a [extension-devs@eff.org](mailto:extension-devs@eff.org). Si tienes una cuenta de GitHub, puedes utilizar nuestro [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
