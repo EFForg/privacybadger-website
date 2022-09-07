@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 15:40+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 16:09+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -154,7 +154,7 @@ msgstr "La GPC pretende ser una petición legalmente vinculante para todas las e
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "The CCPA and other laws are [not perfect](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), which is why Privacy Badger uses both approaches. It asks websites to respect your privacy, and it blocks known trackers from loading at all.\n"
-msgstr "La CCPA y otras leyes no son perfectas (https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), por lo que Privacy Badger utiliza ambos enfoques. Pide a los sitios web que respeten su privacidad y bloquea la carga de los rastreadores conocidos.\n"
+msgstr "La CCPA y otras leyes [no son perfectas](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), por lo que Privacy Badger utiliza ambos enfoques. Pide a los sitios web que respeten su privacidad y bloquea la carga de los rastreadores conocidos.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -196,7 +196,7 @@ msgstr "A diferencia de otras herramientas de bloqueo, no hemos tomado decisione
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr "Privacy Badger _contiene una \"[lista amarilla](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" de algunos sitios que se sabe que proporcionan recursos esenciales de terceros; esos sitios aparecen en amarillo y tienen sus cookies bloqueadas en lugar de ser bloqueados por completo. Se trata de un compromiso con la practicidad, y a largo plazo esperamos ir eliminando la lista amarilla a medida que estos terceros comiencen a [comprometerse explícitamente a respetar la política de No rastrear](https://www.eff.org/dnt-policy). Los criterios para incluir un dominio en la lista amarilla se pueden [encontrar aquí](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+msgstr "Privacy Badger _contiene_ una \"[lista amarilla](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" de algunos sitios que se sabe que proporcionan recursos esenciales de terceros; esos sitios aparecen en amarillo y tienen sus cookies bloqueadas en lugar de ser bloqueados por completo. Se trata de un compromiso con la practicidad, y a largo plazo esperamos ir eliminando la lista amarilla a medida que estos terceros comiencen a [comprometerse explícitamente a respetar la política de No rastrear](https://www.eff.org/dnt-policy). Los criterios para incluir un dominio en la lista amarilla se pueden [encontrar aquí](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
