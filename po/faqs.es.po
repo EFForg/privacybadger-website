@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 16:16+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 17:08+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -244,7 +244,7 @@ msgstr "¿Privacy Badger considera una cookie que se uso para rastrearme incluso
 #: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
 #, no-wrap
 msgid "Yes. When [learning is enabled](#How-does-Privacy-Badger-work), Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.\n"
-msgstr "Sí. Cuando [el aprendizaje está habilitado](#How-does-Privacy-Badger-work), Privacy Badger mantiene un registro de las cookies que podrían ser utilizadas para rastrearlo y de dónde provienen, incluso si usted borra frecuentemente las cookies de su navegador.\n"
+msgstr "Sí. Cuando [el aprendizaje está habilitado](#How-does-Privacy-Badger-work), Privacy Badger realiza un seguimiento de las cookies que se pueden utilizar para rastrearlo a usted y de dónde provienen, incluso si usted borra las cookies de su navegador con frecuencia.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
@@ -256,7 +256,7 @@ msgstr "¿Funciona Privacy Badger cuando se bloquean las cookies de terceros en 
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
 #, no-wrap
 msgid "When [learning is enabled](#How-does-Privacy-Badger-work) and you tell your browser to deny third-party cookies, Privacy Badger still gets to learn from third parties trying to set cookies via HTTP headers (as well as from other tracking techniques such as canvas fingerprinting). Privacy Badger no longer gets to learn from cookies or HTML5 local storage being set via JavaScript, however. So, Privacy Badger's learning still works, it'll just learn to block fewer trackers.\n"
-msgstr "Cuando [el aprendizaje está habilitado](#How-does-Privacy-Badger-work) y usted le dice a su navegador que rechace las cookies de terceros, Privacy Badger sigue aprendiendo de los terceros que intentan establecer cookies a través de las cabeceras HTTP (así como de otras técnicas de rastreo como el canvas fingerprinting). Sin embargo, el Guardián de la Privacidad ya no aprende de las cookies o del almacenamiento local de HTML5 que se establece a través de JavaScript. Por lo tanto, el aprendizaje de Privacy Badger sigue funcionando, sólo que aprenderá a bloquear menos rastreadores.\n"
+msgstr "Cuando [el aprendizaje está habilitado](#How-does-Privacy-Badger-work) y usted le indica a su navegador que rechace las cookies de terceros, Privacy Badger todavía puede aprender de terceros que intentan establecer cookies a través de encabezados HTTP (así como de otras técnicas de rastreo como canvas fingerprinting). Sin embargo, Privacy Badger ya no aprende de las cookies o del almacenamiento local HTML5 que se configura mediante JavaScript. Por lo tanto, Privacy Badger sigue funcionando, pero sólo aprenderá a bloquear menos rastreadores.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -550,7 +550,7 @@ msgstr "Tenga en cuenta que las advertencias sobre los permisos de la extensión
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "I need help! I found a bug! What do I do now?"
-msgstr "¡Necesito ayuda! He encontrado un error. ¿Qué hago ahora?"
+msgstr "¡Necesito ayuda! ¡Encontré un bug! ¿Qué hago ahora?"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
