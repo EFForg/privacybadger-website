@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-03 16:20+0000\nLast-Translator: gallegonovato <fran-carro@hotmail.es>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 15:38+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -82,7 +82,7 @@ msgstr "¿Qué significan los controles deslizantes rojo, amarillo y verde del m
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, no-wrap
 msgid "Red means that content from this third party domain has been completely disallowed.\n"
-msgstr "Rojo significa que el contenido de este rastreador de terceros ha sido completamente rechazado.\n"
+msgstr "Rojo significa que el contenido de este dominio de terceros ha sido completamente rechazado.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
@@ -94,7 +94,7 @@ msgstr "Amarillo significa que el dominio de terceros parece estar tratando de r
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, no-wrap
 msgid "Green means \"no action\"; Privacy Badger will leave the domain alone.\n"
-msgstr "El color verde significa \"ninguna acción\"; el Tejón de la Privacidad dejará el dominio en paz.\n"
+msgstr "El color verde significa \"ninguna acción\"; Privacy Badger dejará el dominio en paz.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
@@ -106,7 +106,7 @@ msgstr "¿Por qué el Privacy Badger bloquea la publicidad?"
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
 #, no-wrap
 msgid "Actually, nothing in the Privacy Badger code is specifically written to block ads. Rather, it focuses on disallowing any visible or invisible \"third party\" scripts or images that appear to be tracking you even though you specifically denied consent by sending [Do Not Track](https://www.eff.org/issues/do-not-track) and [Global Privacy Control](https://globalprivacycontrol.org/) signals. It just so happens that most (but not all) of these third party trackers are advertisements. When you see an ad, the ad sees you, and can track you. Privacy Badger is here to stop that.\n"
-msgstr "En realidad, nada en el código del Tejón de la privacidad está específicamente escrito para bloquear los anuncios. Más bien, se enfoca en no permitir que ningún script o imagen visible o invisible de \"terceros\" parezca estar siguiéndole a pesar de que usted ha negado específicamente su consentimiento enviando las señales «[No rastrear](https://www.eff.org/issues/do-not-track)» y «[Control de privacidad global](https://globalprivacycontrol.org/)». Sucede que la mayoría (pero no todos) esos rastreadores de terceros son anuncios. Cuando un anuncio es visible, el anuncio lo ve a usted y puede rastrearlo. Privacy Badger está aquí para detener eso.\n"
+msgstr "En realidad, nada en el código de Privacy Badger está específicamente escrito para bloquear los anuncios. Más bien, se enfoca en no permitir que ningún script o imagen visible o invisible de \"terceros\" parezca estar siguiéndole a pesar de que usted ha negado específicamente su consentimiento enviando las señales «[No rastrear](https://www.eff.org/issues/do-not-track)» y «[Control de privacidad global](https://globalprivacycontrol.org/)». Sucede que la mayoría (pero no todos) esos rastreadores de terceros son anuncios. Cuando un anuncio es visible, el anuncio lo ve a usted y puede rastrearlo. Privacy Badger está aquí para detener eso.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
@@ -130,13 +130,13 @@ msgstr "¿Qué es el Control Global de la Privacidad (CGP)?"
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) is a new specification that allows users to tell companies they'd like to opt out of having their data shared or sold. By default, Privacy Badger sends the GPC signal to every company you interact with alongside the Do Not Track (DNT) signal.\n"
-msgstr "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) es una nueva especificación que permite a los usuarios indicar a las empresas que no desean que se compartan o vendan sus datos. Por defecto, Privacy Badger envía la señal GPC a todas las empresas con las que se interactúa junto con la señal Do Not Track (DNT).\n"
+msgstr "[Control de privacidad global (GPC)](https://globalprivacycontrol.org/) es una nueva especificación que permite a los usuarios indicar a las empresas que no desean que se compartan o vendan sus datos. Por defecto, Privacy Badger envía la señal GPC a todas las empresas con las que se interactúa junto con la señal No rastrear (DNT).\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What's the difference? Do Not Track is meant to tell companies that you don't want to be tracked in any way (learn more about what we mean by \"tracking\" [here](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger gives third-party companies a chance to comply with DNT by adopting [our DNT policy](https://www.eff.org/dnt-policy/), and blocks those that look like they're tracking you anyway.\n"
-msgstr "¿Cuál es la diferencia? Do Not Track tiene por objeto indicar a las empresas que usted no quiere ser rastreado de ninguna manera (aprenda más sobre lo que entendemos por \"rastreo\" [aquí](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger da a las empresas de terceros la oportunidad de cumplir con DNT adoptando [nuestra política de DNT](https://www.eff.org/dnt-policy/), y bloquea aquellas que parecen rastrearle de todos modos.\n"
+msgstr "¿Cuál es la diferencia? «No rastrear» tiene por objeto indicar a las empresas que usted no quiere ser rastreado de ninguna manera (aprenda más sobre lo que entendemos por \"rastreo\" [aquí](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger da a las empresas de terceros la oportunidad de cumplir con DNT adoptando [nuestra política de DNT](https://www.eff.org/dnt-policy/), y bloquea aquellas que parecen rastrearle de todos modos.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -190,13 +190,13 @@ msgstr "¿Privacy Badger contiene una \"lista negra\" de sitios bloqueados?"
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Unlike other blocking tools, we have not made decisions about which sites to block, but rather about which behavior is objectionable. Domains will only be blocked if Privacy Badger observes the domain collecting unique identifiers after it was sent Do Not Track and Global Privacy Control signals.\n"
-msgstr "A diferencia de otras herramientas de bloqueo, no hemos tomado decisiones sobre qué sitios bloquear, sino sobre qué comportamiento es objetable. Los dominios sólo se bloquearán si Privacy Badger observa que el dominio recoge identificadores únicos después de que se le hayan enviado las señales de Do Not Track y de Control Global de Privacidad.\n"
+msgstr "A diferencia de otras herramientas de bloqueo, no hemos tomado decisiones sobre qué sitios bloquear, sino sobre qué comportamiento es objetable. Los dominios sólo se bloquearán si Privacy Badger observa que el dominio recoge identificadores únicos después de que se le hayan enviado las señales de «No rastrear» y «Control de privacidad global».\n"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr "Privacy Badger _contiene una \"[lista amarilla](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" de algunos sitios que se sabe que proporcionan recursos esenciales de terceros; esos sitios aparecen en amarillo y tienen sus cookies bloqueadas en lugar de ser bloqueados por completo. Se trata de un compromiso con la practicidad, y a largo plazo esperamos ir eliminando la lista amarilla a medida que estos terceros comiencen a [comprometerse explícitamente a respetar el Do Not Track](https://www.eff.org/dnt-policy). Los criterios para incluir un dominio en la lista amarilla se pueden [encontrar aquí](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+msgstr "Privacy Badger _contiene una \"[lista amarilla](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" de algunos sitios que se sabe que proporcionan recursos esenciales de terceros; esos sitios aparecen en amarillo y tienen sus cookies bloqueadas en lugar de ser bloqueados por completo. Se trata de un compromiso con la practicidad, y a largo plazo esperamos ir eliminando la lista amarilla a medida que estos terceros comiencen a [comprometerse explícitamente a respetar la política de No rastrear](https://www.eff.org/dnt-policy). Los criterios para incluir un dominio en la lista amarilla se pueden [encontrar aquí](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
@@ -324,7 +324,7 @@ msgstr "Una forma es dejar de rastrear a los usuarios de terceros que han activa
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr "También puede desbloquearse prometiendo respetar significativamente la señal de Do Not Track. Para ello, publique una copia _verbatim_ de la [Política de No Seguimiento de la EFF](https://www.eff.org/dnt-policy) en la URL https://example.com/.well-known/dnt-policy.txt, donde \"example.com\" se sustituye por su dominio. Publicar la política DNT de la EFF en un dominio es una promesa de cumplimiento de la política DNT de la EFF por parte de ese dominio.\n"
+msgstr "También puede desbloquearse prometiendo respetar significativamente la señal de Do Not Track. Para ello, publique una copia _verbatim_ de la [política de No rastrear (DNT) de la EFF](https://www.eff.org/dnt-policy) en la URL https://example.com/.well-known/dnt-policy.txt, donde \"example.com\" se sustituye por su dominio. Publicar la política DNT de la EFF en un dominio es una promesa de cumplimiento de la política DNT de la EFF por parte de ese dominio.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -348,7 +348,7 @@ msgstr "Por favor, consulte nuestro documento [despliegue y configuración de la
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
-msgstr "¿Dónde puedo encontrar información general sobre el Tejón de la Intimidad que pueda utilizar para un artículo que estoy escribiendo?"
+msgstr "¿Dónde puedo encontrar información general sobre Privacy Badger que pueda utilizar para un artículo que estoy escribiendo?"
 
 #. type: Plain text
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
@@ -462,7 +462,7 @@ msgstr "Además del aprendizaje automático, Privacy Badger viene con otras vent
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore your wishes, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
-msgstr "Privacy Badger es también una herramienta política. Privacy Badger envía la señal de [Control Global de la Privacidad](https://globalprivacycontrol.org/) para que no se compartan ni vendan datos, y la señal de [No Rastrear](https://www.eff.org/issues/do-not-track) para indicar a las empresas que no le rastreen. Si los rastreadores ignoran sus deseos, Privacy Badger aprenderá a bloquearlos. Al utilizar Privacy Badger, apoyas a la [Electronic Frontier Foundation](https://www.eff.org/) y ayudas a luchar por una Web mejor para todos.\n"
+msgstr "Privacy Badger es también una herramienta política. Privacy Badger envía la señal [Control de privacidad global](https://globalprivacycontrol.org/) para excluirte de compartir y vender datos, y la señal [No rastrear](https://www.eff.org/issues/do-not-track) para indicar a las empresas que no te rastreen. Si los rastreadores ignoran tus deseos, Privacy Badger aprenderá a bloquearlos. Al utilizar Privacy Badger, apoyas a la [Electronic Frontier Foundation](https://www.eff.org/) y ayudas a luchar por una Web mejor para todos.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
