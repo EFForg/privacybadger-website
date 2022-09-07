@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 17:26+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-07 17:30+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -562,7 +562,7 @@ msgstr "* Si **un sitio web no funciona** como debería, puede desactivar el Pro
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "* Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
-msgstr "* ¿Te has encontrado con \"**Se ha producido un error inesperado**\" en Firefox? Es probable que tu disco tenga poco espacio. Todas las extensiones tienen este problema, pero no todas te lo dicen. Para solucionarlo, libera algo de espacio en el disco y luego reinicia Firefox. Si eso no ayuda, por favor infórmanos (ver abajo).\n"
+msgstr "* ¿Te has encontrado con \"**An unexpected error occurred**\" en Firefox? Es probable que tu disco tenga poco espacio. Todas las extensiones tienen este problema, pero no todas te lo dicen. Para solucionarlo, libera algo de espacio en el disco y luego reinicia Firefox. Si eso no ayuda, por favor infórmanos (ver abajo).\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
