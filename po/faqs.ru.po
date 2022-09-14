@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-13 18:18+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-15 17:21+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -76,13 +76,13 @@ msgstr ""
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, no-wrap
 msgid "What do the red, yellow and green sliders in the Privacy Badger menu mean?"
-msgstr ""
+msgstr "Что означают красные, желтые и зеленые переключатели в меню Privacy Badger?"
 
 #. type: Plain text
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, markdown-text, no-wrap
 msgid "Red means that content from this third party domain has been completely disallowed.\n"
-msgstr ""
+msgstr "Красный цвет означает, что содержимое этого стороннего домена полностью запрещено.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
@@ -94,13 +94,13 @@ msgstr ""
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
 #, markdown-text, no-wrap
 msgid "Green means \"no action\"; Privacy Badger will leave the domain alone.\n"
-msgstr ""
+msgstr "Зеленый цвет означает «бездействие»; Privacy Badger оставит домен в покое.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
-#, no-wrap
+#, fuzzy, no-wrap
 msgid "Why does Privacy Badger block ads?"
-msgstr ""
+msgstr "Почему Privacy Badger блокирует рекламу?"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
@@ -112,7 +112,7 @@ msgstr ""
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
 #, no-wrap
 msgid "Why doesn't Privacy Badger block all ads?"
-msgstr ""
+msgstr "Почему Privacy Badger не блокирует всю рекламу?"
 
 #. type: Plain text
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
@@ -124,7 +124,7 @@ msgstr ""
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What is Global Privacy Control (GPC)?"
-msgstr ""
+msgstr "Что такое Global Privacy Control (GPC)?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -160,7 +160,7 @@ msgstr ""
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, markdown-text, no-wrap
 msgid "You can learn more about GPC and your rights [here](https://globalprivacycontrol.org/).\n"
-msgstr ""
+msgstr "Вы можете узнать больше о GPC и своих правах [здесь](https://globalprivacycontrol.org/).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
@@ -184,7 +184,7 @@ msgstr ""
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Does Privacy Badger contain a list of blocked sites?"
-msgstr ""
+msgstr "Содержит ли Privacy Badger список заблокированных сайтов?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
@@ -202,7 +202,7 @@ msgstr ""
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
 #, no-wrap
 msgid "How was the cookie blocking yellowlist created?"
-msgstr ""
+msgstr "Как был создан желтый список блокировки куки-файлов?"
 
 #. type: Plain text
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
@@ -214,7 +214,7 @@ msgstr ""
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
 #, no-wrap
 msgid "Does Privacy Badger prevent fingerprinting?"
-msgstr ""
+msgstr "Предотвращает ли Privacy Badger сбор отпечатков браузера (фингерпринтинг)?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
@@ -226,7 +226,7 @@ msgstr ""
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "Does Privacy Badger consider every cookie to be a tracking cookie?"
-msgstr ""
+msgstr "Считает ли Privacy Badger каждый куки-файл куки-файлом отслеживания?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
@@ -250,19 +250,19 @@ msgstr ""
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
 #, no-wrap
 msgid "Does Privacy Badger still learn when I set my browser to block all third-party cookies?"
-msgstr ""
+msgstr "Продолжает ли Privacy Badger учиться, когда я настроил браузер на блокировку всех сторонних куки-файлов?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
 #, markdown-text, no-wrap
 msgid "When [learning is enabled](#How-does-Privacy-Badger-work) and you tell your browser to deny third-party cookies, Privacy Badger still gets to learn from third parties trying to set cookies via HTTP headers (as well as from other tracking techniques such as canvas fingerprinting). Privacy Badger no longer gets to learn from cookies or HTML5 local storage being set via JavaScript, however. So, Privacy Badger's learning still works, it'll just learn to block fewer trackers.\n"
-msgstr ""
+msgstr "Когда [обучение включено](#How-does-Privacy-Badger-work) и вы указываете браузеру запретить сторонние куки-файлы, Privacy Badger все равно получает информацию о попытках третьих лиц установить куки-файлы через заголовки HTTP (а также о других методах отслеживания, например сбор цифровых отпечатков с использованием Canvas). Однако Privacy Badger больше не получает информации от cookies (или локального хранилища HTML5), устанавливаемых через JavaScript. Таким образом, обучение Privacy Badger по-прежнему работает, просто он научится блокировать меньшее количество трекеров.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?"
-msgstr ""
+msgstr "Будете ли вы поддерживать какие-либо другие браузеры, помимо Chrome, Firefox, Edge и Opera?"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -286,7 +286,7 @@ msgstr ""
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Can I download Privacy Badger directly from eff.org?"
-msgstr ""
+msgstr "Можно ли скачать Privacy Badger непосредственно с eff.org?"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -302,17 +302,17 @@ msgstr ""
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
-#, markdown-text, no-wrap
+#, fuzzy, markdown-text, no-wrap
 msgid ""
 "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
-msgstr ""
+msgstr "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
-msgstr ""
+msgstr "Я управляю доменом, который использует куки-файлы или другие средства отслеживания. Как я могу попросить Privacy Badger разблокировать мой домен?"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -372,7 +372,7 @@ msgstr ""
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "How can I support Privacy Badger?"
-msgstr ""
+msgstr "Как я могу поддержать Privacy Badger?"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
