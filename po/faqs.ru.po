@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-15 17:21+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-16 16:29+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 4.14.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -360,7 +360,7 @@ msgstr ""
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
 msgid "What is the Privacy Badger license? Where is the Privacy Badger source code?"
-msgstr ""
+msgstr "Какая лицензия у Privacy Badger? Где можно найти исходный код Privacy Badger?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
@@ -438,7 +438,7 @@ msgstr ""
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with other extensions, including adblockers?"
-msgstr ""
+msgstr "Совместим ли Privacy Badger с другими расширениями, именно с адблокерами?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
@@ -494,19 +494,19 @@ msgstr ""
 msgid ""
 "* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
 "* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
-msgstr ""
+msgstr "* [Совместим ли Privacy Badger с другими расширениями, именно с адблокерами?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [Продолжает ли Privacy Badger учиться, когда я настроил браузер на блокировку всех сторонних куки-файлов?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, no-wrap
 msgid "Why does my browser connect to fastly.com IP addresses on startup after installing Privacy Badger?"
-msgstr ""
+msgstr "Почему мой браузер подключается к IP-адресам fastly.com при запуске после установки Privacy Badger?"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, markdown-text, no-wrap
 msgid "EFF uses Fastly to host EFF's Web resources: Fastly is EFF's CDN. Privacy Badger pings the CDN for the following resources to ensure that the information in them is fresh even if there hasn't been a new Privacy Badger release in a while:\n"
-msgstr ""
+msgstr "EFF использует Fastly для размещения веб-ресурсов EFF: Fastly — это CDN EFF. Privacy Badger пингует CDN для следующих ресурсов, чтобы убедиться, что информация в них актуальна, даже если в течение некоторого времени не было нового выпуска Privacy Badger:\n"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
@@ -514,13 +514,13 @@ msgstr ""
 msgid ""
 "* https://www.eff.org/files/dnt-policies.json\n"
 "* https://www.eff.org/files/cookieblocklist_new.txt\n"
-msgstr ""
+msgstr "* https://www.eff.org/files/dnt-policies.json\n* https://www.eff.org/files/cookieblocklist_new.txt\n"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, markdown-text, no-wrap
 msgid "EFF does not set cookies or retain IP addresses for these queries.\n"
-msgstr ""
+msgstr "EFF не устанавливает куки-файлы и не сохраняет IP-адреса для этих запросов.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
@@ -550,22 +550,22 @@ msgstr ""
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "I need help! I found a bug! What do I do now?"
-msgstr ""
+msgstr "Мне нужна помощь! Нашел ошибку! Что мне теперь делать?"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
-msgstr ""
+msgstr "* Если **сайт не работает должным образом**, вы можете выключить Privacy Badger только для этого сайта, оставив Privacy Badger включенным и защищающим вас на всех других сайтах. Для этого перейдите на сайт с проблемой, нажмите на значок Privacy Badger на панели инструментов браузера и нажмите кнопку «**Отключить на этом сайте**» во всплывающем окне Privacy Badger. Вы также можете быстро сообщить нам о неработающих сайтах, нажав на кнопку «**Сообщить о неполадках на сайте**».\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "* Did you run into \"**An unexpected error occurred**\" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).\n"
-msgstr ""
+msgstr "* Вы столкнулись с проблемой «**An unexpected error occurred**» в Firefox? Возможно, на вашем диске мало места. Эта проблема возникает у всех расширений, просто не все они сообщают вам об этом. Чтобы исправить ситуацию, освободите немного места на диске, а затем перезапустите Firefox. Если это не помогло, пожалуйста, сообщите нам (см. ниже).\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
 msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
-msgstr ""
+msgstr "Чтобы получить помощь или сообщить об ошибках, пишите на [extension-devs@eff.org](mailto:extension-devs@eff.org). Если у вас есть аккаунт на GitHub, вы можете использовать нашу [систему отслеживания проблем на GitHub](https://github.com/EFForg/privacybadger/issues).\n"
