@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-09-09 22:13+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-10-21 16:33+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -336,7 +336,7 @@ msgstr "Tenga en cuenta que el dominio debe soportar HTTPS, para protegerlo cont
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "Como administrador, ¿cómo configuro Privacy Badger en mis dispositivos gestionados?"
+msgstr "¿Cómo configuro Privacy Badger en mis dispositivos gestionados como administrador?"
 
 #. type: Plain text
 #: content/en/faqs/admin-deployment-and-configuration.md
@@ -556,7 +556,7 @@ msgstr "¡Necesito ayuda! ¡Encontré un bug! ¿Qué hago ahora?"
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "* If **a website isn't working** like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also quickly let us know about broken sites by clicking on the \"**Report broken site**\" button.\n"
-msgstr "* Si **un sitio web no funciona** como debería, puede desactivar el Protector de Privacidad sólo para ese sitio, dejando el Protector de Privacidad activado y protegiéndole en todos los demás sitios. Para ello, vaya al sitio con el problema, haga clic en el icono de Privacy Badger en la barra de herramientas de su navegador y haga clic en el botón \"**Desactivar para este sitio**\" en la ventana emergente de Privacy Badger. También puede informarnos rápidamente sobre los sitios rotos haciendo clic en el botón \"**Informar sobre un sitio roto**\".\n"
+msgstr "* Si **un sitio web no funciona** como debería, puede desactivar Privacy Badger sólo para ese sitio, dejando Privacy Badger activado y protegiéndole en todos los demás sitios. Para ello, vaya al sitio con el problema, haga clic en el icono de Privacy Badger en la barra de herramientas de su navegador y haga clic en el botón \"**Deshabilitar para este sitio**\" en la ventana emergente de Privacy Badger. También puede informarnos rápidamente sobre los sitios rotos haciendo clic en el botón \"**Reportar sitio roto**\".\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
