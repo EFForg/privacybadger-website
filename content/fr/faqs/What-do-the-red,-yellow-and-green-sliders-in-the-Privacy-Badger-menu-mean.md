@@ -1,6 +1,6 @@
 ---
 question: 'À quoi correspondent les curseurs rouges, jaunes et bleus dans Privacy Badger ?'
-weight: 4
+weight: 40
 ---
 
 La couleur rouge signifie que ce contenu de ce domaine tiers a été complètement bloqué.

@@ -1,6 +1,6 @@
 ---
 question: 'Est-ce que Privacy Badger maintient une liste des sites bloqués ?'
-weight: 8
+weight: 90
 ---
 
 Contrairement à d'autres outils de blocage de suivi, nous n'avons pas pris de décision sur les sites à bloquer, mais plutôt sur les comportements répréhensibles. Les domaines ne seront bloqués que si Privacy Badger observe que le domaine collecte des identifiants uniques après avoir reçu les signaux « Ne pas me pister » et « Contrôle global de la protection des données ».

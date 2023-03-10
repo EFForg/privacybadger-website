@@ -1,6 +1,6 @@
 ---
 question: '¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?'
-weight: 22
+weight: 240
 ---
 
 Privacy Badger debería ser compatible con otras extensiones.

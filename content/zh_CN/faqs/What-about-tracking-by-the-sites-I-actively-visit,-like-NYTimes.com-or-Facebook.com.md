@@ -1,6 +1,6 @@
 ---
 question: 我主动访问的网站，如NYTimes.com或Facebook.com的跟踪情况如何？
-weight: 7
+weight: 80
 ---
 
 目前，隐私獾主要保护您不受第三方网站的追踪。至于对“第一方”网站（您直接访问的网站）的隐私保护，隐私獾删除了[Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking)和[Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking)的外发链接点击跟踪。我们计划在未来增加更多的第一方隐私保护措施。

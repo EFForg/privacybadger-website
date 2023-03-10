@@ -1,6 +1,6 @@
 ---
 question: '¿Privacy Badger contiene una "lista negra" de sitios bloqueados?'
-weight: 8
+weight: 90
 ---
 
 A diferencia de otras herramientas de bloqueo, no hemos tomado decisiones sobre qué sitios bloquear, sino sobre qué comportamiento es objetable. Los dominios sólo se bloquearán si Privacy Badger observa que el dominio recoge identificadores únicos después de que se le hayan enviado las señales de «No rastrear» y «Control de privacidad global».

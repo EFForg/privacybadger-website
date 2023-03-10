@@ -1,6 +1,6 @@
 ---
 question: "Qu'en est-il du suivi de la part des sites que je visite volontairement, comme LeMonde.fr ou Facebook.com ?"
-weight: 7
+weight: 80
 ---
 
 À l'heure actuelle, Privacy Badger vous protège principalement contre le suivi par des sites tiers. En ce qui concerne les protections de la vie privée pour les sites « primaires » (sites que vous visitez directement), Privacy Badger supprime le suivi des clics sur les liens sortants sur [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) et [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Nous prévoyons d'ajouter plus de protections de la vie privée pour les sites de première partie à l'avenir.

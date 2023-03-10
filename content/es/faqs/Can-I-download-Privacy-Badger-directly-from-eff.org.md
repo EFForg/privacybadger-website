@@ -1,6 +1,6 @@
 ---
 question: '¿Puedo descargar Privacy Badger directamente de eff.org?'
-weight: 15
+weight: 160
 ---
 
 Si utiliza Google Chrome, tiene que instalar las extensiones de Chrome Web Store. Para instalar Privacy Badger en Chrome, visite [el listado de la Chrome Web Store de Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) y haga clic en el botón "Añadir a Chrome".
