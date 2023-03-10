@@ -1,6 +1,6 @@
 ---
 question: How do I uninstall/remove Privacy Badger?
-weight: 21
+weight: 230
 ---
 
 Firefox: See the [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions) Mozilla help page.

@@ -1,6 +1,6 @@
 ---
 question: I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?
-weight: 16
+weight: 170
 ---
 
 One way is to stop tracking users who have turned on the Do Not Track signal (i.e., stop collecting cookies, supercookies or fingerprints from them). That will work for new Privacy Badger installs.
