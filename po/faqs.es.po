@@ -4,7 +4,18 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2022-03-29 15:09-0400\nPO-Revision-Date: 2022-10-21 16:33+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 4.14.2-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-03-10 10:17-0500\n"
+"PO-Revision-Date: 2022-10-21 16:33+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -266,8 +277,9 @@ msgstr "¿Soportarán otros navegadores además de Chrome, Firefox, Edge y Opera
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, no-wrap
-msgid "Safari/iOS: [Safari seems to lack certain extension capabilities](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) required by Privacy Badger to function properly.\n"
+#, fuzzy, no-wrap
+#| msgid "Safari/iOS: [Safari seems to lack certain extension capabilities](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) required by Privacy Badger to function properly.\n"
+msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
 msgstr "Safari/iOS: [Safari parece carecer de ciertas capacidades de extensión](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) requeridas por Privacy Badger para funcionar correctamente.\n"
 
 #. type: Plain text
@@ -278,8 +290,9 @@ msgstr "Chrome en Android no admite extensiones. Para utilizar Privacy Badger en
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, no-wrap
-msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
+#, fuzzy, no-wrap
+#| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
+msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
 msgstr "Privacy Badger no funciona con [Microsoft Edge (versión anterior)](https://support.microsoft.com/es-es/microsoft-edge/-qu%C3%A9-es-microsoft-edge-versi%C3%B3n-anterior-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Por favor, cambie al nuevo navegador [Microsoft Edge](https://www.microsoft.com/es-es/edge).\n"
 
 #. type: YAML Front Matter: question
@@ -306,7 +319,9 @@ msgstr "Si no, puedes utilizar los siguientes enlaces para obtener la última ve
 msgid ""
 "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
-msgstr "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
+msgstr ""
+"* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
+"* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -494,7 +509,9 @@ msgstr "Consulte también las siguientes preguntas frecuentes:\n"
 msgid ""
 "* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
 "* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
-msgstr "* [¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n* [¿Funciona Privacy Badger cuando se bloquean las cookies de terceros en el navegador?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+msgstr ""
+"* [¿Es Privacy Badger compatible con otras extensiones, incluidos otros bloqueadores de anuncios?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
+"* [¿Funciona Privacy Badger cuando se bloquean las cookies de terceros en el navegador?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
@@ -514,7 +531,9 @@ msgstr "EFF utiliza Fastly para alojar los recursos web de EFF: Fastly es la CDN
 msgid ""
 "* https://www.eff.org/files/dnt-policies.json\n"
 "* https://www.eff.org/files/cookieblocklist_new.txt\n"
-msgstr "* https://www.eff.org/files/dnt-policies.json\n* https://www.eff.org/files/cookieblocklist_new.txt\n"
+msgstr ""
+"* https://www.eff.org/files/dnt-policies.json\n"
+"* https://www.eff.org/files/cookieblocklist_new.txt\n"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
