@@ -23,7 +23,7 @@
       <h3 id="{{ .File.TranslationBaseName }}">
         <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
       </h3>
-      {{ .Content }}
+      {{ .Content | markdownify }}
     {{ end }}
   </div>
 
