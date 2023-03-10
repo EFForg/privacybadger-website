@@ -1,6 +1,6 @@
 ---
 question: What about tracking by the sites I actively visit, like NYTimes.com or Facebook.com?
-weight: 7
+weight: 80
 ---
 
 At present, Privacy Badger primarily protects you against tracking by third party sites. As far as privacy protections for "first party" sites (sites that you visit directly), Privacy Badger removes outgoing link click tracking on [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) and [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). We plan on adding more first party privacy protections in the future.

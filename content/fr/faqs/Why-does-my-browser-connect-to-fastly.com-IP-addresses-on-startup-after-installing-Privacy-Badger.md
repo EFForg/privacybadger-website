@@ -1,6 +1,6 @@
 ---
 question: "Pourquoi est-ce que mon navigateur se connecte aux adresses IP de fastly.com au démarrage après l'installation de Privacy Badger ?"
-weight: 24
+weight: 260
 ---
 
 L'EFF utilise Fastly pour héberger ses ressources Web : Fastly est le CDN de l'EFF. Privacy Badger envoie des pings au CDN pour les ressources suivantes afin de s'assurer que les informations qu'elles contiennent soient fraîches, même s'il n'y a pas eu de nouvelle version de Privacy Badger depuis un certain temps :

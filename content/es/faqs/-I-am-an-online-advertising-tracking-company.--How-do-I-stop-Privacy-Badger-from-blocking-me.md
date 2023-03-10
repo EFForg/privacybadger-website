@@ -1,6 +1,6 @@
 ---
 question: 'Dirijo un dominio que utiliza cookies u otro tipo de seguimiento. ¿Cómo puedo evitar que Privacy Badger me bloquee?'
-weight: 16
+weight: 170
 ---
 
 Una forma es dejar de rastrear a los usuarios de terceros que han activado el siñal No rastrear (es decir, dejar de recolectar cookies, supercookies o huellas dactilares de los mismos). Esto funcionará para las nuevas instalaciones de Privacy Badger.

@@ -1,6 +1,6 @@
 ---
 question: "Je gère un domaine qui utilise des cookies ou d'autres moyens de suivi. Comment puis-je empêcher Privacy Badger de me bloquer ?"
-weight: 16
+weight: 170
 ---
 
 L'un des moyens est d'arrêter de suivre les utilisateurs qui ont activé le signal Ne pas me pister (c'est-à-dire arrêter de collecter des cookies, des supercookies ou des empreintes numériques du navigateurs auprès d'eux). Cela fonctionnera pour les nouvelles installations de Privacy Badger.

@@ -1,6 +1,6 @@
 ---
 question: 'Comment puis-je désinstaller/supprimer Privacy Badger ?'
-weight: 21
+weight: 230
 ---
 
 Pour Firefox : Consultez la page d'aide de Mozilla [Désactiver ou supprimer les modules complémentaires](https://support.mozilla.org/fr/kb/desactiver-supprimer-modules#w_disabling-and-removing-extensions).

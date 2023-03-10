@@ -4,7 +4,7 @@
 
   <h2>{{ i18n "FrequentlyAskedQuestions" }}</h2>
 
-  {{- $pages := (where .Pages "Section" "faqs") }}
+  {{- $pages := (where $.Site.RegularPages "Section" "faqs") }}
   {{- $pages = $pages | lang.Merge (where .Sites.First.Pages "Section" "faqs") }}
   {{- $pages := $pages | intersect (where $pages "Params.question" "!=" nil) }}
 
@@ -23,7 +23,7 @@
       <h3 id="{{ .File.TranslationBaseName }}">
         <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
       </h3>
-      {{ .Content | markdownify }}
+      {{ .Content }}
     {{ end }}
   </div>
 

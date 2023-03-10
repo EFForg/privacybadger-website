@@ -1,6 +1,6 @@
 ---
 question: "Qu'est-ce le « Contrôle global de la protection des données » (GPC) ?"
-weight: 6.5
+weight: 70
 ---
 
 [Contrôle global de la protection des données (GPC)](https://globalprivacycontrol.org/) est une nouvelle spécification qui permet aux utilisateurs d'indiquer aux entreprises qu'ils ne souhaitent pas que leurs données soient partagées ou vendues. Par défaut, Privacy Badger envoie le signal GPC à chaque entreprise avec laquelle vous interagissez, en même temps que le signal « Ne pas me pister » (DNT).

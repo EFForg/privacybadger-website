@@ -1,6 +1,6 @@
 ---
 question: What do the red, yellow and green sliders in the Privacy Badger menu mean?
-weight: 4
+weight: 40
 ---
 
 Red means that content from this third party domain has been completely disallowed.

@@ -1,6 +1,6 @@
 ---
 question: 如何卸载/删除隐私獾？
-weight: 21
+weight: 230
 ---
 
 火狐浏览器：请参阅[卸载附加组件](https://support.mozilla.org/zh-CN/kb/%E5%8D%B8%E8%BD%BD%E9%99%84%E5%8A%A0%E7%BB%84%E4%BB%B6#w_jin-yong-he-shan-chu-kuo-zhan) Mozilla帮助页面。

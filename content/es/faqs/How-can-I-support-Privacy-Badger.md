@@ -1,6 +1,6 @@
 ---
 question: '¿Cómo puedo apoyar a Privacy Badger?'
-weight: 19
+weight: 210
 ---
 
 Gracias por preguntar! Las donaciones individuales constituyen aproximadamente la mitad del apoyo de EFF, lo que nos da la libertad de trabajar en proyectos centrados en los usuarios. Si desea apoyar el desarrollo de Privacy Badger y otros proyectos como éste, ayudando a construir un ecosistema de Internet más seguro, puede [enviarnos unos cuantos dólares aquí](https://supporters.eff.org/donate/support-privacy-badger). Gracias.

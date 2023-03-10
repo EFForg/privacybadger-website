@@ -1,6 +1,6 @@
 ---
 question: '¿Qué pasa con el seguimiento por parte de los sitios que visito activamente, como NYTimes.com o Facebook.com?'
-weight: 7
+weight: 80
 ---
 
 En la actualidad, Privacy Badger lo protege principalmente contra el rastreo por parte de sitios de terceros. En cuanto a la protección de la privacidad de los sitios de "primera parte" (sitios que usted visita directamente), Privacy Badger elimina el seguimiento de los enlaces salientes en [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) y [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Planeamos añadir más protecciones de privacidad para las primeras partes en el futuro.

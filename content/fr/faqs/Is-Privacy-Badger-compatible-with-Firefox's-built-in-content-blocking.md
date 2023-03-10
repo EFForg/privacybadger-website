@@ -1,6 +1,6 @@
 ---
 question: 'Est-ce que Privacy Badger est compatible avec le blocage de contenu intégré de Firefox ?'
-weight: 23
+weight: 250
 ---
 
 Il est possible d'utiliser conjointement le blocage de contenu intégré de Firefox et Privacy Badger.

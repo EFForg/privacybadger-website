@@ -1,6 +1,6 @@
 ---
 question: 'Comment fonctionne Privacy Badger ?'
-weight: 2
+weight: 20
 ---
 
 Lorsque vous consultez une page Web, celle-ci est souvent composée de contenus provenant de plusieurs sources différentes. (Par exemple, une page Web d'actualités peut afficher l'article provenant du media d'actualités lui-même, des publicités d'une autre société spécialisée dans la publicité et la section des commentaires d'une autre société qui a été engagée pour fournir ce service). Privacy Badger garde la trace de tout cela. Si, lorsque vous naviguez sur le Web, la même source semble suivre votre navigateur sur différents sites, Privacy Badger entre en action et demande à votre navigateur de ne plus charger de contenu provenant de cette source. Et lorsque votre navigateur arrête de charger le contenu d'une source, cette source ne peut plus vous suivre. Voilà !
