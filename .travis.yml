@@ -1,15 +1,12 @@
-language: node_js
+language: generic
 dist: focal
-node_js:
-    - "node"
+
+services:
+  - docker
 
 install:
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.68.3/hugo_extended_0.68.3_Linux-64bit.deb
-  - sudo dpkg -i hugo*.deb
-  - npm install
+  - sed -i -n '/FROM conex.eff.org/q;p' Dockerfile
+  - docker build -t app .
 
-cache:
-  directories:
-    - "node_modules"
-
-script: npm run lint && hugo
+script:
+  - docker run app npm run lint
