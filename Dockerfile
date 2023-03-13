@@ -1,6 +1,6 @@
 FROM golang:alpine as builder
 
-ENV HUGO_VERSION=0.111.3
+ENV HUGO_VERSION=0.68.3
 ENV GO111MODULE on
 
 RUN apk add --no-cache \

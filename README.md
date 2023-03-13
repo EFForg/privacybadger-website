@@ -15,7 +15,7 @@ Any legal dispute with Weblate would be under Czech Republic law, and must be re
 
 ## Development
 
-1. Install the **extended** version of [Hugo](https://gohugo.io/getting-started/installing/) version [0.111.3](https://github.com/gohugoio/hugo/releases/tag/v0.111.3).
+1. Install the **extended** version of [Hugo](https://gohugo.io/getting-started/installing/) version [0.68.3](https://github.com/gohugoio/hugo/releases/tag/v0.68.3).
 2. Install node and npm. Run `npm install` to get the node dependencies.
 3. Run `hugo serve`.
 
