@@ -39,6 +39,3 @@ title = "Privacy Badger"
     contentDir = "content/zh_CN"
     languageName = "中文（中国）"
     weight = 8
-
-[markup.goldmark.renderer]
-  unsafe= true
