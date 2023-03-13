@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-10 10:17-0500\n"
+"POT-Creation-Date: 2023-03-11 10:12-0500\n"
 "PO-Revision-Date: 2022-08-12 15:42+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
@@ -348,18 +348,6 @@ msgid "Note that the domain must support HTTPS, to protect against tampering by 
 msgstr "Il est à noter que le domaine doit prendre en charge le protocole HTTPS, afin de se protéger contre les manipulations par des attaquants du réseau. Le chemin d'accès doit contenir \".well-known\" conformément à la [RFC 5785](https://tools.ietf.org/html/rfc5785). Il est également à noter que vous devez publier une copie de la politique sur chaque sous-domaine conforme que vous contrôlez. Par exemple, si vous souhaitez déclarer la conformité de sousdomaine1.example.com et sousdomaine2.example.com, vous devez publier la politique de non-traçage de la EFF sur chacun de ces domaines.\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "En tant qu'administrateur, comment est-ce que je configure Privacy Badger sur les appareils que je gère ?"
-
-#. type: Plain text
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr "Veuillez lire notre document [Déployer et configurer au niveau d'une entreprise](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
-
-#. type: YAML Front Matter: question
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
@@ -370,6 +358,18 @@ msgstr "Où puis-je trouver des informations générales sur Privacy Badger que 
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
 msgstr "Content que vous demandiez ! Vous pouvez consulter ce [dossier de presse téléchargeable](/files/pb_journalist_1_pager.pdf) que nous avons préparé.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
+msgstr "En tant qu'administrateur, comment est-ce que je configure Privacy Badger sur les appareils que je gère ?"
+
+#. type: Plain text
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
+msgstr "Veuillez lire notre document [Déployer et configurer au niveau d'une entreprise](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md

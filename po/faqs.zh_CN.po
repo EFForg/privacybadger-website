@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-10 10:17-0500\n"
+"POT-Creation-Date: 2023-03-11 10:12-0500\n"
 "PO-Revision-Date: 2022-03-29 19:19+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -348,18 +348,6 @@ msgid "Note that the domain must support HTTPS, to protect against tampering by 
 msgstr "请注意，该域名必须支持HTTPS，以防止网络攻击者的篡改。根据[RFC 5785](https://tools.ietf.org/html/rfc5785)，该路径包含\".known\"。还要注意的是，您必须在您控制的每一个符合要求的子域名张贴一份策略的副本。例如，如果您想声明sub1.example.com和sub2.example.com都符合规定，您必须在每个域名上张贴EFF的DNT政策。\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "作为一个管理员，我如何在我管理的设备上配置隐私獾？"
-
-#. type: Plain text
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr "请参阅我们的[企业部署和配置](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md)文件。\n"
-
-#. type: YAML Front Matter: question
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
@@ -370,6 +358,18 @@ msgstr "我在哪里可以找到关于隐私獾的一般信息，可以用于我
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
 msgstr "很高兴您问了这个问题! 请看我们整理的[可下载的新闻资料](/files/pb_journalist_1_pager.pdf)。\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
+msgstr "作为一个管理员，我如何在我管理的设备上配置隐私獾？"
+
+#. type: Plain text
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
+msgstr "请参阅我们的[企业部署和配置](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md)文件。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md

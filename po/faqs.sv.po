@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-03-10 10:17-0500\n"
+"POT-Creation-Date: 2023-03-11 10:12-0500\n"
 "PO-Revision-Date: 2022-04-18 11:10+0000\n"
 "Last-Translator: Simon N <Observeramera@pm.me>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\n"
@@ -344,18 +344,6 @@ msgid "Note that the domain must support HTTPS, to protect against tampering by 
 msgstr ""
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr ""
-
-#. type: Plain text
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr ""
-
-#. type: YAML Front Matter: question
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
@@ -365,6 +353,18 @@ msgstr ""
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
+msgstr ""
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/admin-deployment-and-configuration.md
+#, no-wrap
+msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
