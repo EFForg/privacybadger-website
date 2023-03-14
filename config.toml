@@ -1,6 +1,7 @@
 DefaultContentLanguage = "en"
 baseURL = "https://privacybadger.org"
 title = "Privacy Badger"
+disableKinds = ['section', 'taxonomy', 'term']
 
 [params]
   badgerVersion = "2019.11.18"
