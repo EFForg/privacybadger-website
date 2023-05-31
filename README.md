@@ -6,9 +6,7 @@ Code and content of <https://privacybadger.org>.
 
 Thank you for your interest in translating the Privacy Badger website! Translations are handled in [Weblate](https://weblate.org/).
 
-:warning: EFF wants to be sure that our translators make informed consent regarding registering with Weblate. Before you register, please note that Weblate's [Terms and Privacy Policy](https://weblate.org/en/terms/) do not meet EFF's [standards for protecting users from government requests](https://www.eff.org/who-has-your-back-2017#overview-criteria), including not promising to provide notice of government requests nor providing sufficient transparency about its policies on responding to government requests.
-The Terms state that registrants provide a broad level of consent to collecting, storage and processing of their personal data, such as sending you "unsolicited business communications," and include a [real name policy](https://www.eff.org/deeplinks/2014/09/facebooks-real-name-policy-can-cause-real-world-harm-lgbtq-community) that purports to require registrants use their "own name and e-mail" for VCS commits.
-Any legal dispute with Weblate would be under Czech Republic law, and must be resolved in a Czech court.
+:warning: EFF wants to be sure that our translators make informed consent regarding registering with Weblate. Before you register, please review [Weblate's Terms and Privacy Policy](https://weblate.org/en/terms/) and note that any legal dispute with Weblate would be under Czech Republic law, and must be resolved in a Czech court.
 
 - To translate [FAQ questions and answers](https://privacybadger.org/#faq), visit the [FAQs component on Weblate](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/).
 - To translate everything else, visit the [general strings component](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-strings/).
