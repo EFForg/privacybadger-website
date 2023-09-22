@@ -8,3 +8,5 @@ weight: 280
 * Did you run into "**An unexpected error occurred**" in Firefox? Your disk is probably low on space. All extensions have this problem; they just don't all tell you about it. To fix, free up some disk space and then restart Firefox. If that didn't help, please let us know (see below).
 
 To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).
+
+You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).
