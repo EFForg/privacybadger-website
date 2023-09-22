@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-22 12:26-0400\n"
-"PO-Revision-Date: 2022-09-16 16:29+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-09-22 12:26-0400\nPO-Revision-Date: 2023-09-22 18:02+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\nX-Generator: Weblate 5.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -303,13 +292,13 @@ msgstr "Можно ли скачать Privacy Badger непосредствен
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "If you use Google Chrome, you have to install extensions from Chrome Web Store. To install Privacy Badger in Chrome, visit [Privacy Badger's Chrome Web Store listing](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) and click the \"Add to Chrome\" button there.\n"
-msgstr ""
+msgstr "Если вы пользуетесь Google Chrome, Интернет-магазин Chrome обезателен для установление расширений. Чтобы установить Privacy Badger в Chrome, посетите [страницу Privacy Badger в Интернет-магазине Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) и нажмите там кнопку \"Установить\".\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Otherwise, you can use the following links to get the latest version of Privacy Badger directly from eff.org:\n"
-msgstr ""
+msgstr "В противном случае вы можете воспользоваться следующими ссылками, чтобы получить последнюю версию Privacy Badger непосредственно от eff.org:\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -597,4 +586,4 @@ msgstr "Чтобы получить помощь или сообщить об о
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
-msgstr ""
+msgstr "Вы также можете найти нас на Mastodon по адресу [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
