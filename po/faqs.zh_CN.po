@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-22 12:26-0400\n"
+"POT-Creation-Date: 2023-09-22 15:46-0400\n"
 "PO-Revision-Date: 2022-03-29 19:19+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -333,7 +333,7 @@ msgstr "我经营的域名使用cookie或其他追踪功能，我该如何阻止
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, fuzzy, no-wrap
 #| msgid "One way is to stop tracking users who have turned on the Do Not Track signal (i.e., stop collecting cookies, supercookies or fingerprints from them). That will work for new Privacy Badger installs.\n"
-msgid "One way is to stop tracking users who have turned on the Do Not Track signal (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
+msgid "One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
 msgstr "一种方法是停止跟踪已开启不跟踪信号的用户（即停止收集他们的cookies、supercookies或指纹）。这将对新安装的隐私獾起作用。\n"
 
 #. type: Plain text
