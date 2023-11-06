@@ -4,13 +4,13 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-09-22 15:46-0400\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-09-22 15:46-0400\nPO-Revision-Date: 2023-11-07 01:32+0000\nLast-Translator: Erdoğan Yağız Şahin <erdy@protonmail.ch>\nLanguage-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.2-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
 #, no-wrap
 msgid "What is Privacy Badger?"
-msgstr ""
+msgstr "Privacy Badger nedir?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -40,7 +40,7 @@ msgstr ""
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, no-wrap
 msgid "How does Privacy Badger work?"
-msgstr ""
+msgstr "Privacy Badger nasıl çalışır?"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
@@ -100,7 +100,7 @@ msgstr ""
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
 #, no-wrap
 msgid "Why does Privacy Badger block ads?"
-msgstr ""
+msgstr "Privacy Badger neden reklamları engelliyor?"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
@@ -112,7 +112,7 @@ msgstr ""
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
 #, no-wrap
 msgid "Why doesn't Privacy Badger block all ads?"
-msgstr ""
+msgstr "Privacy Badger neden tüm reklamları engellemiyor?"
 
 #. type: Plain text
 #: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
@@ -184,7 +184,7 @@ msgstr ""
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Does Privacy Badger contain a list of blocked sites?"
-msgstr ""
+msgstr "Privacy Badger engellenen sitelerin bir listesini içeriyor mu?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
@@ -262,7 +262,7 @@ msgstr ""
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?"
-msgstr ""
+msgstr "Chrome, Firefox, Edge ve Opera dışında başka tarayıcıları da destekleyecek misiniz?"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -286,7 +286,7 @@ msgstr ""
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Can I download Privacy Badger directly from eff.org?"
-msgstr ""
+msgstr "Privacy Badger'ı doğrudan eff.org'dan indirebilir miyim?"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -378,7 +378,7 @@ msgstr ""
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "How can I support Privacy Badger?"
-msgstr ""
+msgstr "Privacy Badger'ı nasıl destekleyebilirim?"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
@@ -414,7 +414,7 @@ msgstr ""
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "How do I uninstall/remove Privacy Badger?"
-msgstr ""
+msgstr "Privacy Badger'ı nasıl kaldırabilirim?"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
@@ -556,7 +556,7 @@ msgstr ""
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "I need help! I found a bug! What do I do now?"
-msgstr ""
+msgstr "Yardıma ihtiyacım var! Bir hata buldum! Şimdi ne yapmalıyım?"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
