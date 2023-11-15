@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-22 15:46-0400\n"
+"POT-Creation-Date: 2023-11-15 17:28-0500\n"
 "PO-Revision-Date: 2022-03-29 19:19+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -419,12 +419,6 @@ msgstr "隐私獾是如何处理社交媒体小工具的？"
 #, no-wrap
 msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
 msgstr "社交媒体小工具（如Facebook的“赞”按钮）通常会追踪您的阅读习惯。即使您不点击它们，社交媒体公司也经常能准确地看到您在哪些页面上看到小工具。在阻止社交按钮和其他可能有用的（视频、音频、评论）小工具时，隐私獾可以用点击激活的占位符来取代它们。除非您明确选择点击这些替代物，否则您不会被追踪到。\n"
-
-#. type: Plain text
-#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "Note that Privacy Badger will not replace social media widgets unless it has blocked the associated tracker. If you're seeing real social media widgets, it generally means that Privacy Badger hasn't detected tracking from that variant of the widget, or that the site you're looking at has implemented its own version of the widget.\n"
-msgstr "请注意，隐私獾不会替换社交媒体小工具，除非它已经阻止了相关跟踪器。如果您看到的是真正的社交媒体小工具，这通常意味着隐私獾没有检测到该小工具变体的跟踪，或者您正在查看的网站已经实施了自己的小工具版本。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-22 15:46-0400\n"
+"POT-Creation-Date: 2023-11-15 17:28-0500\n"
 "PO-Revision-Date: 2022-04-18 11:10+0000\n"
 "Last-Translator: Simon N <Observeramera@pm.me>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\n"
@@ -413,12 +413,6 @@ msgstr ""
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
 msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
-msgstr ""
-
-#. type: Plain text
-#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "Note that Privacy Badger will not replace social media widgets unless it has blocked the associated tracker. If you're seeing real social media widgets, it generally means that Privacy Badger hasn't detected tracking from that variant of the widget, or that the site you're looking at has implemented its own version of the widget.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question

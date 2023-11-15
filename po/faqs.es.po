@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-22 15:46-0400\n"
+"POT-Creation-Date: 2023-11-15 17:28-0500\n"
 "PO-Revision-Date: 2022-10-21 16:33+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\n"
@@ -419,12 +419,6 @@ msgstr "¿Cómo maneja Privacy Badger los widgets de redes sociales?"
 #, no-wrap
 msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
 msgstr "Los widgets de las redes sociales (como el botón Me gusta de Facebook) a menudo rastrean sus hábitos de lectura. Incluso si no haces clic en ellos, las compañías de medios sociales a menudo ven exactamente en qué páginas estás viendo el widget. Al bloquear botones de redes sociales y otros widgets potencialmente útiles (vídeo, audio, comentarios), Privacy Badger puede sustituirlos con marcadores de posición de clic para activarlos. Estos reemplazos no le seguirán a menos que elija explícitamente hacer clic en ellos.\n"
-
-#. type: Plain text
-#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "Note that Privacy Badger will not replace social media widgets unless it has blocked the associated tracker. If you're seeing real social media widgets, it generally means that Privacy Badger hasn't detected tracking from that variant of the widget, or that the site you're looking at has implemented its own version of the widget.\n"
-msgstr "Tenga en cuenta que Privacy Badger no reemplazará a los widgets de redes sociales a menos que haya bloqueado el rastreador asociado. Si ve los verdaderos widgets de las redes sociales, generalmente significa que Privacy Badger no ha detectado el seguimiento desde esa variante del widget, o que el sitio que está viendo ha implementado su propia versión del mismo.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
