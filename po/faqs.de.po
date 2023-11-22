@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-11-15 17:28-0500\nPO-Revision-Date: 2023-11-21 22:01+0000\nLast-Translator: Valentin Binotto <valentin@v434project.com>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.2\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-11-15 17:28-0500\nPO-Revision-Date: 2023-11-22 15:18+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.2.1-rc\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -61,7 +61,7 @@ msgstr "Auf einer etwas technischeren Ebene merkt sich Privacy Badger die Domain
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, no-wrap
 msgid "By default, Privacy Badger receives periodic learning updates from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web. Privacy Badger [no longer learns from your browsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) by default, as \"local learning\" may make you more identifiable to websites. You may want to opt back in to local learning if you regularly browse less popular websites. To do so, visit your Badger’s options page and mark the checkbox for learning to block new trackers from your browsing.\n"
-msgstr "Standardmäßig erhält Privacy Badger regelmäßige Lern-Updates von [Badger Sett] (https://github.com/EFForg/badger-sett), unserem Badger-Trainingsprojekt. Dieses Trainingsprojekt entdeckt automatisch Tracker, die auf Tausenden der beliebtesten Websites im Web vorhanden sind. Privacy Badger [lernt standardmäßig nicht mehr durch dein Webbrowsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better), da du durch das \"lokale Lernen\" von Privacy Badger für Websites leichter zu identifizieren sein könntest. Wenn du regelmäßig auf weniger beliebten Websites surfst, möchtest du vielleicht das \"lokale Lernen\" von Privacy Badger wieder aktivieren. Rufe dazu die Optionsseite deiner Privacy Badger Erweiterung auf und aktiviere das Optionskästchen \"Blocken neuer Tracker beim Browsen lernen\".\n"
+msgstr "Standardmäßig erhält Privacy Badger regelmäßige Lern-Updates von [Badger Sett](https://github.com/EFForg/badger-sett), unserem Badger-Trainingsprojekt. Dieses Trainingsprojekt entdeckt automatisch Tracker, die auf Tausenden der beliebtesten Websites im Web vorhanden sind. Privacy Badger [lernt standardmäßig nicht mehr durch dein Webbrowsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better), da du durch das \"lokale Lernen\" von Privacy Badger für Websites leichter zu identifizieren sein könntest. Wenn du regelmäßig auf weniger beliebten Websites surfst, möchtest du vielleicht das lokale Lernen von Privacy Badger wieder aktivieren. Rufe dazu die Optionsseite deiner Privacy Badger Erweiterung auf und aktiviere das Optionskästchen \"Blocken neuer Tracker beim Browsen lernen\".\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-a-third-party-tracker.md
@@ -73,7 +73,7 @@ msgstr "Was sind Tracker von Drittanbietern?"
 #: content/en/faqs/What-is-a-third-party-tracker.md
 #, no-wrap
 msgid "When you visit a webpage parts of the page may come from domains and servers other than the one you asked to visit. This is an essential feature of [hypertext](https://en.wikipedia.org/wiki/Hypertext). On the modern Web, embedded images and code often use cookies and other methods to track your browsing habits — often to display advertisements. The domains that do this are called \"third party trackers\", and you can read more about how they work [here](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
-msgstr "Wenn du eine Webseite besuchst, können Teile der Seite von anderen Domains und Servern stammen als von denen, die du ursprünglich besuchen wolltest. Dies ist eine wesentliche Funktion von [Hypertext](https://en.wikipedia.org/wiki/Hypertext). Im modernen Web nutzen eingebettete Bilder und eingebetteter Code oft Cookies und andere Wege um deine Surfgewohnheiten nachzuvollziehen - oft um dir Werbung anzuzeigen. Die Domains, die dies tun, werden \"Third Party Tracker\" genannt. Mehr darüber, wie diese Tracker funktionieren, erfährst du [hier](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
+msgstr "Wenn du eine Webseite besuchst, können Teile der Seite von anderen Domains und Servern stammen als von denen, die du ursprünglich besuchen wolltest. Dies ist eine wesentliche Funktion von [Hypertext](https://de.wikipedia.org/wiki/Hypertext). Im modernen Web nutzen eingebettete Bilder und eingebetteter Code oft Cookies und andere Wege um deine Surfgewohnheiten nachzuvollziehen - oft um dir Werbung anzuzeigen. Die Domains, die dies tun, werden \"Third Party Tracker\" genannt. Mehr darüber, wie diese Tracker funktionieren, erfährst du [hier](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
@@ -253,7 +253,7 @@ msgstr "Ja. Wenn [das \"Lernen\" durch Privacy-Badger aktiviert ist](#How-does-P
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
 #, no-wrap
 msgid "Does Privacy Badger still learn when I set my browser to block all third-party cookies?"
-msgstr "Lernt Privacy Badger weiterhin, obwohl mein Browser alle Drittanbieter-Cookies blockiert?"
+msgstr "Funktioniert Privacy Badger auch wenn Drittanbieter-Cookies im Browser blockiert werden?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
@@ -417,19 +417,19 @@ msgstr "Wie deinstalliere/entferne ich Privacy Badger?"
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Firefox: See the [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions) Mozilla help page.\n"
-msgstr "Firefox: Siehe die Mozilla-Hilfeseite zur [Deaktivierung oder Entfernung von Erweiterungen](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions).\n"
+msgstr "Firefox: Siehe die Mozilla-Hilfeseite zur [Deaktivierung oder Entfernung von Erweiterungen](https://support.mozilla.org/de/kb/addons-deaktivieren-oder-deinstallieren#w_erweiterungen-entfernen).\n"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Chrome: See the [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=en) Chrome Web Store help page.\n"
-msgstr "Chrome: Siehe die Chrome-Web-Store-Hilfeseite zur [Installation und Verwaltung von Erweiterungen](https://support.google.com/chrome_webstore/answer/2664769?hl=en).\n"
+msgstr "Chrome: Siehe die Chrome-Web-Store-Hilfeseite zur [Installation und Verwaltung von Erweiterungen](https://support.google.com/chrome_webstore/answer/2664769?hl=de).\n"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
-msgstr "Edge: Siehe die Microsoft-Hilfeseite zum [Hinzufügen oder Entfernen von Browser-Erweiterungen und -Toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions).\n"
+msgstr "Edge: Siehe die Microsoft-Hilfeseite zum [Hinzufügen oder Entfernen von Browser-Erweiterungen und -Toolbars](https://support.microsoft.com/de-de/microsoft-edge/erweiterungen-in-microsoft-edge-hinzuf%C3%BCgen-ausschalten-oder-entfernen-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
@@ -441,7 +441,7 @@ msgstr ""
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with other extensions, including adblockers?"
-msgstr "Ist Privacy Badger mit anderen Erweiterungen kompatibel, inklusive Ad-Blockern?"
+msgstr "Ist Privacy Badger kompatibel mit anderen Erweiterungen, beispielsweise Ad-Blockern?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
