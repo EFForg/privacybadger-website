@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2023-11-15 17:28-0500\nPO-Revision-Date: 2023-11-22 15:18+0000\nLast-Translator: Ranforingus <ranforingus@hotmail.com>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.2.1-rc\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-11-22 11:32-0500\n"
+"PO-Revision-Date: 2023-11-22 15:18+0000\n"
+"Last-Translator: Ranforingus <ranforingus@hotmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.2.1-rc\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -432,12 +443,6 @@ msgstr "Pour Chrome : Consultez la page d'aide [Installer et gérer les extensio
 #, no-wrap
 msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
 msgstr "Pour Edge : Consultez la page d'aide Microsoft [Ajouter ou supprimer les modules complémentaires, les extensions et les barres d'outils du navigateur](https://support.microsoft.com/fr-fr/microsoft-edge/ajouter-d%C3%A9sactiver-ou-supprimer-des-extensions-dans-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
-
-#. type: Plain text
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "Opera: Click the menu button in the top left of the window, and then click \"Extensions\" and then \"Manage Extensions.\" Scroll until you see Privacy Badger, move your mouse over it, and then click the \"X\" icon in the upper right. Click \"OK\" to confirm removal. You can then safely close the Extensions tab.\n"
-msgstr "Pour Opera : Cliquez sur le bouton de menu en haut à gauche de la fenêtre, puis cliquez sur \"Extensions\", et ensuite sur \"Gérer les extensions\". Faites défiler l'écran jusqu'à ce que vous voyiez Privacy Badger, puis placez votre souris dessus, et cliquez sur l'icône \"X\" en haut à droite. Cliquez sur \"OK\" pour confirmer la suppression. Vous pouvez ensuite fermer l'onglet Extensions en toute sécurité.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md

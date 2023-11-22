@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-11-15 17:28-0500\n"
+"POT-Creation-Date: 2023-11-22 11:32-0500\n"
 "PO-Revision-Date: 2022-03-29 19:19+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -443,12 +443,6 @@ msgstr "Chrome浏览器：请参阅[安装和管理扩展程序](https://support
 #, no-wrap
 msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
 msgstr "Edge：请查阅[在 Microsoft Edge 中查找、添加或删除扩展](https://support.microsoft.com/zh-cn/microsoft-edge/%E5%9C%A8-microsoft-edge-%E4%B8%AD%E6%9F%A5%E6%89%BE-%E6%B7%BB%E5%8A%A0%E6%88%96%E5%88%A0%E9%99%A4%E6%89%A9%E5%B1%95-f3522273-d067-7435-6a9d-fdb99213e9a8) Microsoft 帮助页面。\n"
-
-#. type: Plain text
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "Opera: Click the menu button in the top left of the window, and then click \"Extensions\" and then \"Manage Extensions.\" Scroll until you see Privacy Badger, move your mouse over it, and then click the \"X\" icon in the upper right. Click \"OK\" to confirm removal. You can then safely close the Extensions tab.\n"
-msgstr "Opera：点击窗口左上方的菜单按钮，然后点击 “扩展”，再点击 “扩展”。滚动直到您看到隐私獾，将鼠标移到它上面，然后点击右上方的 “X” 图标。点击 “移除” 以确认删除。然后您可以安全地关闭 “扩展” 选项卡。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
