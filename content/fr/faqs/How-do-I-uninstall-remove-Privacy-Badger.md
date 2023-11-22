@@ -8,5 +8,3 @@ Pour Firefox : Consultez la page d'aide de Mozilla [Désactiver ou supprimer les
 Pour Chrome : Consultez la page d'aide [Installer et gérer les extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=fr) du Chrome Web Store.
 
 Pour Edge : Consultez la page d'aide Microsoft [Ajouter ou supprimer les modules complémentaires, les extensions et les barres d'outils du navigateur](https://support.microsoft.com/fr-fr/microsoft-edge/ajouter-d%C3%A9sactiver-ou-supprimer-des-extensions-dans-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).
-
-Pour Opera : Cliquez sur le bouton de menu en haut à gauche de la fenêtre, puis cliquez sur "Extensions", et ensuite sur "Gérer les extensions". Faites défiler l'écran jusqu'à ce que vous voyiez Privacy Badger, puis placez votre souris dessus, et cliquez sur l'icône "X" en haut à droite. Cliquez sur "OK" pour confirmer la suppression. Vous pouvez ensuite fermer l'onglet Extensions en toute sécurité.
