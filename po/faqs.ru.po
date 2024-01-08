@@ -9,12 +9,14 @@ msgstr ""
 "POT-Creation-Date: 2024-01-10 09:41-0500\n"
 "PO-Revision-Date: 2023-09-22 18:31+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/"
+"privacybadger-website-faqs/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 5.1-dev\n"
 
 #. type: YAML Front Matter: question
@@ -39,7 +41,7 @@ msgstr "Чем Privacy Badger отличается от других блоки�
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "Privacy Badger was born out of our desire to be able to recommend a single extension that would automatically analyze and block any tracker or ad that violated the principle of user consent; which could function well without any settings, knowledge, or configuration by the user; which is produced by an organization that is unambiguously working for its users rather than for advertisers; and which uses algorithmic methods to decide what is and isn't tracking.\n"
-msgstr ""
+msgstr "Privacy Badger появился из нашего желания иметь возможность порекомендовать только одно расширение, которое будет автоматически анализировать и блокировать любой трекер или рекламу, которая нарушает принцип согласия пользователя; которая может нормально функционировать без каких-либо настроек, знаний или конфигурации от пользователя; которая производится организацией, которая однозначно работает для своих пользователей, а не для рекламодателей; и которая использует алгоритмические методы для решения того, что является отслеживанием, а что не является.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -586,3 +588,9 @@ msgstr "Чтобы получить помощь или сообщить об о
 #, no-wrap
 msgid "You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
 msgstr "Вы также можете найти нас на Mastodon по адресу [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
+
+#. type: Plain text
+#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
+#, no-wrap
+msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
+msgstr ""
