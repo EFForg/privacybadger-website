@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-11-22 11:32-0500\n"
+"POT-Creation-Date: 2024-01-10 09:41-0500\n"
 "PO-Revision-Date: 2023-11-22 15:18+0000\n"
 "Last-Translator: Ranforingus <ranforingus@hotmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
@@ -416,8 +416,9 @@ msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
+#, fuzzy, no-wrap
+#| msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, Privacy Badger can replace them with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
+msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, [Privacy Badger can replace them](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
 msgstr "Les widgets de médias sociaux (tels que le bouton « J'aime » de Facebook) suivent souvent vos habitudes de navigation. Même si vous ne cliquez pas dessus, les sociétés de médias sociaux voient souvent de manière précise sur quelles pages vous voyez leur widget. Lors du blocage des boutons sociaux et d'autres widgets potentiellement utiles (vidéo, audio, commentaires), Privacy Badger peut les remplacer par des encarts « cliquer pour activer ». Vous ne serez pas suivi par ces remplacements, sauf si vous choisissez explicitement de cliquer dessus.\n"
 
 #. type: YAML Front Matter: question
