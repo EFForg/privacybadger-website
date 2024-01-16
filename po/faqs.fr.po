@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-01-10 09:41-0500\nPO-Revision-Date: 2024-01-10 15:09+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-01-16 14:17-0500\n"
+"PO-Revision-Date: 2024-01-10 15:09+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -465,37 +476,28 @@ msgstr "Privacy Badger est également un outil politique. Privacy Badger envoie 
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, no-wrap
-msgid "Is Privacy Badger compatible with Firefox's built-in content blocking?"
+#, fuzzy, no-wrap
+#| msgid "Is Privacy Badger compatible with Firefox's built-in content blocking?"
+msgid "Is Privacy Badger compatible with Firefox's built-in privacy protections?"
 msgstr "Est-ce que Privacy Badger est compatible avec le blocage de contenu intégré de Firefox ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
-msgid "It's fine to use Firefox's native content blocking and Privacy Badger together.\n"
-msgstr "Il est possible d'utiliser conjointement le blocage de contenu intégré de Firefox et Privacy Badger.\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, no-wrap
-msgid "While there is overlap between Firefox's tracker lists and Privacy Badger's protections, unlike list-based blockers, Privacy Badger automatically discovers trackers. This means that Privacy Badger's automatically-generated and regularly-updated blocklist may learn to block trackers that blockers with human-generated lists don't know about. And if you enable [local learning](#How-does-Privacy-Badger-work), your Badger will learn about the trackers you encounter as you browse as well.\n"
-msgstr "Bien qu'il y ait un chevauchement entre les listes de traqueurs de Firefox et les protections de Privacy Badger, contrairement aux bloqueurs basés sur des listes, Privacy Badger découvre automatiquement les traqueurs. Cela signifie que la liste de blocage de Privacy Badger, générée automatiquement et régulièrement mise à jour, peut apprendre à bloquer des traqueurs que les bloqueurs dont la liste est générée par un humain ne connaissent pas. Et si vous activez [l'apprentissage local](#How-does-Privacy-Badger-work), votre propre instance de Privacy Badger apprendra également à connaître les traqueurs que vous rencontrez lors de votre navigation.\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, no-wrap
-msgid "See also the following FAQ entries:\n"
-msgstr "Vous pouvez aussi regarder les entrées suivantes de la FAQ :\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, no-wrap
-msgid ""
-"* [Is Privacy Badger compatible with other extensions, including adblockers?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-"* [Does Privacy Badger still work when blocking third-party cookies in the browser?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+msgid "It's fine to use Firefox's built-in content blocking ([Enhanced Tracking Protection](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/) or ETP) and Privacy Badger together. While there is overlap between Firefox's tracker lists and Privacy Badger, Privacy Badger automatically learns to block trackers based on their behavior. This means that Privacy Badger's automatically-generated and regularly updated blocklist contains trackers not found in Firefox's human-generated lists. Additionally, [Firefox does not fully block \"tracking content\"](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop#w_what-enhanced-tracking-protection-blocks) in regular (non-\"private\") windows by default.\n"
 msgstr ""
-"* [Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)\n"
-"* [Est-ce que Privacy Badger apprend toujours lorsque je configure mon navigateur pour bloquer tous les cookies tiers ?](#Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser)\n"
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
+#, no-wrap
+msgid "What about Firefox's [Total Cookie Protection](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/) (dynamic First Party Isolation or dFPI)? Total Cookie Protection works by keeping third-party cookies isolated to the site they were set on. However, if unblocked, trackers can still use techniques like [first-party cookie syncing](https://arxiv.org/abs/2208.12370) and [browser fingerprinting](https://securehomes.esat.kuleuven.be/~gacar/persistent/). They can track your IP address, or they can use some combination of these techniques. Trackers [harvest sensitive information](https://freedom-to-tinker.com/2020/07/14/can-the-exfiltration-of-personal-data-by-web-trackers-be-stopped/), and [serve as vectors for malware](https://en.wikipedia.org/wiki/Malvertising). Not to mention, unblocked trackers slow down websites and waste your bandwidth.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
+#, no-wrap
+msgid "Keep in mind that Privacy Badger is [not just a tracker blocker](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).\n"
+msgstr ""
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
