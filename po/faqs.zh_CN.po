@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-01-16 14:17-0500\n"
+"POT-Creation-Date: 2024-01-16 15:42-0500\n"
 "PO-Revision-Date: 2024-01-10 15:09+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -244,30 +244,6 @@ msgstr "隐私獾是否认为每个cookie都是跟踪cookie？"
 #, no-wrap
 msgid "No. Privacy Badger analyzes the cookies from each site; unique cookies that contain tracking IDs are disallowed, while \"low entropy\" cookies that perform other functions are allowed. For instance a cookie like LANG=fr that encodes the user's language preference, or a cookie that preserves a very small amount of information about ads the user has been shown, would be allowed provided that individual or small groups of users' reading habits could not be collected with them.\n"
 msgstr "不是。隐私獾会分析每个网站的cookie，含有追踪ID的独特cookie不被允许，而执行其他功能的“低熵”cookie则被允许。例如，像LANG=zh这样对用户的语言偏好进行编码的cookie，或保存用户所看广告的极少量信息的cookie，只要不能用它们收集个人或小群用户的阅读习惯，就可以允许。\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
-#, no-wrap
-msgid "Does Privacy Badger account for a cookie that was used to track me even if I deleted it?"
-msgstr "即使我删除了cookie，隐私獾是否会对用于跟踪我的cookie进行核算？"
-
-#. type: Plain text
-#: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
-#, no-wrap
-msgid "Yes. When [learning is enabled](#How-does-Privacy-Badger-work), Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.\n"
-msgstr "是的。当[学习被启用](#How-does-Privacy-Badger-work)时，隐私獾会跟踪可能被用来追踪您的cookie以及它们的来源，即使您经常清除浏览器的cookie。\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
-#, no-wrap
-msgid "Does Privacy Badger still learn when I set my browser to block all third-party cookies?"
-msgstr "当我把浏览器设置为阻止所有第三方cookies时，隐私獾还能学习吗？"
-
-#. type: Plain text
-#: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
-#, no-wrap
-msgid "When [learning is enabled](#How-does-Privacy-Badger-work) and you tell your browser to deny third-party cookies, Privacy Badger still gets to learn from third parties trying to set cookies via HTTP headers (as well as from other tracking techniques such as canvas fingerprinting). Privacy Badger no longer gets to learn from cookies or HTML5 local storage being set via JavaScript, however. So, Privacy Badger's learning still works, it'll just learn to block fewer trackers.\n"
-msgstr "当[学习被启用](#How-does-Privacy-Badger-work)并且您告诉您的浏览器拒绝第三方cookie时，隐私獾仍然可以从第三方试图通过HTTP头设置cookie（以及从其他跟踪技术，如canvas指纹识别）中学习。然而，隐私獾不再能从通过JavaScript设置的cookie或HTML5本地存储中学习。因此，隐私獾的学习仍然有效，它只是学会阻止更少的跟踪器。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-01-16 14:17-0500\n"
+"POT-Creation-Date: 2024-01-16 15:42-0500\n"
 "PO-Revision-Date: 2023-11-22 15:18+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
@@ -246,30 +246,6 @@ msgstr "Betrachtet Privacy Badger jedes Cookie als Tracking-Cookie?"
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "No. Privacy Badger analyzes the cookies from each site; unique cookies that contain tracking IDs are disallowed, while \"low entropy\" cookies that perform other functions are allowed. For instance a cookie like LANG=fr that encodes the user's language preference, or a cookie that preserves a very small amount of information about ads the user has been shown, would be allowed provided that individual or small groups of users' reading habits could not be collected with them.\n"
-msgstr ""
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
-#, no-wrap
-msgid "Does Privacy Badger account for a cookie that was used to track me even if I deleted it?"
-msgstr "Berücksichtigt Privacy Badger ein Cookie, das verwendet wurde, um mich zu verfolgen, auch wenn ich es gelöscht habe?"
-
-#. type: Plain text
-#: content/en/faqs/Does-Privacy-Badger-account-for-a-cookie-that-was-used-to-track-me-even-if-I-deleted-it.md
-#, no-wrap
-msgid "Yes. When [learning is enabled](#How-does-Privacy-Badger-work), Privacy Badger keeps track of cookies that could be used to track you and where they came from, even if you frequently clear your browser's cookies.\n"
-msgstr "Ja. Wenn [das \"Lernen\" durch Privacy-Badger aktiviert ist](#How-does-Privacy-Badger-work), behält Privacy Badger den Überblick über Cookies, die verwendet wurden, um dich zu tracken und woher sie stammen, auch wenn du die Cookies deines Browsers häufig löschst.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
-#, no-wrap
-msgid "Does Privacy Badger still learn when I set my browser to block all third-party cookies?"
-msgstr "Funktioniert Privacy Badger auch wenn Drittanbieter-Cookies im Browser blockiert werden?"
-
-#. type: Plain text
-#: content/en/faqs/Does-Privacy-Badger-still-work-when-blocking-third-party-cookies-in-the-browser.md
-#, no-wrap
-msgid "When [learning is enabled](#How-does-Privacy-Badger-work) and you tell your browser to deny third-party cookies, Privacy Badger still gets to learn from third parties trying to set cookies via HTTP headers (as well as from other tracking techniques such as canvas fingerprinting). Privacy Badger no longer gets to learn from cookies or HTML5 local storage being set via JavaScript, however. So, Privacy Badger's learning still works, it'll just learn to block fewer trackers.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
