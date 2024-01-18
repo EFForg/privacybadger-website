@@ -6,7 +6,7 @@ services:
 
 install:
   - sed -i -n '/FROM conex.eff.org/q;p' Dockerfile
-  - docker build -t app .
+  - docker build -q -t app .
 
 script:
   - docker run app npm run lint
