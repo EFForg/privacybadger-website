@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-01-18 11:51-0500\n"
+"POT-Creation-Date: 2024-01-29 11:09-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -67,7 +67,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, markdown-text, no-wrap
-msgid "By default, Privacy Badger receives periodic learning updates from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web. Privacy Badger [no longer learns from your browsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) by default, as \"local learning\" may make you more identifiable to websites. You may want to opt back in to local learning if you regularly browse less popular websites. To do so, visit your Badger’s options page and mark the checkbox for learning to block new trackers from your browsing.\n"
+msgid "By default, Privacy Badger receives [periodic learning updates](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web. Privacy Badger [no longer learns from your browsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) by default, as \"local learning\" may make you more identifiable to websites. You may want to opt back in to local learning if you regularly browse less popular websites. To do so, visit your Badger’s options page and mark the checkbox for learning to block new trackers from your browsing.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
