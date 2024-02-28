@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-01-30 16:43-0500\nPO-Revision-Date: 2024-02-08 19:35+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.4-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-01-30 16:43-0500\nPO-Revision-Date: 2024-02-29 19:02+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.5-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -58,7 +58,7 @@ msgstr "À un niveau plus technique, Privacy Badger prend note des domaines « t
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, no-wrap
 msgid "By default, Privacy Badger receives [periodic learning updates](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web. Privacy Badger [no longer learns from your browsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) by default, as \"local learning\" may make you more identifiable to websites. You may want to opt back in to local learning if you regularly browse less popular websites. To do so, visit your Badger’s options page and mark the checkbox for learning to block new trackers from your browsing.\n"
-msgstr "Par défaut, Privacy Badger reçoit [des mises à jour d'apprentissage périodiques](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) de [Badger Sett](https://github.com/EFForg/badger-sett), notre projet d'entraînement Badger. Cet « apprentissage à distance » découvre automatiquement les traqueurs présents sur des milliers de sites parmi les plus populaires du Web. Par défaut, Privacy Badger [ne fait plus d'apprentissage à partir de votre navigation](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better), car l'« apprentissage local » peut vous rendre plus identifiable par les sites Web. Vous pouvez choisir de revenir à l'apprentissage local si vous naviguez régulièrement sur des sites moins populaires. Pour ce faire, consultez la page des options de l'extension Privacy Badger et cochez la case permettant d'apprendre à bloquer les nouveaux traqueurs lors de la navigation.\n"
+msgstr "Par défaut, Privacy Badger reçoit [des mises à jour d’apprentissage périodiques](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) de [Badger Sett](https://github.com/EFForg/badger-sett), notre projet d’apprentissage Badger. Cet « apprentissage à distance » découvre automatiquement les traqueurs présents sur des milliers de sites parmi les plus populaires du Web. Par défaut, Privacy Badger [ne fait n’apprend plus de votre navigation](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better), car l’« apprentissage local » peut vous rendre plus identifiable par les sites Web. Vous pouvez choisir de revenir à l’apprentissage local si vous naviguez régulièrement sur des sites moins populaires. Pour ce faire, consultez la page des options de l’extension Privacy Badger et cochez la case permettant d’apprendre à bloquer les nouveaux traqueurs lors de la navigation.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-a-third-party-tracker.md
@@ -242,10 +242,9 @@ msgstr "Est-ce que vous allez supporter d'autres navigateurs en plus de Chrome, 
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "Safari/iOS: [Safari seems to lack certain extension capabilities](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) required by Privacy Badger to function properly.\n"
+#, no-wrap
 msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
-msgstr "Safari/iOS : [Safari semble ne pas fournir certaines fonctionnalités d'extension](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) requises par Privacy Badger pour fonctionner correctement.\n"
+msgstr "Nous travaillons à la prise en charge de [Safari sur macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). Il semble que certaines capacités d’extension nécessaires au bon fonctionnement de Privacy Badger fassent défaut à [Safari sur iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479).\n"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -255,10 +254,9 @@ msgstr "Chrome sur Android ne prend pas en charge les extensions. Pour utiliser 
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
+#, no-wrap
 msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
-msgstr "Privacy Badger ne fonctionne pas avec [Microsoft Edge Legacy](https://support.microsoft.com/fr-fr/microsoft-edge/qu-est-ce-que-l-ancienne-version-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Vous devez migrer sur le nouveau navigateur [Microsoft Edge](https://www.microsoft.com/fr-fr/edge).\n"
+msgstr "Privacy Badger ne fonctionne pas avec [l’ancienne version de Microsoft Edge](https://support.microsoft.com/fr-fr/microsoft-edge/qu-est-ce-que-l-ancienne-version-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Utilisez plutôt la nouvelle version de [Microsoft Edge](https://www.microsoft.com/fr-fr/edge).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -296,10 +294,9 @@ msgstr "Je gère un domaine qui utilise des cookies ou d'autres moyens de suivi.
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, fuzzy, no-wrap
-#| msgid "One way is to stop tracking users who have turned on the Do Not Track signal (i.e., stop collecting cookies, supercookies or fingerprints from them). That will work for new Privacy Badger installs.\n"
+#, no-wrap
 msgid "One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
-msgstr "L'un des moyens est d'arrêter de suivre les utilisateurs qui ont activé le signal Ne pas me pister (c'est-à-dire arrêter de collecter des cookies, des supercookies ou des empreintes numériques du navigateurs auprès d'eux). Cela fonctionnera pour les nouvelles installations de Privacy Badger.\n"
+msgstr "L’une des solutions consiste à cesser de suivre les utilisateurs qui ont activé le Contrôle global de la protection des données ou les signaux Ne pas me pister (c’est-à-dire cesser de collecter des témoins, des supertémoins ou des empreintes auprès d’eux). Privacy Badger cessera d’apprendre à bloquer ce domaine. La prochaine version de Privacy Badger qui sera livrée avec une liste préentraînée mise à jour n’inclura plus ce domaine dans la liste. La plupart des utilisateurs de Privacy Badger utiliseront alors cette liste mise à jour.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -441,28 +438,27 @@ msgstr "Privacy Badger est également un outil politique. Privacy Badger envoie 
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
-#, fuzzy, no-wrap
-#| msgid "Is Privacy Badger compatible with Firefox's built-in content blocking?"
+#, no-wrap
 msgid "Is Privacy Badger compatible with Firefox's built-in privacy protections?"
-msgstr "Est-ce que Privacy Badger est compatible avec le blocage de contenu intégré de Firefox ?"
+msgstr "Privacy Badger est-elle compatible avec les protections de la vie privée intégrées à Firefox ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
 msgid "It's fine to use Firefox's built-in content blocking ([Enhanced Tracking Protection](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/) or ETP) and Privacy Badger together. While there is overlap between Firefox's tracker lists and Privacy Badger, Privacy Badger automatically learns to block trackers based on their behavior. This means that Privacy Badger's automatically-generated and regularly updated blocklist contains trackers not found in Firefox's human-generated lists. Additionally, [Firefox does not fully block \"tracking content\"](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop#w_what-enhanced-tracking-protection-blocks) in regular (non-\"private\") windows by default.\n"
-msgstr ""
+msgstr "Vous pouvez utiliser le blocage de contenu intégré de Firefox ([Protection renforcée contre le pistage](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/) ou ETP) et Privacy Badger en même temps. Bien qu’il y ait un chevauchement entre les listes de traqueurs de Firefox et de Privacy Badger, cette dernière apprend automatiquement à bloquer les traqueurs en fonction de leur comportement. Cela signifie que la liste de blocage de Privacy Badger, générée automatiquement et mise à jour régulièrement, contient des traqueurs qui ne figurent pas dans les listes de Firefox générées par des personnes. De plus, [Firefox ne bloque pas complètement par défaut les « contenus de suivi »] (https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop#w_what-enhanced-tracking-protection-blocks) dans les fenêtres normales (non « privées »).\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
 msgid "What about Firefox's [Total Cookie Protection](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/) (dynamic First Party Isolation or dFPI)? Total Cookie Protection works by keeping third-party cookies isolated to the site they were set on. However, if unblocked, trackers can still use techniques like [first-party cookie syncing](https://arxiv.org/abs/2208.12370) and [browser fingerprinting](https://securehomes.esat.kuleuven.be/~gacar/persistent/). They can track your IP address, or they can use some combination of these techniques. Trackers [harvest sensitive information](https://freedom-to-tinker.com/2020/07/14/can-the-exfiltration-of-personal-data-by-web-trackers-be-stopped/), and [serve as vectors for malware](https://en.wikipedia.org/wiki/Malvertising). Not to mention, unblocked trackers slow down websites and waste your bandwidth.\n"
-msgstr ""
+msgstr "Qu’en est-il de la [Protection totale contre les témoins (cookies)](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/) de Firefox (isolation dynamique de premier niveau ou dFPI) ? La protection totale contre les témoins fonctionne en isolant les témoins tiers du site sur lequel ils ont été définis. Toutefois, s’ils ne sont pas bloqués, les traqueurs peuvent toujours utiliser des techniques telles que la [synchronisation des témoins de premier niveau](https://arxiv.org/abs/2208.12370) et l’[empreinte du navigateur](https://securehomes.esat.kuleuven.be/~gacar/persistent/). Ils peuvent suivre votre adresse IP ou utiliser une combinaison de ces techniques. Les traqueurs [récoltent des données sensibles](https://freedom-to-tinker.com/2020/07/14/can-the-exfiltration-of-personal-data-by-web-trackers-be-stopped/) et [servent de vecteurs aux logiciels malveillants](https://en.wikipedia.org/wiki/Malvertising). Sans oublier que les traqueurs non bloqués ralentissent les sites web et gaspillent votre bande passante.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-Firefox's-built-in-content-blocking.md
 #, no-wrap
 msgid "Keep in mind that Privacy Badger is [not just a tracker blocker](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).\n"
-msgstr ""
+msgstr "Gardez à l’esprit que Privacy Badger n’est pas seulement un bloqueur de traqueurs (#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
@@ -526,7 +522,7 @@ msgstr "J'ai besoin d'aide ! J'ai trouvé un bogue ! Qu'est-ce que je dois faire
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "If a website isn't working like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also let us know about broken sites using the \"**Report broken site**\" button.\n"
-msgstr "Si un site Web ne fonctionne pas comme il le devrait, vous pouvez désactiver Privacy Badger juste pour ce site, laissant Privacy Badger activé et vous protégeant partout ailleurs. Pour ce faire, naviguez vers le site qui pose problème, cliquez sur l'icône de Privacy Badger dans la barre d'outils de votre navigateur, puis cliquez sur le bouton « **Désactiver pour ce site** » dans la fenêtre contextuelle de Privacy Badger. Vous pouvez également nous signaler les sites non fonctionnels en cliquant sur le bouton « **Signaler un site perturbé** ».\n"
+msgstr "Si un site Web ne fonctionne pas comme il le devrait, vous pouvez désactiver Privacy Badger juste pour ce site, laissant Privacy Badger activée et vous protégeant partout ailleurs. Pour ce faire, naviguez vers le site qui pose problème, cliquez sur l’icône de Privacy Badger dans la barre d’outils de votre navigateur, puis cliquez sur le bouton « **Désactiver pour ce site** » dans la fenêtre contextuelle de Privacy Badger. Vous pouvez aussi nous signaler les sites non fonctionnels en cliquant sur le bouton « **Signaler un site perturbé** ».\n"
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
