@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-06-06 14:28-0400\n"
+"POT-Creation-Date: 2024-06-06 18:34-0400\n"
 "PO-Revision-Date: 2024-02-08 19:35+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
@@ -536,7 +536,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, no-wrap
-msgid "Issues with YouTube while Privacy Badger is enabled are usually not caused by Privacy Badger. However, try temporarily disabling Privacy Badger for YouTube to see if that resolves the issue: Navigate to YouTube, click the Privacy Badger icon in your browser toolbar, and click \"Disable for this site\" in the popup.\n"
+msgid "Issues with YouTube while Privacy Badger is enabled are rarely caused by Privacy Badger. However, try temporarily disabling Privacy Badger for YouTube and check if that resolves the issue: Navigate to YouTube, click the Privacy Badger icon in your browser toolbar, and click \"Disable for this site\" in the popup.\n"
 msgstr ""
 
 #. type: Plain text
@@ -548,7 +548,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, no-wrap
-msgid "Are you surprised that advertisements aren’t being blocked on YouTube? Privacy Badger is primarily a privacy-protecting tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). YouTube advertisements are not blocked because they are not [tracking you with “third party” sites](#What-is-a-third-party-tracker). You can learn more about why Privacy Badger primarily protects against third party tracking [here](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com). \n"
+msgid "Are you surprised that advertisements aren’t being blocked on YouTube? Privacy Badger is primarily a privacy-protecting tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). YouTube advertisements are not blocked because they are not using [“third party” sites to track you](#What-is-a-third-party-tracker). You can learn more about why Privacy Badger primarily protects against \"third party\" (rather than \"first party\") tracking [here](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com). \n"
 msgstr ""
 
 #. type: YAML Front Matter: question
