@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-06-06 18:34-0400\n"
+"POT-Creation-Date: 2024-06-10 17:53-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -521,19 +521,13 @@ msgstr ""
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, no-wrap
-msgid "How should I handle issues with Privacy Badger on YouTube?"
+msgid "Why aren't videos loading on YouTube? Why isn't Privacy Badger blocking ads on YouTube?"
 msgstr ""
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, markdown-text, no-wrap
-msgid "Issues with YouTube while Privacy Badger is enabled are rarely caused by Privacy Badger. However, try temporarily disabling Privacy Badger for YouTube and check if that resolves the issue: Navigate to YouTube, click the Privacy Badger icon in your browser toolbar, and click \"Disable for this site\" in the popup.\n"
-msgstr ""
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
-#, markdown-text, no-wrap
-msgid "If disabling Privacy Badger for YouTube fixes the issues, check if re-enabling Privacy Badger breaks YouTube again. If that’s the case, please [reach out to us directly](#I-found-a-bug%21-What-do-I-do-now). We'd be happy to investigate further.\n"
+msgid "Issues with YouTube while Privacy Badger is enabled are rarely caused by Privacy Badger. However, try temporarily [disabling Privacy Badger for YouTube](#I-found-a-bug%21-What-do-I-do-now) and check if that resolves the issue. If disabling Privacy Badger for YouTube fixes the issues, check if re-enabling Privacy Badger breaks YouTube again. If that’s the case, please [reach out to us directly](#I-found-a-bug%21-What-do-I-do-now). We'd be happy to investigate further.\n"
 msgstr ""
 
 #. type: Plain text
