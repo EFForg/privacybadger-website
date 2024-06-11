@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-06-10 17:53-0400\n"
+"POT-Creation-Date: 2024-06-11 15:22-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -527,13 +527,13 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, markdown-text, no-wrap
-msgid "Issues with YouTube while Privacy Badger is enabled are rarely caused by Privacy Badger. However, try temporarily [disabling Privacy Badger for YouTube](#I-found-a-bug%21-What-do-I-do-now) and check if that resolves the issue. If disabling Privacy Badger for YouTube fixes the issues, check if re-enabling Privacy Badger breaks YouTube again. If that’s the case, please [reach out to us directly](#I-found-a-bug%21-What-do-I-do-now). We'd be happy to investigate further.\n"
+msgid "Is YouTube not working? Try [disabling Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) on YouTube. If that resolves the issue, see if re-enabling Privacy Badger breaks YouTube again. If YouTube goes back to not working, please [tell us](#I-found-a-bug%21-What-do-I-do-now) so we can look into what's going on.\n"
 msgstr ""
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
 #, markdown-text, no-wrap
-msgid "Are you surprised that advertisements aren’t being blocked on YouTube? Privacy Badger is primarily a privacy-protecting tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). YouTube advertisements are not blocked because they are not using [“third party” sites to track you](#What-is-a-third-party-tracker). You can learn more about why Privacy Badger primarily protects against \"third party\" (rather than \"first party\") tracking [here](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com). \n"
+msgid "Are you surprised that ads aren't being blocked on YouTube? Privacy Badger is primarily a privacy tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). When you [visit YouTube directly](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com), Privacy Badger does not block ads on YouTube because YouTube does not use [\"third party\" trackers](#What-is-a-third-party-tracker). If you really dislike ads, you can also install a traditional ad blocker.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
