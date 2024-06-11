@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-01-30 16:43-0500\nPO-Revision-Date: 2024-03-08 20:01+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.5-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-06-10 17:53-0400\n"
+"PO-Revision-Date: 2024-03-08 20:01+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -511,6 +522,24 @@ msgstr "Privacy Badger a besoin de ces autorisations pour faire son travail de d
 #, no-wrap
 msgid "Note that the extension permissions warnings only cover what the extension has access to, not what the extension actually does with what it has access to (such as whether the extension secretly uploads your browsing data to its servers). Privacy Badger will never share data about your browsing unless you choose to share it (by filing a broken site report). For more information, see EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy/policy).\n"
 msgstr "Veuillez noter que les avertissements relatifs aux autorisations des extensions ne couvrent que ce à quoi l'extension a accès, et non ce que l'extension fait réellement avec ce à quoi elle a accès (par exemple, si l'extension téléverse secrètement vos données de navigation sur ses serveurs). Privacy Badger ne partagera jamais les données relatives à votre navigation, à moins que vous ne choisissiez de les partager (en remplissant un rapport de site non fonctionnel). Pour plus d'informations, veuillez consulter la [Politique de confidentialité pour les logiciels de l'EFF](https://www.eff.org/code/privacy/policy).\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Why aren't videos loading on YouTube? Why isn't Privacy Badger blocking ads on YouTube?"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Issues with YouTube while Privacy Badger is enabled are rarely caused by Privacy Badger. However, try temporarily [disabling Privacy Badger for YouTube](#I-found-a-bug%21-What-do-I-do-now) and check if that resolves the issue. If disabling Privacy Badger for YouTube fixes the issues, check if re-enabling Privacy Badger breaks YouTube again. If that’s the case, please [reach out to us directly](#I-found-a-bug%21-What-do-I-do-now). We'd be happy to investigate further.\n"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Are you surprised that advertisements aren’t being blocked on YouTube? Privacy Badger is primarily a privacy-protecting tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). YouTube advertisements are not blocked because they are not using [“third party” sites to track you](#What-is-a-third-party-tracker). You can learn more about why Privacy Badger primarily protects against \"third party\" (rather than \"first party\") tracking [here](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com). \n"
+msgstr ""
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
