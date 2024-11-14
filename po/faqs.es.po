@@ -4,18 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-14 15:33-0500\n"
-"PO-Revision-Date: 2024-10-14 14:09+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\n"
-"Language: es\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:42+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -157,10 +146,9 @@ msgstr "Cuando se desarrolló DNT, muchos sitios web simplemente ignoraron las p
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
-#, fuzzy, no-wrap
-#| msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights. And while Privacy Badger only enforces DNT compliance against third-party domains, GPC applies to everyone -- the first-party sites you visit, and any third-party trackers they might invite in.\n"
+#, no-wrap
 msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights.\n"
-msgstr "La GPC pretende ser una petición legalmente vinculante para todas las empresas en lugares con leyes de privacidad aplicables. Por ejemplo, [la Ley de Privacidad del Consumidor de California](https://theccpa.org) otorga a los residentes de California el derecho a optar por no vender sus datos. Al enviar la señal GPC, Privacy Badger está diciendo a las empresas que usted desea ejercer sus derechos. Y mientras que Privacy Badger sólo impone el cumplimiento de DNT a los dominios de terceros, GPC se aplica a todos: a los sitios de origen que visitas y a los rastreadores de terceros que puedan invitar.\n"
+msgstr "La GPC pretende ser una petición legalmente vinculante para todas las empresas en lugares con leyes de privacidad aplicables. Por ejemplo, [la Ley de Privacidad del Consumidor de California](https://theccpa.org) otorga a los residentes de California el derecho a optar por no vender sus datos. Al enviar la señal GPC, Privacy Badger está diciendo a las empresas que usted desea ejercer sus derechos.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -188,10 +176,9 @@ msgstr "En la actualidad, Privacy Badger lo protege principalmente contra el ras
 
 #. type: Plain text
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
-#, fuzzy, no-wrap
-#| msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often (though not always) tracking is interwoven with the features the site offers, and sometimes (though not always) users may understand that the price of an excellent free tool like Google's search engine is measured in privacy, not money.\n"
+#, no-wrap
 msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often tracking is interwoven with the features the site offers.\n"
-msgstr "Estamos haciendo las cosas en este orden porque la forma más escandalosa, intrusiva y censurable de rastreo en línea es la que llevan a cabo las compañías con las que usted [a menudo nunca ha oído hablar](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) y con las que no tiene ninguna relación. En primer lugar, Privacy Badger está ahí para hacer cumplir la política de No rastrear estos dominios proporcionando los medios técnicos para restringir el acceso a sus secuencias de comandos e imágenes de rastreo. La política correcta para saber si nytimes.com, facebook.com o google.com puede rastrearlo _cuando visita ese sitio_ -y la tarea técnica de prevenirlo - es más complicada porque a menudo (aunque no siempre) el rastreo se entrelaza con las características que ofrece el sitio, y a veces (aunque no siempre) los usuarios pueden entender que el precio de una excelente herramienta gratuita como el motor de búsqueda de Google se mide en términos de privacidad y no de dinero.\n"
+msgstr "Estamos haciendo las cosas en este orden porque la forma más escandalosa, intrusiva y censurable de rastreo en línea es la que llevan a cabo las compañías con las que usted [a menudo nunca ha oído hablar](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) y con las que no tiene ninguna relación. En primer lugar, Privacy Badger está ahí para hacer cumplir la política de No rastrear estos dominios proporcionando los medios técnicos para restringir el acceso a sus secuencias de comandos e imágenes de rastreo. La política correcta para saber si nytimes.com, facebook.com o google.com puede rastrearlo _cuando visita ese sitio_ -y la tarea técnica de prevenirlo - es más complicada porque a menudo el rastreo se entrelaza con las características que ofrece el sitio.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
