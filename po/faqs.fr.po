@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-06-11 15:22-0400\nPO-Revision-Date: 2024-11-12 22:00+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-11-14 15:33-0500\n"
+"PO-Revision-Date: 2024-11-12 22:00+0000\n"
+"Last-Translator: AO Localisation Lab <ao@localizationlab.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -146,8 +157,9 @@ msgstr "De nombreux sites Web ont initialement tout simplement ignoré les deman
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
-#, no-wrap
-msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights. And while Privacy Badger only enforces DNT compliance against third-party domains, GPC applies to everyone -- the first-party sites you visit, and any third-party trackers they might invite in.\n"
+#, fuzzy, no-wrap
+#| msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights. And while Privacy Badger only enforces DNT compliance against third-party domains, GPC applies to everyone -- the first-party sites you visit, and any third-party trackers they might invite in.\n"
+msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights.\n"
 msgstr "Le GPC se veut une demande juridiquement contraignante adressée à toutes les entreprises des pays munis de lois de protection des données personnelles. Par exemple, [la loi californienne sur la protection des données personnelles des consommateurs](https://theccpa.org) donne aux résidents de Californie le droit de refuser que leurs données soient vendues. En envoyant le signal GPC, Privacy Badger indique aux entreprises que vous souhaitez exercer vos droits. Bien que Privacy Badger n’applique la conformité DNT qu’aux domaines tiers, GPC s’applique à tout le monde, aux sites que vous visitez initialement », ainsi qu’à tous les traqueurs tiers qu’ils invitent.\n"
 
 #. type: Plain text
@@ -176,8 +188,9 @@ msgstr "Actuellement, Privacy Badger vous protège principalement contre le suiv
 
 #. type: Plain text
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
-#, no-wrap
-msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often (though not always) tracking is interwoven with the features the site offers, and sometimes (though not always) users may understand that the price of an excellent free tool like Google's search engine is measured in privacy, not money.\n"
+#, fuzzy, no-wrap
+#| msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often (though not always) tracking is interwoven with the features the site offers, and sometimes (though not always) users may understand that the price of an excellent free tool like Google's search engine is measured in privacy, not money.\n"
+msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often tracking is interwoven with the features the site offers.\n"
 msgstr "Nous procédons de cette manière, car la forme de suivi à la trace en ligne la plus scandaleuse, intrusive et inadmissible est celle menée par des entreprises dont vous n’avez [souvent jamais entendu parler](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) et avec lesquelles vous n’avez aucun lien. Avant tout, Privacy Badger est là pour faire appliquer « Ne pas me pister » par ces domaines en donnant les moyens techniques de restreindre l’accès à leurs scripts et images de suivi. La bonne politique pour savoir si facebook.com ou google.com peuvent vous suivre à la trace quand vous accédez à ces sites et la tâche technique de l’empêcher sont plus complexes, car le suivi est souvent (mais pas toujours) imbriqué dans les fonctions offertes par le site. Parfois (mais pas toujours) les internautes comprennent que le prix d’un excellent outil gratuit tel le moteur de recherche de Google est leurs données personnelles, pas l’argent.\n"
 
 #. type: YAML Front Matter: question
@@ -194,8 +207,9 @@ msgstr "Contrairement à d’autres outils de blocage, nous n’avons pas décid
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
-#, no-wrap
-msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+#, fuzzy, no-wrap
+#| msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
 msgstr "Privacy Badger comprend une « [liste jaune](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt) » de certains sites connus pour fournir des ressources essentielles tierces ; ces sites apparaissent en jaune et leurs témoins sont bloqués au lieu de complètement bloquer ces sites. Il s’agit d’un compromis avec l’utilisabilité. Ultimement, nous espérons supprimer graduellement la liste jaune au fur et à mesure que ces tiers commencent à [s’engager expressément à respecter « Ne pas me pister »](https://www.eff.org/dnt-policy). Les critères d’inclusion d’un domaine à la liste jaune se [trouvent ici](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md) (site en anglais).\n"
 
 #. type: YAML Front Matter: question
