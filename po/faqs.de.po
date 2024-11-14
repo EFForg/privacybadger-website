@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-14 15:33-0500\n"
-"PO-Revision-Date: 2024-06-21 19:09+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-rc\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:42+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -160,10 +149,9 @@ msgstr "Als DNT entwickelt wurde, ignorierten viele Webseiten einfach die Forder
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
-#, fuzzy, no-wrap
-#| msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights. And while Privacy Badger only enforces DNT compliance against third-party domains, GPC applies to everyone -- the first-party sites you visit, and any third-party trackers they might invite in.\n"
+#, no-wrap
 msgid "GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights.\n"
-msgstr "GPC ist dafür gedacht, eine rechtlich bindende Anfrage für alle Unternehmen an Orten mit anwendbaren Datenschutzgesetzen, darzustellen. Beispielsweise gibt der [California Consumer Privacy Act](https://theccpa.org) Einwohnern von Kalifornien das Recht, sich gegen den Verkauf ihrer Daten zu entscheiden. Indem das GPC-Signal gesendet wird, teilt Privacy Badger Unternehmen mit, dass du diese Rechte nutzen möchtest. Während Privacy Badger die Einhaltung des DNT-Signals nur gegenüber Domains von Drittparteien durchsetzt, betrifft GPC alle -- die Webseite die du besuchst und jegliche Tracker von Drittparteien die vielleicht eingebettet sind.\n"
+msgstr "GPC ist dafür gedacht, eine rechtlich bindende Anfrage für alle Unternehmen an Orten mit anwendbaren Datenschutzgesetzen, darzustellen. Beispielsweise gibt der [California Consumer Privacy Act](https://theccpa.org) Einwohnern von Kalifornien das Recht, sich gegen den Verkauf ihrer Daten zu entscheiden. Indem das GPC-Signal gesendet wird, teilt Privacy Badger Unternehmen mit, dass du diese Rechte nutzen möchtest.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
