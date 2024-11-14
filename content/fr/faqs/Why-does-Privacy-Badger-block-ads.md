@@ -1,6 +1,6 @@
 ---
-question: 'Pourquoi Privacy Badger bloque les publicités ?'
+question: 'Pourquoi Privacy Badger bloque-t-elle les publicités ?'
 weight: 50
 ---
 
-En fait, rien dans le code de Privacy Badger n'est spécifiquement écrit pour bloquer les publicités. Il se concentre plutôt sur le rejet de tout script ou image « tiers » visible ou invisible qui semble vous suivre même si vous avez spécifiquement refusé le consentement en envoyant des signaux [Ne pas me pister](https://www.eff.org/issues/do-not-track) et [Contrôle global de la protection des données](https://globalprivacycontrol.org/). Il se trouve que la plupart (mais pas tous) de ces traqueurs tiers sont des publicités. Lorsque vous voyez une publicité, la publicité vous voit, et peut vous suivre. Privacy Badger est là pour arrêter cela.
+En fait, rien dans le code de Privacy Badger n’est spécifiquement écrit pour bloquer les publicités. L’extension se concentre plutôt sur le rejet des images et scripts « tiers » visibles ou invisibles qui semblent vous suivre à la trace, même si vous demandez expressément le contraire en envoyant des signaux [Ne pas me pister](https://www.eff.org/issues/do-not-track) et [Contrôle global de la protection des données](https://globalprivacycontrol.org/). Il se trouve que la plupart de ces traqueurs tiers (mais pas tous) sont des publicités. Si vous voyez une publicité, elle vous voit aussi et peut donc vous suivre à la trace. Privacy Badger met fin à ce suivi.
