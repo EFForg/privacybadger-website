@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:42+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -195,10 +195,9 @@ msgstr "与其他屏蔽工具不同，我们没有指定对哪些网站进行屏
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
-#, fuzzy, no-wrap
-#| msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+#, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr "隐私獾 _确实_ 包含一个“[黄名单](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)”，其中包括一些已知提供基本第三方资源的网站；这些网站显示为黄色，其cookies被阻止，而不是完全被阻止。这是对实用性的妥协，从长远来看，我们希望随着这些第三方开始[明确承诺尊重不跟踪](https://www.eff.org/dnt-policy)，逐步取消黄名单。将一个域名列入黄名单的标准可以在[这里](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md)找到。\n"
+msgstr "隐私獾 _确实_ 包含一个“[黄名单](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)”，其中包括一些已知提供基本第三方资源的网站；这些网站显示为黄色，其cookies被阻止，而不是完全被阻止。这是对实用性的妥协，从长远来看，我们希望随着这些第三方开始[明确承诺尊重不跟踪](https://www.eff.org/dnt-policy)，逐步取消黄名单。将一个域名列入黄名单的标准可以在[这里](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md)找到。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
