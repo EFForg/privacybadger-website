@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:42+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -198,10 +198,9 @@ msgstr "Anders als andere Blocking-Tools entscheiden wir nicht darüber, welche 
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
-#, fuzzy, no-wrap
-#| msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+#, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr "Privacy Badger _enthält_ eine \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/yellowlist.txt)\" mit einigen Webseiten, welche dafür bekannt sind, essentielle Ressourcen von Drittanbietern zur Verfügung zu stellen; Diese Seiten erscheinen in gelb und deren Cookies werden blockiert anstelle der gesamten Seite. Dies ist ein Kompromiss mit der Praktikabilität und längerfristig hoffen wir, die yellowlist auslaufen zu lassen, da diese Drittanbieter beginnen, sich [explizit für das Raspektieren von Do Not Track auszusprechen](https://www.eff.org/dnt-policy). Die Kriterien um eine Domain in die yellowlist aufzunehmen, können [hier abgerufen](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md) werden.\n"
+msgstr "Privacy Badger _enthält_ eine \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" mit einigen Webseiten, welche dafür bekannt sind, essentielle Ressourcen von Drittanbietern zur Verfügung zu stellen; Diese Seiten erscheinen in gelb und deren Cookies werden blockiert anstelle der gesamten Seite. Dies ist ein Kompromiss mit der Praktikabilität und längerfristig hoffen wir, die yellowlist auslaufen zu lassen, da diese Drittanbieter beginnen, sich [explizit für das Raspektieren von Do Not Track auszusprechen](https://www.eff.org/dnt-policy). Die Kriterien um eine Domain in die yellowlist aufzunehmen, können [hier abgerufen](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md) werden.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
