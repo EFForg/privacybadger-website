@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-14 15:33-0500\nPO-Revision-Date: 2024-11-14 20:52+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-11-27 09:53-0500\n"
+"PO-Revision-Date: 2024-11-14 20:52+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -435,8 +446,9 @@ msgstr "Neben dem automatischen Lernen bietet Privacy Badger weitere Vorteile wi
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
-#, no-wrap
-msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore your wishes, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
+#, fuzzy, no-wrap
+#| msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore your wishes, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
+msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore these signals, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
 msgstr "Privacy Badger ist auch ein politisches Tool. Privacy Badger sendet das [Global Privacy Control](https://globalprivacycontrol.org/) Signal, um zu zeigen, dass du nicht mit dem Verkaufen und Teilen deiner Daten einverstanden bist und das [Do Not Track](https://www.eff.org/issues/do-not-track) Signal teilt Unternehmen mit, dass sie dich nicht tracken sollen. Falls Tracker deine Wünsche ignorieren, lernt Privacy Badger diese zu blockieren. Indem du Privacy Badger nutzt, unterstützt du die [Electronic Frontier Foundation](https://www.eff.org/) und hilfst im Kampf für ein besseres Web für alle.\n"
 
 #. type: YAML Front Matter: question
@@ -478,12 +490,8 @@ msgstr "EFF nutzt Fastly um EFF's Web-Ressourcen zu hosten: Fastly ist EFF's [CD
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, no-wrap
-msgid ""
-"* https://www.eff.org/files/dnt-policies.json\n"
-"* https://www.eff.org/files/cookieblocklist_new.txt\n"
+msgid "* https://www.eff.org/files/pbconfig.json\n"
 msgstr ""
-"* https://www.eff.org/files/dnt-policies.json\n"
-"* https://www.eff.org/files/cookieblocklist_new.txt\n"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
