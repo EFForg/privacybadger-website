@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-27 09:53-0500\nPO-Revision-Date: 2024-11-28 22:00+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-11-27 09:53-0500\nPO-Revision-Date: 2024-11-28 23:11+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -172,7 +172,7 @@ msgstr "Qu’en est-il du suivi à la trace par des sites que je visite volontai
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
 #, no-wrap
 msgid "At present, Privacy Badger primarily protects you against tracking by third party sites. As far as privacy protections for \"first party\" sites (sites that you visit directly), Privacy Badger removes outgoing link click tracking on [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) and [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). We plan on adding more first party privacy protections in the future.\n"
-msgstr "Actuellement, Privacy Badger vous protège principalement contre le suivi par des sites tiers. En ce qui concerne la protection des données personnelles pour les sites que vous visitez initialement, Privacy Badger supprime le suivi des clics pour les liens sortants sur [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) et [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Nous prévoyons d'ajouter plus de protections de la vie privée pour les sites de première partie à l'avenir.\n"
+msgstr "Actuellement, Privacy Badger vous protège principalement contre le suivi par des sites tiers. En ce qui concerne la protection des données personnelles pour les sites que vous visitez directement, Privacy Badger supprime le suivi des clics pour les liens sortants sur [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) et [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Nous prévoyons d’ajouter plus de protections des données personnelles pour les sites que vous visitez directement.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
