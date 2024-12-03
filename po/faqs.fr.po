@@ -9,7 +9,8 @@ msgstr ""
 "POT-Creation-Date: 2024-12-04 10:54-0500\n"
 "PO-Revision-Date: 2024-12-03 17:00+0000\n"
 "Last-Translator: AO Localisation Lab <ao@localizationlab.org>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/"
+"privacybadger-website-faqs/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -147,7 +148,7 @@ msgstr "Le [Contrôle global de la protection des données (GPC)](https://global
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "What's the difference? Do Not Track is meant to tell companies that you don't want to be tracked in any way (learn more about what we mean by \"tracking\" [here](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger gives third-party companies a chance to comply with DNT by adopting [our DNT policy](https://www.eff.org/dnt-policy/), and blocks those that look like they're tracking you anyway.\n"
-msgstr "Quelle est la différence ? « Ne pas me pister » (DNT) indique aux entreprises que vous ne voulez aucunement être suivi à la trace (découvrez [ici](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking) (site en anglais) ce que nous entendons par « suivi »). Privacy Badger donne aux entreprises tierces une chance de se conformer au DNT en adoptant [notre politique DNT](https://www.eff.org/dnt-policy/) et bloque celles qui semblent quand même vous suivre à la trace.\n"
+msgstr "Quelle est la différence ? « Ne pas me pister » (DNT) indique aux entreprises que vous ne voulez aucunement être suivi à la trace (découvrez [ici](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking) (site en anglais) ce que nous entendons par « suivi »). Privacy Badger donne aux entreprises tierces une chance de se conformer au DNT en adoptant [notre politique de non-pistage](https://www.eff.org/dnt-policy/) et bloque celles qui semblent quand même vous suivre à la trace.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -213,43 +214,43 @@ msgstr "Privacy Badger _comprend_ une « [liste jaune](https://github.com/EFFor
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
 #, no-wrap
 msgid "How was the cookie blocking yellowlist created?"
-msgstr "Comment a été construites cette liste jaune de blocage des cookies ?"
+msgstr "Comment la liste jaune de blocage des témoins a-t-elle été créée ?"
 
 #. type: Plain text
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
 #, no-wrap
 msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on Github.\n"
-msgstr "La liste initiale des domaines qui devraient être bloqués par des cookies plutôt que d'être entièrement bloqués est issue d'un [projet de recherche](https://jonathanmayer.org/papers_data/bau13.pdf) sur la classification des domaines tiers en « traqueurs » et « non traqueurs ». Nous y apporterons des modifications occasionnelles si nécessaire. Si vous trouvez des domaines qui ont un niveau de restriction trop ou pas assez élevé, vous pouvez [ouvrir un ticket](https://github.com/EFForg/privacybadger/issues) sur Github.\n"
+msgstr "La liste initiale des domaines qui devraient être bloqués par des témoins et non complètement bloqués a été établie à partir d’un [projet de recherche](https://jonathanmayer.org/papers_data/bau13.pdf) sur la classification des domaines tiers selon qu’ils pistent ou non. Nous la modifierons occasionnellement si besoin est. Si vous trouvez des domaines qui ne sont pas assez ou trop bloqués [remplissez un relevé de bogue](https://github.com/EFForg/privacybadger/issues) sur GitHub.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
 #, no-wrap
 msgid "Does Privacy Badger prevent fingerprinting?"
-msgstr "Est-ce que Privacy Badger empêche la reconnaissance par empreinte numérique du navigateur ?"
+msgstr "Privacy Badger empêche-t-elle le pistage par empreinte numérique unique ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
 #, no-wrap
 msgid "Browser fingerprinting is an extremely subtle and problematic method of tracking, which we [documented with the Panopticlick project](https://panopticlick.eff.org/). Privacy Badger can detect [canvas-based fingerprinting](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block), and will block third party domains that use it. Detection of other forms of fingerprinting and protections against first-party fingerprinting are ongoing projects. Of course, once a domain is blocked by Privacy Badger, it will no longer be able to fingerprint you.\n"
-msgstr "L'empreinte numérique du navigateur est une méthode de suivi extrêmement subtile et problématique, que nous avons [documentée avec le projet Panopticlick](https://panopticlick.eff.org/). Privacy Badger peut détecter [l'empreinte numérique du navigateur basée sur sa configuration](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block), et bloquera les domaines tiers qui l'utilisent. La détection d'autres formes d'empreintes numériques et les protections contre les empreintes numériques de premier niveau sont des projets en cours de développement. Bien entendu, une fois qu'un domaine est bloqué par Privacy Badger, il ne pourra plus vous identifier.\n"
+msgstr "Le pistage par empreinte numérique unique du navigateur est une méthode de pistage particulièrement subtile et problématique que nous avons [documentée avec le projet Panopticlick](https://panopticlick.eff.org/). Privacy Badger peut détecter le [pistage par empreinte numérique unique du navigateur](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block) et bloque les domaines tiers qui l’utilisent. La détection d’autres formes de pistage par empreinte numérique unique et la protection contre cette forme de pistage par des sites visités directement sont des projets en cours. Une fois qu’un domaine est bloqué par Privacy Badger, il ne peut plus vous pister par empreinte numérique unique.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "Does Privacy Badger consider every cookie to be a tracking cookie?"
-msgstr "Est-ce que Privacy Badger considère chaque cookie comme un cookie traqueur ?"
+msgstr "Privacy Badger considère-t-elle chaque témoin comme un témoin traqueur ?"
 
 #. type: Plain text
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "No. Privacy Badger analyzes the cookies from each site; unique cookies that contain tracking IDs are disallowed, while \"low entropy\" cookies that perform other functions are allowed. For instance a cookie like LANG=fr that encodes the user's language preference, or a cookie that preserves a very small amount of information about ads the user has been shown, would be allowed provided that individual or small groups of users' reading habits could not be collected with them.\n"
-msgstr "Non. Privacy Badger analyse les cookies de chaque site ; les cookies uniques qui contiennent des ID de suivi sont interdits, tandis que les cookies « à faible entropie » qui remplissent d'autres fonctions sont autorisés. Par exemple, un cookie tel que \"LANG=fr\" qui code la langue préférée de l'utilisateur, ou un cookie qui préserve une très petite quantité d'informations sur les publicités montrées à l'utilisateur, serait autorisé à condition que les habitudes de navigation d'utilisateurs individuels ou de petits groupes d'utilisateurs ne puissent pas être collectées avec ces cookies.\n"
+msgstr "Non. Privacy Badger analyse les témoins de chaque site ; les témoins uniques qui comprennent des ID de pistage sont interdits, tandis que les témoins « à faible entropie » qui remplissent d’autres fonctions sont autorisés. Par exemple, un témoin tel que « LANG=fr » qui définit la préférence de langue de l’utilisateur ou un témoin qui préserve une très petite quantité d’information sur les publicités montrées à l’utilisateur serait autorisé à condition que les habitudes de lecture d’utilisateurs individuels ou de petits groupes d’utilisateurs ne puissent pas être recueillies dans ces témoins.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?"
-msgstr "Est-ce que vous allez supporter d'autres navigateurs en plus de Chrome, Firefox, Edge et Opera ?"
+msgstr "Prendrez-vous en charge des navigateurs autres que Chrome, Firefox, Edge et Opera ?"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -261,7 +262,7 @@ msgstr "Nous travaillons à la prise en charge de [Safari sur macOS](https://git
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
 msgid "Chrome on Android does not support extensions. To use Privacy Badger on Android, install [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).\n"
-msgstr "Chrome sur Android ne prend pas en charge les extensions. Pour utiliser Privacy Badger sur Android, vous pouvez installer [Firefox pour Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).\n"
+msgstr "Sur Android, Chrome ne prend pas en charge les extensions. Pour utiliser Privacy Badger sur Android, installez [Firefox pour Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).\n"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -273,19 +274,19 @@ msgstr "Privacy Badger ne fonctionne pas avec [l’ancienne version de Microsoft
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Can I download Privacy Badger directly from eff.org?"
-msgstr "Est-ce que je peux télécharger Privacy Badger directement depuis eff.org ?"
+msgstr "Puis-je télécharger Privacy Badger directement de eff.org ?"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "If you use Google Chrome, you have to install extensions from Chrome Web Store. To install Privacy Badger in Chrome, visit [Privacy Badger's Chrome Web Store listing](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) and click the \"Add to Chrome\" button there.\n"
-msgstr "Si vous utilisez le navigateur Google Chrome, vous devez installer des extensions à partir du Chrome Web Store. Pour installer Privacy Badger dans Chrome, visitez [Privacy Badger dans le Chrome Web Store](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) et cliquez sur le bouton « Ajouter à Chrome ».\n"
+msgstr "Si vous utilisez Chrome de Google, les extensions doivent être installées dans le magasin « Chrome Web Store ». Pour installer Privacy Badger dans Chrome, accédez à la page [Privacy Badger du « Chrome Web Store »](https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) et cliquez sur le bouton « Ajouter à Google Chrome ».\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
 #, no-wrap
 msgid "Otherwise, you can use the following links to get the latest version of Privacy Badger directly from eff.org:\n"
-msgstr "Sinon, vous pouvez utiliser les liens suivants pour obtenir la dernière version de Privacy Badger directement depuis eff.org :\n"
+msgstr "Vous pouvez autrement utiliser les liens suivants pour obtenir la version la plus récente de Privacy Badger directement sur eff.org :\n"
 
 #. type: Plain text
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -294,140 +295,140 @@ msgid ""
 "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 msgstr ""
-"* Pour Firefox : [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
-"* Pour Chromium : [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
+"* Pour Firefox : [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
+"* Pour Chromium : [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
-msgstr "Je gère un domaine qui utilise des cookies ou d'autres moyens de suivi. Comment puis-je empêcher Privacy Badger de me bloquer ?"
+msgstr "Je gère un domaine qui utilise des témoins ou d'autres moyens de suivi. Comment puis-je empêcher que Privacy Badger bloque mon domaine ?"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
-msgstr "L’une des solutions consiste à cesser de suivre les utilisateurs qui ont activé le Contrôle global de la protection des données ou les signaux Ne pas me pister (c’est-à-dire cesser de collecter des témoins, des supertémoins ou des empreintes auprès d’eux). Privacy Badger cessera d’apprendre à bloquer ce domaine. La prochaine version de Privacy Badger qui sera livrée avec une liste préentraînée mise à jour n’inclura plus ce domaine dans la liste. La plupart des utilisateurs de Privacy Badger utiliseront alors cette liste mise à jour.\n"
+msgstr "L’une des solutions consiste à cesser de suivre les utilisateurs qui ont activé le Contrôle global de la protection des données ou les signaux Ne pas me pister (c’est-à-dire cesser de collecter des témoins, des supertémoins ou des empreintes auprès d’eux). Privacy Badger cessera d’apprendre à bloquer ce domaine. La prochaine version de Privacy Badger qui sera livrée avec une liste préapprise à jour n’inclura plus ce domaine dans la liste. La plupart des utilisateurs de Privacy Badger utiliseront alors cette liste mise à jour.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr "Vous pouvez également vous débloquer en promettant de respecter de manière significative le signal « Ne pas me pister ». Pour ce faire, publiez une copie _verbatim_ de la [politique de non-traçage de la EFF](https://www.eff.org/dnt-policy) à l'adresse suivante https://example.com/.well-known/dnt-policy.txt, où « exemple.com » est remplacé par votre domaine. Le fait de publier la politique de non-traçage de la EFF sur un domaine est une promesse de respect de la politique de non-traçage de la EFF par ce domaine.\n"
+msgstr "Vous pouvez aussi vous débloquer en promettant de respecter le signal « Ne pas me pister ». Pour ce faire, publiez une copie _mot à mot_ de la [politique de non-pistage de la FFÉ](https://www.eff.org/dnt-policy) à l’adresse suivante https://exemple.com/.well-known/dnt-policy.txt, où « exemple.com » est remplacé par votre domaine. Le fait de publier la politique de non-pistage de la FFÉ sur un domaine est une promesse par ce domaine de conformité avec la politique de non-pistage de la FFÉ.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "If your domain is compliant with EFF's DNT policy and declares this compliance, most Privacy Badgers will see this declaration the next time they encounter your domain. Also, the next version of Privacy Badger to ship with an updated pre-trained list will probably include your declaration of compliance in the list.\n"
-msgstr "Si votre domaine est conforme à la politique DNT de l'EFF et qu'il déclare cette conformité, la plupart des badgeurs de confidentialité verront cette déclaration la prochaine fois qu'ils rencontreront votre domaine. En outre, la prochaine version de Privacy Badger, qui sera livrée avec une liste pré-entraînée mise à jour, inclura probablement votre déclaration de conformité dans la liste.\n"
+msgstr "Si votre domaine est conforme à la politique DNT de la FFÉ et qu’il déclare cette conformité, la plupart des Privacy Badgers verront cette déclaration la prochaine fois qu’ils rencontreront votre domaine. De plus, la prochaine version de Privacy Badger qui sera livrée avec une liste préapprise à jour, comprendra probablement votre déclaration de conformité dans la liste.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "Note that the domain must support HTTPS, to protect against tampering by network attackers. The path contains \".well-known\" per [RFC 5785](https://tools.ietf.org/html/rfc5785). Also note that you must post a copy of the policy at each compliant subdomain you control. For example, if you wish to declare compliance by both sub1.example.com and sub2.example.com, you must post EFF's DNT policy on each domain.\n"
-msgstr "Il est à noter que le domaine doit prendre en charge le protocole HTTPS, afin de se protéger contre les manipulations par des attaquants du réseau. Le chemin d'accès doit contenir \".well-known\" conformément à la [RFC 5785](https://tools.ietf.org/html/rfc5785). Il est également à noter que vous devez publier une copie de la politique sur chaque sous-domaine conforme que vous contrôlez. Par exemple, si vous souhaitez déclarer la conformité de sousdomaine1.example.com et sousdomaine2.example.com, vous devez publier la politique de non-traçage de la EFF sur chacun de ces domaines.\n"
+msgstr "Noter que le domaine doit prendre en charge le protocole HTTPS pour assurer une protection contre les manipulations par des assaillants du réseau. « .well-known » doit apparaitre dans le chemin conformément à la norme [RFC 5785](https://tools.ietf.org/html/rfc5785). Noter aussi que vous devez publier un exemplaire de la politique sur chaque sous-domaine conforme que vous contrôlez. Par exemple, si vous souhaitez déclarer la conformité de sousdomaine1.exemple.com et sousdomaine2.exemple.com, vous devez publier la politique de non-pistage de la FFÉ sur chacun de ces domaines.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
-msgstr "Où puis-je trouver des informations générales sur Privacy Badger que je peux utiliser pour un article que je suis en train d'écrire ?"
+msgstr "Où puis-je trouver de l’information générale sur Privacy Badger pour un article que j’écris ?"
 
 #. type: Plain text
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
-msgstr "Content que vous demandiez ! Vous pouvez consulter ce [dossier de presse téléchargeable](/files/pb_journalist_1_pager.pdf) que nous avons préparé.\n"
+msgstr "C’est une bonne question. Consultez ce [cahier de presse téléchargeable](/files/pb_journalist_1_pager.pdf) que nous avons préparé.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "En tant qu'administrateur, comment est-ce que je configure Privacy Badger sur les appareils que je gère ?"
+msgstr "En tant qu’administrateur, comment puis-je configurer Privacy Badger sur les appareils que je gère ?"
 
 #. type: Plain text
 #: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr "Veuillez lire notre document [Déployer et configurer au niveau d'une entreprise](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
+msgstr "Consultez notre document [Déploiement et configuration en entreprise](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
 msgid "What is the Privacy Badger license? Where is the Privacy Badger source code?"
-msgstr "Quelle est la licence de Privacy Badger ? Où est le code source de Privacy Badger ?"
+msgstr "Quelle est la licence de Privacy Badger ? Où trouver le code source de Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
 #, no-wrap
 msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
-msgstr "Le [code source](https://github.com/EFForg/privacybadger) de Privacy Badger est sous licence [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). La licence du [code source](https://github.com/EFForg/privacybadger-website) de ce site Web est la [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
+msgstr "Le [code source](https://github.com/EFForg/privacybadger) de Privacy Badger est publié sous licence [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). Le [code source](https://github.com/EFForg/privacybadger-website) de ce site Web est publié sous licence [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "How can I support Privacy Badger?"
-msgstr "Comment puis-je aider Privacy Badger ?"
+msgstr "Comment puis-je soutenir Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "Thanks for asking! Individual donations make up about half of EFF's support, which gives us the freedom to work on user-focused projects. If you want to support the development of Privacy Badger and other projects like it, helping build a more secure Internet ecosystem, you can [throw us a few dollars here](https://supporters.eff.org/donate/support-privacy-badger). Thank you.\n"
-msgstr "Merci de demander ! Les dons individuels représentent environ la moitié du soutien de l'EFF, ce qui nous donne la liberté de travailler sur des projets axés sur les utilisateurs. Si vous souhaitez soutenir le développement de Privacy Badger et d'autres projets similaires, afin de contribuer à la construction d'un écosystème Internet plus sûr, vous pouvez [envoyer votre contribution ici](https://supporters.eff.org/donate/support-privacy-badger). Merci.\n"
+msgstr "Merci de demander. Les dons individuels représentent environ la moitié du financement de la FFÉ, ce qui nous donne la liberté de travailler sur des projets axés sur les utilisateurs. Si vous souhaitez soutenir le développement de Privacy Badger et d’autres projets semblables afin de contribuer à la construction d’un écosystème Internet plus sûr, vous pouvez [envoyer votre contribution ici](https://supporters.eff.org/donate/support-privacy-badger). Merci.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
 msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md) for ways to get started.\n"
-msgstr "Si vous voulez aider directement le projet, nous l'apprécions également. Vous pouvez consulter le document [Contribution à Privacy Badger](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md) pour savoir par où commencer.\n"
+msgstr "Vous pouvez aussi nous aider directement. Notre document [Contribuer à Privacy Badger](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md) présente comment le faire.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
 msgid "How does Privacy Badger handle social media widgets?"
-msgstr "Comment Privacy Badger gère-t-il les « widgets » de médias sociaux ?"
+msgstr "Comment Privacy Badger gère-t-elle les widgets des médias sociaux ?"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
 msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, [Privacy Badger can replace them](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
-msgstr "Les widgets de médias sociaux (tels que le bouton « J'aime » de Facebook) suivent souvent vos habitudes de navigation. Même si vous ne cliquez pas dessus, les sociétés de médias sociaux voient souvent de manière précise sur quelles pages vous voyez leur widget. Lors du blocage des boutons sociaux et d'autres widgets potentiellement utiles (vidéo, audio, commentaires), [Privacy Badger peut les remplacer](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) par des encarts « cliquer pour activer ». Vous ne serez pas suivi par ces remplacements, sauf si vous choisissez explicitement de cliquer dessus.\n"
+msgstr "Les widgets de médias sociaux (tels que le bouton « J’aime » de Facebook) suivent souvent vos habitudes de lecture à la trace. Même si vous ne cliquez pas dessus, les entreprises de médias sociaux voient souvent de manière précise sur quelles pages vous voyez leur widget. En bloquant les boutons des médiaux sociaux et d’autres widgets potentiellement utiles (vidéo, son, commentaires), [Privacy Badger peut les remplacer](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) par des emplacements « cliquer pour activer ». Ces remplacements ne vous pisteront pas, sauf si vous choisissez explicitement de cliquer dessus.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "How do I uninstall/remove Privacy Badger?"
-msgstr "Comment puis-je désinstaller/supprimer Privacy Badger ?"
+msgstr "Comment puis-je désinstaller, supprimer Privacy Badger ?"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Firefox: See the [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions) Mozilla help page.\n"
-msgstr "Pour Firefox : Consultez la page d'aide de Mozilla [Désactiver ou supprimer les modules complémentaires](https://support.mozilla.org/fr/kb/desactiver-supprimer-modules#w_disabling-and-removing-extensions).\n"
+msgstr "Dans Firefox : consultez la page d’aide [Désactiver ou supprimer des modules complémentaires](https://support.mozilla.org/fr/kb/desactiver-supprimer-modules#w_disabling-and-removing-extensions) de Mozilla.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Chrome: See the [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=en) Chrome Web Store help page.\n"
-msgstr "Pour Chrome : Consultez la page d'aide [Installer et gérer les extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=fr) du Chrome Web Store.\n"
+msgstr "Pour Chrome : consultez la page d’aide [Installer et gérer des extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=fr) du magasin « Chrome Web Store ».\n"
 
 #. type: Plain text
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
-msgstr "Pour Edge : Consultez la page d'aide Microsoft [Ajouter ou supprimer les modules complémentaires, les extensions et les barres d'outils du navigateur](https://support.microsoft.com/fr-fr/microsoft-edge/ajouter-d%C3%A9sactiver-ou-supprimer-des-extensions-dans-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
+msgstr "Pour Edge : consultez la page d’aide [Ajouter, désactiver ou supprimer des extensions dans Microsoft Edge](https://support.microsoft.com/fr-fr/microsoft-edge/ajouter-d%C3%A9sactiver-ou-supprimer-des-extensions-dans-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026) de Microsoft\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with other extensions, including adblockers?"
-msgstr "Est-ce que Privacy Badger est compatible avec d'autres extensions, notamment les bloqueurs de publicité ?"
+msgstr "Privacy Badger est-elle compatible avec les autres extensions, dont les bloqueurs de publicités ?"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Privacy Badger should be compatible with other extensions.\n"
-msgstr "Privacy Badger devrait être compatible avec d'autres extensions.\n"
+msgstr "Privacy Badger devrait être compatible avec les autres extensions.\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
@@ -481,7 +482,7 @@ msgstr "Pourquoi est-ce que mon navigateur se connecte aux adresses IP de fastly
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, no-wrap
 msgid "EFF uses Fastly to host EFF's Web resources: Fastly is EFF's CDN. Privacy Badger pings the CDN for the following resources to ensure that the information in them is fresh even if there hasn't been a new Privacy Badger release in a while:\n"
-msgstr "L'EFF utilise Fastly pour héberger ses ressources Web : Fastly est le CDN de l'EFF. Privacy Badger envoie des pings au CDN pour les ressources suivantes afin de s'assurer que les informations qu'elles contiennent soient fraîches, même s'il n'y a pas eu de nouvelle version de Privacy Badger depuis un certain temps :\n"
+msgstr "LA FFÉ utilise Fastly pour l’hébergement de ressources Web : Fastly est le réseau de diffusion de contenu de la FFÉ. Privacy Badger demande les ressources suivantes au réseau de diffusion de contenu afin de s’assurer que l’information qu’elles comprennent est à jour, même si aucune nouvelle version de Privacy Badger n’a été publiée depuis un certain temps :\n"
 
 #. type: Plain text
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
@@ -493,7 +494,7 @@ msgstr "* https://www.eff.org/files/pbconfig.json\n"
 #: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
 #, no-wrap
 msgid "EFF does not set cookies or retain IP addresses for these queries.\n"
-msgstr "L'EFF n'utilise pas de cookie et n'enregistre pas d'adresse IP pour ces requêtes.\n"
+msgstr "La FFÉ ne définit pas de témoins ni n’enregistre d’adresses IP pour ces requêtes.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
@@ -517,7 +518,7 @@ msgstr "Privacy Badger a besoin de ces autorisations pour faire son travail de d
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
 msgid "Note that the extension permissions warnings only cover what the extension has access to, not what the extension actually does with what it has access to (such as whether the extension secretly uploads your browsing data to its servers). Privacy Badger will never share data about your browsing unless you choose to share it (by filing a broken site report). For more information, see EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy/policy).\n"
-msgstr "Veuillez noter que les avertissements relatifs aux autorisations des extensions ne couvrent que ce à quoi l'extension a accès, et non ce que l'extension fait réellement avec ce à quoi elle a accès (par exemple, si l'extension téléverse secrètement vos données de navigation sur ses serveurs). Privacy Badger ne partagera jamais les données relatives à votre navigation, à moins que vous ne choisissiez de les partager (en remplissant un rapport de site non fonctionnel). Pour plus d'informations, veuillez consulter la [Politique de confidentialité pour les logiciels de l'EFF](https://www.eff.org/code/privacy/policy).\n"
+msgstr "Noter que les avertissements relatifs aux droits de l’extension ne couvrent que ce à quoi l’extension a accès, et non ce que l’extension fait avec ce à quoi elle a accès (par exemple, si l’extension téléverse ou non secrètement vos données de navigation sur ses serveurs). Privacy Badger ne partagera jamais vos données de navigation, à moins que vous ne choisissiez de les partager (en remplissant un rapport de site non fonctionnel). Pour plus de précisions, consulter la [Politique de protection des renseignements personnels par les logiciels de la FFÉ](https://www.eff.org/code/privacy/policy).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
@@ -558,6 +559,11 @@ msgstr "Pour obtenir de l'aide ou signaler des bogues, veuillez envoyer un courr
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, fuzzy, no-wrap
-#| msgid "You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
 msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
+msgstr "Vous pouvez également nous trouver sur Mastodon à [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
+
+#. type: Plain text
+#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
+#, no-wrap
+msgid "You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
 msgstr "Vous pouvez également nous trouver sur Mastodon à [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
