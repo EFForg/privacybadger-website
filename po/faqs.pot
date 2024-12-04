@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-11-27 09:53-0500\n"
+"POT-Creation-Date: 2024-12-04 10:54-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -555,5 +555,5 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, markdown-text, no-wrap
-msgid "You can also find us on Mastodon at [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).\n"
+msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
 msgstr ""
