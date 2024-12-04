@@ -7,4 +7,4 @@ Si un site Web ne fonctionne pas comme il le devrait, vous pouvez désactiver Pr
 
 Pour obtenir de l'aide ou signaler des bogues, veuillez envoyer un courriel à [extension-devs@eff.org](mailto:extension-devs@eff.org). Si vous avez un compte GitHub, vous pouvez utiliser notre [gestionnaire de suivi des erreurs sur GitHub](https://github.com/EFForg/privacybadger/issues).
 
-Vous pouvez également nous trouver sur Mastodon à [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).
+Vous pouvez également nous trouver sur [Mastodon](https://mastodon.social/@privacybadger) et [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).

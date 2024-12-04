@@ -7,4 +7,4 @@ Si un sitio web no funciona como debería, puede desactivar Privacy Badger sólo
 
 Para obtener ayuda o informar de errores, envíe un correo electrónico a [extension-devs@eff.org](mailto:extension-devs@eff.org). Si tienes una cuenta de GitHub, puedes utilizar nuestro [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).
 
-También puede encontrarnos en Mastodon en [@privacybadger@mastodon.social](https://mastodon.social/@privacybadger).
+También puede encontrarnos en [Mastodon](https://mastodon.social/@privacybadger) y [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).
