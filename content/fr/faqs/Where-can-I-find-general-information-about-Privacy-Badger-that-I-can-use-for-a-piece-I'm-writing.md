@@ -1,6 +1,6 @@
 ---
-question: "Où puis-je trouver des informations générales sur Privacy Badger que je peux utiliser pour un article que je suis en train d'écrire ?"
+question: 'Où puis-je trouver de l’information générale sur Privacy Badger pour un article que j’écris ?'
 weight: 180
 ---
 
-Content que vous demandiez ! Vous pouvez consulter ce [dossier de presse téléchargeable](/files/pb_journalist_1_pager.pdf) que nous avons préparé.
+C’est une bonne question. Consultez ce [cahier de presse téléchargeable](/files/pb_journalist_1_pager.pdf) que nous avons préparé.

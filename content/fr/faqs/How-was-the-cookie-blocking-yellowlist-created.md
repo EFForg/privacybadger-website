@@ -1,6 +1,6 @@
 ---
-question: 'Comment a été construites cette liste jaune de blocage des cookies ?'
+question: 'Comment la liste jaune de blocage des témoins a-t-elle été créée ?'
 weight: 100
 ---
 
-La liste initiale des domaines qui devraient être bloqués par des cookies plutôt que d'être entièrement bloqués est issue d'un [projet de recherche](https://jonathanmayer.org/papers_data/bau13.pdf) sur la classification des domaines tiers en « traqueurs » et « non traqueurs ». Nous y apporterons des modifications occasionnelles si nécessaire. Si vous trouvez des domaines qui ont un niveau de restriction trop ou pas assez élevé, vous pouvez [ouvrir un ticket](https://github.com/EFForg/privacybadger/issues) sur Github.
+La liste initiale des domaines qui devraient être bloqués par des témoins et non complètement bloqués a été établie à partir d’un [projet de recherche](https://jonathanmayer.org/papers_data/bau13.pdf) sur la classification des domaines tiers selon qu’ils pistent ou non. Nous la modifierons occasionnellement si besoin est. Si vous trouvez des domaines qui ne sont pas assez ou trop bloqués [remplissez un relevé de bogue](https://github.com/EFForg/privacybadger/issues) sur GitHub.
