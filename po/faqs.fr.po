@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-04 10:54-0500\nPO-Revision-Date: 2024-12-05 09:44+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-04 10:54-0500\nPO-Revision-Date: 2024-12-05 09:44+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -548,4 +548,4 @@ msgstr "Pour obtenir de l'aide ou signaler des bogues, veuillez envoyer un courr
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
 msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
-msgstr "Vous pouvez également nous trouver sur [Mastodon](https://mastodon.social/@privacybadger) et [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
+msgstr "Vous pouvez aussi nous trouver sur [Mastodon](https://mastodon.social/@privacybadger) et [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
