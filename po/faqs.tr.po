@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 12:17-0500\n"
+"POT-Creation-Date: 2024-12-05 13:39-0500\n"
 "PO-Revision-Date: 2024-11-27 15:10+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\n"
@@ -524,7 +524,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
-msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
 msgstr ""
 
 #. type: Plain text

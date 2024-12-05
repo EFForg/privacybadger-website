@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 12:17-0500\n"
+"POT-Creation-Date: 2024-12-05 13:39-0500\n"
 "PO-Revision-Date: 2024-12-05 14:16+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\n"
@@ -536,8 +536,9 @@ msgstr "¿Por qué Privacy Badger necesita acceder a mis datos para todos los si
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, no-wrap
-msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+#, fuzzy, no-wrap
+#| msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
 msgstr "Cuando instalas Privacy Badger, tu navegador te advierte de que puede \"acceder a tus datos para todos los sitios web\" (en Firefox, o \"leer y cambiar todos tus datos en los sitios web que visitas\" en Chrome). Hace bien en alarmarse. Sólo deberías instalar extensiones hechas por organizaciones en las que confíes.\n"
 
 #. type: Plain text

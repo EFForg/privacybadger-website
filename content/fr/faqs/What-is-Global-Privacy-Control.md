@@ -12,5 +12,3 @@ De nombreux sites Web ont initialement tout simplement ignoré les demandes des 
 Le GPC se veut une demande juridiquement contraignante adressée à toutes les entreprises des pays munis de lois de protection des données personnelles. Par exemple, [la loi californienne sur la protection des données personnelles des consommateurs](https://theccpa.org) donne aux résidents de Californie le droit de refuser que leurs données soient vendues. En envoyant le signal GPC, Privacy Badger indique aux entreprises que vous souhaitez exercer vos droits.
 
 La CCPA et les autres lois ne sont [pas parfaites](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/). C’est pourquoi Privacy Badger utilise les deux approches. Elle demande aux sites Web de respecter votre vie privée et bloque le chargement des traqueurs connus.
-
-Vous pouvez en apprendre davantage [ici](https://globalprivacycontrol.org) (site en anglais) au sujet du GPC et de vos droits.

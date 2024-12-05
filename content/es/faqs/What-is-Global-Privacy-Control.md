@@ -12,5 +12,3 @@ Cuando se desarrolló DNT, muchos sitios web simplemente ignoraron las peticione
 La GPC pretende ser una petición legalmente vinculante para todas las empresas en lugares con leyes de privacidad aplicables. Por ejemplo, [la Ley de Privacidad del Consumidor de California](https://theccpa.org) otorga a los residentes de California el derecho a optar por no vender sus datos. Al enviar la señal GPC, Privacy Badger está diciendo a las empresas que usted desea ejercer sus derechos.
 
 La CCPA y otras leyes [no son perfectas](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), por lo que Privacy Badger utiliza ambos enfoques. Pide a los sitios web que respeten su privacidad y bloquea la carga de los rastreadores conocidos.
-
-Puede obtener más información sobre la GPC y sus derechos [aquí](https://globalprivacycontrol.org/).

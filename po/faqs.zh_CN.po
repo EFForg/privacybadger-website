@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 12:17-0500\n"
+"POT-Creation-Date: 2024-12-05 13:39-0500\n"
 "PO-Revision-Date: 2024-12-05 14:16+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
@@ -539,8 +539,9 @@ msgstr "为什么隐私獾需要访问我所有网站的数据？"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, no-wrap
-msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+#, fuzzy, no-wrap
+#| msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
 msgstr "当您安装隐私獾时，您的浏览器警告说隐私獾可以 “访问您所有网站的数据”（在火狐中，或在Chrome中 \"读取和更改您访问的网站上的所有数据\"）。您感到震惊是对的。您应该只安装由您信任的组织制作的扩展。\n"
 
 #. type: Plain text
