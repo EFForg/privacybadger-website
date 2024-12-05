@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-04 10:54-0500\nPO-Revision-Date: 2024-12-05 09:44+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-12-05 09:11-0500\n"
+"PO-Revision-Date: 2024-12-05 09:44+0000\n"
+"Last-Translator: AO Localisation Lab <ao@localizationlab.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -206,8 +217,9 @@ msgstr "Comment la liste jaune de blocage des témoins a-t-elle été créée 
 
 #. type: Plain text
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
-#, no-wrap
-msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on Github.\n"
+#, fuzzy, no-wrap
+#| msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on Github.\n"
+msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on GitHub.\n"
 msgstr "La liste initiale des domaines qui devraient être bloqués par des témoins et non complètement bloqués a été établie à partir d’un [projet de recherche](https://jonathanmayer.org/papers_data/bau13.pdf) sur la classification des domaines tiers selon qu’ils pistent ou non. Nous la modifierons occasionnellement si besoin est. Si vous trouvez des domaines qui ne sont pas assez ou trop bloqués [remplissez un relevé de bogue](https://github.com/EFForg/privacybadger/issues) sur GitHub.\n"
 
 #. type: YAML Front Matter: question
@@ -546,6 +558,7 @@ msgstr "Pour obtenir de l'aide ou signaler des bogues, veuillez envoyer un courr
 
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, no-wrap
-msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
+#, fuzzy, no-wrap
+#| msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
+msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
 msgstr "Vous pouvez aussi nous trouver sur [Mastodon](https://mastodon.social/@privacybadger) et [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"

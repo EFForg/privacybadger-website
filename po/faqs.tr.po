@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-04 10:54-0500\n"
+"POT-Creation-Date: 2024-12-05 09:11-0500\n"
 "PO-Revision-Date: 2024-11-27 15:10+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\n"
@@ -218,7 +218,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
 #, no-wrap
-msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on Github.\n"
+msgid "The initial list of domains that should be cookie blocked rather than blocked entirely was derived from a [research project](https://jonathanmayer.org/papers_data/bau13.pdf) on classifying third party domains as trackers and non-trackers. We will make occasional adjustments to it as necessary. If you find domains that are under- or over-blocked, please [file a bug](https://github.com/EFForg/privacybadger/issues) on GitHub.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
@@ -556,5 +556,5 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
 #, no-wrap
-msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).\n"
+msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
 msgstr ""
