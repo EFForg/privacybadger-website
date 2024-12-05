@@ -4,18 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 13:39-0500\n"
-"PO-Revision-Date: 2024-12-05 14:16+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2024-12-06 00:57+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -39,7 +28,7 @@ msgstr "隐私獾与其他拦截扩展有何不同？"
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "Privacy Badger was born out of our desire to be able to recommend a single extension that would:\n"
-msgstr ""
+msgstr "隐私獾的诞生源于我们希望能够推荐一\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -50,27 +39,26 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr "隐私獾的诞生源于我们希望能够推荐一个能够自动分析并阻止任何违反用户同意原则的追踪器或广告的扩展；它能够在不需要用户进行任何设置、了解或配置的情况下很好地发挥作用；它是由一个毫不含糊地为用户而不是为广告商工作的组织生产的；它使用算法来决定是或不是追踪。\n"
-
-#. type: Plain text
-#: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
-#, no-wrap
-msgid "As a result, Privacy Badger differs from traditional ad-blocking extensions in two key ways. First, while most other blocking extensions prioritize blocking ads, Privacy Badger doesn't block ads unless they happen to be tracking you; in fact, one of our goals is to incentivize advertisers to adopt better privacy practices.\n"
-msgstr ""
+msgstr "- 个能够自动分析并阻止任何违反用户同意原则的追踪器或广告的扩展\n- 它能够在不需要用户进行任何设置、了解或配置的情况下很好地发挥作用\n- 它使用算法来决定是或不是追踪\n- 它是由一个毫不含糊地为用户而不是为广告商工作的组织生产的\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, fuzzy, no-wrap
-#| msgid "As a result, Privacy Badger differs from traditional ad-blocking extensions in two key ways. First, while most other blocking extensions prioritize blocking ads, Privacy Badger is purely a tracker-blocker. The extension doesn’t block ads unless they happen to be tracking you; in fact, one of our goals is to incentivize advertisers to adopt better privacy practices. Second, most other blockers rely on a human-curated list of domains or URLs to block. Privacy Badger is an algorithmic tracker blocker -- we define what “tracking” looks like, and then Privacy Badger blocks or restricts domains that it observes tracking in the wild. What is and isn’t considered a tracker is entirely based on how a specific domain acts, not on human judgment. ([See also](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers).)\n"
+msgid "As a result, Privacy Badger differs from traditional ad-blocking extensions in two key ways. First, while most other blocking extensions prioritize blocking ads, Privacy Badger doesn't block ads unless they happen to be tracking you; in fact, one of our goals is to incentivize advertisers to adopt better privacy practices.\n"
+msgstr "因此，隐私獾在两个关键方面有别于传统的广告拦截扩展。首先，其他大多数拦截扩展都优先拦截广告，而隐私獾纯粹是一个追踪器拦截器。该扩展不会阻止广告，除非它们碰巧在追踪您；事实上，我们的目标之一是激励广告商采取更好的隐私做法。\n"
+
+#. type: Plain text
+#: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
+#, no-wrap
 msgid "Second, most other blockers rely on a human-curated list of domains or URLs to block. Privacy Badger is an algorithmic tracker blocker -- we define what “tracking” looks like, and then Privacy Badger blocks or restricts domains that it observes tracking in the wild. What is and isn’t considered a tracker is entirely based on how a specific domain acts, not on human judgment.\n"
-msgstr "因此，隐私獾在两个关键方面有别于传统的广告拦截扩展。首先，其他大多数拦截扩展都优先拦截广告，而隐私獾纯粹是一个追踪器拦截器。该扩展不会阻止广告，除非它们碰巧在追踪您；事实上，我们的目标之一是激励广告商采取更好的隐私做法。第二，其他大多数拦截器都是依靠人工计算的域名或URL列表来进行拦截。隐私獾是一个算法跟踪器拦截器--我们定义“跟踪”是什么样子，然后隐私獾拦截或限制它观察到的野外跟踪域。是或不被认为是跟踪器，完全基于特定域的行为方式，而非人类的判断。([参见](#Is-Privacy-Badger-compatible-with-other-extensions%2c-including-other-adblockers)。)\n"
+msgstr "第二，其他大多数拦截器都是依靠人工计算的域名或URL列表来进行拦截。隐私獾是一个算法跟踪器拦截器--我们定义“跟踪”是什么样子，然后隐私獾拦截或限制它观察到的野外跟踪域。是或不被认为是跟踪器，完全基于特定域的行为方式，而非人类的判断。\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, fuzzy, no-wrap
 #| msgid "Privacy Badger is also a political tool. Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore these signals, Privacy Badger will learn to block them. By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
 msgid "Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore these signals, Privacy Badger will learn to block them.\n"
-msgstr "隐私獾也是一个政治工具。隐私獾发送[全局隐私控制](https://globalprivacycontrol.org/)信号，以选择退出数据共享和销售，并发送[不要跟踪](https://www.eff.org/issues/do-not-track)信号，告诉公司不要跟踪您。如果追踪器无视这些信号，隐私獾将学习阻止它们。使用隐私獾，您将支持[电子前沿基金会](https://www.eff.org/)，并帮助为每个人争取一个更好的网络。\n"
+msgstr "隐私獾发送[全局隐私控制](https://globalprivacycontrol.org/)信号，以选择退出数据共享和销售，并发送[不要跟踪](https://www.eff.org/issues/do-not-track)信号，告诉公司不要跟踪您。如果追踪器无视这些信号，隐私獾将学习阻止它们。\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -83,7 +71,7 @@ msgstr "除了自动学习，隐私獾还具有其他优势，如阻止cookie，
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
-msgstr ""
+msgstr "使用隐私獾，您将支持[电子前沿基金会](https://www.eff.org/)，并帮助为每个人争取一个更好的网络。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-work.md
@@ -96,14 +84,14 @@ msgstr "隐私獾是如何工作的？"
 #, fuzzy, no-wrap
 #| msgid "When you view a webpage, that page will often be made up of content from many different sources.  (For example, a news webpage might load the actual article from the news company, ads from an ad company, and the comments section from a different company that's been contracted out to provide that service.)  Privacy Badger keeps track of all of this.  If as you browse the web, the same source seems to be tracking your browser across different websites, then Privacy Badger springs into action, telling your browser not to load any more content from that source.  And when your browser stops loading content from a source, that source can no longer track you.  Voila!\n"
 msgid "When you view a webpage, that page will often be made up of content from many different sources. For example, a news webpage might load the actual article from the news company, ads from an ad company, and the comments section from a different company that's been contracted out to provide that service.\n"
-msgstr "当您浏览一个网页时，该网页往往是由许多不同来源的内容组成的。 (例如，一个新闻网页可能会加载来自新闻公司的实际文章，来自广告公司的广告，以及来自另一家承包该服务的公司的评论部分）。 隐私獾会对所有这些进行跟踪。 如果在您浏览网页时，同一来源似乎在不同网站上跟踪您的浏览器，那么隐私獾就会采取行动，告诉您的浏览器不要再加载来自该来源的任何内容。 当您的浏览器停止加载某个来源的内容时，该来源就不能再跟踪您了。 就这样！\n"
+msgstr "当您浏览一个网页时，该网页往往是由许多不同来源的内容组成的。例如，一个新闻网页可能会加载来自新闻公司的实际文章，来自广告公司的广告，以及来自另一家承包该服务的公司的评论部分。\n"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
 #, fuzzy, no-wrap
 #| msgid "When you view a webpage, that page will often be made up of content from many different sources.  (For example, a news webpage might load the actual article from the news company, ads from an ad company, and the comments section from a different company that's been contracted out to provide that service.)  Privacy Badger keeps track of all of this.  If as you browse the web, the same source seems to be tracking your browser across different websites, then Privacy Badger springs into action, telling your browser not to load any more content from that source.  And when your browser stops loading content from a source, that source can no longer track you.  Voila!\n"
 msgid "Privacy Badger keeps track of all of this. If the same source seems to be tracking across different websites, then Privacy Badger springs into action, telling the browser not to load any more content from that source. And when your browser stops loading content from a source, that source can no longer track you. Voila!\n"
-msgstr "当您浏览一个网页时，该网页往往是由许多不同来源的内容组成的。 (例如，一个新闻网页可能会加载来自新闻公司的实际文章，来自广告公司的广告，以及来自另一家承包该服务的公司的评论部分）。 隐私獾会对所有这些进行跟踪。 如果在您浏览网页时，同一来源似乎在不同网站上跟踪您的浏览器，那么隐私獾就会采取行动，告诉您的浏览器不要再加载来自该来源的任何内容。 当您的浏览器停止加载某个来源的内容时，该来源就不能再跟踪您了。 就这样！\n"
+msgstr "隐私獾会对所有这些进行跟踪。 如果在您浏览网页时，同一来源似乎在不同网站上跟踪您的浏览器，那么隐私獾就会采取行动，告诉您的浏览器不要再加载来自该来源的任何内容。 当您的浏览器停止加载某个来源的内容时，该来源就不能再跟踪您了。 就这样！\n"
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
@@ -114,10 +102,9 @@ msgstr "在技术层面上，隐私獾会注意到在您访问的网页中嵌入
 
 #. type: Plain text
 #: content/en/faqs/How-does-Privacy-Badger-work.md
-#, fuzzy, no-wrap
-#| msgid "By default, Privacy Badger receives periodic learning updates from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web. Privacy Badger [no longer learns from your browsing](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better) by default, as \"local learning\" may make you more identifiable to websites. You may want to opt back in to local learning if you regularly browse less popular websites. To do so, visit your Badger’s options page and mark the checkbox for learning to block new trackers from your browsing.\n"
+#, no-wrap
 msgid "By default, Privacy Badger receives [periodic learning updates](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) from [Badger Sett](https://github.com/EFForg/badger-sett), our Badger training project. This \"remote learning\" automatically discovers trackers present on thousands of the most popular sites on the Web.\n"
-msgstr "默认情况下，隐私獾会定期从我们的Badger培训项目[Badger Sett](https://github.com/EFForg/badger-sett)接收学习更新。这种 “远程学习”会自动发现网络上数千个最受欢迎的网站上存在的跟踪器。默认情况下，隐私獾[不再从您的浏览中学习](https://www.eff.org/deeplinks/2020/10/privacy-badger-changing-protect-you-better)，因为“本地学习”可能使您更容易被网站识别。如果您经常浏览不太受欢迎的网站，您可能希望重新选择本地学习。要做到这一点，请访问您的Badger的选项页面，并标记学习的复选框，以阻止新的跟踪器从您的浏览。\n"
+msgstr "默认情况下，隐私獾[会定期](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers)从我们的Badger培训项目[Badger Sett](https://github.com/EFForg/badger-sett)接收学习更新。这种 “远程学习”会自动发现网络上数千个最受欢迎的网站上存在的跟踪器。\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-a-third-party-tracker.md
@@ -417,10 +404,9 @@ msgstr "我怎样才能支持隐私獾？"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
-#, fuzzy, no-wrap
-#| msgid "Thanks for asking! Individual donations make up about half of EFF's support, which gives us the freedom to work on user-focused projects. If you want to support the development of Privacy Badger and other projects like it, helping build a more secure Internet ecosystem, you can [throw us a few dollars here](https://supporters.eff.org/donate/support-privacy-badger). Thank you.\n"
+#, no-wrap
 msgid "Thanks for asking! Individual donations make up about half of EFF's support, which gives us the freedom to work on user-focused projects. If you want to support the development of Privacy Badger and other projects like it, you can [throw us a few dollars here](https://supporters.eff.org/donate/support-privacy-badger). Thank you.\n"
-msgstr "感谢您的提问! 个人捐款约占EFF支持的一半，这使我们能够自由地开展以用户为中心的项目。如果您想支持隐私獾和其他类似项目的发展，帮助建立一个更安全的互联网生态系统，您可以[在这里给我们捐几美元](https://supporters.eff.org/donate/support-privacy-badger)。再次感谢您。\n"
+msgstr "感谢您的提问! 个人捐款约占EFF支持的一半，这使我们能够自由地开展以用户为中心的项目。如果您想支持隐私獾和其他类似项目的发展，您可以[在这里给我们捐几美元](https://supporters.eff.org/donate/support-privacy-badger)。再次感谢您。\n"
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
@@ -539,10 +525,9 @@ msgstr "为什么隐私獾需要访问我所有网站的数据？"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, fuzzy, no-wrap
-#| msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+#, no-wrap
 msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
-msgstr "当您安装隐私獾时，您的浏览器警告说隐私獾可以 “访问您所有网站的数据”（在火狐中，或在Chrome中 \"读取和更改您访问的网站上的所有数据\"）。您感到震惊是对的。您应该只安装由您信任的组织制作的扩展。\n"
+msgstr "当您安装隐私獾时，您的浏览器警告说隐私獾可以 “访问您所有网站的数据”在火狐中，或在Chrome中 \"读取和更改您访问的网站上的所有数据\"。您感到震惊是对的。您应该只安装由您信任的组织制作的扩展。\n"
 
 #. type: Plain text
 #: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
