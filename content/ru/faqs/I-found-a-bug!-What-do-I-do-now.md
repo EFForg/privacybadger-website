@@ -7,4 +7,4 @@ weight: 290
 
 Чтобы получить помощь или сообщить об ошибках, пишите на [extension-devs@eff.org](mailto:extension-devs@eff.org). Если у вас есть аккаунт на GitHub, вы можете использовать нашу [систему отслеживания проблем на GitHub](https://github.com/EFForg/privacybadger/issues).
 
-Вы также можете найти нас на [Mastodon](https://mastodon.social/@privacybadger) и на [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).
+Вы также можете найти нас на [Mastodon](https://mastodon.social/@privacybadger) и на [Bluesky](https://bsky.app/profile/privacybadger.org).

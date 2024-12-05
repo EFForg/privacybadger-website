@@ -7,4 +7,4 @@ Wenn eine Website nicht funktioniert wie sie sollte, kannst du Privacy Badger f√
 
 Um Hilfe zu erhalten oder um Bugs zu melden, schreibe bitte eine E-Mail an [extension-devs@eff.org](mailto:extension-devs@eff.org). Falls du einen GitHub Account hast, kannst du unseren [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues) nutzen.
 
-Du findest uns auch auf [Mastodon](https://mastodon.social/@privacybadger) und [Bluesky](https://bsky.app/profile/privacybadger.bsky.social).
+Du findest uns auch auf [Mastodon](https://mastodon.social/@privacybadger) und [Bluesky](https://bsky.app/profile/privacybadger.org).
