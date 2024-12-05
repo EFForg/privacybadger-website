@@ -12,5 +12,3 @@ When DNT was developed, many websites simply ignored users’ requests not to be
 GPC is meant to be a legally-binding request to all companies in places with applicable privacy laws. For example, [the California Consumer Privacy Act](https://theccpa.org) gives California residents the right to opt out of having their data sold. By sending the GPC signal, Privacy Badger is telling companies that you would like to exercise your rights.
 
 The CCPA and other laws are [not perfect](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), which is why Privacy Badger uses both approaches. It asks websites to respect your privacy, and it blocks known trackers from loading at all.
-
-You can learn more about GPC and your rights [here](https://globalprivacycontrol.org/).
