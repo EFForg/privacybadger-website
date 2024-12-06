@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2024-12-06 15:32+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.9-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-12-05 13:39-0500\n"
+"PO-Revision-Date: 2024-12-06 15:32+0000\n"
+"Last-Translator: AO Localisation Lab <ao@localizationlab.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -575,9 +586,3 @@ msgstr "Pour obtenir de l’aide ou signaler des bogues, envoyez-nous un courrie
 #, no-wrap
 msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
 msgstr "Vous pouvez aussi nous trouver sur [Mastodon](https://mastodon.social/@privacybadger) et [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, no-wrap
-msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox, or \"read and change all your data on the websites you visit\" in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
-msgstr "Lors de l’installation de Privacy Badger, votre navigateur vous avertit que Privacy Badger peut « accéder à vos données pour tous les sites Web » (dans Firefox) ou « lire et modifier toutes vos données sur tous les sites Web » (dans Chrome), de quoi s’inquiéter. Vous ne devriez installer que des extensions créées par des organismes en qui vous avez confiance.\n"
