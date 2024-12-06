@@ -3,7 +3,7 @@ question: '¿Por qué Privacy Badger necesita acceder a mis datos para todos los
 weight: 270
 ---
 
-Cuando instalas Privacy Badger, tu navegador te advierte de que puede "acceder a tus datos para todos los sitios web" (en Firefox, o "leer y cambiar todos tus datos en los sitios web que visitas" en Chrome). Hace bien en alarmarse. Sólo deberías instalar extensiones hechas por organizaciones en las que confíes.
+Cuando instalas Privacy Badger, tu navegador te advierte de que puede "acceder a tus datos para todos los sitios web" (en Firefox), o "leer y cambiar todos tus datos en los sitios web que visitas" (en Chrome). Hace bien en alarmarse. Sólo deberías instalar extensiones hechas por organizaciones en las que confíes.
 
 Privacy Badger requiere estos permisos para hacer su trabajo de detectar y bloquear automáticamente los rastreadores en todos los sitios web que usted visita. No estamos espiando irónicamente (o no). Para obtener más información, consulte nuestra [explicación de los permisos de la extensión Privacy Badger](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).
 
