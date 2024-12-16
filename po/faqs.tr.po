@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2024-12-05 13:39-0500\n"
-"PO-Revision-Date: 2024-11-27 15:10+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\n"
-"Language: tr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2024-12-17 10:00+0000\nLast-Translator: yasir <yasir1742@gmail.com>\nLanguage-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -27,19 +16,19 @@ msgstr "Privacy Badger nedir?"
 #: content/en/faqs/What-is-Privacy-Badger.md
 #, no-wrap
 msgid "Privacy Badger is a browser extension that stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web.  If an advertiser seems to be tracking you across multiple websites without your permission, Privacy Badger automatically blocks that advertiser from loading any more content in your browser.  To the advertiser, it's like you suddenly disappeared.\n"
-msgstr ""
+msgstr "Privacy Badger internette nereye gittiğiniz ve hangi sayfalara baktığınızı gizlice takip eden reklamcı ve üçüncü parti takipçilerini durduran bir tarayıcı eklentisidir. Eğer bir reklamcı izniniz olmadan sizi birden fazla site arasında takip ediyorsa, Privacy Badger otomatik olarak tarayıcınızda o reklamcının daha fazla içerik yüklemesini engeller. Reklamcı için sanki aniden yok olmuşsunuz gibi olur.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "How is Privacy Badger different from other blocking extensions?"
-msgstr ""
+msgstr "Privacy Badger'ın diğer engelleme eklentilerinden farkı nedir?"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "Privacy Badger was born out of our desire to be able to recommend a single extension that would:\n"
-msgstr ""
+msgstr "Privacy Badger şunları sağlayacak tek eklenti olmak için doğdu:\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -49,25 +38,25 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr ""
+msgstr "- Kullanıcı onayını ihlal eden reklam ya da takipçileri otomatik olarak analiz edip engelleme\n- Kullanıcı tarafından bir ayar, bilgi ya da konfigürasyon olmadan çalışabilme\n- Neyin takipçi olup olmadığına karar vermek için algoritmik yöntemler kullanma\n- Kâr amacı gütmek yerine açıkça kullanıcıları için çalışan bir kuruluş olma\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "As a result, Privacy Badger differs from traditional ad-blocking extensions in two key ways. First, while most other blocking extensions prioritize blocking ads, Privacy Badger doesn't block ads unless they happen to be tracking you; in fact, one of our goals is to incentivize advertisers to adopt better privacy practices.\n"
-msgstr ""
+msgstr "Sonuç olarak, Privacy badger geleneksel reklam engelleme eklentilerinden iki yönden ayrılır. Birincisi, diğer çoğu engelleyici eklentiler reklamları öncelerken, Privacy Badger sizi takip etmediği sürece reklamları engellemez; gerçekte, amacımız reklamverenleri daha iyi mahremiyet pratiklerine itmeye teşvik etmeyi hedefleriz.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "Second, most other blockers rely on a human-curated list of domains or URLs to block. Privacy Badger is an algorithmic tracker blocker -- we define what “tracking” looks like, and then Privacy Badger blocks or restricts domains that it observes tracking in the wild. What is and isn’t considered a tracker is entirely based on how a specific domain acts, not on human judgment.\n"
-msgstr ""
+msgstr "İkincisi, diğer çoğu engelleyiciler insan tarafından belirlenmiş alan adı ya da URL adresi listesine göre engelleme yapar. Privacy Badger bir algoritmik takipçi engelleyicidir -- neyin \"takip etme\" olduğunu belirleriz, ardından Privacy Badger vahşi doğada sizi gözetleyen takipçileri engeller ya da kısıtlar.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "Privacy Badger sends the [Global Privacy Control](https://globalprivacycontrol.org/) signal to opt you out of data sharing and selling, and the [Do Not Track](https://www.eff.org/issues/do-not-track) signal to tell companies not to track you. If trackers ignore these signals, Privacy Badger will learn to block them.\n"
-msgstr ""
+msgstr "Privacy Badger sizi veri paylaşımı ve satışlarının dışında tutmak için [Global Privacy Control](https://globalprivacycontrol.org/) sinyalini gönderir, ve şirketlere sizi takip etmemelerini söylemek için [Do Not Track](https://www.eff.org/issues/do-not-track) sinyalini gönderir. Eğer takipçiler bu sinyalleri görmezden gelirse, Privacy Badger onları engellemeyi öğrenecektir.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -79,7 +68,7 @@ msgstr ""
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, no-wrap
 msgid "By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
-msgstr ""
+msgstr "Privacy Badger kullanarak [Electronic Frontier Foundation](https://www.eff.org/)'a destek olur ve herkes için daha iyi bir internet için mücadele etmeye destek yardım etmiş olursunuz.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-work.md
