@@ -1,5 +1,5 @@
 ---
-question: 'Privacy Badger considère-t-elle chaque témoin comme un témoin traqueur ?'
+question: 'Privacy Badger considère-t-elle chaque témoin comme un témoin traceur ?'
 weight: 120
 ---
 
