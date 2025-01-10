@@ -6,7 +6,7 @@ weight: 10
 Privacy Badger est née de notre volonté de recommander une seule extension qui peut :
 
 - Analyse et bloque automatiquement tout traceur ou toute publicité qui ne respecte pas le principe du consentement de l’utilisateur.
-- Fonctionne bien sans réglage, connaissance ni configuration de la part de l’utilisateur.
+- Fonctionne bien sans réglage, connaissance, ni configuration de la part de l’utilisateur.
 - Utilise des méthodes algorithmiques afin de décider ce qui ou n’est pas un pistage.
 - Est offerte par un organisme qui travaille sans ambigüité pour ses utilisateurs et non pour le profit.
 
