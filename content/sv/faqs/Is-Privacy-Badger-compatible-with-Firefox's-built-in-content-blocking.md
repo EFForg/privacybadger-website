@@ -1,0 +1,10 @@
+---
+question: 'Är Privacy Badger kompatibel med de inbyggda integritetsskydden i Firefox?'
+weight: 250
+---
+
+Det går bra att använda Firefox inbyggda innehållsblockering ([Enhanced Tracking Protection](https://blog.mozilla.org/en/products/firefox/firefox-now-available-with-enhanced-tracking-protection-by-default/) eller ETP) och Privacy Badger tillsammans. Även om det finns överlapp mellan Firefox spårningslistor och Privacy Badger, lär sig Privacy Badger automatiskt att blockera spårare baserat på deras beteende. Detta innebär att Privacy Badgers automatiskt genererade och regelbundet uppdaterade blockeringslista innehåller spårare som inte innefattas i de humangenererade listor som återfinns i Firefox. Dessutom blockerar [Firefox inte helt ”spårningsinnehåll”](https://support.mozilla.org/sv/kb/forbattrat-sparningsskydd-firefox-datorer#w_vad-blockerar-forbattrat-sparningsskydd) i vanliga (icke ”privata”)-fönster som standard.
+
+Hur är det med Firefox [Total Cookie Protection](https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/) (dynamisk förstapartsisolering eller dFPI)? Total Cookie Protection fungerar genom att hålla tredjepartskakor isolerade till den webbplats de skapades på. Om blockeringen avaktiveras kan spårare dock fortfarande använda tekniker som [synkronisering av förstapartskakor](https://arxiv.org/abs/2208.12370) och [fingeravtryck av webbläsare](https://securehomes.esat.kuleuven.be/~gacar/persistent/). De kan spåra din IP-adress, eller så kan de använda en kombination av dessa tekniker. Spårare [samlar in känslig information](https://freedom-to-tinker.com/2020/07/14/can-the-exfiltration-of-personal-data-by-web-trackers-be-stopped/) och [fungerar som vektorer för skadlig kod](https://en.wikipedia.org/wiki/Malvertising). För att inte tala om oblockerade spårare som saktar ner webbplatser och slösar bort din bandbredd.
+
+Tänk på att Privacy Badger [inte bara är en spårningsblockerare](#How-is-Privacy-Badger-different-from-Disconnect%2c-Adblock-Plus%2c-Ghostery%2c-and-other-blocking-extensions).
