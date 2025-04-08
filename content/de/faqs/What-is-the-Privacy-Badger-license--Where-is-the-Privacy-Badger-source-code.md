@@ -1,5 +1,5 @@
 ---
-question: 'Wie lautet die Lizenz von Privacy Badger? Wo ist der Privacy Badger Quellcode?'
+question: 'Wie lautet die Lizenz von Privacy Badger? Wo ist der Privacy Badger-Quellcode?'
 weight: 200
 ---
 
