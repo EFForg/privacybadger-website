@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2025-04-07 20:45+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2025-04-10 10:19+0000\nLast-Translator: Marcus skoding <ggd7cnc9m@mozmail.com>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -358,7 +358,7 @@ msgstr "Var kan jag hitta allmän information om Privacy Badger som jag kan anv�
 #: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
 msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
-msgstr ""
+msgstr "Kul att du frågar! Ta en titt på detta [nedladdningsbara press-kit](/files/pb_journalist_1_pager.pdf) som vi satt samman.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/admin-deployment-and-configuration.md
