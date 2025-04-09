@@ -1,0 +1,23 @@
+name: Build and lint
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: |
+          sed -i -n '/FROM conex.eff.org/q;p' Dockerfile
+          docker build -q -t app .
+
+      - name: Run lint
+        run: docker run app npm run lint
