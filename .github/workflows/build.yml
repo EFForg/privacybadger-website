@@ -18,8 +18,8 @@ jobs:
 
       - name: Build Docker image
         run: |
-          docker build -q -t app .
           sed -i -n '/FROM conex.eff.org/q;p' Dockerfile
+          docker build -q -t app .
 
       - name: Run lint 
         run: docker run app npm run lint
