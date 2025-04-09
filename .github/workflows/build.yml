@@ -1,25 +1,18 @@
-name: Build
+name: Build and lint
 
-on:
-  push:
-    branches:
-      - master
-      - github-actions
-  pull_request:
-  workflow_dispatch:
+on: [pull_request, push, workflow_dispatch]
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Build Docker image
         run: |
           sed -i -n '/FROM conex.eff.org/q;p' Dockerfile
           docker build -q -t app .
 
-      - name: Run lint 
+      - name: Run lint
         run: docker run app npm run lint

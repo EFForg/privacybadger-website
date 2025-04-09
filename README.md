@@ -18,7 +18,7 @@ Thank you for your interest in translating the Privacy Badger website! Translati
 2. Install node and npm. Run `npm install` to get the node dependencies.
 3. Run `hugo serve`.
 
-See also our [Dockerfile](/Dockerfile) and [Travis config](/.travis.yml) for how we get set up on Docker and Travis.
+See also our [Dockerfile](/Dockerfile) and [GitHub Actions config](/.github/workflows/build.yml).
 
 ## Content authoring
 
