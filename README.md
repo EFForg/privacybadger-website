@@ -4,7 +4,7 @@ Code and content of <https://privacybadger.org>.
 
 ## Translating
 
-Thank you for your interest in translating the Privacy Badger website! Translations are handled in [Weblate](https://weblate.org/).
+Thank you for your interest in translating the Privacy Badger website! Translations are handled in [Weblate](https://hosted.weblate.org/projects/privacy-badger/).
 
 > [!IMPORTANT]
 > EFF wants to be sure that our translators make informed consent regarding registering with Weblate. Before you register, please review [Weblate's Terms and Privacy Policy](https://weblate.org/en/terms/) and note that any legal dispute with Weblate would be under Czech Republic law, and must be resolved in a Czech court.
