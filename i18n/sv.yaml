@@ -2,7 +2,7 @@ privacyBadgerLearns:
   other: "Privacy Badger är ett webbläsartillägg som automatiskt lär sig att blockera osynliga spårare."
 
 installForBrowser:
-  other: "Addera till {{.Browser}}"
+  other: "Lägg till i {{.Browser}}"
 
 browserNotSupported:
   other: "Browser stödjs ej"
@@ -47,7 +47,7 @@ issues:
   other: "Ämnen"
 
 ourWork:
-  other: "Vårat jobb"
+  other: "Vårt jobb"
 
 takeAction:
   other: "Agera"
