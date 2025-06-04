@@ -6,7 +6,7 @@
       {{ partial "header" . }}
       <div class="main-content home-page">
         {{ partial "language-switcher" . }}
-        <div id="badger-description">{{ i18n "privacyBadgerLearns" }}</div>
+        <div id="badger-description">{{ i18n "privacyBadgerLearns" | safeHTML }}</div>
         {{ partial "download" . }}
         {{ partial "faq" . }}
       </div>

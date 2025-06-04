@@ -1,5 +1,5 @@
 privacyBadgerLearns:
-  other: "Privacy Badger — это расширение для браузера, которое автоматически учится блокировать невидимые трекеры."
+  other: "Privacy Badger — это бесплатное расширение для браузера, сделанное ведущей некоммерческой группой <a href='https://www.eff.org/'>EFF</a>, чтобы остановить веб-отслеживание."
 
 installForBrowser:
   other: "Добавить в {{.Browser}}"
