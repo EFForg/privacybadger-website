@@ -1,5 +1,5 @@
 privacyBadgerLearns:
-  other: "Privacy Badger est une extension pour navigateurs qui apprend automatiquement à bloquer les traceurs invisibles."
+  other: "Privacy Badger est une extension pour navigateurs gratuite créée par la <a href='https://www.eff.org/'>FFÉ</a>, le principal organisme sans but lucratif de défense des droits numériques, pour empêcher les entreprises de vous espionner sur Internet."
 
 installForBrowser:
   other: "Ajouter à {{.Browser}}"
