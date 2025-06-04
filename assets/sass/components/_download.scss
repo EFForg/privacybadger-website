@@ -5,7 +5,11 @@
   font-weight: 300;
   text-align: center;
   margin: 0 auto;
-  max-width: 580px;
+}
+
+#badger-description a {
+  font-weight: bolder;
+  text-decoration: none;
 }
 
 #browser-not-supported {
