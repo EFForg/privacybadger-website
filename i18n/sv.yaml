@@ -1,5 +1,5 @@
 privacyBadgerLearns:
-  other: "Privacy Badger är ett webbläsartillägg som automatiskt lär sig att blockera osynliga spårare."
+  other: "Privacy Badger är ett gratis webbläsartillägg skapat av den ledande ideella organisationen för digitala rättigheter <a href='https://www.eff.org/'>EFF</a> för att hindra företag från att spionera på dig på nätet."
 
 installForBrowser:
   other: "Lägg till i {{.Browser}}"
