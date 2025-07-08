@@ -9,7 +9,10 @@
 
 #badger-description a {
   font-weight: bolder;
-  text-decoration: none;
+
+  &:visited {
+    color: $medium-blue;
+  }
 }
 
 #browser-not-supported {
