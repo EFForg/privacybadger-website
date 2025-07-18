@@ -40,21 +40,6 @@ altInstall:
 language:
   other: Språk
 
-about:
-  other: "Om"
-
-issues:
-  other: "Ämnen"
-
-ourWork:
-  other: "Vårt jobb"
-
-takeAction:
-  other: "Agera"
-
-tools:
-  other: "Verktyg"
-
 donate:
   other: "Donera"
 

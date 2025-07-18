@@ -40,21 +40,6 @@ altInstall:
 language:
   other: "Язык"
 
-about:
-  other: "О нас"
-
-issues:
-  other: "Задачи"
-
-ourWork:
-  other: "Наше дело"
-
-takeAction:
-  other: "Действуйте"
-
-tools:
-  other: "Инструменты"
-
 donate:
   other: "Пожертвуйте"
 

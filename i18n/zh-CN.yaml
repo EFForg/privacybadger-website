@@ -40,21 +40,6 @@ altInstall:
 language:
   other: 语言
 
-about:
-  other: "关于"
-
-issues:
-  other: "问题"
-
-ourWork:
-  other: "我们的工作"
-
-takeAction:
-  other: "采取行动"
-
-tools:
-  other: "工具"
-
 donate:
   other: "捐款"
 

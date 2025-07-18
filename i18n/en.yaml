@@ -40,21 +40,6 @@ altInstall:
 language:
   other: "Language"
 
-about:
-  other: "About"
-
-issues:
-  other: "Issues"
-
-ourWork:
-  other: "Our Work"
-
-takeAction:
-  other: "Take Action"
-
-tools:
-  other: "Tools"
-
 donate:
   other: "Donate"
 
