@@ -37,6 +37,10 @@ $header-font-color: rgba(0, 0, 0, 0.69);
     padding: 0;
     text-align: center;
 
+    &:hover {
+      border: 3px solid rgba(236,30,30,0.8);
+    }
+
     a {
       text-decoration: none;
       color: $eff-red;
@@ -49,6 +53,11 @@ $header-font-color: rgba(0, 0, 0, 0.69);
 
       &:hover, &:active, &:focus {
         color: $eff-red;
+      }
+
+      &:hover {
+        background-color: rgba(236,30,30,0.8);
+        color: white;
       }
     }
   }
