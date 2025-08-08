@@ -6,24 +6,24 @@
 </div>
 
 <div id="active-browser">
-  {{ range $browser, $url := $.Site.Data.browsers }}
-    <div class="active-browser {{ urlize $browser }}" style="display:none">
-      <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg" height=45 alt="">
+  {{ range $.Site.Data.browsers.browserArray }}
+    <div class="active-browser {{ urlize .name }}" style="display:none">
+      <a href={{.url}}>
+        <img src="/images/{{ urlize .name }}.svg" height=45 alt="">
         <br>
-        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
+        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace (.name | title) " " "")))) }}
       </a>
     </div>
   {{ end }}
 </div>
 
 <div id="supported-browsers">
-  {{ range $browser, $url := $.Site.Data.browsers }}
-    <div class="other-browser {{ urlize $browser }}">
-      <a href={{$url}}>
-        <img src="/images/{{ urlize $browser }}.svg" height=35 alt="">
+  {{ range $.Site.Data.browsers.browserArray }}
+    <div class="other-browser {{ urlize .name }}">
+      <a href={{.url}}>
+        <img src="/images/{{ urlize .name }}.svg" height=35 alt="">
         <br>
-        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace ($browser | title) " " "")))) }}
+        {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace (.name | title) " " "")))) }}
       </a>
     </div>
   {{ end }}
