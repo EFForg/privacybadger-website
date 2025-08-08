@@ -1,5 +1,23 @@
-Chrome = "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp"
-Firefox = "https://addons.mozilla.org/firefox/downloads/latest/privacy-badger17/"
-"Firefox on Android" = "https://addons.mozilla.org/android/addon/privacy-badger17/"
-Opera = "https://addons.opera.com/en/extensions/details/privacy-badger"
-"Microsoft Edge" = "https://microsoftedge.microsoft.com/addons/detail/mkejgcgkdlddbggjhhflekkondicpnop"
+[[browserArray]]
+name = "Chrome"
+url = "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp"
+
+[[browserArray]]
+name = "Firefox"
+url = "https://addons.mozilla.org/firefox/downloads/latest/privacy-badger17/"
+
+[[browserArray]]
+name = "Firefox on Android"
+url = "https://addons.mozilla.org/android/addon/privacy-badger17/"
+
+[[browserArray]]
+name = "Microsoft Edge"
+url = "https://microsoftedge.microsoft.com/addons/detail/mkejgcgkdlddbggjhhflekkondicpnop"
+
+[[browserArray]]
+name = "Edge on Android"
+url = "https://microsoftedge.microsoft.com/addons/detail/mkejgcgkdlddbggjhhflekkondicpnop"
+
+[[browserArray]]
+name = "Opera"
+url = "https://addons.opera.com/en/extensions/details/privacy-badger"

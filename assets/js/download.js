@@ -12,6 +12,9 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/OPR|opera/i)) {
       browser = 'opera';
     }
+    else if (navigator.userAgent.match(/chrome\/.+edga\//i)) {
+      browser = 'edge-on-android';
+    }
     else if (navigator.userAgent.match(/android/i)) {
       browser = 'other';
     }

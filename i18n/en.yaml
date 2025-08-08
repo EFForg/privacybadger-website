@@ -25,6 +25,9 @@ browserNameFirefoxonAndroid:
 browserNameMicrosoftEdge:
   other: "Edge"
 
+browserNameEdgeonAndroid:
+  other: "Edge on Android"
+
 browserNameOpera:
   other: "Opera"
 
