@@ -25,6 +25,9 @@ browserNameFirefoxonAndroid:
 browserNameMicrosoftEdge:
   other: "Edge"
 
+browserNameEdgeonAndroid:
+  other: Edge para Android
+
 browserNameOpera:
   other: "Opera"
 
@@ -48,5 +51,3 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Volver a las preguntas ▲"
-browserNameEdgeonAndroid:
-  other: Edge para Android

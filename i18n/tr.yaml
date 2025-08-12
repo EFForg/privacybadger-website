@@ -1,36 +1,53 @@
 privacyBadgerLearns:
   other: Privacy Badger, görünmez izleyicileri engellemeyi otomatik olarak öğrenen bir tarayıcı uzantısıdır.
+
 installForBrowser:
   other: "{{.Browser}}'a Ekle"
+
 browserNotSupported:
   other: Tarayıcı Desteklenmiyor
+
 notSupportedInThisBrowser:
   other: Privacy Badger bu tarayıcıda desteklenmiyor
+
 moreInfo:
   other: daha fazla bilgi
+
 browserNameChrome:
   other: Chrome
+
 browserNameFirefox:
   other: Firefox
+
 browserNameFirefoxonAndroid:
   other: Android için Firefox
+
 browserNameMicrosoftEdge:
   other: Edge
-browserNameOpera:
-  other: Opera
-releaseNotes:
-  other: '{{.Version}} için sürüm notları'
-otherBrowsers:
-  other: Diğer tarayıcılar
-altInstall:
-  other: Alternatif kurulum seçenekleri
-language:
-  other: Dil
-donate:
-  other: Bağış Yap
-FrequentlyAskedQuestions:
-  other: Sık Sorulan Sorular
-backToQuestions:
-  other: Sorulara geri dön ▲
+
 browserNameEdgeonAndroid:
   other: Android için Edge
+
+browserNameOpera:
+  other: Opera
+
+releaseNotes:
+  other: '{{.Version}} için sürüm notları'
+
+otherBrowsers:
+  other: Diğer tarayıcılar
+
+altInstall:
+  other: Alternatif kurulum seçenekleri
+
+language:
+  other: Dil
+
+donate:
+  other: Bağış Yap
+
+FrequentlyAskedQuestions:
+  other: Sık Sorulan Sorular
+
+backToQuestions:
+  other: Sorulara geri dön ▲
