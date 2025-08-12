@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 14:45-0400\n"
-"PO-Revision-Date: 2025-06-17 19:05+0000\n"
-"Last-Translator: Alexei <alexei@eff.org>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.12.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-08-12 14:45-0400\nPO-Revision-Date: 2025-08-12 19:02+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\nLanguage: ru\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\nX-Generator: Weblate 5.13-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -227,7 +216,7 @@ msgstr "В настоящее время Privacy Badger в первую очер
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
 #, no-wrap
 msgid "We are doing things in this order because the most scandalous, intrusive and objectionable form of online tracking is that conducted by companies you've [often never heard of](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) and have no relationship with. First and foremost, Privacy Badger is there to enforce Do Not Track against these domains by providing the technical means to restrict access to their tracking scripts and images. The right policy for whether nytimes.com, facebook.com or google.com can track you _when you visit that site_ – and the technical task of preventing it – is more complicated because often tracking is interwoven with the features the site offers.\n"
-msgstr "Мы действуем в таком порядке, потому что наиболее скандальной, навязчивой и неприемлемой формой онлайн-отслеживания является отслеживание, осуществляемое компаниями, о которых вы [часто никогда не слышали](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) и с которыми у вас нет никаких отношений. Прежде всего, Privacy Badger предназначен для обеспечения соблюдения принципа «Do Not Track» в отношении этих доменов, предоставляя технические средства для ограничения доступа к их скриптам и изображениям отслеживания. Правильная политика в отношении того, могут ли nytimes.com, facebook.com или google.com отслеживать вас, когда вы посещаете этот сайт, а также техническая задача по предотвращению этого, являются более сложными, поскольку отслеживание часто переплетается с функциями, которые предлагает сайт.\n"
+msgstr "Мы действуем в таком порядке, потому что наиболее скандальной, навязчивой и неприемлемой формой онлайн-отслеживания является отслеживание, осуществляемое компаниями, о которых вы [часто никогда не слышали](https://lumapartners.com/content/lumascapes/display-ad-tech-lumascape/) и с которыми у вас нет никаких отношений. Прежде всего, Privacy Badger предназначен для обеспечения соблюдения принципа «Do Not Track» в отношении этих доменов, предоставляя технические средства для ограничения доступа к их скриптам и изображениям отслеживания. Правильная политика в отношении того, могут ли nytimes.com, facebook.com или google.com отслеживать вас, _когда вы посещаете этот сайт_, а также техническая задача по предотвращению этого, являются более сложными, поскольку отслеживание часто переплетается с функциями, которые предлагает сайт.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
@@ -303,10 +292,9 @@ msgstr "Chrome для Android не поддерживает расширения
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+#, no-wrap
 msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
-msgstr "Privacy Badger не работает в браузере [Microsoft Edge Legacy](https://support.microsoft.com/ru-ru/microsoft-edge/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Пожалуйста, перейдите на новый браузер [Microsoft Edge](https://www.microsoft.com/ru-ru/edge). Обратите внимание, что Microsoft Edge не поддерживает расширения на мобильных устройствах.\n"
+msgstr "Privacy Badger не работает в браузере [Microsoft Edge Legacy](https://support.microsoft.com/ru-ru/microsoft-edge/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D1%83%D1%81%D1%82%D0%B0%D1%80%D0%B5%D0%B2%D1%88%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80%D0%B0-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Пожалуйста, перейдите на новый браузер [Microsoft Edge](https://www.microsoft.com/ru-ru/edge).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
@@ -352,7 +340,7 @@ msgstr "Один из способов — прекратить отслежив
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr "Вы также можете разблокировать себя, пообещав соблюдать сигнал «Do Not Track». Для этого разместите дословную копию [политики EFF «Do Not Track»](https://www.eff.org/dnt-policy) по URL-адресу https://example.com/.well-known/dnt-policy.txt, где «example.com» заменяется вашим доменом. Размещение политики EFF DNT на домене является обещанием соблюдения политики EFF DNT этим доменом.\n"
+msgstr "Вы также можете разблокировать себя, пообещав соблюдать сигнал «Do Not Track». Для этого разместите _дословную_ копию [политики EFF «Do Not Track»](https://www.eff.org/dnt-policy) по URL-адресу https://example.com/.well-known/dnt-policy.txt, где «example.com» заменяется вашим доменом. Размещение политики EFF DNT на домене является обещанием соблюдения политики EFF DNT этим доменом.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
