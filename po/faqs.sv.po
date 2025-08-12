@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 14:45-0400\n"
-"PO-Revision-Date: 2025-04-10 10:19+0000\n"
-"Last-Translator: Marcus skoding <ggd7cnc9m@mozmail.com>\n"
-"Language-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-08-12 14:45-0400\nPO-Revision-Date: 2025-08-12 19:02+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.13-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -303,10 +292,9 @@ msgstr "Chrome på Android har inte stöd för tillägg. Om du vill använda Pri
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+#, no-wrap
 msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
-msgstr "Privacy Badger fungerar inte med [Microsoft Edge Legacy](https://support.microsoft.com/sv-se/microsoft-edge/vad-%C3%A4r-tidigare-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Vänligen byt till den nya webbläsaren [Microsoft Edge](https://www.microsoft.com/sv-se/edge). Observera att Microsoft Edge inte stöder tillägg på mobila enheter.\n"
+msgstr "Privacy Badger fungerar inte med [Microsoft Edge Legacy](https://support.microsoft.com/sv-se/microsoft-edge/vad-%C3%A4r-tidigare-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Vänligen byt till den nya webbläsaren [Microsoft Edge](https://www.microsoft.com/sv-se/edge).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Can-I-download-Privacy-Badger-directly-from-eff.org.md
