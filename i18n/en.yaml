@@ -20,13 +20,13 @@ browserNameFirefox:
   other: "Firefox"
 
 browserNameFirefoxonAndroid:
-  other: "Firefox on Android"
+  other: "Firefox for Android"
 
 browserNameMicrosoftEdge:
   other: "Edge"
 
 browserNameEdgeonAndroid:
-  other: "Edge on Android"
+  other: "Edge for Android"
 
 browserNameOpera:
   other: "Opera"
