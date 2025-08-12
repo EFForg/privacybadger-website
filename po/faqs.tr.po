@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2024-12-17 10:00+0000\nLast-Translator: yasir <yasir1742@gmail.com>\nLanguage-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\nLanguage: tr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.9\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-08-12 14:45-0400\n"
+"PO-Revision-Date: 2024-12-17 10:00+0000\n"
+"Last-Translator: yasir <yasir1742@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/tr/>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.9\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -38,7 +49,11 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr "- Kullanıcı onayını ihlal eden reklam ya da takipçileri otomatik olarak analiz edip engelleme\n- Kullanıcı tarafından bir ayar, bilgi ya da konfigürasyon olmadan çalışabilme\n- Neyin takipçi olup olmadığına karar vermek için algoritmik yöntemler kullanma\n- Kâr amacı gütmek yerine açıkça kullanıcıları için çalışan bir kuruluş olma\n"
+msgstr ""
+"- Kullanıcı onayını ihlal eden reklam ya da takipçileri otomatik olarak analiz edip engelleme\n"
+"- Kullanıcı tarafından bir ayar, bilgi ya da konfigürasyon olmadan çalışabilme\n"
+"- Neyin takipçi olup olmadığına karar vermek için algoritmik yöntemler kullanma\n"
+"- Kâr amacı gütmek yerine açıkça kullanıcıları için çalışan bir kuruluş olma\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -289,7 +304,7 @@ msgstr ""
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
-msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question

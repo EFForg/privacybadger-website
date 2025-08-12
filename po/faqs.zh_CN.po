@@ -4,7 +4,18 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2024-12-06 15:32+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\nLanguage: zh_CN\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.9-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-08-12 14:45-0400\n"
+"PO-Revision-Date: 2024-12-06 15:32+0000\n"
+"Last-Translator: Alexei <alexei@eff.org>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/zh_Hans/>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -38,7 +49,11 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr "- 个能够自动分析并阻止任何违反用户同意原则的追踪器或广告的扩展\n- 它能够在不需要用户进行任何设置、了解或配置的情况下很好地发挥作用\n- 它使用算法来决定是或不是追踪\n- 它是由一个毫不含糊地为用户而不是为营利工作的组织生产的\n"
+msgstr ""
+"- 个能够自动分析并阻止任何违反用户同意原则的追踪器或广告的扩展\n"
+"- 它能够在不需要用户进行任何设置、了解或配置的情况下很好地发挥作用\n"
+"- 它使用算法来决定是或不是追踪\n"
+"- 它是由一个毫不含糊地为用户而不是为营利工作的组织生产的\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -291,7 +306,7 @@ msgstr "Android上的Chrome不支持扩展功能。要在Android上使用隐私�
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, fuzzy, no-wrap
 #| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
-msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
 msgstr "隐私獾不适用于[旧版Microsoft Edge](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy)。请切换到新的[Microsoft Edge](https://www.microsoft.com/en-us/edge)浏览器。\n"
 
 #. type: YAML Front Matter: question

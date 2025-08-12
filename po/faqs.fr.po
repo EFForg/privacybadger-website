@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2024-12-05 13:39-0500\nPO-Revision-Date: 2025-01-11 03:36+0000\nLast-Translator: AO Localisation Lab <ao@localizationlab.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 5.10-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2025-08-12 14:45-0400\n"
+"PO-Revision-Date: 2025-01-11 03:36+0000\n"
+"Last-Translator: AO Localisation Lab <ao@localizationlab.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -38,7 +49,11 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr "- Analyse et bloque automatiquement tout traceur ou toute publicité qui ne respecte pas le principe du consentement de l’utilisateur.\n- Fonctionne bien sans réglage, connaissance, ni configuration de la part de l’utilisateur.\n- Utilise des méthodes algorithmiques afin de décider ce qui ou n’est pas un pistage.\n- Est offerte par un organisme qui travaille sans ambigüité pour ses utilisateurs et non pour le profit.\n"
+msgstr ""
+"- Analyse et bloque automatiquement tout traceur ou toute publicité qui ne respecte pas le principe du consentement de l’utilisateur.\n"
+"- Fonctionne bien sans réglage, connaissance, ni configuration de la part de l’utilisateur.\n"
+"- Utilise des méthodes algorithmiques afin de décider ce qui ou n’est pas un pistage.\n"
+"- Est offerte par un organisme qui travaille sans ambigüité pour ses utilisateurs et non pour le profit.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -288,8 +303,9 @@ msgstr "Sur Android, Chrome ne prend pas en charge les extensions. Pour utiliser
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, no-wrap
-msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+#, fuzzy, no-wrap
+#| msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser. Note that Microsoft Edge does not support extensions on mobile devices.\n"
+msgid "Privacy Badger does not work with [Microsoft Edge Legacy](https://support.microsoft.com/en-us/help/4533505/what-is-microsoft-edge-legacy). Please switch to the new [Microsoft Edge](https://www.microsoft.com/en-us/edge) browser.\n"
 msgstr "Privacy Badger ne fonctionne pas avec [l’ancienne version de Microsoft Edge](https://support.microsoft.com/fr-fr/microsoft-edge/qu-est-ce-que-l-ancienne-version-microsoft-edge-3e779e55-4c55-08e6-ecc8-2333768c0fb0). Utilisez plutôt la nouvelle version de [Microsoft Edge](https://www.microsoft.com/fr-fr/edge).\n"
 
 #. type: YAML Front Matter: question
