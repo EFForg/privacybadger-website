@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-12 14:45-0400\n"
+"POT-Creation-Date: 2025-08-26 13:12-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,6 +78,18 @@ msgstr ""
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
 #, markdown-text, no-wrap
 msgid "By using Privacy Badger, you support the [Electronic Frontier Foundation](https://www.eff.org/) and help fight for a better Web for everybody.\n"
+msgstr ""
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Who-makes-Privacy-Badger.md
+#, no-wrap
+msgid "Who makes Privacy Badger?"
+msgstr ""
+
+#. type: Plain text
+#: content/en/faqs/Who-makes-Privacy-Badger.md
+#, markdown-text, no-wrap
+msgid "Privacy Badger was created by the [Electronic Frontier Foundation](https://www.eff.org), a nonprofit organization that protects your privacy and free expression online. We make free tools like Privacy Badger, publish educational guides, testify before lawmakers about technology, and fight for the public interest in court—all thanks to support from EFF’s members. If you want a better internet and a strong democracy, [join the fight](https://supporters.eff.org/donate/support-privacy-badger) against creepy online surveillance.\n"
 msgstr ""
 
 #. type: YAML Front Matter: question
