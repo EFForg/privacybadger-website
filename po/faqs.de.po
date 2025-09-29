@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2025-08-26 13:12-0400\n"
+"POT-Creation-Date: 2025-09-29 10:33-0400\n"
 "PO-Revision-Date: 2025-08-12 19:02+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
@@ -428,8 +428,9 @@ msgstr "Vielen Dank für diese Frage! Spenden von Privatpersonen machen etwa die
 
 #. type: Plain text
 #: content/en/faqs/How-can-I-support-Privacy-Badger.md
-#, no-wrap
-msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md) for ways to get started.\n"
+#, fuzzy, no-wrap
+#| msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md) for ways to get started.\n"
+msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/.github/CONTRIBUTING.md) for ways to get started.\n"
 msgstr "Für direkte Mitarbeit an unserem Projekt sind wir ebenfalls sehr dankbar. Lies dazu bitte [Privacy Badger's CONTRIBUTING-Dokument](https://github.com/EFForg/privacybadger/blob/master/CONTRIBUTING.md).\n"
 
 #. type: YAML Front Matter: question
