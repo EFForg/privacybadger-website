@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-09-29 10:33-0400\nPO-Revision-Date: 2025-09-29 14:50+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-09-29 10:33-0400\nPO-Revision-Date: 2025-10-16 00:08+0000\nLast-Translator: Aitor Astorga <a.astorga.sdv@protonmail.com>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -76,16 +76,15 @@ msgstr "Al utilizar Privacy Badger, apoyas a la [Electronic Frontier Foundation]
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Who-makes-Privacy-Badger.md
-#, fuzzy, no-wrap
-#| msgid "What is Privacy Badger?"
+#, no-wrap
 msgid "Who makes Privacy Badger?"
-msgstr "¿Qué es Privacy Badger?"
+msgstr "¿Quién crea Privacy Badger?"
 
 #. type: Plain text
 #: content/en/faqs/Who-makes-Privacy-Badger.md
 #, no-wrap
 msgid "Privacy Badger was created by the [Electronic Frontier Foundation](https://www.eff.org), a nonprofit organization that protects your privacy and free expression online. We make free tools like Privacy Badger, publish educational guides, testify before lawmakers about technology, and fight for the public interest in court—all thanks to support from EFF’s members. If you want a better internet and a strong democracy, [join the fight](https://supporters.eff.org/donate/support-privacy-badger) against creepy online surveillance.\n"
-msgstr ""
+msgstr "Privacy Badger fue creado por la [Electronic Frontier Foundation](https://www.eff.org), una organización sin ánimo de lucro que protege tu privacidad y libertad de expresión en línea. Desarrollamos herramientas gratuitas como Privacy Badger, publicamos guías educativas, testificamos ante legisladores sobre tecnología y luchamos por el interés público en los tribunales, todo gracias al apoyo de miembros de la EFF. Si quieres un internet mejor y una democracia sólida, [únete a la lucha](https://supporters.eff.org/donate/support-privacy-badger) contra la espeluznante vigilancia en línea.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-work.md
