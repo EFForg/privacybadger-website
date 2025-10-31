@@ -21,7 +21,7 @@
   <div id="faq-body">
     {{ range sort $pages ".Params.weight" }}
       <h3 id="{{ .File.TranslationBaseName }}">
-        <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+        {{ .Params.question }}
       </h3>
       {{ .Content }}
     {{ end }}
