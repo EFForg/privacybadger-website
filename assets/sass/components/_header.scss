@@ -90,23 +90,24 @@ header {
   text-align: center;
   margin-bottom: 1em;
 
-  select {
-    appearance: none;
-    -webkit-appearance: none;
-    background-color: #fff;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-inline-start: 0.5em;
-    padding: 5px 25px 5px 10px;
-  }
-
-  label {
+  div.select-wrapper {
     position: relative;
+    display: inline-block;
+
+    select {
+      appearance: none;
+      -webkit-appearance: none;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-inline-start: 0.5em;
+      padding: 5px 25px 5px 10px;
+    }
 
     &:after {
       position: absolute;
       right: 10px;
-      top: 4px;
+      top: 11px;
       content: ' ';
       height: 0.5em;
       width: 0.5em;
