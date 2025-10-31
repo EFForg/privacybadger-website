@@ -1,11 +1,15 @@
 {{ if .Site.IsMultiLingual }}
 <div id="language-switcher">
-  {{ i18n "language" }}
-  <label><select onchange="window.location.href = '/' + (this.value == 'en' ? '' : (this.value + '/')) + (window.location.hash ? window.location.hash : '');">
+  <label for="language-select">
+    {{ i18n "language" }}
+  </label>
+  <div class="select-wrapper">
+  <select id="language-select" onchange="window.location.href = '/' + (this.value == 'en' ? '' : (this.value + '/')) + (window.location.hash ? window.location.hash : '');">
     {{- range .Site.Home.AllTranslations }}
     <option value="{{ .Language.Lang }}"{{ if (eq .Language $.Site.Language) }} selected{{ end }}>{{ .Language.LanguageName }}</option>
     {{- end }}
-  </select></label>
+  </select>
+  </div>
 </div>
 
 <noscript>
