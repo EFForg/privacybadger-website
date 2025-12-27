@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-09-29 10:33-0400\nPO-Revision-Date: 2025-10-13 23:07+0000\nLast-Translator: Mr-Update <mr.update@yahoo.de>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-09-29 10:33-0400\nPO-Revision-Date: 2025-12-28 11:00+0000\nLast-Translator: Mr-Update <mr.update@yahoo.de>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.15.1\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -84,7 +84,7 @@ msgstr "Wer entwickelt Privacy Badger?"
 #: content/en/faqs/Who-makes-Privacy-Badger.md
 #, no-wrap
 msgid "Privacy Badger was created by the [Electronic Frontier Foundation](https://www.eff.org), a nonprofit organization that protects your privacy and free expression online. We make free tools like Privacy Badger, publish educational guides, testify before lawmakers about technology, and fight for the public interest in court—all thanks to support from EFF’s members. If you want a better internet and a strong democracy, [join the fight](https://supporters.eff.org/donate/support-privacy-badger) against creepy online surveillance.\n"
-msgstr "Privacy Badger wurde von der [Electronic Frontier Foundation](https://www.eff.org) entwickelt, einer gemeinnützigen Organisation, die Ihre Privatsphäre und freie Meinungsäußerung im Internet schützt. Wir entwickeln kostenlose Tools wie Privacy Badger, veröffentlichen Leitfäden, sagen vor Gesetzgebern zum Thema Technologie aus und kämpfen vor Gericht für das öffentliche Interesse – all dies dank der Unterstützung der EFF-Mitglieder. Wenn Sie sich ein besseres Internet und eine starke Demokratie wünschen, [schließen Sie sich dem Kampf](https://supporters.eff.org/donate/support-privacy-badger) gegen unheimliche Online-Überwachung an.\n"
+msgstr "Privacy Badger wurde von der [Electronic Frontier Foundation](https://www.eff.org) entwickelt, einer gemeinnützigen Organisation, die deine Privatsphäre und freie Meinungsäußerung im Internet schützt. Wir entwickeln kostenlose Tools wie Privacy Badger, veröffentlichen Leitfäden, sagen vor Gesetzgebern zum Thema Technologie aus und kämpfen vor Gericht für das öffentliche Interesse – all dies dank der Unterstützung der EFF-Mitglieder. Wenn du dir ein besseres Internet und eine starke Demokratie wünschst, [schließe dich dem Kampf](https://supporters.eff.org/donate/support-privacy-badger) gegen unheimliche Online-Überwachung an.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-does-Privacy-Badger-work.md
@@ -186,7 +186,7 @@ msgstr "Was ist Global Privacy Control (GPC)?"
 #: content/en/faqs/What-is-Global-Privacy-Control.md
 #, no-wrap
 msgid "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) is a new specification that allows users to tell companies they'd like to opt out of having their data shared or sold. By default, Privacy Badger sends the GPC signal to every company you interact with alongside the Do Not Track (DNT) signal.\n"
-msgstr "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) ist eine neue Spezifikation, die es Nutzern ermöglicht, Unternehmen mitzuteilen, dass sie wünschen, dass ihre Daten nicht weitergegeben oder verkauft werden. Standardmäßig sendet Privacy Badger das GPC-Signal an jedes Unternehmen, mit dem du interagierst, zusammen mit dem Do Not Track (DNT)-Signal.\n"
+msgstr "[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) ist eine neue Spezifikation, mit der Nutzer Unternehmen mitteilen können, dass sie die Weitergabe oder den Verkauf ihrer Daten ablehnen. Standardmäßig sendet Privacy Badger das GPC-Signal zusammen mit dem Do Not Track (DNT)-Signal an jedes Unternehmen, mit dem du interagierst.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -222,7 +222,7 @@ msgstr "Was ist mit Tracking durch Webseiten, die ich aktiv besuche, wie NYTimes
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
 #, no-wrap
 msgid "At present, Privacy Badger primarily protects you against tracking by third party sites. As far as privacy protections for \"first party\" sites (sites that you visit directly), Privacy Badger removes outgoing link click tracking on [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) and [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). We plan on adding more first party privacy protections in the future.\n"
-msgstr "Gegenwärtig schützt dich Privacy Badger in erster Linie vor Tracking durch Seiten von Drittanbietern. Auf den \"Erstanbieter\"-Webseiten (Webseiten, die du direkt aufrufst) entfernt Privacy Badger das Tracking von ausgehenden Link-Klicks auf [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) und [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Wir planen, in Zukunft weitere Datenschutzmaßnahmen für Erstanbieter hinzuzufügen.\n"
+msgstr "Gegenwärtig schützt dich Privacy Badger in erster Linie vor Tracking durch Seiten von Drittanbietern. Auf den „Erstanbieter“-Webseiten (Webseiten, die du direkt aufrufst) entfernt Privacy Badger das Tracking von ausgehenden Link-Klicks auf [Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking) und [Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking). Wir planen, in Zukunft weitere Datenschutzmaßnahmen für Erstanbieter hinzuzufügen.\n"
 
 #. type: Plain text
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
@@ -246,7 +246,7 @@ msgstr "Anders als andere Blockier-Tools entscheiden wir nicht darüber, welche 
 #: content/en/faqs/Does-Privacy-Badger-contain-a-list-of-blocked-sites.md
 #, no-wrap
 msgid "Privacy Badger _does_ contain a \"[yellowlist](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" of some sites that are known to provide essential third party resources; those sites show up as yellow and have their cookies blocked rather than being blocked entirely. This is a compromise with practicality, and in the long term we hope to phase out the yellowlist as these third parties begin to [explicitly commit to respecting Do Not Track](https://www.eff.org/dnt-policy). The criteria for including a domain on the yellowlist can be [found here](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
-msgstr "Privacy Badger _enthält_ eine \"[gelbe Liste](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)\" mit einigen Webseiten, die dafür bekannt sind, wichtige Ressourcen von Drittanbietern zur Verfügung zu stellen. Diese Seiten erscheinen in gelb und deren Cookies werden anstelle der gesamten Seite blockiert. Dies ist ein praktischer Kompromiss und langfristig hoffen wir, die gelbe Liste abzuschaffen, wenn diese Drittanbieter beginnen, sich [explizit zur Einhaltung von Do Not Track zu verpflichten](https://www.eff.org/dnt-policy). Die Kriterien für die Aufnahme einer Domain in die gelbe Liste findest du [hier](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
+msgstr "Privacy Badger _enthält_ eine „[gelbe Liste](https://github.com/EFForg/privacybadger/blob/master/src/data/pbconfig.json)“ mit einigen Webseiten, die dafür bekannt sind, wichtige Ressourcen von Drittanbietern zur Verfügung zu stellen. Diese Seiten erscheinen in gelb und deren Cookies werden anstelle der gesamten Seite blockiert. Dies ist ein praktischer Kompromiss und langfristig hoffen wir, die gelbe Liste abzuschaffen, wenn diese Drittanbieter beginnen, sich [explizit zur Einhaltung von Do Not Track zu verpflichten](https://www.eff.org/dnt-policy). Die Kriterien für die Aufnahme einer Domain in die gelbe Liste findest du [hier](https://github.com/EFForg/privacybadger/blob/master/doc/yellowlist-criteria.md).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-was-the-cookie-blocking-yellowlist-created.md
@@ -282,7 +282,7 @@ msgstr "Betrachtet Privacy Badger jedes Cookie als Tracking-Cookie?"
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "No. Privacy Badger analyzes the cookies from each site; unique cookies that contain tracking IDs are disallowed, while \"low entropy\" cookies that perform other functions are allowed. For instance a cookie like LANG=fr that encodes the user's language preference, or a cookie that preserves a very small amount of information about ads the user has been shown, would be allowed provided that individual or small groups of users' reading habits could not be collected with them.\n"
-msgstr "Nein. Privacy Badger analysiert die Cookies von jeder Seite. Eindeutige Cookies, die Tracking-IDs enthalten, sind nicht erlaubt, während „Low Entropy“-Cookies, die auch andere Funktionen erfüllen, erlaubt sind. So wäre beispielsweise ein Cookie wie „LANG=fr“, das die Spracheinstellungen des Nutzers enthält, oder ein Cookie, das eine sehr kleine Menge an Daten über die dem Nutzer gezeigte Werbung enthält, erlaubt, sofern die Lesegewohnheiten einzelner Nutzer oder kleiner Gruppen von Nutzern damit nicht gesammelt werden können.\n"
+msgstr "Nein. Privacy Badger analysiert die Cookies von jeder Seite. Eindeutige Cookies, die Tracking-IDs enthalten, sind nicht erlaubt, während Cookies mit „geringer Entropie“, die auch andere Funktionen erfüllen, erlaubt sind. So wäre beispielsweise ein Cookie wie „LANG=fr“, das die Spracheinstellungen des Nutzers enthält, oder ein Cookie, das eine sehr kleine Menge an Daten über die dem Nutzer gezeigte Werbung enthält, erlaubt, sofern damit keine Lesegewohnheiten einzelner Nutzer oder kleiner Gruppen von Nutzern erfasst werden können.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
