@@ -3,7 +3,7 @@ question: 'Was ist Global Privacy Control (GPC)?'
 weight: 70
 ---
 
-[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) ist eine neue Spezifikation, die es Nutzern ermöglicht, Unternehmen mitzuteilen, dass sie wünschen, dass ihre Daten nicht weitergegeben oder verkauft werden. Standardmäßig sendet Privacy Badger das GPC-Signal an jedes Unternehmen, mit dem du interagierst, zusammen mit dem Do Not Track (DNT)-Signal.
+[Global Privacy Control (GPC)](https://globalprivacycontrol.org/) ist eine neue Spezifikation, mit der Nutzer Unternehmen mitteilen können, dass sie die Weitergabe oder den Verkauf ihrer Daten ablehnen. Standardmäßig sendet Privacy Badger das GPC-Signal zusammen mit dem Do Not Track (DNT)-Signal an jedes Unternehmen, mit dem du interagierst.
 
 Was ist der Unterschied? Do Not Track ist dafür vorgesehen, Unternehmen mitzuteilen, dass du auf keine Art und Weise getrackt werden möchtest (mehr Informationen, was wir mit „Tracking“ meinen, findest du [hier](https://www.eff.org/pages/understanding-effs-do-not-track-policy-universal-opt-out-tracking)). Privacy Badger gibt Drittanbietern die Möglichkeit, DNT einzuhalten, indem sie [unsere DNT-Richtlinie](https://www.eff.org/dnt-policy/) umsetzen, und blockiert diejenigen, die dich scheinbar dennoch tracken.
 
