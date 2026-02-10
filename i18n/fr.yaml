@@ -13,6 +13,9 @@ notSupportedInThisBrowser:
 moreInfo:
   other: plus de précisions
 
+browserNameBrave:
+  other: Brave
+
 browserNameChrome:
   other: Chrome
 
@@ -51,5 +54,3 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: Retourner aux questions ▲
-browserNameBrave:
-  other: Brave

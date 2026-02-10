@@ -13,6 +13,9 @@ notSupportedInThisBrowser:
 moreInfo:
   other: "更多信息"
 
+browserNameBrave:
+  other: Brave
+
 browserNameChrome:
   other: "Chrome"
 
@@ -48,5 +51,3 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "返回到问题 ▲"
-browserNameBrave:
-  other: Brave
