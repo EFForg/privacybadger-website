@@ -21,3 +21,7 @@ url = "https://edgemobileapp.microsoft.com/?adjustId=1qdwyl1o_1qk3iu43"
 [[browserArray]]
 name = "Opera"
 url = "https://addons.opera.com/en/extensions/details/privacy-badger"
+
+[[browserArray]]
+name = "Brave"
+url = "https://chromewebstore.google.com/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp"

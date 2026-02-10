@@ -13,6 +13,9 @@ notSupportedInThisBrowser:
 moreInfo:
   other: "more info"
 
+browserNameBrave:
+  other: "Brave"
+
 browserNameChrome:
   other: "Chrome"
 

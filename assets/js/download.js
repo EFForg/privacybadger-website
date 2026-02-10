@@ -9,6 +9,9 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/Firefox/i)) {
       browser = 'firefox';
     }
+    else if (navigator.brave && navigator.brave.isBrave()) {
+      browser = 'brave';
+    }
     else if (navigator.userAgent.match(/OPR|opera/i)) {
       browser = 'opera';
     }
