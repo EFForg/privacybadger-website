@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: '¿Cómo maneja Privacy Badger los widgets de redes sociales?'
 weight: 220
 ---

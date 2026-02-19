@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 什么是全局隐私控制（GPC）？
 weight: 70
 ---

@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: '¿Por qué Privacy Badger no bloquea todos los anuncios?'
 weight: 60
 ---

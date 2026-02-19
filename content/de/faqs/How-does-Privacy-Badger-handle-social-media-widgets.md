@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Wie behandelt Privacy Badger Social-Media-Widgets?'
 weight: 220
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Comment la liste jaune de blocage des témoins a-t-elle été créée ?'
 weight: 100
 ---

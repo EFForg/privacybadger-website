@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: "Je gère un domaine qui utilise des témoins ou d'autres moyens de suivi. Comment puis-je empêcher que Privacy Badger bloque mon domaine ?"
 weight: 170
 ---

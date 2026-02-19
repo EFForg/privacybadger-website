@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 为什么安装隐私獾后，我的浏览器在启动时连接到fastly.com的IP地址？
 weight: 260
 ---

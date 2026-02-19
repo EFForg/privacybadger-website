@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Privacy Badger empêche-t-elle le pistage par empreinte numérique unique ?'
 weight: 110
 ---

@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 我怎样才能支持隐私獾？
 weight: 210
 ---

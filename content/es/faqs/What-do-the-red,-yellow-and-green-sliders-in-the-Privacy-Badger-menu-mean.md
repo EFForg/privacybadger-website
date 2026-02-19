@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: '¿Qué significan los controles deslizantes rojo, amarillo y verde del menú de Privacy Badger?'
 weight: 40
 ---

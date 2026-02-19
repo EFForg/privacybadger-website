@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Qu’est-ce qu’un traceur tiers ?'
 weight: 30
 ---

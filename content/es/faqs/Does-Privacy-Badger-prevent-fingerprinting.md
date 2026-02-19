@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: '¿Previene Privacy Badger la recolección de datos de huellas dactilares?'
 weight: 110
 ---

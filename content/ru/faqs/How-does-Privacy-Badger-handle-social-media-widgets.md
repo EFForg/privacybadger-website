@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Как Privacy Badger обрабатывает виджеты социальных сетей?'
 weight: 220
 ---

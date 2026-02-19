@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 隐私獾是如何处理社交媒体小工具的？
 weight: 220
 ---

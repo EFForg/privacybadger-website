@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 隐私獾菜单中的红色、黄色和绿色滑块是什么意思？
 weight: 40
 ---

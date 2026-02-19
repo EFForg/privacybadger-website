@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Мне нужна помощь! Нашел ошибку! Что мне теперь делать?'
 weight: 290
 ---

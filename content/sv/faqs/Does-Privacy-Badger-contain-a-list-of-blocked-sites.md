@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Innehåller Privacy Badger en lista över blockerade webbplatser?'
 weight: 90
 ---

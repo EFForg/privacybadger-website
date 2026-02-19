@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Ist Privacy Badger kompatibel mit anderen Erweiterungen, beispielsweise Adblockern?'
 weight: 240
 ---

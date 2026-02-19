@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 为什么隐私獾会屏蔽广告？
 weight: 50
 ---

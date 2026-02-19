@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 'Wo finde ich allgemeine Informationen über Privacy Badger, die ich für einen Text verwenden kann?'
 weight: 180
 ---

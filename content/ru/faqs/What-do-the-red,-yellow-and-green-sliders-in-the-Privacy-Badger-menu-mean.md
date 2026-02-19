@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Что означают красные, желтые и зеленые переключатели в меню Privacy Badger?'
 weight: 40
 ---

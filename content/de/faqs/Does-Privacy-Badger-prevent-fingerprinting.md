@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Schützt Privacy Badger vor Fingerprinting?'
 weight: 110
 ---

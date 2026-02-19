@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 我主动访问的网站，如NYTimes.com或Facebook.com的跟踪情况如何？
 weight: 80
 ---

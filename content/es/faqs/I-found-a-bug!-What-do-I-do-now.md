@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: '¡Necesito ayuda! ¡Encontré un bug! ¿Qué hago ahora?'
 weight: 290
 ---

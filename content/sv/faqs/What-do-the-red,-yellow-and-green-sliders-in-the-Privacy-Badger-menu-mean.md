@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Vad betyder de röda, gula och gröna skjutreglagen i menyn på Privacy Badger?'
 weight: 40
 ---

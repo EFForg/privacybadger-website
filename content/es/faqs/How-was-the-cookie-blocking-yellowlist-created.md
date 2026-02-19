@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: '¿Cómo se creó la lista amarilla de bloqueo de cookies?'
 weight: 100
 ---

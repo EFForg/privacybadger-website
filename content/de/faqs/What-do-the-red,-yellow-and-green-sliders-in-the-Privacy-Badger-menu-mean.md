@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Was bedeuten die roten, gelben und grünen Schieberegler im Privacy Badger-Menü?'
 weight: 40
 ---

@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 隐私獾与其他拦截扩展有何不同？
 weight: 10
 ---

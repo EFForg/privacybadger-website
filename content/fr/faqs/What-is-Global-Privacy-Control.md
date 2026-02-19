@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Qu’est-ce le « Contrôle global de la protection des données » (GPC) ?'
 weight: 70
 ---

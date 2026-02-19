@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 'Hur konfigurerar jag som administratör Privacy Badger på mina hanterade enheter?'
 weight: 190
 ---

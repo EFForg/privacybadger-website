@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Jag behöver hjälp! Jag har hittat en bugg! Vad ska jag göra nu?'
 weight: 290
 ---

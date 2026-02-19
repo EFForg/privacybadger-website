@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Hur hanterar Privacy Badger widgets för sociala medier?'
 weight: 220
 ---

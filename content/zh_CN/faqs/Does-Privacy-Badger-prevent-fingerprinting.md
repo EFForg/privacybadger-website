@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 隐私獾能防指纹吗？
 weight: 110
 ---

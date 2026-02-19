@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: '¿Privacy Badger contiene una "lista negra" de sitios bloqueados?'
 weight: 90
 ---

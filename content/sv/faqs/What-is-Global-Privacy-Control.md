@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Vad är Global Privacy Control (GPC)?'
 weight: 70
 ---

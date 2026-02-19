@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Pourquoi Privacy Badger a-t-elle besoin d’accéder à mes données pour tous les sites Web ?'
 weight: 270
 ---

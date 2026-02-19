@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Считает ли Privacy Badger каждый куки-файл куки-файлом отслеживания?'
 weight: 120
 ---

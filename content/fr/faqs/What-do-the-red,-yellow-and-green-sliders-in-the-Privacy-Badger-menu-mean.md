@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'À quoi correspondent les curseurs rouges, jaunes et bleus dans Privacy Badger ?'
 weight: 40
 ---

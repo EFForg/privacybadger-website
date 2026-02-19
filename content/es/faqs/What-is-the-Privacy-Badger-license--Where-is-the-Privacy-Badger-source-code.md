@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: '¿Qué licencia tiene Privacy Badger? ¿Dónde está el código fuente de Privacy Badger?'
 weight: 200
 ---

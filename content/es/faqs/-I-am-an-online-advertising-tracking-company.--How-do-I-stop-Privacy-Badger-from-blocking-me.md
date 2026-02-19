@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Dirijo un dominio que utiliza cookies u otro tipo de seguimiento. ¿Cómo puedo evitar que Privacy Badger me bloquee?'
 weight: 170
 ---

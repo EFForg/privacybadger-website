@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: '¿Es Privacy Badger compatible con el bloqueo de contenido integrado de Firefox?'
 weight: 250
 ---

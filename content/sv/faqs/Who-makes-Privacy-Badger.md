@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Vilka gör Privacy Badger?'
 weight: 15
 ---

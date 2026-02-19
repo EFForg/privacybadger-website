@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Что такое сторонний трекер?'
 weight: 30
 ---

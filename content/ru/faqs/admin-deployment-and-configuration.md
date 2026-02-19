@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 'Как администратор, как мне настроить Privacy Badger на управляемых мной устройствах?'
 weight: 190
 ---

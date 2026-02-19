@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: '¿Cómo puedo apoyar a Privacy Badger?'
 weight: 210
 ---

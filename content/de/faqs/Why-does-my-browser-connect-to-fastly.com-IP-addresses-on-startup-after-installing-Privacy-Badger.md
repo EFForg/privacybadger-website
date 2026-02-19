@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Warum verbindet sich nach der Installation von Privacy Badger mein Browser beim Start mit IP-Adressen von fastly.com?'
 weight: 260
 ---

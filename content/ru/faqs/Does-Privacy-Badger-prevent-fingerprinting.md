@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Предотвращает ли Privacy Badger сбор цифровых отпечатков браузера?'
 weight: 110
 ---

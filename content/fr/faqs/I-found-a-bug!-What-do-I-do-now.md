@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'J’ai besoin d’aide. J’ai trouvé un bogue. Que dois-je faire maintenant ?'
 weight: 290
 ---

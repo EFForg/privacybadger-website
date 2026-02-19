@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 什么是第三方跟踪器？
 weight: 30
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Как был создан желтый список блокировки куки-файлов?'
 weight: 100
 ---

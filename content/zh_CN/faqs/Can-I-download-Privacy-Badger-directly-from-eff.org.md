@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 我可以直接从eff.org下载隐私獾吗？
 weight: 160
 ---

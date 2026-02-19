@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Förhindrar Privacy Badger fingeravtryck?'
 weight: 110
 ---

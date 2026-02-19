@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Enthält Privacy Badger eine Liste aller blockierten Seiten?'
 weight: 90
 ---
