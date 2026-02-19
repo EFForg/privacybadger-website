@@ -1,6 +1,7 @@
 ---
 question: Why aren't videos loading on YouTube? Why isn't Privacy Badger blocking ads on YouTube?
 weight: 280
+category: troubleshooting
 ---
 
 Is YouTube not working? Try [disabling Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) on YouTube. If that resolves the issue, see if re-enabling Privacy Badger breaks YouTube again. If YouTube goes back to not working, please [tell us](#I-found-a-bug%21-What-do-I-do-now) so we can look into what's going on.

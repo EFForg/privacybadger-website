@@ -1,6 +1,7 @@
 ---
 question: How does Privacy Badger work?
 weight: 20
+category: gettingStarted
 ---
 
 When you view a webpage, that page will often be made up of content from many different sources. For example, a news webpage might load the actual article from the news company, ads from an ad company, and the comments section from a different company that's been contracted out to provide that service.

@@ -1,6 +1,7 @@
 ---
 question: Does Privacy Badger contain a list of blocked sites?
 weight: 90
+category: technicalDetails
 ---
 
 Unlike other blocking tools, we have not made decisions about which sites to block, but rather about which behavior is objectionable. Domains will only be blocked if Privacy Badger observes the domain collecting unique identifiers after it was sent Do Not Track and Global Privacy Control signals.
