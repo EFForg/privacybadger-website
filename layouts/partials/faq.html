@@ -37,11 +37,11 @@
     {{ range $categories }}
       {{ $category := . }}
       {{ if index $faqGroups $category }}
-        <h3 class="category-subheading">{{ i18n $category }}</h3>
+        <h3>{{ i18n $category }}</h3>
         {{ range index $faqGroups $category }}
-          <h3 id="{{ .File.TranslationBaseName }}">
+          <h4 id="{{ .File.TranslationBaseName }}">
             {{ .Params.question }}
-          </h3>
+          </h4>
           {{ .Content }}
         {{ end }}
       {{ end }}
