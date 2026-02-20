@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Så hur fungerar det med spårning från webbplatser jag aktivt besöker, såsom NYTimes.com eller Facebook.com?'
 weight: 80
 ---

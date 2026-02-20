@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Будете ли вы поддерживать какие-либо другие браузеры, помимо Chrome, Firefox, Edge и Opera?'
 weight: 150
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Hur skapades den gula listan över domäner vars kakor bör blockeras?'
 weight: 100
 ---

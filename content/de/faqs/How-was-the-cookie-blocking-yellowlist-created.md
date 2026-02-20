@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Wie wurde die gelbe Liste zur Sperrung von Cookies erstellt?'
 weight: 100
 ---

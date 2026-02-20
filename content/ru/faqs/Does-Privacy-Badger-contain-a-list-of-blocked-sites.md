@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Содержит ли Privacy Badger список заблокированных сайтов?'
 weight: 90
 ---

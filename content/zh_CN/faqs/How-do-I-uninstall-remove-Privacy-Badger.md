@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 如何卸载/删除隐私獾？
 weight: 230
 ---

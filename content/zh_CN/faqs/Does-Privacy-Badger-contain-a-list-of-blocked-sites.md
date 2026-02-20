@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 隐私獾是否包含一个被屏蔽的网站列表？
 weight: 90
 ---

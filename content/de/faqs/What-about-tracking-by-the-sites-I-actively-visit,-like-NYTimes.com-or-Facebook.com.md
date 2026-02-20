@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Was ist mit Tracking durch Webseiten, die ich aktiv besuche, wie NYTimes.com oder Facebook.com?'
 weight: 80
 ---

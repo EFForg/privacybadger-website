@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 什么是隐私獾？
 weight: 0
 ---

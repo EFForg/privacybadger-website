@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Совместим ли Privacy Badger с другими расширениями, именно с адблокерами?'
 weight: 240
 ---

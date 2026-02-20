@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Совместим ли Privacy Badger со встроенными средствами защиты конфиденциальности Firefox?'
 weight: 250
 ---

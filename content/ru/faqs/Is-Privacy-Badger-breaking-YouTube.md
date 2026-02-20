@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Почему видео не загружаются на YouTube? Почему Privacy Badger не блокирует рекламу на YouTube?'
 weight: 280
 ---

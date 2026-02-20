@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Чем Privacy Badger отличается от других блокирующих расширений?'
 weight: 10
 ---

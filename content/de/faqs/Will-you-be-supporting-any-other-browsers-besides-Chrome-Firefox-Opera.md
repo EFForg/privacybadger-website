@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Werden neben Chrome, Firefox, Edge und Opera auch andere Browser unterstützt?'
 weight: 150
 ---

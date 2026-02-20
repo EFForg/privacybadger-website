@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Was ist Privacy Badger?'
 weight: 0
 ---

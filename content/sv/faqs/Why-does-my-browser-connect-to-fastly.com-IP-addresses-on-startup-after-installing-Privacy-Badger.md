@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Varför ansluter min webbläsare till IP-adresser härrörande fastly.com vid start efter installation av Privacy Badger?'
 weight: 260
 ---

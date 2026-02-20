@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Wie unterscheidet sich Privacy Badger von anderen Blockier-Erweiterungen?'
 weight: 10
 ---

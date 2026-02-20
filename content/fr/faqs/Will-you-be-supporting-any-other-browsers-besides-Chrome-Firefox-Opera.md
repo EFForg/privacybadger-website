@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Prendrez-vous en charge des navigateurs autres que Chrome, Firefox, Edge et Opera ?'
 weight: 150
 ---

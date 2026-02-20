@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Hur avinstallerar/avlägsnar jag Privacy Badger?'
 weight: 230
 ---

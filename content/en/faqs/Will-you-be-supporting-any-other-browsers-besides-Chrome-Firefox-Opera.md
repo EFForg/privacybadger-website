@@ -1,6 +1,7 @@
 ---
 question: Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?
 weight: 150
+category: compatibility
 ---
 
 We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.

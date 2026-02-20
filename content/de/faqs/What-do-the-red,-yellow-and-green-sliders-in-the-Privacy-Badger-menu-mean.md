@@ -1,6 +1,7 @@
 ---
+category: keyFeatures
 question: 'Was bedeuten die roten, gelben und grünen Schieberegler im Privacy Badger-Menü?'
-weight: 40
+weight: 220
 ---
 
 Rot bedeutet, dass Inhalte dieser Drittanbieter-Domain blockiert wurden.

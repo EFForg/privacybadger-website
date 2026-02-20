@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Кто производит Privacy Badger?'
 weight: 15
 ---

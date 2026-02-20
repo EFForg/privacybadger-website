@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Pourquoi les vidéos ne se chargent-elles pas sur YouTube ? Pourquoi Privacy Badger ne bloque-t-elle pas les publicités sur YouTube ?'
 weight: 280
 ---

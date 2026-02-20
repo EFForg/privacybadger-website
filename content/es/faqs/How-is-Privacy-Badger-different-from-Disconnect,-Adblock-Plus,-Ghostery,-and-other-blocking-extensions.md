@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: '¿En qué se diferencia Privacy Badger de otras extensiones de bloqueo?'
 weight: 10
 ---

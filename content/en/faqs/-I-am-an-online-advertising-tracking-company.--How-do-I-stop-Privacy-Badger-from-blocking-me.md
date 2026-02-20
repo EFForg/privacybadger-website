@@ -1,6 +1,7 @@
 ---
 question: I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?
 weight: 170
+category: troubleshooting
 ---
 
 One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.

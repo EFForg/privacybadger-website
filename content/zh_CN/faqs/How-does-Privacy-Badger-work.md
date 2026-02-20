@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 隐私獾是如何工作的？
 weight: 20
 ---

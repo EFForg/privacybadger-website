@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 拦截cookie的黄名单是如何产生的？
 weight: 100
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Vad är en tredjepartsspårare?'
 weight: 30
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: '¿Qué es un rastreador de terceros?'
 weight: 30
 ---

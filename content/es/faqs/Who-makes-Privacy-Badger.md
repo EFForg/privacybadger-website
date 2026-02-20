@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: '¿Quién crea Privacy Badger?'
 weight: 15
 ---

@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Was sind Tracker von Drittanbietern?'
 weight: 30
 ---

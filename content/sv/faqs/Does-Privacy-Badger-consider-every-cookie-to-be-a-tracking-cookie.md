@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Betraktar Privacy Badger varje kaka som en spårningskaka?'
 weight: 120
 ---

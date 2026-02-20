@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Warum blockt Privacy Badger nicht alle Anzeigen?'
 weight: 60
 ---

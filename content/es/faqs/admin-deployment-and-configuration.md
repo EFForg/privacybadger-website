@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: '¿Cómo configuro Privacy Badger en mis dispositivos gestionados como administrador?'
 weight: 190
 ---

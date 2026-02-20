@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Jag driver en domän som använder kakor eller annan spårning. Hur hindrar jag Privacy Badger från att blockera mig?'
 weight: 170
 ---

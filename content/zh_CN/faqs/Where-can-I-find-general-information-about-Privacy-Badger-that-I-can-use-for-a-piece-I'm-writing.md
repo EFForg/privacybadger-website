@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 我在哪里可以找到关于隐私獾的一般信息，可以用于我正在写的一篇文章？
 weight: 180
 ---

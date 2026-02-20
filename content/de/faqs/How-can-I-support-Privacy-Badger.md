@@ -1,6 +1,7 @@
 ---
+category: supportingPrivacyBadger
 question: 'Wie kann ich Privacy Badger unterstützen?'
-weight: 210
+weight: 175
 ---
 
 Vielen Dank für diese Frage! Spenden von Privatpersonen machen etwa die Hälfte der Unterstützung der EFF aus, was uns die Freiheit gibt, an nutzerorientierten Projekten zu arbeiten. Wenn du die Entwicklung von Privacy Badger und anderen ähnlichen Projekte unterstützen möchtest, kannst du uns [hier mit einer Spende unterstützen](https://supporters.eff.org/donate/support-privacy-badger). Vielen Dank.

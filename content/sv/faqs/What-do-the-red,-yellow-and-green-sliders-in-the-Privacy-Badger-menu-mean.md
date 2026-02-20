@@ -1,6 +1,7 @@
 ---
+category: keyFeatures
 question: 'Vad betyder de röda, gula och gröna skjutreglagen i menyn på Privacy Badger?'
-weight: 40
+weight: 220
 ---
 
 Röd betyder att innehåll från denna tredjepartsdomän förbjudits fullständigt.

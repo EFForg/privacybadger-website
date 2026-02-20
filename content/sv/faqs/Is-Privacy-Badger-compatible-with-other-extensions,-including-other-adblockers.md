@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Är Privacy Badger kompatibel med andra tillägg, inklusive annonsblockerare?'
 weight: 240
 ---

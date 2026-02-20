@@ -1,4 +1,5 @@
 ---
+category: supportingPrivacyBadger
 question: 'Где я могу найти общую информацию о Privacy Badger, которую я могу использовать для статьи, которую я пишу?'
 weight: 180
 ---

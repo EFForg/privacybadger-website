@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 隐私獾是否与其他扩展兼容，包括广告屏蔽器？
 weight: 240
 ---

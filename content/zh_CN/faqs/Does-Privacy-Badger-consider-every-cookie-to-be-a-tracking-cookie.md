@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 隐私獾是否认为每个cookie都是跟踪cookie？
 weight: 120
 ---

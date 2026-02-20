@@ -7,23 +7,44 @@
   {{- $pages := (where $.Site.RegularPages "Section" "faqs") }}
   {{- $pages = $pages | lang.Merge (where .Sites.First.Pages "Section" "faqs") }}
   {{- $pages := $pages | intersect (where $pages "Params.question" "!=" nil) }}
+  {{- $categories := .Site.Data.faq.categories }}
+  {{- $faqGroups := dict }}
+
+  {{- range $categories }}
+    {{- $category := . }}
+    {{- $categoryPages := sort (where $pages "Params.category" "==" $category) ".Params.weight" }}
+    {{- if gt (len $categoryPages) 0 }}
+      {{- $faqGroups = merge $faqGroups (dict $category $categoryPages) }}
+    {{- end }}
+  {{- end }}
 
   <div class="anchors">
-    <ul>
-      {{ range sort $pages ".Params.weight" }}
-        <li>
-          <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
-        </li>
+    {{ range $categories }}
+      {{ if index $faqGroups . }}
+        <h4>{{ i18n . }}</h4>
+        <ul>
+          {{ range index $faqGroups . }}
+            <li>
+              <a href="#{{ .File.TranslationBaseName }}">{{ .Params.question }}</a>
+            </li>
+          {{ end }}
+        </ul>
       {{ end }}
-    </ul>
+    {{ end }}
   </div>
 
   <div id="faq-body">
-    {{ range sort $pages ".Params.weight" }}
-      <h3 id="{{ .File.TranslationBaseName }}">
-        {{ .Params.question }}
-      </h3>
-      {{ .Content }}
+    {{ range $categories }}
+      {{ $category := . }}
+      {{ if index $faqGroups $category }}
+        <h3>{{ i18n $category }}</h3>
+        {{ range index $faqGroups $category }}
+          <h4 id="{{ .File.TranslationBaseName }}">
+            {{ .Params.question }}
+          </h4>
+          {{ .Content }}
+        {{ end }}
+      {{ end }}
     {{ end }}
   </div>
 

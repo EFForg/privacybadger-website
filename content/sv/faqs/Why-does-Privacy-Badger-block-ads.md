@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: 'Varför blockerar Privacy Badger annonser?'
 weight: 50
 ---

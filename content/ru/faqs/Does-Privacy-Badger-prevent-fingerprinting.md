@@ -1,6 +1,7 @@
 ---
+category: keyFeatures
 question: 'Предотвращает ли Privacy Badger сбор цифровых отпечатков браузера?'
-weight: 110
+weight: 48
 ---
 
 Отпечатки браузера — это чрезвычайно тонкий и проблематичный метод отслеживания, который мы задокументировали в рамках проекта [Cover Your Tracks](https://coveryourtracks.eff.org/). Privacy Badger может обнаруживать [сбор отпечатков на основе canvas](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block) и блокировать домены третьих сторон, которые его используют. Обнаружение других форм отпечатков пальцев и защита от отпечатков пальцев первой стороны являются текущими проектами. Конечно, как только домен заблокирован Privacy Badger, он больше не сможет идентифицировать вас.

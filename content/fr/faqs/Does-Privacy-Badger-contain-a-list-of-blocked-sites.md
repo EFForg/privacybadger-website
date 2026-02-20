@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Privacy Badger comprend-elle une liste de sites bloqués ?'
 weight: 90
 ---

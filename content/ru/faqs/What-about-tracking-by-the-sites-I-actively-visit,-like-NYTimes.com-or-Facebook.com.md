@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'А как насчет отслеживания сайтов, которые я активно посещаю, таких как NYTimes.com или Facebook.com?'
 weight: 80
 ---

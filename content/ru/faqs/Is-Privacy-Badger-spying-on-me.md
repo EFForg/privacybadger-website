@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 'Почему Privacy Badger требует доступ к моим данным для всех веб-сайтов?'
 weight: 270
 ---

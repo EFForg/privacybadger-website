@@ -1,4 +1,5 @@
 ---
+category: keyFeatures
 question: '¿Por qué el Privacy Badger bloquea la publicidad?'
 weight: 50
 ---

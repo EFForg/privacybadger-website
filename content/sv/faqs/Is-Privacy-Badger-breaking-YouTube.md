@@ -1,4 +1,5 @@
 ---
+category: troubleshooting
 question: 'Varför laddas inte videor från YouTube? Varför blockerar inte Privacy Badger annonser på YouTube?'
 weight: 280
 ---

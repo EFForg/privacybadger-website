@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Betrachtet Privacy Badger jedes Cookie als Tracking-Cookie?'
 weight: 120
 ---

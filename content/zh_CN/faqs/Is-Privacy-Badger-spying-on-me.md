@@ -1,4 +1,5 @@
 ---
+category: gettingStarted
 question: 为什么隐私獾需要访问我所有网站的数据？
 weight: 270
 ---

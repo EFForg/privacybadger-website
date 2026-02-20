@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Privacy Badger est-elle compatible avec les autres extensions, dont les bloqueurs de publicités ?'
 weight: 240
 ---

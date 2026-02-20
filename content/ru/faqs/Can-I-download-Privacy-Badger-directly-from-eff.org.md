@@ -1,4 +1,5 @@
 ---
+category: compatibility
 question: 'Можно ли скачать Privacy Badger непосредственно с eff.org?'
 weight: 160
 ---

@@ -1,6 +1,7 @@
 ---
 question: How is Privacy Badger different from other blocking extensions?
 weight: 10
+category: gettingStarted
 ---
 
 Privacy Badger was born out of our desire to be able to recommend a single extension that would:

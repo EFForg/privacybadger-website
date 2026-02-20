@@ -1,6 +1,7 @@
 ---
+category: troubleshooting
 question: 'J’ai besoin d’aide. J’ai trouvé un bogue. Que dois-je faire maintenant ?'
-weight: 290
+weight: 165
 ---
 
 Si un site Web ne fonctionne pas comme il le devrait, vous pouvez désactiver Privacy Badger juste pour ce site, laissant Privacy Badger activée et vous protégeant partout ailleurs. Pour ce faire, naviguez vers le site qui pose problème, cliquez sur l’icône de Privacy Badger dans la barre d’outils de votre navigateur, puis cliquez sur le bouton « **Désactiver pour ce site** » dans la fenêtre contextuelle de Privacy Badger. Vous pouvez aussi nous signaler les sites non fonctionnels en cliquant sur le bouton « **Signaler un site perturbé** ».

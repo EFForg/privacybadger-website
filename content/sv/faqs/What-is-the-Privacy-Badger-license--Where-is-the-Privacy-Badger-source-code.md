@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Under vilken licens publiceras Privacy Badger? Var finns källkoden för Privacy Badger?'
 weight: 200
 ---

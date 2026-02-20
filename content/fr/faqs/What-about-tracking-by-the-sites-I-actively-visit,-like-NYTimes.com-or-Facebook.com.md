@@ -1,4 +1,5 @@
 ---
+category: technicalDetails
 question: 'Qu’en est-il du suivi à la trace par des sites que je visite volontairement tels que google.com ou facebook.com ?'
 weight: 80
 ---
