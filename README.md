@@ -10,7 +10,7 @@ Thank you for your interest in translating the Privacy Badger website! Translati
 > EFF wants to be sure that our translators make informed consent regarding registering with Weblate. Before you register, please review [Weblate's Terms and Privacy Policy](https://weblate.org/en/terms/) and note that any legal dispute with Weblate would be under Czech Republic law, and must be resolved in a Czech court.
 
 - To translate [FAQ questions and answers](https://privacybadger.org/#faq), visit the [FAQs component on Weblate](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/).
-- To translate everything else, visit the [general strings component](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-strings/).
+- To translate everything else (including FAQ section headings), visit the [general strings component](https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-strings/).
 
 ## Development
 
@@ -22,7 +22,7 @@ See also our [Dockerfile](/Dockerfile) and [GitHub Actions config](/.github/work
 
 ## Content authoring
 
-**Frequently asked questions** are stored as Markdown in `content/en/faqs`. Each file holds a question, an answer, and a weight that indicates how high up the FAQ should appear on the page.
+**Frequently asked questions** are stored as Markdown in `content/en/faqs`. Each file holds a question, an answer, a category (defined in [faq.toml](/data/faq.toml)), and a weight that indicates how high up the FAQ should appear on the page.
 
 As [Weblate does not yet support Markdown](https://github.com/WeblateOrg/weblate/issues/3106), **FAQ translations** are handled via [Po4a](https://po4a.org/). Translations live in `.po` files in the `po` directory.
 
