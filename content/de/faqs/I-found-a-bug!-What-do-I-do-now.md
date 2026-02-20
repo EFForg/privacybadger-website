@@ -1,7 +1,7 @@
 ---
 category: troubleshooting
 question: 'Ich brauche Unterstützung! Ich habe einen Bug gefunden! Was soll ich tun?'
-weight: 290
+weight: 165
 ---
 
 Wenn eine Website nicht so funktioniert, wie sie sollte, kannst du Privacy Badger für diese Website deaktivieren, während Privacy Badger dich weiterhin auf allen anderen Websites schützt. Um dies zu tun, besuchst du die betroffene Website, klickst auf das Icon von Privacy Badger in der Browser-Symbolleiste und klickst auf den Button „**Für diese Site deaktivieren**“ im Privacy Badger-Fenster. Du kannst uns auch mit dem Button „**Defekte Site melden**“ über fehlerhafte Websites informieren.

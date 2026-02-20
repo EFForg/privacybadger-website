@@ -1,7 +1,7 @@
 ---
 category: supportingPrivacyBadger
 question: 'Hur kan jag stötta Privacy Badger?'
-weight: 210
+weight: 175
 ---
 
 Tack för att du frågar! Enskilda donationer utgör ungefär hälften av EFF:s stöd, vilket ger oss friheten att arbeta med användarfokuserade projekt. Om du vill stödja utvecklingen av Privacy Badger och andra liknande projekt kan du [ge oss några dollar här](https://supporters.eff.org/donate/support-privacy-badger). Tack.

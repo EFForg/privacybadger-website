@@ -1,7 +1,7 @@
 ---
 category: troubleshooting
 question: 'Jag behöver hjälp! Jag har hittat en bugg! Vad ska jag göra nu?'
-weight: 290
+weight: 165
 ---
 
 Om en webbplats inte fungerar som den ska kan du inaktivera Privacy Badger bara för den webbplatsen och låta Privacy Badger vara aktiverat och skydda dig överallt annars. För att göra det, navigera till webbplatsen med problemet, klicka på Privacy Badgers ikon i din webbläsares verktygsfält och klicka på knappen ”**Inaktivera för denna webbplats**” i Privacy Badgers popup-fönster. Du kan också meddela oss om trasiga webbplatser genom att klicka på knappen "**Rapportera bruten webbplats**"

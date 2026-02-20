@@ -1,7 +1,7 @@
 ---
 category: keyFeatures
 question: 'Что такое Global Privacy Control (GPC)?'
-weight: 70
+weight: 44
 ---
 
 [Global Privacy Control (GPC)](https://globalprivacycontrol.org/) — это новая спецификация, которая позволяет пользователям сообщать компаниям о своем нежелании делиться или продавать свои данные. По умолчанию Privacy Badger отправляет сигнал GPC каждой компании, с которой вы взаимодействуете, наряду с сигналом Do Not Track (DNT).

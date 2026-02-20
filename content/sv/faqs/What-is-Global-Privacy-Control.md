@@ -1,7 +1,7 @@
 ---
 category: keyFeatures
 question: 'Vad är Global Privacy Control (GPC)?'
-weight: 70
+weight: 44
 ---
 
 [Global Privacy Control (GPC)](https://globalprivacycontrol.org/) är en ny specifikation som låter användare meddela företag att de inte vill att deras data delas eller säljs. Som förval skickar Privacy Badger GPC-signalen till alla företag du interagerar med tillsammans med Do Not Track (DNT)-signalen.

@@ -1,6 +1,6 @@
 ---
 question: How can I support Privacy Badger?
-weight: 210
+weight: 175
 category: supportingPrivacyBadger
 ---
 

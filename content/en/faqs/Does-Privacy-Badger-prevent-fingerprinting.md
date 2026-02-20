@@ -1,6 +1,6 @@
 ---
 question: Does Privacy Badger prevent fingerprinting?
-weight: 110
+weight: 48
 category: keyFeatures
 ---
 

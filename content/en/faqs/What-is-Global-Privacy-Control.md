@@ -1,6 +1,6 @@
 ---
 question: What is Global Privacy Control (GPC)?
-weight: 70
+weight: 44
 category: keyFeatures
 ---
 

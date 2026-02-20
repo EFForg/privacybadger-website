@@ -1,7 +1,7 @@
 ---
 category: keyFeatures
 question: 什么是全局隐私控制（GPC）？
-weight: 70
+weight: 44
 ---
 
 [全局隐私控制（GPC）](https://globalprivacycontrol.org/)是一种新的规范，允许用户告诉公司他们愿意选择不分享或出售他们的数据。默认情况下，隐私獾会将GPC信号与拒绝追踪（DNT）信号一起发送给与您互动的每家公司。

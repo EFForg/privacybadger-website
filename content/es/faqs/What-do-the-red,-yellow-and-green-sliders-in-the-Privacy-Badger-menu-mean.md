@@ -1,7 +1,7 @@
 ---
 category: keyFeatures
 question: '¿Qué significan los controles deslizantes rojo, amarillo y verde del menú de Privacy Badger?'
-weight: 40
+weight: 220
 ---
 
 Rojo significa que el contenido de este dominio de terceros ha sido completamente rechazado.

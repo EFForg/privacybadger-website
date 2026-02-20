@@ -1,7 +1,7 @@
 ---
 category: keyFeatures
 question: 隐私獾是如何处理社交媒体小工具的？
-weight: 220
+weight: 40
 ---
 
 社交媒体小工具（如Facebook的“赞”按钮）通常会追踪您的阅读习惯。即使您不点击它们，社交媒体公司也经常能准确地看到您在哪些页面上看到小工具。在阻止社交按钮和其他可能有用的（视频、音频、评论）小工具时，[隐私獾可以用点击激活的占位符来取代它们](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets)。除非您明确选择点击这些替代物，否则您不会被追踪到。

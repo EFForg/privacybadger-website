@@ -1,6 +1,6 @@
 ---
 question: How does Privacy Badger handle social media widgets?
-weight: 220
+weight: 40
 category: keyFeatures
 ---
 

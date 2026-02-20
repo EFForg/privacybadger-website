@@ -1,6 +1,6 @@
 ---
 question: I need help! I found a bug! What do I do now?
-weight: 290
+weight: 165
 category: troubleshooting
 ---
 
