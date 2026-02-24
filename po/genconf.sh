@@ -23,8 +23,21 @@ cat << EOF
 
 EOF
 
-# generate the list of FAQ entries, sorted by weight
-grep -m 1 '^weight:' content/en/faqs/*.md | sort -k2,2n | while read -r line; do
-  faq_file=$(echo "$line" | cut -d ':' -f 1)
-  echo "[type: markdown] $faq_file \$lang:content/\$lang/faqs/$(basename "$faq_file")"
+# Get category order from data/faq.toml
+declare -A category_index
+rank=0
+while read category; do
+    category_index["$category"]=$rank
+    ((rank++))
+done < <(sed -n '/categories = \[/,/\]/p' data/faq.toml | tr -d '[],"')
+
+# Generate the list of FAQ entries, sorted by category and weight
+for faq_file in content/en/faqs/*.md; do
+    weight=$(grep -m 1 '^weight:' "$faq_file" | awk '{print $2}')
+    category=$(grep -m 1 '^category:' "$faq_file" | awk '{print $2}')
+    category_rank=${category_index[$category]}
+    # Format: 01-0230 content/en/faqs/*.md
+    printf "%02d-%04d %s\n" "$category_rank" "$weight" "$faq_file"
+done | sort | while read _sort_keys faq_file; do
+    echo "[type: markdown] $faq_file \$lang:content/\$lang/faqs/$(basename "$faq_file")"
 done

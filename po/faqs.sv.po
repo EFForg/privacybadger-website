@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2025-09-29 10:33-0400\nPO-Revision-Date: 2025-11-10 05:51+0000\nLast-Translator: Mona Lisa <nickwick@users.noreply.hosted.weblate.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.15-dev\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-02-24 12:03-0500\n"
+"PO-Revision-Date: 2025-11-10 05:51+0000\n"
+"Last-Translator: Mona Lisa <nickwick@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -117,64 +128,40 @@ msgid "By default, Privacy Badger receives [periodic learning updates](https://w
 msgstr "Som standard erhåller Privacy Badger [periodiska inlärningsuppdateringar](https://www.eff.org/deeplinks/2023/10/privacy-badger-learns-block-ever-more-trackers) från [Badger Sett](https://github.com/EFForg/badger-sett), vårt Badger-träningsprojekt. Denna \"fjärrinlärning\" upptäcker automatiskt spårare närvarande på tusentals av de mest populära sidorna på webben.\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/What-is-a-third-party-tracker.md
+#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
-msgid "What is a third party tracker?"
-msgstr "Vad är en tredjepartsspårare?"
+msgid "Why does Privacy Badger need access to my data for all websites?"
+msgstr "Varför behöver Privacy Badger tillgång till min data på alla webbplatser?"
 
 #. type: Plain text
-#: content/en/faqs/What-is-a-third-party-tracker.md
+#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
 #, no-wrap
-msgid "When you visit a webpage parts of the page may come from domains and servers other than the one you asked to visit. This is an essential feature of [hypertext](https://en.wikipedia.org/wiki/Hypertext). On the modern Web, embedded images and code often use cookies and other methods to track your browsing habits — often to display advertisements. The domains that do this are called \"third party trackers\", and you can read more about how they work [here](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
-msgstr "När du besöker en webbsida kan delar av sidan att komma från andra domäner och servrar än den du begärde. Detta är en nödvändig egenskap hos [hypertext](https://sv.wikipedia.org/wiki/Hypertext). På den moderna webben använder inbäddade bilder ofta kakor och andra metoder för att spåra dina surfvanor — ofta för att visa dig annonser. Domänerna som gör detta kallas \"tredjepartsspårare\" och du kan läsa mer om hur de fungerar [här](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
+msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
+msgstr "När du installerar Privacy Badger varnar din webbläsare för att Privacy Badger kan ”Åtkomst till dina data för alla webbplatser” (i Firefox) eller ”Läsa och ändra all din data på alla webbplatser” (i Chrome). Du har rätt att vara orolig. Du bör bara installera tillägg skapade av organisationer som du litar på.\n"
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
+#, no-wrap
+msgid "Privacy Badger requires these permissions to do its job of automatically detecting and blocking trackers on all websites you visit. We are not ironically (or unironically) spying on you. For more information, see our [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
+msgstr "Privacy Badger behöver dessa behörigheter för att kunna göra sitt jobb att automatiskt upptäcka och blockera spårare på alla webbplatser du besöker. Vi spionerar inte ironiskt (eller oironiskt) på dig. För mer information, se vår [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
+#, no-wrap
+msgid "Note that the extension permissions warnings only cover what the extension has access to, not what the extension actually does with what it has access to (such as whether the extension secretly uploads your browsing data to its servers). Privacy Badger will never share data about your browsing unless you choose to share it (by filing a broken site report). For more information, see EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy/policy).\n"
+msgstr "Observera att varningarna för tilläggsbehörigheter endast täcker vad tillägget har tillgång till, inte vad tillägget faktiskt gör med vad den har tillgång till (exempelvis om tillägget i hemlighet laddar upp dina webbläsardata till sina servrar). Privacy Badger kommer aldrig att dela data om din surfning såvida du inte väljer att dela den (genom att lämna in en rapport om en trasig webbplats). För mer information, se EFF:s [Sekretesspolicy för programvara](https://www.eff.org/code/privacy/policy).\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
-msgid "What do the red, yellow and green sliders in the Privacy Badger menu mean?"
-msgstr "Vad betyder de röda, gula och gröna skjutreglagen i menyn på Privacy Badger?"
+msgid "How does Privacy Badger handle social media widgets?"
+msgstr "Hur hanterar Privacy Badger widgets för sociala medier?"
 
 #. type: Plain text
-#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
 #, no-wrap
-msgid "Red means that content from this third party domain has been completely disallowed.\n"
-msgstr "Röd betyder att innehåll från denna tredjepartsdomän förbjudits fullständigt.\n"
-
-#. type: Plain text
-#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
-#, no-wrap
-msgid "Yellow means that the third party domain appears to be trying to track you, but it is on Privacy Badger's cookie-blocking \"yellowlist\" of third party domains that, when analyzed, seemed to be necessary for Web functionality. In that case, Privacy Badger will load content from the domain but will try to screen out third party cookies and referrers from it.\n"
-msgstr "Gul betyder att tredjepartsdomänen verkar försöka spåra dig, men befinner sig på Privacy Badgers kakblockerings \"gullista\" av tredjepartsdomäner som, vid analys, verkar vara nödvändiga för webbfunktionalitet. I detta fall kommer Privacy Badger att ladda innehåll från domänen men försöka filtrera ut tredjepartskakor och hänvisare från den.\n"
-
-#. type: Plain text
-#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
-#, no-wrap
-msgid "Green means \"no action\"; Privacy Badger will leave the domain alone.\n"
-msgstr "Grön betyder \"inten åtgärd\", Privacy Badger kommer att lämna domänen ifred.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
-#, no-wrap
-msgid "Why does Privacy Badger block ads?"
-msgstr "Varför blockerar Privacy Badger annonser?"
-
-#. type: Plain text
-#: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
-#, no-wrap
-msgid "Actually, nothing in the Privacy Badger code is specifically written to block ads. Rather, it focuses on disallowing any visible or invisible \"third party\" scripts or images that appear to be tracking you even though you specifically denied consent by sending [Do Not Track](https://www.eff.org/issues/do-not-track) and [Global Privacy Control](https://globalprivacycontrol.org/) signals. It just so happens that most (but not all) of these third party trackers are advertisements. When you see an ad, the ad sees you, and can track you. Privacy Badger is here to stop that.\n"
-msgstr "Inget i Privacy Badgers kod är faktiskt specifikt skrivet för att blockera annonser. Snarare fokuserar den på att förbjuda synliga eller osynliga \"tredjeparts\"-skript eller -bilder som verkar spåra dig även om du specifikt avböjde samtycke genom att sända [Do Not Track](https://www.eff.org/issues/do-not-track)- och [Global Privacy Control](https://globalprivacycontrol.org/)-signaler. Det råkar bara förhålla sig så att de flesta (men inte alla) av dessa tredjepartsspårare är annonser. När du ser en annons, ser annonser dig och kan spåra dig. Privacy Badger är till för att stoppa detta.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
-#, no-wrap
-msgid "Why doesn't Privacy Badger block all ads?"
-msgstr "Varför blockerar inte Privacy Badger alla annonser?"
-
-#. type: Plain text
-#: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
-#, no-wrap
-msgid "Because Privacy Badger is primarily a privacy tool, not an ad blocker. Our aim is not to block ads, but to prevent non-consensual invasions of people's privacy because we believe they are inherently objectionable. We also want to create incentives for advertising companies to do the right thing. Of course, if you really dislike ads, you can also install a traditional ad blocker.\n"
-msgstr "För att Privacy Badger primärt är ett integritetsverktyg, inte en annonsblockerare. Vårt syfte är inte att blockera annonser, utan att förhindra icke-samtyckta intrång i människors integritet då vi anser att dessa av naturen är förkastliga. Vi vill också skapa incitament för annonsbolag till att göra det rätta. Du kan såklart, om du ogillar annonser, installera en traditionell annonsblockerare.\n"
+msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, [Privacy Badger can replace them](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
+msgstr "Widgetar för sociala medier (som Facebooks Gilla-knapp) spårar ofta dina läsvanor. Även om du inte klickar på dem kan sociala medier-företagen ofta se exakt vilka sidor du ser widgeten på. När du blockerar sociala knappar och andra potentiellt användbara widgetar (video, ljud, kommentarer) [kan Privacy Badger ersätta dem](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) med platshållare för klickaktivering. Du kommer inte att spåras av dessa ersättande element om du inte uttryckligen väljer att klicka på dem.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Global-Privacy-Control.md
@@ -211,6 +198,78 @@ msgstr "Syftet med GPC är att utgöra en juridiskt bindande begäran för alla 
 #, no-wrap
 msgid "The CCPA and other laws are [not perfect](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), which is why Privacy Badger uses both approaches. It asks websites to respect your privacy, and it blocks known trackers from loading at all.\n"
 msgstr "CCPA och annan lagstiftning är [inte perfekt](https://advocacy.consumerreports.org/press_release/consumer-reports-study-finds-significant-obstacles-to-exercising-california-privacy-rights/), varför Privacy Badger använder båda angreppssätten. Den ber webbplatser att respektera din integritet och blockerar kända spårare från att överhuvud taget läsas in.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
+#, no-wrap
+msgid "Does Privacy Badger prevent fingerprinting?"
+msgstr "Förhindrar Privacy Badger fingeravtryck?"
+
+#. type: Plain text
+#: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
+#, no-wrap
+msgid "Browser fingerprinting is an extremely subtle and problematic method of tracking, which we documented with the [Cover Your Tracks project](https://coveryourtracks.eff.org/). Privacy Badger can detect [canvas-based fingerprinting](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block), and will block third party domains that use it. Detection of other forms of fingerprinting and protections against first-party fingerprinting are ongoing projects. Of course, once a domain is blocked by Privacy Badger, it will no longer be able to fingerprint you.\n"
+msgstr "Webbläsar-fingeravtryck är en extremt subtil och problematisk metod för spårning, som vi dokumenterade med [Cover Your Tracks-projektet](https://coveryourtracks.eff.org/). Privacy Badger kan upptäcka [canvasbaserad fingeravtryck](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block) och blockerar tredjepartsdomäner som använder detta. Upptäckt av andra former av fingeravtryck och skydd mot fingeravtryck från första part är pågående projekt. När en domän har blockerats av Privacy Badger, kan den inte lägre utöva fingeravtryck på dig.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
+#, no-wrap
+msgid "Why does Privacy Badger block ads?"
+msgstr "Varför blockerar Privacy Badger annonser?"
+
+#. type: Plain text
+#: content/en/faqs/Why-does-Privacy-Badger-block-ads.md
+#, no-wrap
+msgid "Actually, nothing in the Privacy Badger code is specifically written to block ads. Rather, it focuses on disallowing any visible or invisible \"third party\" scripts or images that appear to be tracking you even though you specifically denied consent by sending [Do Not Track](https://www.eff.org/issues/do-not-track) and [Global Privacy Control](https://globalprivacycontrol.org/) signals. It just so happens that most (but not all) of these third party trackers are advertisements. When you see an ad, the ad sees you, and can track you. Privacy Badger is here to stop that.\n"
+msgstr "Inget i Privacy Badgers kod är faktiskt specifikt skrivet för att blockera annonser. Snarare fokuserar den på att förbjuda synliga eller osynliga \"tredjeparts\"-skript eller -bilder som verkar spåra dig även om du specifikt avböjde samtycke genom att sända [Do Not Track](https://www.eff.org/issues/do-not-track)- och [Global Privacy Control](https://globalprivacycontrol.org/)-signaler. Det råkar bara förhålla sig så att de flesta (men inte alla) av dessa tredjepartsspårare är annonser. När du ser en annons, ser annonser dig och kan spåra dig. Privacy Badger är till för att stoppa detta.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
+#, no-wrap
+msgid "Why doesn't Privacy Badger block all ads?"
+msgstr "Varför blockerar inte Privacy Badger alla annonser?"
+
+#. type: Plain text
+#: content/en/faqs/Why-doesn't-Privacy-Badger-block-all-ads.md
+#, no-wrap
+msgid "Because Privacy Badger is primarily a privacy tool, not an ad blocker. Our aim is not to block ads, but to prevent non-consensual invasions of people's privacy because we believe they are inherently objectionable. We also want to create incentives for advertising companies to do the right thing. Of course, if you really dislike ads, you can also install a traditional ad blocker.\n"
+msgstr "För att Privacy Badger primärt är ett integritetsverktyg, inte en annonsblockerare. Vårt syfte är inte att blockera annonser, utan att förhindra icke-samtyckta intrång i människors integritet då vi anser att dessa av naturen är förkastliga. Vi vill också skapa incitament för annonsbolag till att göra det rätta. Du kan såklart, om du ogillar annonser, installera en traditionell annonsblockerare.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#, no-wrap
+msgid "What do the red, yellow and green sliders in the Privacy Badger menu mean?"
+msgstr "Vad betyder de röda, gula och gröna skjutreglagen i menyn på Privacy Badger?"
+
+#. type: Plain text
+#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#, no-wrap
+msgid "Red means that content from this third party domain has been completely disallowed.\n"
+msgstr "Röd betyder att innehåll från denna tredjepartsdomän förbjudits fullständigt.\n"
+
+#. type: Plain text
+#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#, no-wrap
+msgid "Yellow means that the third party domain appears to be trying to track you, but it is on Privacy Badger's cookie-blocking \"yellowlist\" of third party domains that, when analyzed, seemed to be necessary for Web functionality. In that case, Privacy Badger will load content from the domain but will try to screen out third party cookies and referrers from it.\n"
+msgstr "Gul betyder att tredjepartsdomänen verkar försöka spåra dig, men befinner sig på Privacy Badgers kakblockerings \"gullista\" av tredjepartsdomäner som, vid analys, verkar vara nödvändiga för webbfunktionalitet. I detta fall kommer Privacy Badger att ladda innehåll från domänen men försöka filtrera ut tredjepartskakor och hänvisare från den.\n"
+
+#. type: Plain text
+#: content/en/faqs/What-do-the-red,-yellow-and-green-sliders-in-the-Privacy-Badger-menu-mean.md
+#, no-wrap
+msgid "Green means \"no action\"; Privacy Badger will leave the domain alone.\n"
+msgstr "Grön betyder \"inten åtgärd\", Privacy Badger kommer att lämna domänen ifred.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/What-is-a-third-party-tracker.md
+#, no-wrap
+msgid "What is a third party tracker?"
+msgstr "Vad är en tredjepartsspårare?"
+
+#. type: Plain text
+#: content/en/faqs/What-is-a-third-party-tracker.md
+#, no-wrap
+msgid "When you visit a webpage parts of the page may come from domains and servers other than the one you asked to visit. This is an essential feature of [hypertext](https://en.wikipedia.org/wiki/Hypertext). On the modern Web, embedded images and code often use cookies and other methods to track your browsing habits — often to display advertisements. The domains that do this are called \"third party trackers\", and you can read more about how they work [here](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
+msgstr "När du besöker en webbsida kan delar av sidan att komma från andra domäner och servrar än den du begärde. Detta är en nödvändig egenskap hos [hypertext](https://sv.wikipedia.org/wiki/Hypertext). På den moderna webben använder inbäddade bilder ofta kakor och andra metoder för att spåra dina surfvanor — ofta för att visa dig annonser. Domänerna som gör detta kallas \"tredjepartsspårare\" och du kan läsa mer om hur de fungerar [här](https://www.eff.org/wp/behind-the-one-way-mirror).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-about-tracking-by-the-sites-I-actively-visit,-like-NYTimes.com-or-Facebook.com.md
@@ -261,18 +320,6 @@ msgid "The initial list of domains that should be cookie blocked rather than blo
 msgstr "Den ursprungliga listan över domäner vars kakor bör blockeras snarare än helt blockeras härrör från ett [forskningsprojekt](https://jonathanmayer.org/papers_data/bau13.pdf) om klassificering av tredjepartsdomäner som spårare och icke-spårare. Vi kommer att göra tillfälliga justeringar av den vid behov. Om du hittar domäner som är under- eller överblockerade, vänligen [lämna in en bugg](https://github.com/EFForg/privacybadger/issues) på GitHub.\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
-#, no-wrap
-msgid "Does Privacy Badger prevent fingerprinting?"
-msgstr "Förhindrar Privacy Badger fingeravtryck?"
-
-#. type: Plain text
-#: content/en/faqs/Does-Privacy-Badger-prevent-fingerprinting.md
-#, no-wrap
-msgid "Browser fingerprinting is an extremely subtle and problematic method of tracking, which we documented with the [Cover Your Tracks project](https://coveryourtracks.eff.org/). Privacy Badger can detect [canvas-based fingerprinting](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block), and will block third party domains that use it. Detection of other forms of fingerprinting and protections against first-party fingerprinting are ongoing projects. Of course, once a domain is blocked by Privacy Badger, it will no longer be able to fingerprint you.\n"
-msgstr "Webbläsar-fingeravtryck är en extremt subtil och problematisk metod för spårning, som vi dokumenterade med [Cover Your Tracks-projektet](https://coveryourtracks.eff.org/). Privacy Badger kan upptäcka [canvasbaserad fingeravtryck](https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block) och blockerar tredjepartsdomäner som använder detta. Upptäckt av andra former av fingeravtryck och skydd mot fingeravtryck från första part är pågående projekt. När en domän har blockerats av Privacy Badger, kan den inte lägre utöva fingeravtryck på dig.\n"
-
-#. type: YAML Front Matter: question
 #: content/en/faqs/Does-Privacy-Badger-consider-every-cookie-to-be-a-tracking-cookie.md
 #, no-wrap
 msgid "Does Privacy Badger consider every cookie to be a tracking cookie?"
@@ -283,6 +330,138 @@ msgstr "Betraktar Privacy Badger varje kaka som en spårningskaka?"
 #, no-wrap
 msgid "No. Privacy Badger analyzes the cookies from each site; unique cookies that contain tracking IDs are disallowed, while \"low entropy\" cookies that perform other functions are allowed. For instance a cookie like LANG=fr that encodes the user's language preference, or a cookie that preserves a very small amount of information about ads the user has been shown, would be allowed provided that individual or small groups of users' reading habits could not be collected with them.\n"
 msgstr "Nej. Privacy Badger analyserar kakor från varje webbplats; unika kakor som innehåller spårnings-ID:n är inte tillåtna, medan ”lågentropi”-kakor som utför andra funktioner är tillåtna. Till exempel skulle en kaka som LANG=fr som kodar användarens språkpreferens, eller en kaka som bevarar en mycket liten mängd information om annonser som användaren har fått se, vara tillåten förutsatt att läsvanor hos enskilda eller smågrupper av användare inte kan samlas in med dem.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
+#, no-wrap
+msgid "What is the Privacy Badger license? Where is the Privacy Badger source code?"
+msgstr "Under vilken licens publiceras Privacy Badger? Var finns källkoden för Privacy Badger?"
+
+#. type: Plain text
+#: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
+#, no-wrap
+msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
+msgstr "Privacy Badgers [källkod](https://github.com/EFForg/privacybadger) är licensierad enligt [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). Den här webbplatsens [källkod](https://github.com/EFForg/privacybadger-website) är licensierad enligt [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#, no-wrap
+msgid "Why does my browser connect to fastly.com IP addresses on startup after installing Privacy Badger?"
+msgstr "Varför ansluter min webbläsare till IP-adresser härrörande fastly.com vid start efter installation av Privacy Badger?"
+
+#. type: Plain text
+#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#, no-wrap
+msgid "EFF uses Fastly to host EFF's Web resources: Fastly is EFF's CDN. Privacy Badger pings the CDN for the following resources to ensure that the information in them is fresh even if there hasn't been a new Privacy Badger release in a while:\n"
+msgstr "EFF använder Fastly för att tillhandahålla EFF:s webbresurser: Fastly är EFF:s CDN. Privacy Badger pingar CDN för följande resurser för försäkra sig om att informationen i dem är uppdaterad även om det inte har kommit någon ny Privacy Badger-version på ett tag:\n"
+
+#. type: Plain text
+#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#, no-wrap
+msgid "* https://www.eff.org/files/pbconfig.json\n"
+msgstr "* https://www.eff.org/files/pbconfig.json\n"
+
+#. type: Plain text
+#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#, no-wrap
+msgid "EFF does not set cookies or retain IP addresses for these queries.\n"
+msgstr "EFF skapar inte kakor eller lagrar IP-adresser för dessa frågor.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
+#, no-wrap
+msgid "I need help! I found a bug! What do I do now?"
+msgstr "Jag behöver hjälp! Jag har hittat en bugg! Vad ska jag göra nu?"
+
+#. type: Plain text
+#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
+#, no-wrap
+msgid "If a website isn't working like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also let us know about broken sites using the \"**Report broken site**\" button.\n"
+msgstr "Om en webbplats inte fungerar som den ska kan du inaktivera Privacy Badger bara för den webbplatsen och låta Privacy Badger vara aktiverat och skydda dig överallt annars. För att göra det, navigera till webbplatsen med problemet, klicka på Privacy Badgers ikon i din webbläsares verktygsfält och klicka på knappen ”**Inaktivera för denna webbplats**” i Privacy Badgers popup-fönster. Du kan också meddela oss om trasiga webbplatser genom att klicka på knappen \"**Rapportera bruten webbplats**\"\n"
+
+#. type: Plain text
+#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
+#, no-wrap
+msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
+msgstr "För att få hjälp eller rapportera buggar, vänligen maila [extension-devs@eff.org](mailto:extension-devs@eff.org). Om du har ett GitHub-konto kan du använda vår [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
+
+#. type: Plain text
+#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
+#, no-wrap
+msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
+msgstr "Du kan också hitta oss på [Mastodon](https://mastodon.social/@privacybadger) och [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
+#, no-wrap
+msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
+msgstr "Jag driver en domän som använder kakor eller annan spårning. Hur hindrar jag Privacy Badger från att blockera mig?"
+
+#. type: Plain text
+#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
+#, no-wrap
+msgid "One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
+msgstr "Ett sätt är att sluta spåra användare som har aktiverat Global Privacy Control eller Do Not Track-signaler (dvs. sluta samla in kakor, superkakor eller fingeravtryck från dem). Privacy Badger kommer att sluta lära sig att blockera den domänen. Nästa version av Privacy Badger som levereras med en uppdaterad förinlärd lista kommer inte längre att innehålla den domänen i listan. De flesta Privacy Badger-användare kommer då att uppdatera till den listan.\n"
+
+#. type: Plain text
+#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
+#, no-wrap
+msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
+msgstr "Du kan också avblockera dig själv genom att lova att på ett meningsfullt sätt respektera Do Not Track-signalen. För att göra det, posta en _verbatim_ kopia av [EFF:s policy för spårning](https://www.eff.org/dnt-policy) till webbadressen https://example.com/.well-known/dnt-policy.txt, där ”example.com” ersätts av din domän. Att lägga upp EFF:s DNT-policy på en domän är ett löfte om att den domänen kommer att följa EFF:s DNT-policy.\n"
+
+#. type: Plain text
+#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
+#, no-wrap
+msgid "If your domain is compliant with EFF's DNT policy and declares this compliance, most Privacy Badgers will see this declaration the next time they encounter your domain. Also, the next version of Privacy Badger to ship with an updated pre-trained list will probably include your declaration of compliance in the list.\n"
+msgstr "Om din domän överensstämmer med EFF: s DNT-policy och tillkännager denna överensstämmelse, kommer de flesta Privacy Badgers att se denna deklaration nästa gång de stöter på din domän. Dessutom kommer nästa version av Privacy Badger att levereras med en uppdaterad förinlärd lista som förmodligen som att innehålla ditt tillkännagivande om efterlevnad i listan.\n"
+
+#. type: Plain text
+#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
+#, no-wrap
+msgid "Note that the domain must support HTTPS, to protect against tampering by network attackers. The path contains \".well-known\" per [RFC 5785](https://tools.ietf.org/html/rfc5785). Also note that you must post a copy of the policy at each compliant subdomain you control. For example, if you wish to declare compliance by both sub1.example.com and sub2.example.com, you must post EFF's DNT policy on each domain.\n"
+msgstr "Observera att domänen måste stödja HTTPS för att skydda mot manipulering av nätverksangripare. Sökvägen innehåller ”.well-known” enligt [RFC 5785](https://tools.ietf.org/html/rfc5785). Observera även att du måste publicera en kopia av policyn på varje subdomän som uppfyller kraven och som du kontrollerar. Om du t.ex. vill tillkännage att både sub1.example.com och sub2.example.com uppfyller kraven måste du publicera EFF:s DNT-policy på varje domän.\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
+#, no-wrap
+msgid "How do I uninstall/remove Privacy Badger?"
+msgstr "Hur avinstallerar/avlägsnar jag Privacy Badger?"
+
+#. type: Plain text
+#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
+#, no-wrap
+msgid "Firefox: See the [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions) Mozilla help page.\n"
+msgstr "Firefox: Se Mozillas hjälpsida [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions).\n"
+
+#. type: Plain text
+#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
+#, no-wrap
+msgid "Chrome: See the [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=en) Chrome Web Store help page.\n"
+msgstr "Chrome: Se hjälpsidan [Installera och hantera tillägg](https://support.google.com/chrome_webstore/answer/2664769?hl=sv) i Chrome Web Store.\n"
+
+#. type: Plain text
+#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
+#, no-wrap
+msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
+msgstr "Edge: Se Microsofts hjälpsida [Lägga till, inaktivera eller ta bort tillägg i Microsoft Edge](https://support.microsoft.com/sv-se/microsoft-edge/l%C3%A4gga-till-inaktivera-eller-ta-bort-till%C3%A4gg-i-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
+
+#. type: YAML Front Matter: question
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Why aren't videos loading on YouTube? Why isn't Privacy Badger blocking ads on YouTube?"
+msgstr "Varför laddas inte videor från YouTube? Varför blockerar inte Privacy Badger annonser på YouTube?"
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Is YouTube not working? Try [disabling Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) on YouTube. If that resolves the issue, see if re-enabling Privacy Badger breaks YouTube again. If YouTube goes back to not working, please [tell us](#I-found-a-bug%21-What-do-I-do-now) so we can look into what's going on.\n"
+msgstr "Fungerar inte YouTube? Prova att [inaktivera Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) på YouTube. Om det löser problemet, se om återaktivering av Privacy Badger förstör YouTube igen. Om YouTube går tillbaka till att inte fungera, vänligen [berätta för oss](#I-found-a-bug%21-What-do-I-do-now) så att vi kan undersöka vad som ligger bakom.\n"
+
+#. type: Plain text
+#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#, no-wrap
+msgid "Are you surprised that ads aren't being blocked on YouTube? Privacy Badger is primarily a privacy tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). When you [visit YouTube directly](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com), Privacy Badger does not block ads on YouTube because YouTube does not use [\"third party\" trackers](#What-is-a-third-party-tracker). If you really dislike ads, you can also install a traditional ad blocker.\n"
+msgstr "Är du förvånad över att annonser inte blockeras på YouTube? Privacy Badger är främst ett integritetsverktyg, [inte en annonsblockerare](#Why-doesn%27t-Privacy-Badger-block-all-ads). När du [besöker YouTube direkt](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com) blockerar Privacy Badger inte annonser på YouTube eftersom YouTube inte använder [”tredjeparts”-spårare](#What-is-a-third-party-tracker). Om du verkligen ogillar annonser kan du också installera en traditionell annonsblockerare.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -337,126 +516,6 @@ msgstr ""
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, no-wrap
-msgid "I run a domain that uses cookies or other tracking. How do I stop Privacy Badger from blocking me?"
-msgstr "Jag driver en domän som använder kakor eller annan spårning. Hur hindrar jag Privacy Badger från att blockera mig?"
-
-#. type: Plain text
-#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, no-wrap
-msgid "One way is to stop tracking users who have turned on Global Privacy Control or Do Not Track signals (i.e., stop collecting cookies, supercookies or fingerprints from them). Privacy Badger will stop learning to block that domain. The next version of Privacy Badger to ship with an updated pre-trained list will no longer include that domain in the list. Most Privacy Badger users will then update to that list.\n"
-msgstr "Ett sätt är att sluta spåra användare som har aktiverat Global Privacy Control eller Do Not Track-signaler (dvs. sluta samla in kakor, superkakor eller fingeravtryck från dem). Privacy Badger kommer att sluta lära sig att blockera den domänen. Nästa version av Privacy Badger som levereras med en uppdaterad förinlärd lista kommer inte längre att innehålla den domänen i listan. De flesta Privacy Badger-användare kommer då att uppdatera till den listan.\n"
-
-#. type: Plain text
-#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, no-wrap
-msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr "Du kan också avblockera dig själv genom att lova att på ett meningsfullt sätt respektera Do Not Track-signalen. För att göra det, posta en _verbatim_ kopia av [EFF:s policy för spårning](https://www.eff.org/dnt-policy) till webbadressen https://example.com/.well-known/dnt-policy.txt, där ”example.com” ersätts av din domän. Att lägga upp EFF:s DNT-policy på en domän är ett löfte om att den domänen kommer att följa EFF:s DNT-policy.\n"
-
-#. type: Plain text
-#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, no-wrap
-msgid "If your domain is compliant with EFF's DNT policy and declares this compliance, most Privacy Badgers will see this declaration the next time they encounter your domain. Also, the next version of Privacy Badger to ship with an updated pre-trained list will probably include your declaration of compliance in the list.\n"
-msgstr "Om din domän överensstämmer med EFF: s DNT-policy och tillkännager denna överensstämmelse, kommer de flesta Privacy Badgers att se denna deklaration nästa gång de stöter på din domän. Dessutom kommer nästa version av Privacy Badger att levereras med en uppdaterad förinlärd lista som förmodligen som att innehålla ditt tillkännagivande om efterlevnad i listan.\n"
-
-#. type: Plain text
-#: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
-#, no-wrap
-msgid "Note that the domain must support HTTPS, to protect against tampering by network attackers. The path contains \".well-known\" per [RFC 5785](https://tools.ietf.org/html/rfc5785). Also note that you must post a copy of the policy at each compliant subdomain you control. For example, if you wish to declare compliance by both sub1.example.com and sub2.example.com, you must post EFF's DNT policy on each domain.\n"
-msgstr "Observera att domänen måste stödja HTTPS för att skydda mot manipulering av nätverksangripare. Sökvägen innehåller ”.well-known” enligt [RFC 5785](https://tools.ietf.org/html/rfc5785). Observera även att du måste publicera en kopia av policyn på varje subdomän som uppfyller kraven och som du kontrollerar. Om du t.ex. vill tillkännage att både sub1.example.com och sub2.example.com uppfyller kraven måste du publicera EFF:s DNT-policy på varje domän.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
-#, no-wrap
-msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
-msgstr "Var kan jag hitta allmän information om Privacy Badger som jag kan använda för ett arbete jag skriver?"
-
-#. type: Plain text
-#: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
-#, no-wrap
-msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
-msgstr "Kul att du frågar! Ta en titt på detta [nedladdningsbara press-kit](/files/pb_journalist_1_pager.pdf) som vi satt samman.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
-msgstr "Hur konfigurerar jag som administratör Privacy Badger på mina hanterade enheter?"
-
-#. type: Plain text
-#: content/en/faqs/admin-deployment-and-configuration.md
-#, no-wrap
-msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
-msgstr "Vänligen se vårt dokument [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
-#, no-wrap
-msgid "What is the Privacy Badger license? Where is the Privacy Badger source code?"
-msgstr "Under vilken licens publiceras Privacy Badger? Var finns källkoden för Privacy Badger?"
-
-#. type: Plain text
-#: content/en/faqs/What-is-the-Privacy-Badger-license--Where-is-the-Privacy-Badger-source-code.md
-#, no-wrap
-msgid "Privacy Badger's [source code](https://github.com/EFForg/privacybadger) is licensed under [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). This website's [source code](https://github.com/EFForg/privacybadger-website) is licensed under [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
-msgstr "Privacy Badgers [källkod](https://github.com/EFForg/privacybadger) är licensierad enligt [GPLv3+](https://spdx.org/licenses/GPL-3.0-or-later.html). Den här webbplatsens [källkod](https://github.com/EFForg/privacybadger-website) är licensierad enligt [AGPLv3+](https://spdx.org/licenses/AGPL-3.0-or-later.html).\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/How-can-I-support-Privacy-Badger.md
-#, no-wrap
-msgid "How can I support Privacy Badger?"
-msgstr "Hur kan jag stötta Privacy Badger?"
-
-#. type: Plain text
-#: content/en/faqs/How-can-I-support-Privacy-Badger.md
-#, no-wrap
-msgid "Thanks for asking! Individual donations make up about half of EFF's support, which gives us the freedom to work on user-focused projects. If you want to support the development of Privacy Badger and other projects like it, you can [throw us a few dollars here](https://supporters.eff.org/donate/support-privacy-badger). Thank you.\n"
-msgstr "Tack för att du frågar! Enskilda donationer utgör ungefär hälften av EFF:s stöd, vilket ger oss friheten att arbeta med användarfokuserade projekt. Om du vill stödja utvecklingen av Privacy Badger och andra liknande projekt kan du [ge oss några dollar här](https://supporters.eff.org/donate/support-privacy-badger). Tack.\n"
-
-#. type: Plain text
-#: content/en/faqs/How-can-I-support-Privacy-Badger.md
-#, no-wrap
-msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/.github/CONTRIBUTING.md) for ways to get started.\n"
-msgstr "Om du vill hjälpa till direkt med projektet uppskattar vi det också. Se [Privacy Badgers CONTRIBUTING-dokument](https://github.com/EFForg/privacybadger/blob/master/.github/CONTRIBUTING.md) för sätt att komma igång.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "How does Privacy Badger handle social media widgets?"
-msgstr "Hur hanterar Privacy Badger widgets för sociala medier?"
-
-#. type: Plain text
-#: content/en/faqs/How-does-Privacy-Badger-handle-social-media-widgets.md
-#, no-wrap
-msgid "Social media widgets (such as the Facebook Like button) often track your reading habits. Even if you don't click them, the social media companies often see exactly which pages you're seeing the widget on. When blocking social buttons and other potentially useful (video, audio, comments) widgets, [Privacy Badger can replace them](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) with click-to-activate placeholders. You will not be tracked by these replacements unless you explicitly choose to click them.\n"
-msgstr "Widgetar för sociala medier (som Facebooks Gilla-knapp) spårar ofta dina läsvanor. Även om du inte klickar på dem kan sociala medier-företagen ofta se exakt vilka sidor du ser widgeten på. När du blockerar sociala knappar och andra potentiellt användbara widgetar (video, ljud, kommentarer) [kan Privacy Badger ersätta dem](https://www.eff.org/deeplinks/2024/01/privacy-badger-puts-you-control-widgets) med platshållare för klickaktivering. Du kommer inte att spåras av dessa ersättande element om du inte uttryckligen väljer att klicka på dem.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "How do I uninstall/remove Privacy Badger?"
-msgstr "Hur avinstallerar/avlägsnar jag Privacy Badger?"
-
-#. type: Plain text
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "Firefox: See the [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions) Mozilla help page.\n"
-msgstr "Firefox: Se Mozillas hjälpsida [Disable or remove Add-ons](https://support.mozilla.org/en-US/kb/disable-or-remove-add-ons#w_disabling-and-removing-extensions).\n"
-
-#. type: Plain text
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "Chrome: See the [Install and manage extensions](https://support.google.com/chrome_webstore/answer/2664769?hl=en) Chrome Web Store help page.\n"
-msgstr "Chrome: Se hjälpsidan [Installera och hantera tillägg](https://support.google.com/chrome_webstore/answer/2664769?hl=sv) i Chrome Web Store.\n"
-
-#. type: Plain text
-#: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
-#, no-wrap
-msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
-msgstr "Edge: Se Microsofts hjälpsida [Lägga till, inaktivera eller ta bort tillägg i Microsoft Edge](https://support.microsoft.com/sv-se/microsoft-edge/l%C3%A4gga-till-inaktivera-eller-ta-bort-till%C3%A4gg-i-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
-
-#. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
 #, no-wrap
 msgid "Is Privacy Badger compatible with other extensions, including adblockers?"
@@ -499,91 +558,43 @@ msgid "Keep in mind that Privacy Badger is [not just a tracker blocker](#How-is-
 msgstr "Tänk på att Privacy Badger [inte bara är en spårningsblockerare](#How-is-Privacy-Badger-different-from-Disconnect%2c-Adblock-Plus%2c-Ghostery%2c-and-other-blocking-extensions).\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
-msgid "Why does my browser connect to fastly.com IP addresses on startup after installing Privacy Badger?"
-msgstr "Varför ansluter min webbläsare till IP-adresser härrörande fastly.com vid start efter installation av Privacy Badger?"
+msgid "How can I support Privacy Badger?"
+msgstr "Hur kan jag stötta Privacy Badger?"
 
 #. type: Plain text
-#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
-msgid "EFF uses Fastly to host EFF's Web resources: Fastly is EFF's CDN. Privacy Badger pings the CDN for the following resources to ensure that the information in them is fresh even if there hasn't been a new Privacy Badger release in a while:\n"
-msgstr "EFF använder Fastly för att tillhandahålla EFF:s webbresurser: Fastly är EFF:s CDN. Privacy Badger pingar CDN för följande resurser för försäkra sig om att informationen i dem är uppdaterad även om det inte har kommit någon ny Privacy Badger-version på ett tag:\n"
+msgid "Thanks for asking! Individual donations make up about half of EFF's support, which gives us the freedom to work on user-focused projects. If you want to support the development of Privacy Badger and other projects like it, you can [throw us a few dollars here](https://supporters.eff.org/donate/support-privacy-badger). Thank you.\n"
+msgstr "Tack för att du frågar! Enskilda donationer utgör ungefär hälften av EFF:s stöd, vilket ger oss friheten att arbeta med användarfokuserade projekt. Om du vill stödja utvecklingen av Privacy Badger och andra liknande projekt kan du [ge oss några dollar här](https://supporters.eff.org/donate/support-privacy-badger). Tack.\n"
 
 #. type: Plain text
-#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
+#: content/en/faqs/How-can-I-support-Privacy-Badger.md
 #, no-wrap
-msgid "* https://www.eff.org/files/pbconfig.json\n"
-msgstr "* https://www.eff.org/files/pbconfig.json\n"
-
-#. type: Plain text
-#: content/en/faqs/Why-does-my-browser-connect-to-fastly.com-IP-addresses-on-startup-after-installing-Privacy-Badger.md
-#, no-wrap
-msgid "EFF does not set cookies or retain IP addresses for these queries.\n"
-msgstr "EFF skapar inte kakor eller lagrar IP-adresser för dessa frågor.\n"
+msgid "If you want to help directly with the project, we appreciate that as well. Please see [Privacy Badger's CONTRIBUTING document](https://github.com/EFForg/privacybadger/blob/master/.github/CONTRIBUTING.md) for ways to get started.\n"
+msgstr "Om du vill hjälpa till direkt med projektet uppskattar vi det också. Se [Privacy Badgers CONTRIBUTING-dokument](https://github.com/EFForg/privacybadger/blob/master/.github/CONTRIBUTING.md) för sätt att komma igång.\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
+#: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
-msgid "Why does Privacy Badger need access to my data for all websites?"
-msgstr "Varför behöver Privacy Badger tillgång till min data på alla webbplatser?"
+msgid "Where can I find general information about Privacy Badger that I can use for a piece I'm writing?"
+msgstr "Var kan jag hitta allmän information om Privacy Badger som jag kan använda för ett arbete jag skriver?"
 
 #. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
+#: content/en/faqs/Where-can-I-find-general-information-about-Privacy-Badger-that-I-can-use-for-a-piece-I'm-writing.md
 #, no-wrap
-msgid "When you install Privacy Badger, your browser warns that Privacy Badger can \"access your data for all websites\" (in Firefox), or \"read and change all your data on the websites you visit\" (in Chrome). You are right to be alarmed. You should only install extensions made by organizations you trust.\n"
-msgstr "När du installerar Privacy Badger varnar din webbläsare för att Privacy Badger kan ”Åtkomst till dina data för alla webbplatser” (i Firefox) eller ”Läsa och ändra all din data på alla webbplatser” (i Chrome). Du har rätt att vara orolig. Du bör bara installera tillägg skapade av organisationer som du litar på.\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, no-wrap
-msgid "Privacy Badger requires these permissions to do its job of automatically detecting and blocking trackers on all websites you visit. We are not ironically (or unironically) spying on you. For more information, see our [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
-msgstr "Privacy Badger behöver dessa behörigheter för att kunna göra sitt jobb att automatiskt upptäcka och blockera spårare på alla webbplatser du besöker. Vi spionerar inte ironiskt (eller oironiskt) på dig. För mer information, se vår [Privacy Badger extension permissions explainer](https://github.com/EFForg/privacybadger/blob/master/doc/permissions.md).\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-spying-on-me.md
-#, no-wrap
-msgid "Note that the extension permissions warnings only cover what the extension has access to, not what the extension actually does with what it has access to (such as whether the extension secretly uploads your browsing data to its servers). Privacy Badger will never share data about your browsing unless you choose to share it (by filing a broken site report). For more information, see EFF's [Privacy Policy for Software](https://www.eff.org/code/privacy/policy).\n"
-msgstr "Observera att varningarna för tilläggsbehörigheter endast täcker vad tillägget har tillgång till, inte vad tillägget faktiskt gör med vad den har tillgång till (exempelvis om tillägget i hemlighet laddar upp dina webbläsardata till sina servrar). Privacy Badger kommer aldrig att dela data om din surfning såvida du inte väljer att dela den (genom att lämna in en rapport om en trasig webbplats). För mer information, se EFF:s [Sekretesspolicy för programvara](https://www.eff.org/code/privacy/policy).\n"
+msgid "Glad you asked! Check out this [downloadable press kit](/files/pb_journalist_1_pager.pdf) that we've put together.\n"
+msgstr "Kul att du frågar! Ta en titt på detta [nedladdningsbara press-kit](/files/pb_journalist_1_pager.pdf) som vi satt samman.\n"
 
 #. type: YAML Front Matter: question
-#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
-msgid "Why aren't videos loading on YouTube? Why isn't Privacy Badger blocking ads on YouTube?"
-msgstr "Varför laddas inte videor från YouTube? Varför blockerar inte Privacy Badger annonser på YouTube?"
+msgid "As an administrator, how do I configure Privacy Badger on my managed devices?"
+msgstr "Hur konfigurerar jag som administratör Privacy Badger på mina hanterade enheter?"
 
 #. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
+#: content/en/faqs/admin-deployment-and-configuration.md
 #, no-wrap
-msgid "Is YouTube not working? Try [disabling Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) on YouTube. If that resolves the issue, see if re-enabling Privacy Badger breaks YouTube again. If YouTube goes back to not working, please [tell us](#I-found-a-bug%21-What-do-I-do-now) so we can look into what's going on.\n"
-msgstr "Fungerar inte YouTube? Prova att [inaktivera Privacy Badger](#I-found-a-bug%21-What-do-I-do-now) på YouTube. Om det löser problemet, se om återaktivering av Privacy Badger förstör YouTube igen. Om YouTube går tillbaka till att inte fungera, vänligen [berätta för oss](#I-found-a-bug%21-What-do-I-do-now) så att vi kan undersöka vad som ligger bakom.\n"
-
-#. type: Plain text
-#: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
-#, no-wrap
-msgid "Are you surprised that ads aren't being blocked on YouTube? Privacy Badger is primarily a privacy tool, [not an ad blocker](#Why-doesn%27t-Privacy-Badger-block-all-ads). When you [visit YouTube directly](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com), Privacy Badger does not block ads on YouTube because YouTube does not use [\"third party\" trackers](#What-is-a-third-party-tracker). If you really dislike ads, you can also install a traditional ad blocker.\n"
-msgstr "Är du förvånad över att annonser inte blockeras på YouTube? Privacy Badger är främst ett integritetsverktyg, [inte en annonsblockerare](#Why-doesn%27t-Privacy-Badger-block-all-ads). När du [besöker YouTube direkt](#What-about-tracking-by-the-sites-I-actively-visit%2c-like-NYTimes.com-or-Facebook.com) blockerar Privacy Badger inte annonser på YouTube eftersom YouTube inte använder [”tredjeparts”-spårare](#What-is-a-third-party-tracker). Om du verkligen ogillar annonser kan du också installera en traditionell annonsblockerare.\n"
-
-#. type: YAML Front Matter: question
-#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, no-wrap
-msgid "I need help! I found a bug! What do I do now?"
-msgstr "Jag behöver hjälp! Jag har hittat en bugg! Vad ska jag göra nu?"
-
-#. type: Plain text
-#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, no-wrap
-msgid "If a website isn't working like it should, you can disable Privacy Badger just for that site, leaving Privacy Badger enabled and protecting you everywhere else. To do so, navigate to the site with the problem, click on Privacy Badger's icon in your browser toolbar, and click the \"**Disable for this site**\" button in Privacy Badger's popup. You can also let us know about broken sites using the \"**Report broken site**\" button.\n"
-msgstr "Om en webbplats inte fungerar som den ska kan du inaktivera Privacy Badger bara för den webbplatsen och låta Privacy Badger vara aktiverat och skydda dig överallt annars. För att göra det, navigera till webbplatsen med problemet, klicka på Privacy Badgers ikon i din webbläsares verktygsfält och klicka på knappen ”**Inaktivera för denna webbplats**” i Privacy Badgers popup-fönster. Du kan också meddela oss om trasiga webbplatser genom att klicka på knappen \"**Rapportera bruten webbplats**\"\n"
-
-#. type: Plain text
-#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, no-wrap
-msgid "To get help or to report bugs, please email [extension-devs@eff.org](mailto:extension-devs@eff.org). If you have a GitHub account, you can use our [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
-msgstr "För att få hjälp eller rapportera buggar, vänligen maila [extension-devs@eff.org](mailto:extension-devs@eff.org). Om du har ett GitHub-konto kan du använda vår [GitHub issue tracker](https://github.com/EFForg/privacybadger/issues).\n"
-
-#. type: Plain text
-#: content/en/faqs/I-found-a-bug!-What-do-I-do-now.md
-#, no-wrap
-msgid "You can also find us on [Mastodon](https://mastodon.social/@privacybadger) and [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
-msgstr "Du kan också hitta oss på [Mastodon](https://mastodon.social/@privacybadger) och [Bluesky](https://bsky.app/profile/privacybadger.org).\n"
+msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
+msgstr "Vänligen se vårt dokument [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
