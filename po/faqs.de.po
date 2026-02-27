@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-24 12:03-0500\n"
-"PO-Revision-Date: 2025-12-28 11:00+0000\n"
-"Last-Translator: Mr-Update <mr.update@yahoo.de>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-02-24 12:03-0500\nPO-Revision-Date: 2026-02-28 21:09+0000\nLast-Translator: Mr-Update <mr.update@yahoo.de>\nLanguage-Team: German <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/de/>\nLanguage: de\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.16.1-dev\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -443,7 +432,7 @@ msgstr "Chrome: Siehe die Chrome Web Store-Hilfeseite zur [Installation und Verw
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
 #, no-wrap
 msgid "Edge: See the [Add or remove browser add-ons, extensions, and toolbars](https://support.microsoft.com/en-us/help/4027935/microsoft-edge-add-or-remove-browser-extensions) Microsoft help page.\n"
-msgstr "Edge: Siehe die Microsoft-Hilfeseite zum [Hinzufügen oder Entfernen von Browser-Erweiterungen und -Toolbars](https://support.microsoft.com/de-de/microsoft-edge/erweiterungen-in-microsoft-edge-hinzuf%C3%BCgen-ausschalten-oder-entfernen-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
+msgstr "Edge: Siehe die Microsoft-Hilfeseite zu [Erweiterungen in Microsoft Edge hinzufügen, ausschalten oder entfernen](https://support.microsoft.com/de-de/microsoft-edge/erweiterungen-in-microsoft-edge-hinzuf%C3%BCgen-ausschalten-oder-entfernen-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026).\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-breaking-YouTube.md
