@@ -54,3 +54,15 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Tillbaka till frågor ▲"
+gettingStarted:
+  other: Kom igång
+keyFeatures:
+  other: Viktiga funktioner
+technicalDetails:
+  other: Tekniska detaljer
+troubleshooting:
+  other: Felsökning
+compatibility:
+  other: Kompatibilitet
+supportingPrivacyBadger:
+  other: Stöd Privacy Badger
