@@ -5,7 +5,7 @@ installForBrowser:
   other: "Lägg till i {{.Browser}}"
 
 browserNotSupported:
-  other: "Browser stödjs ej"
+  other: "Webbläsaren stöds inte"
 
 notSupportedInThisBrowser:
   other: "Privacy Badger stöds inte i den här webbläsaren"
@@ -35,7 +35,7 @@ browserNameOpera:
   other: "Opera"
 
 releaseNotes:
-  other: "Utgivningsnotiser för v{{.Version}}"
+  other: "Versionsnoteringar för v{{.Version}}"
 
 otherBrowsers:
   other: "Andra webbläsare"
