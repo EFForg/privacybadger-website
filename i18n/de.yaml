@@ -54,3 +54,15 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Zurück zu den Fragen ▲"
+gettingStarted:
+  other: Erste Schritte
+keyFeatures:
+  other: Hauptmerkmale
+technicalDetails:
+  other: Technische Details
+troubleshooting:
+  other: Fehlerbehebung
+compatibility:
+  other: Kompatibilität
+supportingPrivacyBadger:
+  other: Unterstützung für Privacy Badger
