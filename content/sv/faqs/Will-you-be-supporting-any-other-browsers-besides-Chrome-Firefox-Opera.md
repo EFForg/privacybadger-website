@@ -4,7 +4,7 @@ question: 'Kommer ni att stödja några andra webbläsare än Chrome, Firefox, E
 weight: 150
 ---
 
-Vi arbetar för att stödja [Safari på macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). [Safari på iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) verkar sakna vissa tilläggsfunktioner som Privacy Badger behöver för att fungera korrekt.
+Vi arbetar för att stödja [Safari på macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898). [Safari på iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) verkar sakna vissa tilläggsfunktioner som Privacy Badger behöver för att fungera korrekt.
 
 Chrome på Android har inte stöd för tillägg. Om du vill använda Privacy Badger på Android installerar du [Firefox för Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 

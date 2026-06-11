@@ -4,7 +4,7 @@ question: 'Prendrez-vous en charge des navigateurs autres que Chrome, Firefox, E
 weight: 150
 ---
 
-Nous travaillons à la prise en charge de [Safari sur macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). Il semble que certaines capacités d’extension nécessaires au bon fonctionnement de Privacy Badger fassent défaut à [Safari sur iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479).
+Nous travaillons à la prise en charge de [Safari sur macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898). Il semble que certaines capacités d’extension nécessaires au bon fonctionnement de Privacy Badger fassent défaut à [Safari sur iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479).
 
 Sur Android, Chrome ne prend pas en charge les extensions. Pour utiliser Privacy Badger sur Android, installez [Firefox pour Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 

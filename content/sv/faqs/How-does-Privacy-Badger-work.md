@@ -4,7 +4,7 @@ question: 'Hur fungerar Privacy Badger?'
 weight: 20
 ---
 
-När du visar en webbsida är sidan ofta uppbyggd av innehåll från många olika källor. Exempelvis nyhetswebbsidor skulle kunna ladda in den faktiska artikeln från nyhetsföretaget, annonser från ett annonsbolag och kommentarsfältet från ett annat företag som har outsourcats för att tillhanda hålla den tjänsten.
+När du tittar på en webbplats består sidan ofta av innehåll från många olika källor. Till exempel kan en nyhetssida ladda själva artikeln från nyhetsföretaget, annonser från ett reklamföretag och kommentarsfältet från ett annat företag som har kontrakterats för att tillhandahålla den tjänsten.
 
 Privacy Badger har koll på allt detta. Om samma källa verkar spåra över flera olika webbsidor övergår Privacy Badger till handling och instruerar webbläsaren att inte ladda något mer material från den källan. Och sedan när din webbläsare slutar ladda material från en källa, kan den källan inte längre spåra dig. Voila!
 
