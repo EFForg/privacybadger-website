@@ -54,3 +54,15 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Volver a las preguntas ▲"
+technicalDetails:
+  other: ''
+gettingStarted:
+  other: ''
+compatibility:
+  other: ''
+supportingPrivacyBadger:
+  other: ''
+keyFeatures:
+  other: ''
+troubleshooting:
+  other: ''
