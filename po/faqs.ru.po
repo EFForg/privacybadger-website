@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-24 12:03-0500\n"
+"POT-Creation-Date: 2026-06-11 13:17-0400\n"
 "PO-Revision-Date: 2025-09-29 14:50+0000\n"
 "Last-Translator: Alexei <alexei@eff.org>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/ru/>\n"
@@ -471,8 +471,9 @@ msgstr "Будете ли вы поддерживать какие-либо др
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, no-wrap
-msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
+#, fuzzy, no-wrap
+#| msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
+msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
 msgstr "Мы работаем над поддержкой [Safari на macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). Похоже, что в [Safari на iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) отсутствуют некоторые способности расширений, необходимые для корректной работы Privacy Badger.\n"
 
 #. type: Plain text
