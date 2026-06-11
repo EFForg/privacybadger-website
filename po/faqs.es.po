@@ -4,7 +4,7 @@
 # Automatically generated, 2022.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-06-11 13:17-0400\nPO-Revision-Date: 2026-06-11 17:40+0000\nLast-Translator: Deleted User <noreply+48943@weblate.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7.dev0\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-06-11 13:17-0400\nPO-Revision-Date: 2026-06-11 17:45+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: Spanish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/es/>\nLanguage: es\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.7.dev0\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -456,10 +456,9 @@ msgstr "¿Soportarán otros navegadores además de Chrome, Firefox, Edge y Opera
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
+#, no-wrap
 msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
-msgstr "Estamos trabajando en la compatibilidad con [Safari en macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). [Safari en iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) parece carecer de ciertas capacidades de extensión necesarias para que Privacy Badger funcione correctamente.\n"
+msgstr "Estamos trabajando en la compatibilidad con [Safari en macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898). [Safari en iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) parece carecer de ciertas capacidades de extensión necesarias para que Privacy Badger funcione correctamente.\n"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
