@@ -1,1 +1,50 @@
-{}
+moreInfo:
+  other: ''
+browserNotSupported:
+  other: ''
+backToQuestions:
+  other: ''
+FrequentlyAskedQuestions:
+  other: ''
+releaseNotes:
+  other: ''
+browserNameOpera:
+  other: ''
+notSupportedInThisBrowser:
+  other: ''
+installForBrowser:
+  other: ''
+donate:
+  other: ''
+browserNameFirefox:
+  other: ''
+browserNameMicrosoftEdge:
+  other: ''
+otherBrowsers:
+  other: ''
+privacyBadgerLearns:
+  other: ''
+browserNameFirefoxonAndroid:
+  other: ''
+browserNameEdgeonAndroid:
+  other: ''
+browserNameChrome:
+  other: ''
+language:
+  other: ''
+altInstall:
+  other: ''
+technicalDetails:
+  other: ''
+gettingStarted:
+  other: ''
+compatibility:
+  other: ''
+supportingPrivacyBadger:
+  other: ''
+keyFeatures:
+  other: ''
+troubleshooting:
+  other: ''
+browserNameBrave:
+  other: ''
