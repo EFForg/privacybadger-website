@@ -54,3 +54,15 @@ FrequentlyAskedQuestions:
 
 backToQuestions:
   other: "Вернуться к вопросам ▲"
+technicalDetails:
+  other: ''
+gettingStarted:
+  other: ''
+compatibility:
+  other: ''
+supportingPrivacyBadger:
+  other: ''
+keyFeatures:
+  other: ''
+troubleshooting:
+  other: ''
