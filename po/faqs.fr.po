@@ -4,18 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-06-11 13:17-0400\n"
-"PO-Revision-Date: 2025-10-02 20:01+0000\n"
-"Last-Translator: AO Localisation Lab <ao_localization_lab@users.noreply.hosted.weblate.org>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\n"
-"Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-06-11 13:17-0400\nPO-Revision-Date: 2026-06-11 17:45+0000\nLast-Translator: Alexei <alexei@eff.org>\nLanguage-Team: French <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/fr/>\nLanguage: fr\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Weblate 2026.7.dev0\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -49,11 +38,7 @@ msgid ""
 "- Function well without any settings, knowledge, or configuration by the user\n"
 "- Use algorithmic methods to decide what is and isn't tracking\n"
 "- Be produced by an organization that is unambiguously working for its users rather than for profit\n"
-msgstr ""
-"- Analyse et bloque automatiquement tout traceur ou toute publicité qui ne respecte pas le principe du consentement de l’utilisateur.\n"
-"- Fonctionne bien sans réglage, connaissance, ni configuration de la part de l’utilisateur.\n"
-"- Utilise des méthodes algorithmiques afin de décider ce qui ou n’est pas un pistage.\n"
-"- Est offerte par un organisme qui travaille sans ambigüité pour ses utilisateurs et non pour le profit.\n"
+msgstr "- Analyse et bloque automatiquement tout traceur ou toute publicité qui ne respecte pas le principe du consentement de l’utilisateur.\n- Fonctionne bien sans réglage, connaissance, ni configuration de la part de l’utilisateur.\n- Utilise des méthodes algorithmiques afin de décider ce qui ou n’est pas un pistage.\n- Est offerte par un organisme qui travaille sans ambigüité pour ses utilisateurs et non pour le profit.\n"
 
 #. type: Plain text
 #: content/en/faqs/How-is-Privacy-Badger-different-from-Disconnect,-Adblock-Plus,-Ghostery,-and-other-blocking-extensions.md
@@ -471,10 +456,9 @@ msgstr "Prendrez-vous en charge des navigateurs autres que Chrome, Firefox, Edge
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
-#, fuzzy, no-wrap
-#| msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
+#, no-wrap
 msgid "We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
-msgstr "Nous travaillons à la prise en charge de [Safari sur macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-1209648999). Il semble que certaines capacités d’extension nécessaires au bon fonctionnement de Privacy Badger fassent défaut à [Safari sur iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479).\n"
+msgstr "Nous travaillons à la prise en charge de [Safari sur macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898). Il semble que certaines capacités d’extension nécessaires au bon fonctionnement de Privacy Badger fassent défaut à [Safari sur iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479).\n"
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -512,9 +496,7 @@ msgstr "Vous pouvez autrement utiliser les liens suivants pour obtenir la versio
 msgid ""
 "* Firefox: [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
 "* Chromium: [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
-msgstr ""
-"* Pour Firefox : [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n"
-"* Pour Chromium : [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
+msgstr "* Pour Firefox : [https://www.eff.org/files/privacy-badger-latest.xpi](https://www.eff.org/files/privacy-badger-latest.xpi)\n* Pour Chromium : [https://www.eff.org/files/privacy_badger-chrome.crx](https://www.eff.org/files/privacy_badger-chrome.crx)\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/Is-Privacy-Badger-compatible-with-other-extensions,-including-other-adblockers.md
