@@ -33,6 +33,9 @@ $(document).ready(function() {
     else if (navigator.userAgent.match(/iPhone|iPad/i)) {
       browser = 'iphone';
     }
+    else if (navigator.userAgent.match(/safari/i) && !navigator.userAgent.match(/chrome|chromium/i)) {
+      browser = 'safari';
+    }
   }
 
   // Update DOM.

@@ -1,10 +1,10 @@
 ---
-question: Will you be supporting any other browsers besides Chrome, Firefox, Edge and Opera?
+question: Will you be supporting any other browsers?
 weight: 150
 category: compatibility
 ---
 
-We are working towards [Safari on macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898) support. [Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.
+[Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.
 
 Chrome on Android does not support extensions. To use Privacy Badger on Android, install [Firefox for Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 

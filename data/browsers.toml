@@ -11,6 +11,10 @@ name = "Firefox on Android"
 url = "https://addons.mozilla.org/android/addon/privacy-badger17/"
 
 [[browserArray]]
+name = "Safari"
+url = "https://apps.apple.com/in/app/ublock-origin-lite/id6745342698?platform=mac"
+
+[[browserArray]]
 name = "Microsoft Edge"
 url = "https://microsoftedge.microsoft.com/addons/detail/mkejgcgkdlddbggjhhflekkondicpnop"
 
