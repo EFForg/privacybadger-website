@@ -1,6 +1,6 @@
 ---
 category: compatibility
-question: 'Prendrez-vous en charge des navigateurs autres ?'
+question: 'Prendrez-vous en charge d’autres navigateurs ?'
 weight: 150
 ---
 
