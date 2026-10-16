@@ -47,7 +47,7 @@ language:
   other: "Язык"
 
 donate:
-  other: "Пожертвуйте"
+  other: "Пожертвовать"
 
 FrequentlyAskedQuestions:
   other: "Часто задаваемые вопросы"
@@ -72,3 +72,5 @@ compatibility:
 
 supportingPrivacyBadger:
   other: ''
+privacyBadgerTitle:
+  other: Privacy Badger от EFF | Блокируйте скрытое отслеживание
