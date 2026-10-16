@@ -4,7 +4,7 @@
   <link rel="shortcut icon" href="https://www.eff.org/sites/all/themes/frontier/favicon.ico" type="image/vnd.microsoft.icon">
 
   <title>
-    {{ .Site.Title }}
+    {{ i18n "privacyBadgerTitle" }}
   </title>
 
   {{ $styles := resources.Get "sass/application.scss" | toCSS | postCSS (dict "config" "postcss.config.js") | fingerprint -}}
@@ -18,23 +18,17 @@
   {{- $js := slice $jQuery $download $faq $processedLinks | resources.Concat "application.js" | fingerprint -}}
   <script src="{{ $js.RelPermalink }}" defer="defer"></script>
 
-  {{ $ogImage := printf "%s%s" .Site.BaseURL "/images/banner.png" -}}
-  <meta property="og:site_name" content="Electronic Frontier Foundation" />
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="Privacy Badger" />
+  {{ $ogImage := absURL "images/banner.png" -}}
+  <meta property="og:title" content="{{ i18n "privacyBadgerTitle" }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ $ogImage}} " />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="{{ $ogImage }}" />
   <meta property="og:image:url" content="{{ $ogImage }}" />
   <meta property="og:image:secure_url" content="{{ $ogImage }}" />
   <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="600" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:site" content="@eff" />
-  <meta name="twitter:title" content="Privacy Badger" />
-  <meta name="twitter:image" content="{{ $ogImage }}" />
-  <meta name="twitter:image:width" content="1200" />
-  <meta name="twitter:image:height" content="600" />
 
   <link rel="me" href="https://mastodon.social/@privacybadger" />
 </head>
