@@ -4,7 +4,7 @@ question: 'Будете ли вы поддерживать какие-либо �
 weight: 150
 ---
 
-Мы работаем над поддержкой [Safari на macOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-4253795898). Похоже, что в [Safari на iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) отсутствуют некоторые способности расширений, необходимые для корректной работы Privacy Badger.
+Похоже, что в [Safari на iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) отсутствуют некоторые способности расширений, необходимые для корректной работы Privacy Badger.
 
 Chrome для Android не поддерживает расширения. Чтобы использовать Privacy Badger на Android, установите [Firefox для Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 
