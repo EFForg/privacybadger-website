@@ -23,7 +23,11 @@
       <a href={{.url}}>
         <img src="/images/{{ urlize .name }}.svg" height=35 alt="">
         <br>
+        {{- if eq .name "Safari" }}
+        {{ i18n "installForBrowser" (dict "Browser" "Safari (version 26.5+)") }}
+        {{- else }}
         {{ i18n "installForBrowser" (dict "Browser" (i18n (print "browserName" (replace (.name | title) " " "")))) }}
+        {{- end }}
       </a>
     </div>
   {{ end }}
