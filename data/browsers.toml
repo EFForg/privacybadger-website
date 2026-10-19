@@ -12,7 +12,7 @@ url = "https://addons.mozilla.org/android/addon/privacy-badger17/"
 
 [[browserArray]]
 name = "Safari"
-url = "https://apps.apple.com/us/app/privacy-badger/id6761143693"
+url = "https://apps.apple.com/app/privacy-badger/id6761143693"
 
 [[browserArray]]
 name = "Microsoft Edge"
