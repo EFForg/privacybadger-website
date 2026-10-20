@@ -587,4 +587,3 @@ msgstr "¿Cómo configuro Privacy Badger en mis dispositivos gestionados como ad
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
 msgstr "Por favor, consulte nuestro documento [despliegue y configuración de la empresa](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
-

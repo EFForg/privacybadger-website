@@ -4,7 +4,7 @@ question: 'Werden auch andere Browser unterstützt?'
 weight: 150
 ---
 
-[Safari unter iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) scheint einige Möglichkeiten für Erweiterungen nicht bereitzustellen, die aber von Privacy Badger benötigt werden, um korrekt zu funktionieren.
+Wir arbeiten an der Unterstützung für [Safari unter iOS](https://github.com/EFForg/privacybadger/issues/3248).
 
 Chrome unter Android unterstützt keine Erweiterungen. Um Privacy Badger unter Android zu nutzen, installiere [Firefox für Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 

@@ -587,4 +587,3 @@ msgstr "En tant qu’administrateur, comment puis-je configurer Privacy Badger s
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
 msgstr "Consultez notre document [Déploiement et configuration en entreprise](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
-

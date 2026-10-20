@@ -4,7 +4,7 @@ question: '¿Soportarán otros navegadores?'
 weight: 150
 ---
 
-[Safari en iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) parece carecer de ciertas capacidades de extensión necesarias para que Privacy Badger funcione correctamente.
+Estamos trabajando en la compatibilidad con [Safari en iOS](https://github.com/EFForg/privacybadger/issues/3248).
 
 Chrome en Android no admite extensiones. Para utilizar Privacy Badger en Android, instale [Firefox para Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 

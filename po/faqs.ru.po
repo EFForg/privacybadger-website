@@ -587,4 +587,3 @@ msgstr "Как администратор, как мне настроить Priv
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
 msgstr "Пожалуйста, ознакомьтесь с нашим документом [развертывание и настройка в предприятии](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
-
