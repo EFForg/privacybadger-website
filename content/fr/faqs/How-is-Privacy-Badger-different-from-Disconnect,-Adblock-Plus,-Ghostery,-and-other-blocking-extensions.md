@@ -13,7 +13,7 @@ Privacy Badger est née de notre volonté de recommander une seule extension qui
 
 C’est pourquoi Privacy Badger diffère des extensions traditionnelles de blocage des publicités sur deux points essentiels. Tout d’abord, alors que la plupart des autres extensions de blocage priorisent le blocage des publicités, Privacy Badger ne bloque pas les publicités sauf si elles vous suivent à la trace ; en fait, l’un de nos objectifs est d’inciter les annonceurs à adopter de meilleures pratiques de respects des données personnelles.
 
-Ensuite, la plupart des autres bloqueurs s’appuient sur une liste de domaines ou d’URL à bloquer établie par une personne. Privacy Badger est un bloqueur algorithmique de traceurs ; nous définissons la nature du « pistage ». Privacy Badger bloque ou restreint les domaines surpris à pister. Le comportement d’un domaine précis détermine s’il est considéré comme traceur. Le processus est automatisé.
+Ensuite, la plupart des autres bloqueurs s’appuient sur une liste de domaines ou d’URL à bloquer établie par une personne. Privacy Badger est un bloqueur algorithmique de traceurs ; nous définissons la nature du « pistage ». Privacy Badger bloque ou restreint les domaines surpris à vous suivre à la trace. Le comportement d’un domaine précis détermine s’il est considéré comme traceur. Le processus est automatisé.
 
 Privacy Badger envoie le signal [Contrôle global de la protection des données](https://globalprivacycontrol.org/) pour vous exclure du partage et de la vente de données personnelles, et le signal [Ne pas me pister](https://www.eff.org/issues/do-not-track) pour demander aux entreprises de ne pas vous suivre à la trace. Si les traceurs ignorent ces signaux, Privacy Badger apprend à bloquer ces traceurs.
 
