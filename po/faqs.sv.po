@@ -4,7 +4,18 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-10-19 10:41-0400\nPO-Revision-Date: 2026-10-19 14:54+0000\nLast-Translator: Alexei <ghostwords@users.noreply.hosted.weblate.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.dev0\n"
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-10-20 15:23-0400\n"
+"PO-Revision-Date: 2026-10-19 14:54+0000\n"
+"Last-Translator: Alexei <ghostwords@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -461,8 +472,8 @@ msgstr "Kommer ni att stödja några andra webbläsare?"
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
 #, no-wrap
-msgid "[Safari on iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) seems to lack certain extension capabilities required by Privacy Badger to function properly.\n"
-msgstr "[Safari på iOS](https://github.com/EFForg/privacybadger/issues/549#issuecomment-744583479) verkar sakna vissa tilläggsfunktioner som Privacy Badger behöver för att fungera korrekt.\n"
+msgid "We are working towards [Safari on iOS](https://github.com/EFForg/privacybadger/issues/3248) support.\n"
+msgstr ""
 
 #. type: Plain text
 #: content/en/faqs/Will-you-be-supporting-any-other-browsers-besides-Chrome-Firefox-Opera.md
@@ -587,3 +598,5 @@ msgstr "Hur konfigurerar jag som administratör Privacy Badger på mina hanterad
 #, no-wrap
 msgid "Please see our [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md) document.\n"
 msgstr "Vänligen se vårt dokument [enterprise deployment and configuration](https://github.com/EFForg/privacybadger/blob/master/doc/admin-deployment.md).\n"
+
+#, no-wrap
