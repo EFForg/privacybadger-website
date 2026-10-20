@@ -28,6 +28,9 @@ browserNameFirefox:
 browserNameFirefoxonAndroid:
   other: ''
 
+browserNameSafari:
+  other: ''
+
 browserNameMicrosoftEdge:
   other: ''
 

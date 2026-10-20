@@ -28,6 +28,9 @@ browserNameFirefox:
 browserNameFirefoxonAndroid:
   other: "Firefox para Android"
 
+browserNameSafari:
+  other: ""
+
 browserNameMicrosoftEdge:
   other: "Edge"
 

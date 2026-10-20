@@ -28,6 +28,9 @@ browserNameFirefox:
 browserNameFirefoxonAndroid:
   other: "Firefox på Android"
 
+browserNameSafari:
+  other: Safari
+
 browserNameMicrosoftEdge:
   other: "Edge"
 
@@ -75,5 +78,3 @@ compatibility:
 
 supportingPrivacyBadger:
   other: Stöd Privacy Badger
-browserNameSafari:
-  other: Safari

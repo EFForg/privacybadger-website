@@ -28,6 +28,9 @@ browserNameFirefox:
 browserNameFirefoxonAndroid:
   other: "火狐安卓版"
 
+browserNameSafari:
+  other: ""
+
 browserNameMicrosoftEdge:
   other: "Edge"
 
