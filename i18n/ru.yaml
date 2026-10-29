@@ -2,7 +2,7 @@ privacyBadgerTitle:
   other: "Privacy Badger от EFF | Блокируйте скрытое отслеживание"
 
 privacyBadgerLearns:
-  other: "Privacy Badger — это бесплатное расширение для браузера, сделанное ведущей некоммерческой группой <a href='https://www.eff.org/'>EFF</a>, чтобы остановить веб-отслеживание."
+  other: "Privacy Badger — это бесплатное расширение для браузера, сделанное ведущей некоммерческой группой по защите цифровых прав <a href='https://www.eff.org/'>EFF</a>, чтобы остановить веб-отслеживание."
 
 installForBrowser:
   other: "Добавить в {{.Browser}}"
