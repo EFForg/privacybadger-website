@@ -2,7 +2,7 @@ privacyBadgerTitle:
   other: ""
 
 privacyBadgerLearns:
-  other: "隐私獾是一个会自动学习阻止不可见跟踪器的浏览器扩展程序。"
+  other: "隐私獾是由领先的数字权利非盈利机构 <a href='https://www.eff.org/'>EFF</a> 打造的免费浏览器扩展，阻止企业在线上监视你。"
 
 installForBrowser:
   other: "安装到 {{.Browser}}"
