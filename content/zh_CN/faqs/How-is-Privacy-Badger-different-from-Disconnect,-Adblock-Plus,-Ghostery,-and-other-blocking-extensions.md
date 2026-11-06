@@ -19,4 +19,4 @@ weight: 10
 
 除了，隐私獾还具有其他优势，如阻止cookie，[点击激活占位符](#How-does-Privacy-Badger-handle-social-media-widgets)用于潜在有用的追踪器小工具（视频播放器、评论小工具等），以及在[Facebook](https://www.eff.org/deeplinks/2018/05/privacy-badger-rolls-out-new-ways-fight-facebook-tracking)和[Google](https://www.eff.org/deeplinks/2018/10/privacy-badger-now-fights-more-sneaky-google-tracking)上删除外发链接点击追踪。
 
-使用隐私獾，您将支持[电子前沿基金会](https://www.eff.org/)，并帮助为每个人争取一个更好的网络。
+使用隐私獾，您将支持[电子前哨基金会](https://www.eff.org/)，并帮助为每个人争取一个更好的网络。
