@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-11-09 14:40-0500\nPO-Revision-Date: 2026-11-09 19:49+0000\nLast-Translator: Alexei <ghostwords@users.noreply.hosted.weblate.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.11.2.dev0\n"
+msgstr "Project-Id-Version: PACKAGE VERSION\nPOT-Creation-Date: 2026-11-09 14:40-0500\nPO-Revision-Date: 2026-11-25 11:51+0000\nLast-Translator: Daniel Nylander <yeagersthlm2@users.noreply.hosted.weblate.org>\nLanguage-Team: Swedish <https://hosted.weblate.org/projects/privacy-badger/privacybadger-website-faqs/sv/>\nLanguage: sv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 2026.12.dev0\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/What-is-Privacy-Badger.md
@@ -396,7 +396,7 @@ msgstr "Ett sätt är att sluta spåra användare som har aktiverat Global Priva
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "You can also unblock yourself by promising to meaningfully respect the Do Not Track signal. To do so, post a _verbatim_ copy of [EFF's Do Not Track policy](https://www.eff.org/dnt-policy) to the URL https://example.com/.well-known/dnt-policy.txt, where \"example.com\" is replaced by your domain. Posting EFF's DNT policy on a domain is a promise of compliance with EFF's DNT Policy by that domain.\n"
-msgstr "Du kan också avblockera dig själv genom att lova att på ett meningsfullt sätt respektera Do Not Track-signalen. För att göra det, posta en _verbatim_ kopia av [EFF:s policy för spårning](https://www.eff.org/dnt-policy) till webbadressen https://example.com/.well-known/dnt-policy.txt, där ”example.com” ersätts av din domän. Att lägga upp EFF:s DNT-policy på en domän är ett löfte om att den domänen kommer att följa EFF:s DNT-policy.\n"
+msgstr "Du kan också avblockera dig själv genom att lova att på ett meningsfullt sätt respektera Do Not Track-signalen. För att göra det, posta en _verbatim_ kopia av [EFF:s policy för spårning](https://www.eff.org/dnt-policy) till webbadressen https://exempel.se/.well-known/dnt-policy.txt, där ”exempel.se” ersätts av din domän. Att lägga upp EFF:s DNT-policy på en domän är ett löfte om att den domänen kommer att följa EFF:s DNT-policy.\n"
 
 #. type: Plain text
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
@@ -408,7 +408,7 @@ msgstr "Om din domän överensstämmer med EFF: s DNT-policy och tillkännager d
 #: content/en/faqs/-I-am-an-online-advertising-tracking-company.--How-do-I-stop-Privacy-Badger-from-blocking-me.md
 #, no-wrap
 msgid "Note that the domain must support HTTPS, to protect against tampering by network attackers. The path contains \".well-known\" per [RFC 5785](https://tools.ietf.org/html/rfc5785). Also note that you must post a copy of the policy at each compliant subdomain you control. For example, if you wish to declare compliance by both sub1.example.com and sub2.example.com, you must post EFF's DNT policy on each domain.\n"
-msgstr "Observera att domänen måste stödja HTTPS för att skydda mot manipulering av nätverksangripare. Sökvägen innehåller ”.well-known” enligt [RFC 5785](https://tools.ietf.org/html/rfc5785). Observera även att du måste publicera en kopia av policyn på varje subdomän som uppfyller kraven och som du kontrollerar. Om du t.ex. vill tillkännage att både sub1.example.com och sub2.example.com uppfyller kraven måste du publicera EFF:s DNT-policy på varje domän.\n"
+msgstr "Observera att domänen måste stödja HTTPS för att skydda mot manipulering av nätverksangripare. Sökvägen innehåller ”.well-known” enligt [RFC 5785](https://tools.ietf.org/html/rfc5785). Observera även att du måste publicera en kopia av policyn på varje subdomän som uppfyller kraven och som du kontrollerar. Om du t.ex. vill tillkännage att både sub1.exempel.se och sub2.exempel.se uppfyller kraven måste du publicera EFF:s DNT-policy på varje domän.\n"
 
 #. type: YAML Front Matter: question
 #: content/en/faqs/How-do-I-uninstall-remove-Privacy-Badger.md
